@@ -1,0 +1,1161 @@
+{
+ "kind": "card",
+ "id": "armas-unicas",
+ "sec": "armas",
+ "tipo": "dado",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Armas únicas: onde achar",
+ "sum": "130 variantes amarelas (127 + 2 da Ultimate, pela IGN). Pegou uma, os dois personagens ficam com ela.",
+ "body": "![Início](img/ign-armas-unicas-1.jpg)\n\n- **Ícone e nome amarelos** no mundo e nos menus.\n- **Não aceitam modificação** nem cosmético: o visual e os acessórios já vêm travados.\n- Pegou uma vez, fica liberada **para Jason e Lucia** para sempre e volta pelo porta-malas ou pelo armário se você morrer.\n- Vêm de quatro jeitos: escondidas no mapa, nas Illegal Operations, na vitrine de lojas da Ammu-Nation (caras) ou como prêmio de missão.\n- Lista parcial da IGN, ainda em montagem: faltam os locais de várias. Veja também [[dinheiro-illegal-ops]].\n\n#### Imagens\n![Assassin Nipper .38](img/ign-armas-unicas-2.jpg)\n![Assassin Nipper .38 (2)](img/ign-armas-unicas-3.jpg)\n![Assassin Nipper .38 (3)](img/ign-armas-unicas-4.jpg)\n![Assassin Nipper .38 (4)](img/ign-armas-unicas-5.jpg)\n![Assassin Nipper .38 (5)](img/ign-armas-unicas-6.jpg)\n![Low Point Nipper .38](img/ign-armas-unicas-7.jpg)\n![Turnt Nipper .38](img/ign-armas-unicas-8.jpg)\n![Turnt Nipper .38 (2)](img/ign-armas-unicas-9.jpg)\n![Turnt Nipper .38 (3)](img/ign-armas-unicas-10.jpg)\n![Turnt Nipper .38 (4)](img/ign-armas-unicas-11.jpg)\n![Turnt Nipper .38 (5)](img/ign-armas-unicas-12.jpg)\n![Zodiac Nipper .38](img/ign-armas-unicas-13.jpg)\n![Duval Signature ES9](img/ign-armas-unicas-14.jpg)\n![Quarter Mile ES9](img/ign-armas-unicas-15.jpg)\n![Sand Storm ES9](img/ign-armas-unicas-16.jpg)\n![The Guardian ES18](img/ign-armas-unicas-17.jpg)\n![Caminos Signature K17](img/ign-armas-unicas-18.jpg)\n![DWNPLY's K17](img/ign-armas-unicas-19.jpg)\n![PTT Youngin$ K17](img/ign-armas-unicas-20.jpg)\n![San4San K17](img/ign-armas-unicas-21.jpg)\n![Nite Raptor K17](img/ign-armas-unicas-22.jpg)\n![Dumpster K17 MCD](img/ign-armas-unicas-23.jpg)\n![Stoner K17 MCD](img/ign-armas-unicas-24.jpg)\n![Stoner K17 MCD (2)](img/ign-armas-unicas-25.jpg)\n![Stoner K17 MCD (3)](img/ign-armas-unicas-26.jpg)\n![Stoner K17 MCD (4)](img/ign-armas-unicas-27.jpg)\n![Stoner K17 MCD (5)](img/ign-armas-unicas-28.jpg)\n![The Patriarch DRX](img/ign-armas-unicas-29.jpg)\n![The Patriarch DRX (2)](img/ign-armas-unicas-30.jpg)\n![The Patriarch DRX (3)](img/ign-armas-unicas-31.jpg)\n![The Patriarch DRX (4)](img/ign-armas-unicas-32.jpg)\n![The Patriarch DRX (5)](img/ign-armas-unicas-33.jpg)\n![The Patriarch DRX (6)](img/ign-armas-unicas-34.jpg)\n![Rogue Alpha DRX](img/ign-armas-unicas-35.jpg)\n![Brainwasher 1992](img/ign-armas-unicas-36.jpg)\n![Brian's 1992](img/ign-armas-unicas-37.jpg)\n![Deadringer 1992](img/ign-armas-unicas-38.jpg)\n![Deadringer 1992 (2)](img/ign-armas-unicas-39.jpg)\n![Deadringer 1992 (3)](img/ign-armas-unicas-40.jpg)\n![Deadringer 1992 (4)](img/ign-armas-unicas-41.jpg)\n![Deadringer 1992 (5)](img/ign-armas-unicas-42.jpg)\n![Martha's 1992](img/ign-armas-unicas-43.jpg)\n![Martha's 1992 (2)](img/ign-armas-unicas-44.jpg)\n![Martha's 1992 (3)](img/ign-armas-unicas-45.jpg)\n![Martha's 1992 (4)](img/ign-armas-unicas-46.jpg)\n![Martha's 1992 (5)](img/ign-armas-unicas-47.jpg)\n![Martha's 1992 (6)](img/ign-armas-unicas-48.jpg)\n![Money Bag 1992](img/ign-armas-unicas-49.jpg)\n![Money Bag 1992 (2)](img/ign-armas-unicas-50.jpg)\n![Money Bag 1992 (3)](img/ign-armas-unicas-51.jpg)\n![Money Bag 1992 (4)](img/ign-armas-unicas-52.jpg)\n![Money Bag 1992 (5)](img/ign-armas-unicas-53.jpg)\n![Monty's 1992](img/ign-armas-unicas-54.jpg)\n![Raul's 1992](img/ign-armas-unicas-55.jpg)\n![Russo's 1992](img/ign-armas-unicas-56.jpg)\n![The Silver 1992](img/ign-armas-unicas-57.jpg)\n![Black Eagle Import Kalinga](img/ign-armas-unicas-58.jpg)\n![Black Eagle Import Kalinga (2)](img/ign-armas-unicas-59.jpg)\n![Black Eagle Import Kalinga (3)](img/ign-armas-unicas-60.jpg)\n![Black Eagle Import Kalinga (4)](img/ign-armas-unicas-61.jpg)\n![Black Eagle Import Kalinga (5)](img/ign-armas-unicas-62.jpg)\n![Black Eagle Import Kalinga (6)](img/ign-armas-unicas-63.jpg)\n![Convict Kalinga .50](img/ign-armas-unicas-64.jpg)\n![Gil's Kalinga .50](img/ign-armas-unicas-65.jpg)\n![Iron & Oak WCR-1](img/ign-armas-unicas-66.jpg)\n![Cargo H&L .38](img/ign-armas-unicas-67.jpg)\n![Cargo H&L .38 (2)](img/ign-armas-unicas-68.jpg)\n![Cargo H&L .38 (3)](img/ign-armas-unicas-69.jpg)\n![Cargo H&L .38 (4)](img/ign-armas-unicas-70.jpg)\n![Cargo H&L .38 (5)](img/ign-armas-unicas-71.jpg)\n![Cargo H&L .38 (6)](img/ign-armas-unicas-72.jpg)\n![Donnie's H&L .38](img/ign-armas-unicas-73.jpg)\n![Lyle's H&L .38](img/ign-armas-unicas-74.jpg)\n![Lyle's H&L .38 (2)](img/ign-armas-unicas-75.jpg)\n![Lyle's H&L .38 (3)](img/ign-armas-unicas-76.jpg)\n![Lyle's H&L .38 (4)](img/ign-armas-unicas-77.jpg)\n![Lyle's H&L .38 (5)](img/ign-armas-unicas-78.jpg)\n![Lyle's H&L .38 (6)](img/ign-armas-unicas-79.jpg)\n![Ride Free H&L .38](img/ign-armas-unicas-80.jpg)\n![Jack Sheepe H&L .38](img/ign-armas-unicas-81.jpg)\n![Couch Potato Mustang .357](img/ign-armas-unicas-82.jpg)\n![Couch Potato Mustang .357 (2)](img/ign-armas-unicas-83.jpg)\n![Couch Potato Mustang .357 (3)](img/ign-armas-unicas-84.jpg)\n![Couch Potato Mustang .357 (4)](img/ign-armas-unicas-85.jpg)\n![Honky Tonk Mustang .357](img/ign-armas-unicas-86.jpg)\n![Kingfishers Akulus](img/ign-armas-unicas-87.jpg)\n![Swamp Bait Akulus](img/ign-armas-unicas-88.jpg)\n![Swamp Bait Akulus (2)](img/ign-armas-unicas-89.jpg)\n![Swamp Bait Akulus (3)](img/ign-armas-unicas-90.jpg)\n![Swamp Bait Akulus (4)](img/ign-armas-unicas-91.jpg)\n![Swamp Bait Akulus (5)](img/ign-armas-unicas-92.jpg)\n![Bae-Lux's W-10](img/ign-armas-unicas-93.jpg)\n![Chromium W-10](img/ign-armas-unicas-94.jpg)\n![Little Friend W-10](img/ign-armas-unicas-95.jpg)\n![Little Friend W-10 (2)](img/ign-armas-unicas-96.jpg)\n![Little Friend W-10 (3)](img/ign-armas-unicas-97.jpg)\n![Little Friend W-10 (4)](img/ign-armas-unicas-98.jpg)\n![Little Friend W-10 (5)](img/ign-armas-unicas-99.jpg)\n![Little Friend W-10 (6)](img/ign-armas-unicas-100.jpg)\n![Roxy's W-10](img/ign-armas-unicas-101.jpg)\n![Tyrone's W-10](img/ign-armas-unicas-102.jpg)\n![Moneymaker W-10](img/ign-armas-unicas-103.jpg)\n![Marabunta Grande Type 9](img/ign-armas-unicas-104.jpg)\n![Neon Sunset Type 9](img/ign-armas-unicas-105.jpg)\n![Conspiracist Type 9](img/ign-armas-unicas-106.jpg)\n![Conspiracist Type 9 (2)](img/ign-armas-unicas-107.jpg)\n![Conspiracist Type 9 (3)](img/ign-armas-unicas-108.jpg)\n![Conspiracist Type 9 (4)](img/ign-armas-unicas-109.jpg)\n![Conspiracist Type 9 (5)](img/ign-armas-unicas-110.jpg)\n![Conspiracist Type 9 (6)](img/ign-armas-unicas-111.jpg)\n![Chronic Vatra](img/ign-armas-unicas-112.jpg)\n![Double Cross Vatra](img/ign-armas-unicas-113.jpg)\n![Double Cross Vatra (2)](img/ign-armas-unicas-114.jpg)\n![Double Cross Vatra (3)](img/ign-armas-unicas-115.jpg)\n![Double Cross Vatra (4)](img/ign-armas-unicas-116.jpg)\n![Double Cross Vatra (5)](img/ign-armas-unicas-117.jpg)\n![Kolt & Associates Vatra](img/ign-armas-unicas-118.jpg)\n![Spangled Vatra](img/ign-armas-unicas-119.jpg)\n![Furry DW-9](img/ign-armas-unicas-120.jpg)\n![Dazzler DQ-9](img/ign-armas-unicas-121.jpg)\n![Crabshack VF5](img/ign-armas-unicas-122.jpg)\n![Crabshack VF5 (2)](img/ign-armas-unicas-123.jpg)\n![Crabshack VF5 (3)](img/ign-armas-unicas-124.jpg)\n![Crabshack VF5 (4)](img/ign-armas-unicas-125.jpg)\n![Crabshack VF5 (5)](img/ign-armas-unicas-126.jpg)\n![Guardia Brothers VF5](img/ign-armas-unicas-127.jpg)\n![Midlife Crisis VF5](img/ign-armas-unicas-128.jpg)\n![Scrapper VF5C](img/ign-armas-unicas-129.jpg)\n![Gutterball Moreland 850](img/ign-armas-unicas-130.jpg)\n![Watcher Pro Moreland 850](img/ign-armas-unicas-131.jpg)\n![CPD Moreland 850](img/ign-armas-unicas-132.jpg)\n![San4San Gorse 425](img/ign-armas-unicas-133.jpg)\n![Smuggler Gorse 425](img/ign-armas-unicas-134.jpg)\n![Smuggler Gorse 425 (2)](img/ign-armas-unicas-135.jpg)\n![Smuggler Gorse 425 (3)](img/ign-armas-unicas-136.jpg)\n![Basher Gorse 425](img/ign-armas-unicas-137.jpg)\n![Dirty Drifter](img/ign-armas-unicas-138.jpg)\n![Dirty Drifter (2)](img/ign-armas-unicas-139.jpg)\n![Dirty Drifter (3)](img/ign-armas-unicas-140.jpg)\n![Dirty Drifter (4)](img/ign-armas-unicas-141.jpg)\n![Dirty Drifter (5)](img/ign-armas-unicas-142.jpg)\n![Darknite Drifter](img/ign-armas-unicas-143.jpg)\n![Marabunta Grande Hobo](img/ign-armas-unicas-144.jpg)\n![Backdoor Hobo](img/ign-armas-unicas-145.jpg)\n![Final Chapter Shortstraw](img/ign-armas-unicas-146.jpg)\n![Woodhatch Longshot](img/ign-armas-unicas-147.jpg)\n![Nitepower AZ1200](img/ign-armas-unicas-148.jpg)\n![Throttler Vero](img/ign-armas-unicas-149.jpg)\n![Hostile Super400](img/ign-armas-unicas-150.jpg)\n![Bruiser Super400](img/ign-armas-unicas-151.jpg)\n![Final Chapter KVGA-12](img/ign-armas-unicas-152.jpg)\n![Hellspawn Comshot 12](img/ign-armas-unicas-153.jpg)\n![Hellspawn Comshot 12 (2)](img/ign-armas-unicas-154.jpg)\n![Hellspawn Comshot 12 (3)](img/ign-armas-unicas-155.jpg)\n![Hellspawn Comshot 12 (4)](img/ign-armas-unicas-156.jpg)\n![Hellspawn Comshot 12 (5)](img/ign-armas-unicas-157.jpg)\n![Unpacked Comshot 12](img/ign-armas-unicas-158.jpg)\n![Unpacked Comshot 12 (2)](img/ign-armas-unicas-159.jpg)\n![Unpacked Comshot 12 (3)](img/ign-armas-unicas-160.jpg)\n![Unpacked Comshot 12 (4)](img/ign-armas-unicas-161.jpg)\n![Unpacked Comshot 12 (5)](img/ign-armas-unicas-162.jpg)\n![Clunker 556](img/ign-armas-unicas-163.jpg)\n![Clunker 556 (2)](img/ign-armas-unicas-164.jpg)\n![Clunker 556 (3)](img/ign-armas-unicas-165.jpg)\n![Clunker 556 (4)](img/ign-armas-unicas-166.jpg)\n![Cockroach Xtreme 556](img/ign-armas-unicas-167.jpg)\n![Cockroach Xtreme 556 (2)](img/ign-armas-unicas-168.jpg)\n![Cockroach Xtreme 556 (3)](img/ign-armas-unicas-169.jpg)\n![Cockroach Xtreme 556 (4)](img/ign-armas-unicas-170.jpg)\n![Cold War 556](img/ign-armas-unicas-171.jpg)\n![Cold War 556 (2)](img/ign-armas-unicas-172.jpg)\n![Cold War 556 (3)](img/ign-armas-unicas-173.jpg)\n![Cold War 556 (4)](img/ign-armas-unicas-174.jpg)\n![GRX 556](img/ign-armas-unicas-175.jpg)\n![Kolt & Associates 556](img/ign-armas-unicas-176.jpg)\n![Raul's CQB 556](img/ign-armas-unicas-177.jpg)\n![Raul's Heist 556](img/ign-armas-unicas-178.jpg)\n![Star Spangled 556](img/ign-armas-unicas-179.jpg)\n![Kingpin Heathen](img/ign-armas-unicas-180.jpg)\n![Vice City Heathen](img/ign-armas-unicas-181.jpg)\n![La Polilla Negra VF-G1](img/ign-armas-unicas-182.jpg)\n![Drug Mule KZ-59](img/ign-armas-unicas-183.jpg)\n![Drug Mule KZ-59 (2)](img/ign-armas-unicas-184.jpg)\n![Drug Mule KZ-59 (3)](img/ign-armas-unicas-185.jpg)\n![Drug Mule KZ-59 (4)](img/ign-armas-unicas-186.jpg)\n![Drug Mule KZ-59 (5)](img/ign-armas-unicas-187.jpg)\n![La Polilla Negra KZ-59](img/ign-armas-unicas-188.jpg)\n![Marabunta Grande KZ-59](img/ign-armas-unicas-189.jpg)\n![Pete's KZ-59](img/ign-armas-unicas-190.jpg)\n![San4San KZ-59](img/ign-armas-unicas-191.jpg)\n![Little Cuba Hind](img/ign-armas-unicas-192.jpg)\n![Kingfishers W-22](img/ign-armas-unicas-193.jpg)\n![Redneck W-22](img/ign-armas-unicas-194.jpg)\n![Redneck W-22 (2)](img/ign-armas-unicas-195.jpg)\n![Redneck W-22 (3)](img/ign-armas-unicas-196.jpg)\n![Redneck W-22 (4)](img/ign-armas-unicas-197.jpg)\n![Redneck W-22 (5)](img/ign-armas-unicas-198.jpg)\n![Mossy Mediator](img/ign-armas-unicas-199.jpg)\n![Copperheads W-14](img/ign-armas-unicas-200.jpg)\n![Black Eagle Import M306 TMR](img/ign-armas-unicas-201.jpg)\n![Black Eagle Import M306 TMR (2)](img/ign-armas-unicas-202.jpg)\n![Black Eagle Import M306 TMR (3)](img/ign-armas-unicas-203.jpg)\n![Black Eagle Import M306 TMR (4)](img/ign-armas-unicas-204.jpg)\n![Black Eagle Import M306 TMR (5)](img/ign-armas-unicas-205.jpg)\n![Hunter's Laird 350](img/ign-armas-unicas-206.jpg)\n![Kingfishers Laird 350](img/ign-armas-unicas-207.jpg)\n![Mister Mangrove Laird 350](img/ign-armas-unicas-208.jpg)\n![Twin's Laird 350](img/ign-armas-unicas-209.jpg)\n![Twin's Laird 350 (2)](img/ign-armas-unicas-210.jpg)\n![Twin's Laird 350 (3)](img/ign-armas-unicas-211.jpg)\n![Twin's Laird 350 (4)](img/ign-armas-unicas-212.jpg)\n![Twin's Laird 350 (5)](img/ign-armas-unicas-213.jpg)\n![Cruel Huntsman's SM-69](img/ign-armas-unicas-214.jpg)\n![Cruel Huntsman's SM-69 (2)](img/ign-armas-unicas-215.jpg)\n![Cruel Huntsman's SM-69 (3)](img/ign-armas-unicas-216.jpg)\n![Cruel Huntsman's SM-69 (4)](img/ign-armas-unicas-217.jpg)\n![Cruel Huntsman's SM-69 (5)](img/ign-armas-unicas-218.jpg)\n![Fincredible Laird 350](img/ign-armas-unicas-219.jpg)\n![Killtelligence SM-69](img/ign-armas-unicas-220.jpg)\n![Firebreak SM-69](img/ign-armas-unicas-221.jpg)\n![Gun Nut SMS-01](img/ign-armas-unicas-222.jpg)\n![IAA SMS-01](img/ign-armas-unicas-223.jpg)\n![IAA SMS-01 (2)](img/ign-armas-unicas-224.jpg)\n![IAA SMS-01 (3)](img/ign-armas-unicas-225.jpg)\n![IAA SMS-01 (4)](img/ign-armas-unicas-226.jpg)\n![IAA SMS-01 (5)](img/ign-armas-unicas-227.jpg)\n![FIB SM-69](img/ign-armas-unicas-228.jpg)\n![FIB SM-69 (2)](img/ign-armas-unicas-229.jpg)\n![FIB SM-69 (3)](img/ign-armas-unicas-230.jpg)\n![FIB SM-69 (4)](img/ign-armas-unicas-231.jpg)\n![FIB SM-69 (5)](img/ign-armas-unicas-232.jpg)\n![Internal Affairs FF-SR](img/ign-armas-unicas-233.jpg)\n![Internal Affairs FF-SR (2)](img/ign-armas-unicas-234.jpg)\n![Internal Affairs FF-SR (3)](img/ign-armas-unicas-235.jpg)\n![Internal Affairs FF-SR (4)](img/ign-armas-unicas-236.jpg)\n![Internal Affairs FF-SR (5)](img/ign-armas-unicas-237.jpg)\n![Island Poacher FF-50](img/ign-armas-unicas-238.jpg)\n![Francisco's LMG 6](img/ign-armas-unicas-239.jpg)\n![Mercenary LMG 6](img/ign-armas-unicas-240.jpg)\n![Mercenary LMG 6 (2)](img/ign-armas-unicas-241.jpg)\n![Mercenary LMG 6 (3)](img/ign-armas-unicas-242.jpg)\n![Mercenary LMG 6 (4)](img/ign-armas-unicas-243.jpg)\n![Mercenary LMG 6 (5)](img/ign-armas-unicas-244.jpg)\n![Deever Tech GLR40](img/ign-armas-unicas-245.jpg)\n![Deever Tech GLR40 (2)](img/ign-armas-unicas-246.jpg)\n![Deever Tech GLR40 (3)](img/ign-armas-unicas-247.jpg)\n![Deever Tech GLR40 (4)](img/ign-armas-unicas-248.jpg)\n![Deever Tech GLR40 (5)](img/ign-armas-unicas-249.jpg)\n![Brontasaurus Bat](img/ign-armas-unicas-250.jpg)\n![Brontasaurus Bat (2)](img/ign-armas-unicas-251.jpg)\n![Brontasaurus Bat (3)](img/ign-armas-unicas-252.jpg)\n![Brontasaurus Bat (4)](img/ign-armas-unicas-253.jpg)\n![Brontasaurus Bat (5)](img/ign-armas-unicas-254.jpg)\n![Shark Knife](img/ign-armas-unicas-255.jpg)\n![Shark Knife (2)](img/ign-armas-unicas-256.jpg)\n![Shark Knife (3)](img/ign-armas-unicas-257.jpg)\n![Shark Knife (4)](img/ign-armas-unicas-258.jpg)\n![Shark Knife (5)](img/ign-armas-unicas-259.jpg)\n![Explorer's Knife](img/ign-armas-unicas-260.jpg)\n![Explorer's Knife (2)](img/ign-armas-unicas-261.jpg)\n![Explorer's Knife (3)](img/ign-armas-unicas-262.jpg)\n![Explorer's Knife (4)](img/ign-armas-unicas-263.jpg)\n![Explorer's Knife (5)](img/ign-armas-unicas-264.jpg)\n![Explorer's Knife (6)](img/ign-armas-unicas-265.jpg)\n![Tallaloko Knife](img/ign-armas-unicas-266.jpg)\n![Tallaloko Knife (2)](img/ign-armas-unicas-267.jpg)\n![Tallaloko Knife (3)](img/ign-armas-unicas-268.jpg)\n![Tallaloko Knife (4)](img/ign-armas-unicas-269.jpg)\n![Tallaloko Knife (5)](img/ign-armas-unicas-270.jpg)\n![Tallaloko Knife (6)](img/ign-armas-unicas-271.jpg)\n![Soldier's Combat Knife](img/ign-armas-unicas-272.jpg)\n![Soldier's Combat Knife (2)](img/ign-armas-unicas-273.jpg)\n![Soldier's Combat Knife (3)](img/ign-armas-unicas-274.jpg)\n![Soldier's Combat Knife (4)](img/ign-armas-unicas-275.jpg)\n![Soldier's Combat Knife (5)](img/ign-armas-unicas-276.jpg)",
+ "table": {
+  "cols": [
+   "Arma",
+   "Tipo",
+   "Origem",
+   "Onde"
+  ],
+  "rows": [
+   [
+    "Assassin Nipper .38",
+    "Pistola",
+    "Mundo",
+    "Escotilha no chão de barco naufragado, sudeste de Permit Keys (enigma do barco espião)"
+   ],
+   [
+    "Turnt Nipper .38",
+    "Pistola",
+    "Mundo",
+    "Parapente motorizado preso numa árvore, ponta norte de Bobcat Bight"
+   ],
+   [
+    "Zodiac Nipper .38",
+    "Pistola",
+    "Illegal Op",
+    "Ocean Beach Lab"
+   ],
+   [
+    "Duval Signature ES9",
+    "Pistola",
+    "Ultimate",
+    "Edição Ultimate"
+   ],
+   [
+    "Quarter Mile ES9",
+    "Pistola",
+    "Illegal Op",
+    "Chatfield Storage & Logistics (Waxman Island)"
+   ],
+   [
+    "Sand Storm ES9",
+    "Pistola",
+    "Loja",
+    "Big Shots, leste de Hamlet: US$ 1.470"
+   ],
+   [
+    "The Guardian ES18",
+    "Pistola",
+    "Illegal Op",
+    "Saber Shipping Yard (Little Cuba)"
+   ],
+   [
+    "PTT Youngin$ K17",
+    "Pistola",
+    "Illegal Op",
+    "Kamar Devon Community Center (Southside)"
+   ],
+   [
+    "San4San K17",
+    "Pistola",
+    "Illegal Op",
+    "Sound4Sound Studio (Stockyard)"
+   ],
+   [
+    "Nite Raptor K17",
+    "Pistola",
+    "Loja",
+    "Black Eagle (Balsero): US$ 2.050"
+   ],
+   [
+    "Stoner K17 MCD",
+    "Pistola",
+    "Mundo",
+    "Big Day Motel (US-35, norte de Ambrosia), quarto 115, criado-mudo"
+   ],
+   [
+    "The Patriarch DRX",
+    "Pistola",
+    "Mundo",
+    "Carro submerso no sudoeste do Kalaga Reservoir"
+   ],
+   [
+    "Rogue Alpha DRX",
+    "Pistola",
+    "Loja",
+    "Quickscope (Downtown, em frente à Kensinger Tower): US$ 4.410"
+   ],
+   [
+    "Deadringer 1992 e Money Bag 1992",
+    "Pistola",
+    "Mundo",
+    "Trailer na margem sul do Moreau River (East Lummox): chão e sofá"
+   ],
+   [
+    "Martha's 1992",
+    "Pistola",
+    "Mundo",
+    "Lareira da Outlaw's Cabin (Moreau), entrando pelo porão"
+   ],
+   [
+    "The Silver 1992",
+    "Pistola",
+    "Loja",
+    "Big Shots: US$ 2.210"
+   ],
+   [
+    "Black Eagle Import Kalinga",
+    "Pistola",
+    "Mundo",
+    "Cofre no escritório do armazém da Black Eagle (Balsero); código no registro"
+   ],
+   [
+    "Iron & Oak WCR-1",
+    "Revólver",
+    "Loja",
+    "Iron & Oak (Stockyard): US$ 1.260"
+   ],
+   [
+    "Cargo H&L .38",
+    "Revólver",
+    "Mundo",
+    "Contêiner amarelo “Scoop” no porto de Port Vice City (escale as pilhas; há segurança)"
+   ],
+   [
+    "Lyle's H&L .38",
+    "Revólver",
+    "Mundo",
+    "Porta-malas de carro num celeiro no fim de uma rua em Bonanza"
+   ],
+   [
+    "Ride Free H&L .38",
+    "Revólver",
+    "Illegal Op",
+    "Biker Hideout (Leonard)"
+   ],
+   [
+    "Jack Sheepe H&L .38",
+    "Revólver",
+    "Ultimate",
+    "Biff's Gun Supply (Ultimate)"
+   ],
+   [
+    "Couch Potato Mustang .357",
+    "Revólver",
+    "Mundo",
+    "Sofá pendurado numa árvore na Tanglewood Ln: atire nas cordas e sente"
+   ],
+   [
+    "Honky Tonk Mustang .357",
+    "Revólver",
+    "Loja",
+    "Phil's Ammu-Nation (extremo sul de Vice City): US$ 3.780"
+   ],
+   [
+    "Kingfishers Akulus",
+    "Revólver",
+    "Illegal Op",
+    "Sunrise RV Park"
+   ],
+   [
+    "Swamp Bait Akulus",
+    "Revólver",
+    "Mundo",
+    "Estrutura à beira d'água no pântano a sudoeste de Hamlet"
+   ],
+   [
+    "Chromium W-10",
+    "SMG",
+    "Illegal Op",
+    "La Perle Trap House"
+   ],
+   [
+    "Little Friend W-10",
+    "SMG",
+    "Mundo",
+    "Sunlite Motel (Ocean Beach, Shore Drive), 2º andar, porta com sangue"
+   ],
+   [
+    "Moneymaker W-10",
+    "SMG",
+    "Loja",
+    "Tequesta Guns & Ammo: US$ 1.557"
+   ],
+   [
+    "Marabunta Grande Type 9",
+    "SMG",
+    "Illegal Op",
+    "Weed Grow (East Lummox)"
+   ],
+   [
+    "Neon Sunset Type 9",
+    "SMG",
+    "Loja",
+    "Vice City Firearms (Salton): US$ 2.310"
+   ],
+   [
+    "Conspiracist Type 9",
+    "SMG",
+    "Mundo",
+    "Arsenal sob alçapão num trailer em Balsero, sudoeste do Griffin Shooting Range"
+   ],
+   [
+    "Eris Fresh DSG",
+    "SMG",
+    "Illegal Op",
+    "Illegal Goods Store (Southside)"
+   ],
+   [
+    "Chronic Vatra",
+    "SMG",
+    "Illegal Op",
+    "Industrial Weed Grow (North Mariana)"
+   ],
+   [
+    "Double Cross Vatra",
+    "SMG",
+    "Mundo",
+    "Fundo do Golfo de Leonida, a oeste de Bobcat Key"
+   ],
+   [
+    "Kolt & Associates Vatra",
+    "SMG",
+    "Illegal Op",
+    "June Warehouse (Port Gellhorn)"
+   ],
+   [
+    "Spangled Vatra",
+    "SMG",
+    "Loja",
+    "Jackson Firearms (Balsero): US$ 2.520"
+   ],
+   [
+    "Dazzler DQ-9",
+    "SMG",
+    "Loja",
+    "Iron & Oak: US$ 3.680"
+   ],
+   [
+    "Crabshack VF5",
+    "SMG",
+    "Mundo",
+    "Galpão de barco num posto de pesquisa abandonado em Pelican Valley (porta com código)"
+   ],
+   [
+    "Guardia Brothers VF5",
+    "SMG",
+    "Illegal Op",
+    "Saber Shipping Facility (Balsero)"
+   ],
+   [
+    "Scrapper VF5C",
+    "SMG",
+    "Illegal Op",
+    "La Cascara Motel (Port Gellhorn)"
+   ],
+   [
+    "Gutterball Moreland 850",
+    "Escopeta",
+    "Illegal Op",
+    "Kingpin Bowling (Port Gellhorn)"
+   ],
+   [
+    "Watcher Pro Moreland 850",
+    "Escopeta",
+    "Loja",
+    "Tactical Outlet Guns (oeste de Belville): US$ 1.470"
+   ],
+   [
+    "San4San Gorse 425",
+    "Escopeta",
+    "Illegal Op",
+    "Parlor Apartments (Rockridge)"
+   ],
+   [
+    "Smuggler Gorse 425",
+    "Escopeta",
+    "Mundo",
+    "Barco de contrabandista numa ilhota a leste da Mile Zero (Permit Keys)"
+   ],
+   [
+    "Basher Gorse 425",
+    "Escopeta",
+    "Loja",
+    "Pawn & Gun (Port Gellhorn)"
+   ],
+   [
+    "Dirty Drifter",
+    "Escopeta",
+    "Mundo",
+    "Porta-malas de carro azul num deslizamento na estrada costeira de Bonanza"
+   ],
+   [
+    "Darknite Drifter",
+    "Escopeta",
+    "Loja",
+    "Shrewsbury Drifter: US$ 2.420"
+   ],
+   [
+    "Backdoor Hobo",
+    "Escopeta",
+    "Loja",
+    "Zenon's Pawn Shop (La Perle): US$ 2.502"
+   ],
+   [
+    "Final Chapter Shortstraw",
+    "Escopeta",
+    "Illegal Op",
+    "Hog Stars Garage (Ambrosia)"
+   ],
+   [
+    "Woodhatch Longshot",
+    "Escopeta",
+    "Loja",
+    "Woodhatch (Capri): US$ 2.990"
+   ],
+   [
+    "Nitepower AZ1200",
+    "Escopeta",
+    "Loja",
+    "Black Eagle: US$ 4.830"
+   ],
+   [
+    "Throttler Vero",
+    "Escopeta",
+    "Illegal Op",
+    "Farm Fix Meth Lab (Belville)"
+   ],
+   [
+    "Hostile Super400",
+    "Escopeta",
+    "Illegal Op",
+    "Mill Station Radar Base (Grassrivers)"
+   ],
+   [
+    "Bruiser Super400",
+    "Escopeta",
+    "Loja",
+    "Vice City Gun & Pawn (sul de Rockridge): US$ 5.930"
+   ],
+   [
+    "Final Chapter KVGA-12",
+    "Escopeta",
+    "Illegal Op",
+    "Irons Building Supply (Ambrosia)"
+   ],
+   [
+    "Hellspawn Comshot 12",
+    "Escopeta",
+    "Mundo",
+    "Prêmio de um desafio num acampamento nas montanhas a oeste de North Kelly: coma algo no trono de madeira entalhado e sobreviva"
+   ],
+   [
+    "Unpacked Comshot 12",
+    "Escopeta",
+    "Mundo",
+    "Casa na costa noroeste de Key Lento: banheiro da suíte de cima, atrás da porta (há um bilhete na cozinha)"
+   ],
+   [
+    "Clunker 556",
+    "Fuzil",
+    "Illegal Op",
+    "Brooks Boatworks (Port Gellhorn)"
+   ],
+   [
+    "Cockroach Xtreme 556 e Deever Tech GLR40",
+    "Fuzil e lança-granadas",
+    "Mundo",
+    "Garagem no pátio do Sunrise Motel (Tequesta), atrás do papel higiênico; o GLR40 é o único lança-granadas único"
+   ],
+   [
+    "Cold War 556",
+    "Fuzil",
+    "Mundo",
+    "Bunker em Big Pine (North Mariana), junto a um caixote"
+   ],
+   [
+    "GRX 556",
+    "Fuzil",
+    "Illegal Op",
+    "Leonida Carrier Warehouse (Balsero)"
+   ],
+   [
+    "Kolt & Associates 556",
+    "Fuzil",
+    "Illegal Op",
+    "Stash House (Port Gellhorn)"
+   ],
+   [
+    "Star Spangled 556",
+    "Fuzil",
+    "Loja",
+    "Phil's Ammu-Nation: US$ 3.050"
+   ],
+   [
+    "Kingpin Heathen",
+    "Fuzil",
+    "Illegal Op",
+    "Vespucci Mansion"
+   ],
+   [
+    "Vice City Heathen",
+    "Fuzil",
+    "Loja",
+    "Prestige Firearms (norte de Ocean Beach): US$ 5.150"
+   ],
+   [
+    "La Polilla Negra VF-G1",
+    "Fuzil",
+    "Illegal Op",
+    "Watson Bay Safehouse"
+   ],
+   [
+    "Drug Mule KZ-59",
+    "Fuzil",
+    "Mundo",
+    "Sob uma lancha afundada ao norte de Riquezas Keys (pacotes boiando na superfície)"
+   ],
+   [
+    "La Polilla Negra KZ-59",
+    "Fuzil",
+    "Illegal Op",
+    "Palmer Fishing Warehouse (Bobcat Keys)"
+   ],
+   [
+    "Marabunta Grande KZ-59",
+    "Fuzil",
+    "Illegal Op",
+    "Nova Auto Junkyard (Hamlet)"
+   ],
+   [
+    "San4San KZ-59",
+    "Fuzil",
+    "Illegal Op",
+    "Janjak's Garage (La Perle)"
+   ],
+   [
+    "Little Cuba Hind",
+    "Fuzil",
+    "Loja",
+    "Martez Empeños: US$ 3.570"
+   ],
+   [
+    "Guardia Brothers FRA",
+    "Fuzil",
+    "Illegal Op",
+    "Casa Guardia (Little Cuba)"
+   ],
+   [
+    "Kingfishers W-22",
+    "Caça pequena",
+    "Illegal Op",
+    "Fishing Shacks (Wetman Bay)"
+   ],
+   [
+    "Redneck W-22",
+    "Caça pequena",
+    "Mundo",
+    "Vagão amarelo abandonado na margem norte de um rio em Moreau"
+   ],
+   [
+    "Mossy Mediator",
+    "Caça pequena",
+    "Loja",
+    "Barrage Gun Supply (Southwind): US$ 1.890"
+   ],
+   [
+    "Black Eagle Import M306 TMR",
+    "Tático",
+    "Mundo",
+    "Armazém da Black Eagle (Balsero): **só a Lucia** passa entre as caixas e a grade; funcionários chamam a polícia"
+   ],
+   [
+    "Kingfishers Laird 350",
+    "Sniper",
+    "Illegal Op",
+    "Manatee Motel (Gullet Marsh)"
+   ],
+   [
+    "Twin's Laird 350",
+    "Sniper",
+    "Mundo",
+    "Sob uma plataforma de caça a leste do Kalaga Reservoir"
+   ],
+   [
+    "Cruel Huntsman's SM-69",
+    "Sniper",
+    "Mundo",
+    "Passarela de uma cabana de caçador em Pelican Valley, junto a carcaças de jacaré"
+   ],
+   [
+    "Fincredible Laird 350",
+    "Sniper",
+    "Loja",
+    "Guns Aplenty! (Watson Bay): US$ 2.000"
+   ],
+   [
+    "Killtelligence SM-69",
+    "Sniper",
+    "Missão",
+    "Presente do Bret Vogel ao começar as missões de caça"
+   ],
+   [
+    "Firebreak SM-69",
+    "Sniper",
+    "Loja",
+    "R. Willis Jr. Supplies (noroeste do Kalaga Reservoir): US$ 3.890"
+   ],
+   [
+    "IAA SMS-01",
+    "Sniper",
+    "Missão",
+    "Topo do Aichi Condominiums (Northside Ave, Washington Beach), depois de uma missão"
+   ],
+   [
+    "FIB SM-69",
+    "Sniper",
+    "Missão",
+    "Topo de um arranha-céu em Vice Beach entre dois hospitais, depois de uma missão"
+   ],
+   [
+    "Internal Affairs FF-SR",
+    "Sniper",
+    "Mundo",
+    "Heliponto do prédio mais alto da Northside Ave (Washington Beach), borda noroeste"
+   ],
+   [
+    "Mercenary LMG 6",
+    "Metralhadora",
+    "Mundo",
+    "Contêiner amarelo “Scoop” no norte do pátio de cargas de Port Vice City; chegue pela água e suba pela escada"
+   ],
+   [
+    "Brontasaurus Bat",
+    "Branca",
+    "Mundo",
+    "Gaiolas de rebatida do Dino Golf (SR-32, Frogswater)"
+   ],
+   [
+    "Shark Knife",
+    "Branca",
+    "Mundo",
+    "Fundo do mar ao norte das Saint Attaway Islands, ao lado de uma gaiola de tubarão"
+   ],
+   [
+    "Explorer's Knife",
+    "Branca",
+    "Mundo",
+    "Rio subterrâneo pelo Selkie Hole: pegue equipamento de mergulho e lanterna e siga a corda amarela"
+   ],
+   [
+    "Tallaloko Knife",
+    "Branca",
+    "Mundo",
+    "2º andar da cabana Evergreen, oeste do Lake Tallaloko (a caixa tem mais de US$ 7 mil em joias)"
+   ],
+   [
+    "Soldier's Combat Knife",
+    "Branca",
+    "Mundo",
+    "Tanque meio submerso entre Bobcat Bight e Bobcat Key (abra a escotilha)"
+   ]
+  ],
+  "sort": true
+ },
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "armas unicas",
+  "variantes",
+  "amarela",
+  "unique weapon",
+  "colecionavel"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Unique weapons: where to find them",
+  "sum": "130 yellow variants (127 + 2 Ultimate, per IGN). Grab one once and both characters keep it.",
+  "body": "![Start](img/ign-armas-unicas-1.jpg)\n\n- **Yellow icon and name** in the world and in menus.\n- **No mods** or cosmetics: the look and attachments are locked in.\n- Once collected, it's unlocked **for Jason and Lucia** for good and comes back via your trunk or locker if you die.\n- Four sources: hidden on the map, inside Illegal Operations, in Ammu-Nation display cases (pricey), or as a mission reward.\n- Partial IGN list, still being built: several locations are missing. See also [[dinheiro-illegal-ops]].\n\n#### Images\n![Assassin Nipper .38](img/ign-armas-unicas-2.jpg)\n![Assassin Nipper .38 (2)](img/ign-armas-unicas-3.jpg)\n![Assassin Nipper .38 (3)](img/ign-armas-unicas-4.jpg)\n![Assassin Nipper .38 (4)](img/ign-armas-unicas-5.jpg)\n![Assassin Nipper .38 (5)](img/ign-armas-unicas-6.jpg)\n![Low Point Nipper .38](img/ign-armas-unicas-7.jpg)\n![Turnt Nipper .38](img/ign-armas-unicas-8.jpg)\n![Turnt Nipper .38 (2)](img/ign-armas-unicas-9.jpg)\n![Turnt Nipper .38 (3)](img/ign-armas-unicas-10.jpg)\n![Turnt Nipper .38 (4)](img/ign-armas-unicas-11.jpg)\n![Turnt Nipper .38 (5)](img/ign-armas-unicas-12.jpg)\n![Zodiac Nipper .38](img/ign-armas-unicas-13.jpg)\n![Duval Signature ES9](img/ign-armas-unicas-14.jpg)\n![Quarter Mile ES9](img/ign-armas-unicas-15.jpg)\n![Sand Storm ES9](img/ign-armas-unicas-16.jpg)\n![The Guardian ES18](img/ign-armas-unicas-17.jpg)\n![Caminos Signature K17](img/ign-armas-unicas-18.jpg)\n![DWNPLY's K17](img/ign-armas-unicas-19.jpg)\n![PTT Youngin$ K17](img/ign-armas-unicas-20.jpg)\n![San4San K17](img/ign-armas-unicas-21.jpg)\n![Nite Raptor K17](img/ign-armas-unicas-22.jpg)\n![Dumpster K17 MCD](img/ign-armas-unicas-23.jpg)\n![Stoner K17 MCD](img/ign-armas-unicas-24.jpg)\n![Stoner K17 MCD (2)](img/ign-armas-unicas-25.jpg)\n![Stoner K17 MCD (3)](img/ign-armas-unicas-26.jpg)\n![Stoner K17 MCD (4)](img/ign-armas-unicas-27.jpg)\n![Stoner K17 MCD (5)](img/ign-armas-unicas-28.jpg)\n![The Patriarch DRX](img/ign-armas-unicas-29.jpg)\n![The Patriarch DRX (2)](img/ign-armas-unicas-30.jpg)\n![The Patriarch DRX (3)](img/ign-armas-unicas-31.jpg)\n![The Patriarch DRX (4)](img/ign-armas-unicas-32.jpg)\n![The Patriarch DRX (5)](img/ign-armas-unicas-33.jpg)\n![The Patriarch DRX (6)](img/ign-armas-unicas-34.jpg)\n![Rogue Alpha DRX](img/ign-armas-unicas-35.jpg)\n![Brainwasher 1992](img/ign-armas-unicas-36.jpg)\n![Brian's 1992](img/ign-armas-unicas-37.jpg)\n![Deadringer 1992](img/ign-armas-unicas-38.jpg)\n![Deadringer 1992 (2)](img/ign-armas-unicas-39.jpg)\n![Deadringer 1992 (3)](img/ign-armas-unicas-40.jpg)\n![Deadringer 1992 (4)](img/ign-armas-unicas-41.jpg)\n![Deadringer 1992 (5)](img/ign-armas-unicas-42.jpg)\n![Martha's 1992](img/ign-armas-unicas-43.jpg)\n![Martha's 1992 (2)](img/ign-armas-unicas-44.jpg)\n![Martha's 1992 (3)](img/ign-armas-unicas-45.jpg)\n![Martha's 1992 (4)](img/ign-armas-unicas-46.jpg)\n![Martha's 1992 (5)](img/ign-armas-unicas-47.jpg)\n![Martha's 1992 (6)](img/ign-armas-unicas-48.jpg)\n![Money Bag 1992](img/ign-armas-unicas-49.jpg)\n![Money Bag 1992 (2)](img/ign-armas-unicas-50.jpg)\n![Money Bag 1992 (3)](img/ign-armas-unicas-51.jpg)\n![Money Bag 1992 (4)](img/ign-armas-unicas-52.jpg)\n![Money Bag 1992 (5)](img/ign-armas-unicas-53.jpg)\n![Monty's 1992](img/ign-armas-unicas-54.jpg)\n![Raul's 1992](img/ign-armas-unicas-55.jpg)\n![Russo's 1992](img/ign-armas-unicas-56.jpg)\n![The Silver 1992](img/ign-armas-unicas-57.jpg)\n![Black Eagle Import Kalinga](img/ign-armas-unicas-58.jpg)\n![Black Eagle Import Kalinga (2)](img/ign-armas-unicas-59.jpg)\n![Black Eagle Import Kalinga (3)](img/ign-armas-unicas-60.jpg)\n![Black Eagle Import Kalinga (4)](img/ign-armas-unicas-61.jpg)\n![Black Eagle Import Kalinga (5)](img/ign-armas-unicas-62.jpg)\n![Black Eagle Import Kalinga (6)](img/ign-armas-unicas-63.jpg)\n![Convict Kalinga .50](img/ign-armas-unicas-64.jpg)\n![Gil's Kalinga .50](img/ign-armas-unicas-65.jpg)\n![Iron & Oak WCR-1](img/ign-armas-unicas-66.jpg)\n![Cargo H&L .38](img/ign-armas-unicas-67.jpg)\n![Cargo H&L .38 (2)](img/ign-armas-unicas-68.jpg)\n![Cargo H&L .38 (3)](img/ign-armas-unicas-69.jpg)\n![Cargo H&L .38 (4)](img/ign-armas-unicas-70.jpg)\n![Cargo H&L .38 (5)](img/ign-armas-unicas-71.jpg)\n![Cargo H&L .38 (6)](img/ign-armas-unicas-72.jpg)\n![Donnie's H&L .38](img/ign-armas-unicas-73.jpg)\n![Lyle's H&L .38](img/ign-armas-unicas-74.jpg)\n![Lyle's H&L .38 (2)](img/ign-armas-unicas-75.jpg)\n![Lyle's H&L .38 (3)](img/ign-armas-unicas-76.jpg)\n![Lyle's H&L .38 (4)](img/ign-armas-unicas-77.jpg)\n![Lyle's H&L .38 (5)](img/ign-armas-unicas-78.jpg)\n![Lyle's H&L .38 (6)](img/ign-armas-unicas-79.jpg)\n![Ride Free H&L .38](img/ign-armas-unicas-80.jpg)\n![Jack Sheepe H&L .38](img/ign-armas-unicas-81.jpg)\n![Couch Potato Mustang .357](img/ign-armas-unicas-82.jpg)\n![Couch Potato Mustang .357 (2)](img/ign-armas-unicas-83.jpg)\n![Couch Potato Mustang .357 (3)](img/ign-armas-unicas-84.jpg)\n![Couch Potato Mustang .357 (4)](img/ign-armas-unicas-85.jpg)\n![Honky Tonk Mustang .357](img/ign-armas-unicas-86.jpg)\n![Kingfishers Akulus](img/ign-armas-unicas-87.jpg)\n![Swamp Bait Akulus](img/ign-armas-unicas-88.jpg)\n![Swamp Bait Akulus (2)](img/ign-armas-unicas-89.jpg)\n![Swamp Bait Akulus (3)](img/ign-armas-unicas-90.jpg)\n![Swamp Bait Akulus (4)](img/ign-armas-unicas-91.jpg)\n![Swamp Bait Akulus (5)](img/ign-armas-unicas-92.jpg)\n![Bae-Lux's W-10](img/ign-armas-unicas-93.jpg)\n![Chromium W-10](img/ign-armas-unicas-94.jpg)\n![Little Friend W-10](img/ign-armas-unicas-95.jpg)\n![Little Friend W-10 (2)](img/ign-armas-unicas-96.jpg)\n![Little Friend W-10 (3)](img/ign-armas-unicas-97.jpg)\n![Little Friend W-10 (4)](img/ign-armas-unicas-98.jpg)\n![Little Friend W-10 (5)](img/ign-armas-unicas-99.jpg)\n![Little Friend W-10 (6)](img/ign-armas-unicas-100.jpg)\n![Roxy's W-10](img/ign-armas-unicas-101.jpg)\n![Tyrone's W-10](img/ign-armas-unicas-102.jpg)\n![Moneymaker W-10](img/ign-armas-unicas-103.jpg)\n![Marabunta Grande Type 9](img/ign-armas-unicas-104.jpg)\n![Neon Sunset Type 9](img/ign-armas-unicas-105.jpg)\n![Conspiracist Type 9](img/ign-armas-unicas-106.jpg)\n![Conspiracist Type 9 (2)](img/ign-armas-unicas-107.jpg)\n![Conspiracist Type 9 (3)](img/ign-armas-unicas-108.jpg)\n![Conspiracist Type 9 (4)](img/ign-armas-unicas-109.jpg)\n![Conspiracist Type 9 (5)](img/ign-armas-unicas-110.jpg)\n![Conspiracist Type 9 (6)](img/ign-armas-unicas-111.jpg)\n![Chronic Vatra](img/ign-armas-unicas-112.jpg)\n![Double Cross Vatra](img/ign-armas-unicas-113.jpg)\n![Double Cross Vatra (2)](img/ign-armas-unicas-114.jpg)\n![Double Cross Vatra (3)](img/ign-armas-unicas-115.jpg)\n![Double Cross Vatra (4)](img/ign-armas-unicas-116.jpg)\n![Double Cross Vatra (5)](img/ign-armas-unicas-117.jpg)\n![Kolt & Associates Vatra](img/ign-armas-unicas-118.jpg)\n![Spangled Vatra](img/ign-armas-unicas-119.jpg)\n![Furry DW-9](img/ign-armas-unicas-120.jpg)\n![Dazzler DQ-9](img/ign-armas-unicas-121.jpg)\n![Crabshack VF5](img/ign-armas-unicas-122.jpg)\n![Crabshack VF5 (2)](img/ign-armas-unicas-123.jpg)\n![Crabshack VF5 (3)](img/ign-armas-unicas-124.jpg)\n![Crabshack VF5 (4)](img/ign-armas-unicas-125.jpg)\n![Crabshack VF5 (5)](img/ign-armas-unicas-126.jpg)\n![Guardia Brothers VF5](img/ign-armas-unicas-127.jpg)\n![Midlife Crisis VF5](img/ign-armas-unicas-128.jpg)\n![Scrapper VF5C](img/ign-armas-unicas-129.jpg)\n![Gutterball Moreland 850](img/ign-armas-unicas-130.jpg)\n![Watcher Pro Moreland 850](img/ign-armas-unicas-131.jpg)\n![CPD Moreland 850](img/ign-armas-unicas-132.jpg)\n![San4San Gorse 425](img/ign-armas-unicas-133.jpg)\n![Smuggler Gorse 425](img/ign-armas-unicas-134.jpg)\n![Smuggler Gorse 425 (2)](img/ign-armas-unicas-135.jpg)\n![Smuggler Gorse 425 (3)](img/ign-armas-unicas-136.jpg)\n![Basher Gorse 425](img/ign-armas-unicas-137.jpg)\n![Dirty Drifter](img/ign-armas-unicas-138.jpg)\n![Dirty Drifter (2)](img/ign-armas-unicas-139.jpg)\n![Dirty Drifter (3)](img/ign-armas-unicas-140.jpg)\n![Dirty Drifter (4)](img/ign-armas-unicas-141.jpg)\n![Dirty Drifter (5)](img/ign-armas-unicas-142.jpg)\n![Darknite Drifter](img/ign-armas-unicas-143.jpg)\n![Marabunta Grande Hobo](img/ign-armas-unicas-144.jpg)\n![Backdoor Hobo](img/ign-armas-unicas-145.jpg)\n![Final Chapter Shortstraw](img/ign-armas-unicas-146.jpg)\n![Woodhatch Longshot](img/ign-armas-unicas-147.jpg)\n![Nitepower AZ1200](img/ign-armas-unicas-148.jpg)\n![Throttler Vero](img/ign-armas-unicas-149.jpg)\n![Hostile Super400](img/ign-armas-unicas-150.jpg)\n![Bruiser Super400](img/ign-armas-unicas-151.jpg)\n![Final Chapter KVGA-12](img/ign-armas-unicas-152.jpg)\n![Hellspawn Comshot 12](img/ign-armas-unicas-153.jpg)\n![Hellspawn Comshot 12 (2)](img/ign-armas-unicas-154.jpg)\n![Hellspawn Comshot 12 (3)](img/ign-armas-unicas-155.jpg)\n![Hellspawn Comshot 12 (4)](img/ign-armas-unicas-156.jpg)\n![Hellspawn Comshot 12 (5)](img/ign-armas-unicas-157.jpg)\n![Unpacked Comshot 12](img/ign-armas-unicas-158.jpg)\n![Unpacked Comshot 12 (2)](img/ign-armas-unicas-159.jpg)\n![Unpacked Comshot 12 (3)](img/ign-armas-unicas-160.jpg)\n![Unpacked Comshot 12 (4)](img/ign-armas-unicas-161.jpg)\n![Unpacked Comshot 12 (5)](img/ign-armas-unicas-162.jpg)\n![Clunker 556](img/ign-armas-unicas-163.jpg)\n![Clunker 556 (2)](img/ign-armas-unicas-164.jpg)\n![Clunker 556 (3)](img/ign-armas-unicas-165.jpg)\n![Clunker 556 (4)](img/ign-armas-unicas-166.jpg)\n![Cockroach Xtreme 556](img/ign-armas-unicas-167.jpg)\n![Cockroach Xtreme 556 (2)](img/ign-armas-unicas-168.jpg)\n![Cockroach Xtreme 556 (3)](img/ign-armas-unicas-169.jpg)\n![Cockroach Xtreme 556 (4)](img/ign-armas-unicas-170.jpg)\n![Cold War 556](img/ign-armas-unicas-171.jpg)\n![Cold War 556 (2)](img/ign-armas-unicas-172.jpg)\n![Cold War 556 (3)](img/ign-armas-unicas-173.jpg)\n![Cold War 556 (4)](img/ign-armas-unicas-174.jpg)\n![GRX 556](img/ign-armas-unicas-175.jpg)\n![Kolt & Associates 556](img/ign-armas-unicas-176.jpg)\n![Raul's CQB 556](img/ign-armas-unicas-177.jpg)\n![Raul's Heist 556](img/ign-armas-unicas-178.jpg)\n![Star Spangled 556](img/ign-armas-unicas-179.jpg)\n![Kingpin Heathen](img/ign-armas-unicas-180.jpg)\n![Vice City Heathen](img/ign-armas-unicas-181.jpg)\n![La Polilla Negra VF-G1](img/ign-armas-unicas-182.jpg)\n![Drug Mule KZ-59](img/ign-armas-unicas-183.jpg)\n![Drug Mule KZ-59 (2)](img/ign-armas-unicas-184.jpg)\n![Drug Mule KZ-59 (3)](img/ign-armas-unicas-185.jpg)\n![Drug Mule KZ-59 (4)](img/ign-armas-unicas-186.jpg)\n![Drug Mule KZ-59 (5)](img/ign-armas-unicas-187.jpg)\n![La Polilla Negra KZ-59](img/ign-armas-unicas-188.jpg)\n![Marabunta Grande KZ-59](img/ign-armas-unicas-189.jpg)\n![Pete's KZ-59](img/ign-armas-unicas-190.jpg)\n![San4San KZ-59](img/ign-armas-unicas-191.jpg)\n![Little Cuba Hind](img/ign-armas-unicas-192.jpg)\n![Kingfishers W-22](img/ign-armas-unicas-193.jpg)\n![Redneck W-22](img/ign-armas-unicas-194.jpg)\n![Redneck W-22 (2)](img/ign-armas-unicas-195.jpg)\n![Redneck W-22 (3)](img/ign-armas-unicas-196.jpg)\n![Redneck W-22 (4)](img/ign-armas-unicas-197.jpg)\n![Redneck W-22 (5)](img/ign-armas-unicas-198.jpg)\n![Mossy Mediator](img/ign-armas-unicas-199.jpg)\n![Copperheads W-14](img/ign-armas-unicas-200.jpg)\n![Black Eagle Import M306 TMR](img/ign-armas-unicas-201.jpg)\n![Black Eagle Import M306 TMR (2)](img/ign-armas-unicas-202.jpg)\n![Black Eagle Import M306 TMR (3)](img/ign-armas-unicas-203.jpg)\n![Black Eagle Import M306 TMR (4)](img/ign-armas-unicas-204.jpg)\n![Black Eagle Import M306 TMR (5)](img/ign-armas-unicas-205.jpg)\n![Hunter's Laird 350](img/ign-armas-unicas-206.jpg)\n![Kingfishers Laird 350](img/ign-armas-unicas-207.jpg)\n![Mister Mangrove Laird 350](img/ign-armas-unicas-208.jpg)\n![Twin's Laird 350](img/ign-armas-unicas-209.jpg)\n![Twin's Laird 350 (2)](img/ign-armas-unicas-210.jpg)\n![Twin's Laird 350 (3)](img/ign-armas-unicas-211.jpg)\n![Twin's Laird 350 (4)](img/ign-armas-unicas-212.jpg)\n![Twin's Laird 350 (5)](img/ign-armas-unicas-213.jpg)\n![Cruel Huntsman's SM-69](img/ign-armas-unicas-214.jpg)\n![Cruel Huntsman's SM-69 (2)](img/ign-armas-unicas-215.jpg)\n![Cruel Huntsman's SM-69 (3)](img/ign-armas-unicas-216.jpg)\n![Cruel Huntsman's SM-69 (4)](img/ign-armas-unicas-217.jpg)\n![Cruel Huntsman's SM-69 (5)](img/ign-armas-unicas-218.jpg)\n![Fincredible Laird 350](img/ign-armas-unicas-219.jpg)\n![Killtelligence SM-69](img/ign-armas-unicas-220.jpg)\n![Firebreak SM-69](img/ign-armas-unicas-221.jpg)\n![Gun Nut SMS-01](img/ign-armas-unicas-222.jpg)\n![IAA SMS-01](img/ign-armas-unicas-223.jpg)\n![IAA SMS-01 (2)](img/ign-armas-unicas-224.jpg)\n![IAA SMS-01 (3)](img/ign-armas-unicas-225.jpg)\n![IAA SMS-01 (4)](img/ign-armas-unicas-226.jpg)\n![IAA SMS-01 (5)](img/ign-armas-unicas-227.jpg)\n![FIB SM-69](img/ign-armas-unicas-228.jpg)\n![FIB SM-69 (2)](img/ign-armas-unicas-229.jpg)\n![FIB SM-69 (3)](img/ign-armas-unicas-230.jpg)\n![FIB SM-69 (4)](img/ign-armas-unicas-231.jpg)\n![FIB SM-69 (5)](img/ign-armas-unicas-232.jpg)\n![Internal Affairs FF-SR](img/ign-armas-unicas-233.jpg)\n![Internal Affairs FF-SR (2)](img/ign-armas-unicas-234.jpg)\n![Internal Affairs FF-SR (3)](img/ign-armas-unicas-235.jpg)\n![Internal Affairs FF-SR (4)](img/ign-armas-unicas-236.jpg)\n![Internal Affairs FF-SR (5)](img/ign-armas-unicas-237.jpg)\n![Island Poacher FF-50](img/ign-armas-unicas-238.jpg)\n![Francisco's LMG 6](img/ign-armas-unicas-239.jpg)\n![Mercenary LMG 6](img/ign-armas-unicas-240.jpg)\n![Mercenary LMG 6 (2)](img/ign-armas-unicas-241.jpg)\n![Mercenary LMG 6 (3)](img/ign-armas-unicas-242.jpg)\n![Mercenary LMG 6 (4)](img/ign-armas-unicas-243.jpg)\n![Mercenary LMG 6 (5)](img/ign-armas-unicas-244.jpg)\n![Deever Tech GLR40](img/ign-armas-unicas-245.jpg)\n![Deever Tech GLR40 (2)](img/ign-armas-unicas-246.jpg)\n![Deever Tech GLR40 (3)](img/ign-armas-unicas-247.jpg)\n![Deever Tech GLR40 (4)](img/ign-armas-unicas-248.jpg)\n![Deever Tech GLR40 (5)](img/ign-armas-unicas-249.jpg)\n![Brontasaurus Bat](img/ign-armas-unicas-250.jpg)\n![Brontasaurus Bat (2)](img/ign-armas-unicas-251.jpg)\n![Brontasaurus Bat (3)](img/ign-armas-unicas-252.jpg)\n![Brontasaurus Bat (4)](img/ign-armas-unicas-253.jpg)\n![Brontasaurus Bat (5)](img/ign-armas-unicas-254.jpg)\n![Shark Knife](img/ign-armas-unicas-255.jpg)\n![Shark Knife (2)](img/ign-armas-unicas-256.jpg)\n![Shark Knife (3)](img/ign-armas-unicas-257.jpg)\n![Shark Knife (4)](img/ign-armas-unicas-258.jpg)\n![Shark Knife (5)](img/ign-armas-unicas-259.jpg)\n![Explorer's Knife](img/ign-armas-unicas-260.jpg)\n![Explorer's Knife (2)](img/ign-armas-unicas-261.jpg)\n![Explorer's Knife (3)](img/ign-armas-unicas-262.jpg)\n![Explorer's Knife (4)](img/ign-armas-unicas-263.jpg)\n![Explorer's Knife (5)](img/ign-armas-unicas-264.jpg)\n![Explorer's Knife (6)](img/ign-armas-unicas-265.jpg)\n![Tallaloko Knife](img/ign-armas-unicas-266.jpg)\n![Tallaloko Knife (2)](img/ign-armas-unicas-267.jpg)\n![Tallaloko Knife (3)](img/ign-armas-unicas-268.jpg)\n![Tallaloko Knife (4)](img/ign-armas-unicas-269.jpg)\n![Tallaloko Knife (5)](img/ign-armas-unicas-270.jpg)\n![Tallaloko Knife (6)](img/ign-armas-unicas-271.jpg)\n![Soldier's Combat Knife](img/ign-armas-unicas-272.jpg)\n![Soldier's Combat Knife (2)](img/ign-armas-unicas-273.jpg)\n![Soldier's Combat Knife (3)](img/ign-armas-unicas-274.jpg)\n![Soldier's Combat Knife (4)](img/ign-armas-unicas-275.jpg)\n![Soldier's Combat Knife (5)](img/ign-armas-unicas-276.jpg)",
+  "kw": [
+   "unique weapons",
+   "variants",
+   "yellow",
+   "collectible"
+  ],
+  "table": {
+   "cols": [
+    "Weapon",
+    "Type",
+    "Source",
+    "Where"
+   ],
+   "rows": [
+    [
+     "Assassin Nipper .38",
+     "Pistol",
+     "World",
+     "Floor hatch in a shipwreck, southeast Permit Keys (spy boat puzzle)"
+    ],
+    [
+     "Turnt Nipper .38",
+     "Pistol",
+     "World",
+     "Paratrike stuck in a tree, northern tip of Bobcat Bight"
+    ],
+    [
+     "Zodiac Nipper .38",
+     "Pistol",
+     "Illegal Op",
+     "Ocean Beach Lab"
+    ],
+    [
+     "Duval Signature ES9",
+     "Pistol",
+     "Ultimate",
+     "Ultimate Edition"
+    ],
+    [
+     "Quarter Mile ES9",
+     "Pistol",
+     "Illegal Op",
+     "Chatfield Storage & Logistics (Waxman Island)"
+    ],
+    [
+     "Sand Storm ES9",
+     "Pistol",
+     "Store",
+     "Big Shots, east Hamlet: $1,470"
+    ],
+    [
+     "The Guardian ES18",
+     "Pistol",
+     "Illegal Op",
+     "Saber Shipping Yard (Little Cuba)"
+    ],
+    [
+     "PTT Youngin$ K17",
+     "Pistol",
+     "Illegal Op",
+     "Kamar Devon Community Center (Southside)"
+    ],
+    [
+     "San4San K17",
+     "Pistol",
+     "Illegal Op",
+     "Sound4Sound Studio (Stockyard)"
+    ],
+    [
+     "Nite Raptor K17",
+     "Pistol",
+     "Store",
+     "Black Eagle (Balsero): $2,050"
+    ],
+    [
+     "Stoner K17 MCD",
+     "Pistol",
+     "World",
+     "Big Day Motel (US-35, north Ambrosia), room 115, nightstand"
+    ],
+    [
+     "The Patriarch DRX",
+     "Pistol",
+     "World",
+     "Sunken car in the southwest Kalaga Reservoir"
+    ],
+    [
+     "Rogue Alpha DRX",
+     "Pistol",
+     "Store",
+     "Quickscope (Downtown, across from Kensinger Tower): $4,410"
+    ],
+    [
+     "Deadringer 1992 and Money Bag 1992",
+     "Pistol",
+     "World",
+     "Mobile home on the south bank of the Moreau River (East Lummox): floor and couch"
+    ],
+    [
+     "Martha's 1992",
+     "Pistol",
+     "World",
+     "Fireplace of the Outlaw's Cabin (Moreau), via the cellar"
+    ],
+    [
+     "The Silver 1992",
+     "Pistol",
+     "Store",
+     "Big Shots: $2,210"
+    ],
+    [
+     "Black Eagle Import Kalinga",
+     "Pistol",
+     "World",
+     "Safe in the Black Eagle warehouse office (Balsero); code in the log"
+    ],
+    [
+     "Iron & Oak WCR-1",
+     "Revolver",
+     "Store",
+     "Iron & Oak (Stockyard): $1,260"
+    ],
+    [
+     "Cargo H&L .38",
+     "Revolver",
+     "World",
+     "Yellow 'Scoop' container in Port Vice City (climb the stacks; guarded)"
+    ],
+    [
+     "Lyle's H&L .38",
+     "Revolver",
+     "World",
+     "Car trunk in a barn at a dead end in Bonanza"
+    ],
+    [
+     "Ride Free H&L .38",
+     "Revolver",
+     "Illegal Op",
+     "Biker Hideout (Leonard)"
+    ],
+    [
+     "Jack Sheepe H&L .38",
+     "Revolver",
+     "Ultimate",
+     "Biff's Gun Supply (Ultimate)"
+    ],
+    [
+     "Couch Potato Mustang .357",
+     "Revolver",
+     "World",
+     "Couch hanging from a tree on Tanglewood Ln: shoot the ropes and sit"
+    ],
+    [
+     "Honky Tonk Mustang .357",
+     "Revolver",
+     "Store",
+     "Phil's Ammu-Nation (far south Vice City): $3,780"
+    ],
+    [
+     "Kingfishers Akulus",
+     "Revolver",
+     "Illegal Op",
+     "Sunrise RV Park"
+    ],
+    [
+     "Swamp Bait Akulus",
+     "Revolver",
+     "World",
+     "Waterfront structure in the marsh southwest of Hamlet"
+    ],
+    [
+     "Chromium W-10",
+     "SMG",
+     "Illegal Op",
+     "La Perle Trap House"
+    ],
+    [
+     "Little Friend W-10",
+     "SMG",
+     "World",
+     "Sunlite Motel (Ocean Beach, Shore Drive), second floor, bloodied doorway"
+    ],
+    [
+     "Moneymaker W-10",
+     "SMG",
+     "Store",
+     "Tequesta Guns & Ammo: $1,557"
+    ],
+    [
+     "Marabunta Grande Type 9",
+     "SMG",
+     "Illegal Op",
+     "Weed Grow (East Lummox)"
+    ],
+    [
+     "Neon Sunset Type 9",
+     "SMG",
+     "Store",
+     "Vice City Firearms (Salton): $2,310"
+    ],
+    [
+     "Conspiracist Type 9",
+     "SMG",
+     "World",
+     "Armory under a hatch in a Balsero mobile home, southwest of Griffin Shooting Range"
+    ],
+    [
+     "Eris Fresh DSG",
+     "SMG",
+     "Illegal Op",
+     "Illegal Goods Store (Southside)"
+    ],
+    [
+     "Chronic Vatra",
+     "SMG",
+     "Illegal Op",
+     "Industrial Weed Grow (North Mariana)"
+    ],
+    [
+     "Double Cross Vatra",
+     "SMG",
+     "World",
+     "Floor of Gulf Leonida, west of Bobcat Key"
+    ],
+    [
+     "Kolt & Associates Vatra",
+     "SMG",
+     "Illegal Op",
+     "June Warehouse (Port Gellhorn)"
+    ],
+    [
+     "Spangled Vatra",
+     "SMG",
+     "Store",
+     "Jackson Firearms (Balsero): $2,520"
+    ],
+    [
+     "Dazzler DQ-9",
+     "SMG",
+     "Store",
+     "Iron & Oak: $3,680"
+    ],
+    [
+     "Crabshack VF5",
+     "SMG",
+     "World",
+     "Boat shack at an abandoned research outpost in Pelican Valley (coded door)"
+    ],
+    [
+     "Guardia Brothers VF5",
+     "SMG",
+     "Illegal Op",
+     "Saber Shipping Facility (Balsero)"
+    ],
+    [
+     "Scrapper VF5C",
+     "SMG",
+     "Illegal Op",
+     "La Cascara Motel (Port Gellhorn)"
+    ],
+    [
+     "Gutterball Moreland 850",
+     "Shotgun",
+     "Illegal Op",
+     "Kingpin Bowling (Port Gellhorn)"
+    ],
+    [
+     "Watcher Pro Moreland 850",
+     "Shotgun",
+     "Store",
+     "Tactical Outlet Guns (west Belville): $1,470"
+    ],
+    [
+     "San4San Gorse 425",
+     "Shotgun",
+     "Illegal Op",
+     "Parlor Apartments (Rockridge)"
+    ],
+    [
+     "Smuggler Gorse 425",
+     "Shotgun",
+     "World",
+     "Smuggler's boat on an islet east of Mile Zero (Permit Keys)"
+    ],
+    [
+     "Basher Gorse 425",
+     "Shotgun",
+     "Store",
+     "Pawn & Gun (Port Gellhorn)"
+    ],
+    [
+     "Dirty Drifter",
+     "Shotgun",
+     "World",
+     "Trunk of a blue car in a mudslide on the Bonanza coast road"
+    ],
+    [
+     "Darknite Drifter",
+     "Shotgun",
+     "Store",
+     "Shrewsbury Drifter: $2,420"
+    ],
+    [
+     "Backdoor Hobo",
+     "Shotgun",
+     "Store",
+     "Zenon's Pawn Shop (La Perle): $2,502"
+    ],
+    [
+     "Final Chapter Shortstraw",
+     "Shotgun",
+     "Illegal Op",
+     "Hog Stars Garage (Ambrosia)"
+    ],
+    [
+     "Woodhatch Longshot",
+     "Shotgun",
+     "Store",
+     "Woodhatch (Capri): $2,990"
+    ],
+    [
+     "Nitepower AZ1200",
+     "Shotgun",
+     "Store",
+     "Black Eagle: $4,830"
+    ],
+    [
+     "Throttler Vero",
+     "Shotgun",
+     "Illegal Op",
+     "Farm Fix Meth Lab (Belville)"
+    ],
+    [
+     "Hostile Super400",
+     "Shotgun",
+     "Illegal Op",
+     "Mill Station Radar Base (Grassrivers)"
+    ],
+    [
+     "Bruiser Super400",
+     "Shotgun",
+     "Store",
+     "Vice City Gun & Pawn (south Rockridge): $5,930"
+    ],
+    [
+     "Final Chapter KVGA-12",
+     "Shotgun",
+     "Illegal Op",
+     "Irons Building Supply (Ambrosia)"
+    ],
+    [
+     "Hellspawn Comshot 12",
+     "Shotgun",
+     "World",
+     "Reward for a challenge at a mountain campsite west of North Kelly: eat something on the carved wooden throne and survive"
+    ],
+    [
+     "Unpacked Comshot 12",
+     "Shotgun",
+     "World",
+     "House on Key Lento's northwest coast: upstairs ensuite, behind the door (note on the kitchen counter)"
+    ],
+    [
+     "Clunker 556",
+     "Rifle",
+     "Illegal Op",
+     "Brooks Boatworks (Port Gellhorn)"
+    ],
+    [
+     "Cockroach Xtreme 556 and Deever Tech GLR40",
+     "Rifle and grenade launcher",
+     "World",
+     "Garage in the Sunrise Motel courtyard (Tequesta), behind the toilet paper; the GLR40 is the only unique grenade launcher"
+    ],
+    [
+     "Cold War 556",
+     "Rifle",
+     "World",
+     "Bunker in Big Pine (North Mariana), by a crate"
+    ],
+    [
+     "GRX 556",
+     "Rifle",
+     "Illegal Op",
+     "Leonida Carrier Warehouse (Balsero)"
+    ],
+    [
+     "Kolt & Associates 556",
+     "Rifle",
+     "Illegal Op",
+     "Stash House (Port Gellhorn)"
+    ],
+    [
+     "Star Spangled 556",
+     "Rifle",
+     "Store",
+     "Phil's Ammu-Nation: $3,050"
+    ],
+    [
+     "Kingpin Heathen",
+     "Rifle",
+     "Illegal Op",
+     "Vespucci Mansion"
+    ],
+    [
+     "Vice City Heathen",
+     "Rifle",
+     "Store",
+     "Prestige Firearms (north Ocean Beach): $5,150"
+    ],
+    [
+     "La Polilla Negra VF-G1",
+     "Rifle",
+     "Illegal Op",
+     "Watson Bay Safehouse"
+    ],
+    [
+     "Drug Mule KZ-59",
+     "Rifle",
+     "World",
+     "Under a sunken speedboat north of Riquezas Keys (packages floating on the surface)"
+    ],
+    [
+     "La Polilla Negra KZ-59",
+     "Rifle",
+     "Illegal Op",
+     "Palmer Fishing Warehouse (Bobcat Keys)"
+    ],
+    [
+     "Marabunta Grande KZ-59",
+     "Rifle",
+     "Illegal Op",
+     "Nova Auto Junkyard (Hamlet)"
+    ],
+    [
+     "San4San KZ-59",
+     "Rifle",
+     "Illegal Op",
+     "Janjak's Garage (La Perle)"
+    ],
+    [
+     "Little Cuba Hind",
+     "Rifle",
+     "Store",
+     "Martez Empeños: $3,570"
+    ],
+    [
+     "Guardia Brothers FRA",
+     "Rifle",
+     "Illegal Op",
+     "Casa Guardia (Little Cuba)"
+    ],
+    [
+     "Kingfishers W-22",
+     "Small game",
+     "Illegal Op",
+     "Fishing Shacks (Wetman Bay)"
+    ],
+    [
+     "Redneck W-22",
+     "Small game",
+     "World",
+     "Abandoned yellow train car on the north bank of a river in Moreau"
+    ],
+    [
+     "Mossy Mediator",
+     "Small game",
+     "Store",
+     "Barrage Gun Supply (Southwind): $1,890"
+    ],
+    [
+     "Black Eagle Import M306 TMR",
+     "Tactical",
+     "World",
+     "Black Eagle warehouse (Balsero): **only Lucia** fits between the boxes and the fence; staff call the cops"
+    ],
+    [
+     "Kingfishers Laird 350",
+     "Sniper",
+     "Illegal Op",
+     "Manatee Motel (Gullet Marsh)"
+    ],
+    [
+     "Twin's Laird 350",
+     "Sniper",
+     "World",
+     "Below a hunting platform east of Kalaga Reservoir"
+    ],
+    [
+     "Cruel Huntsman's SM-69",
+     "Sniper",
+     "World",
+     "Boardwalk of a hunter's cabin in Pelican Valley, by gator carcasses"
+    ],
+    [
+     "Fincredible Laird 350",
+     "Sniper",
+     "Store",
+     "Guns Aplenty! (Watson Bay): $2,000"
+    ],
+    [
+     "Killtelligence SM-69",
+     "Sniper",
+     "Mission",
+     "Given by Bret Vogel when the hunting missions start"
+    ],
+    [
+     "Firebreak SM-69",
+     "Sniper",
+     "Store",
+     "R. Willis Jr. Supplies (northwest of Kalaga Reservoir): $3,890"
+    ],
+    [
+     "IAA SMS-01",
+     "Sniper",
+     "Mission",
+     "Roof of Aichi Condominiums (Northside Ave, Washington Beach), after a mission"
+    ],
+    [
+     "FIB SM-69",
+     "Sniper",
+     "Mission",
+     "Top of a Vice Beach skyscraper between two hospitals, after a mission"
+    ],
+    [
+     "Internal Affairs FF-SR",
+     "Sniper",
+     "World",
+     "Helipad of the tallest building on Northside Ave (Washington Beach), northwest edge"
+    ],
+    [
+     "Mercenary LMG 6",
+     "Machine gun",
+     "World",
+     "Yellow 'Scoop' container, north part of Port Vice City's cargo area; come in from the water and take the ladder"
+    ],
+    [
+     "Brontasaurus Bat",
+     "Melee",
+     "World",
+     "Dino Golf batting cages (SR-32, Frogswater)"
+    ],
+    [
+     "Shark Knife",
+     "Melee",
+     "World",
+     "Seafloor north of the Saint Attaway Islands, beside a shark cage"
+    ],
+    [
+     "Explorer's Knife",
+     "Melee",
+     "World",
+     "Underground river via Selkie Hole: grab the scuba gear and flashlight and follow the yellow rope"
+    ],
+    [
+     "Tallaloko Knife",
+     "Melee",
+     "World",
+     "Second floor of the Evergreen cabin, west Lake Tallaloko (the lockbox holds $7k+ in jewelry)"
+    ],
+    [
+     "Soldier's Combat Knife",
+     "Melee",
+     "World",
+     "Half-sunken tank between Bobcat Bight and Bobcat Key (open the hatch)"
+    ]
+   ],
+   "sort": true
+  }
+ }
+}

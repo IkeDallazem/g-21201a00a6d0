@@ -1,0 +1,394 @@
+{
+ "kind": "card",
+ "id": "cartas-nine1nine",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Nine1Nine",
+ "sum": "36 cartas de dançarinas, com o local de cada uma.",
+ "body": "- Dançarinas, 36 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-nine1nine-amie-deep-red",
+   "t": "**Amie - Deep Red**",
+   "d": "Num banco de uma pequena área de piquenique no meio do Buckskin Swamp"
+  },
+  {
+   "id": "cc-nine1nine-amie-pink",
+   "t": "**Amie - Pink**",
+   "d": "Em cima do vaso do banheiro masculino do bar Rusty Anchor, norte de Key Lento"
+  },
+  {
+   "id": "cc-nine1nine-amie-purple",
+   "t": "**Amie - Purple**",
+   "d": "Numa cama de área externa na sacada dos fundos de uma casa colorida na Vela Rota Dr, noroeste de Capri"
+  },
+  {
+   "id": "cc-nine1nine-braelynn-deep-red",
+   "t": "**Braelynn - Deep Red**",
+   "d": "No último andar de um observatório abandonado, ao lado de uma revista, na beira de uma estrada de terra, North Kelly"
+  },
+  {
+   "id": "cc-nine1nine-braelynn-pink",
+   "t": "**Braelynn - Pink**",
+   "d": "Embaixo de um bong numa borda atrás da placa Xero Gas ao longo de uma das pistas do Gellhorn Raceway, sudoeste de Gellhorn"
+  },
+  {
+   "id": "cc-nine1nine-braelynn-purple",
+   "t": "**Braelynn - Purple**",
+   "d": "Ao lado de um colchão no último andar de uma igreja destruída perto da Bear Hollow Dr, Millport"
+  },
+  {
+   "id": "cc-nine1nine-chrissie-deep-red",
+   "t": "**Chrissie - Deep Red**",
+   "d": "Num cobertor vermelho cercado de lixo numa caverna que atravessa a montanha na MacAlister Gold Mine, Moreau"
+  },
+  {
+   "id": "cc-nine1nine-chrissie-pink",
+   "t": "**Chrissie - Pink**",
+   "d": "Enfiada na almofada de uma poltrona no canto de um trailer vermelho na Baywood Rd, Port Gellhorn"
+  },
+  {
+   "id": "cc-nine1nine-chrissie-purple",
+   "t": "**Chrissie - Purple**",
+   "d": "Ao lado de um caixote num acampamentozinho numa caverna que atravessa a montanha perto dos trilhos, Manifest Canyon"
+  },
+  {
+   "id": "cc-nine1nine-clarissa-bronze",
+   "t": "**Clarissa - Bronze**",
+   "d": "Ao lado de duas cadeiras de praia no telhado do prédio amarelo na NW 3rd Ave, sul de Little Cuba"
+  },
+  {
+   "id": "cc-nine1nine-clarissa-gold",
+   "t": "**Clarissa - Gold**",
+   "d": "Embaixo de uma cadeira de praia na beira do telhado superior da fábrica Leonida Industrial Services, oeste da Breakwater Quarry, North Mariana"
+  },
+  {
+   "id": "cc-nine1nine-clarissa-silver",
+   "t": "**Clarissa - Silver**",
+   "d": "Ao lado de uma revista no balcão da garagem de uma villa amarela na península noroeste de Capri"
+  },
+  {
+   "id": "cc-nine1nine-georgia-deep-red",
+   "t": "**Georgia - Deep Red**",
+   "d": "Embaixo de uma cadeira de praia no pátio da frente, ao lado da porta de um trailer branco na beira da Forest Mill Rd, Millport"
+  },
+  {
+   "id": "cc-nine1nine-georgia-pink",
+   "t": "**Georgia - Pink**",
+   "d": "Enfiada num saco de dormir sobre um colchão no meio de uma casa caindo aos pedaços, NW 11th St x NW 11th Pl, sul de La Perle"
+  },
+  {
+   "id": "cc-nine1nine-georgia-purple",
+   "t": "**Georgia - Purple**",
+   "d": "Em cima de uma pilha de caixas no depósito atrás do prédio Steven Strachan Construction, Sunbelt Hwy, centro de Key Lento"
+  },
+  {
+   "id": "cc-nine1nine-jesenia-bronze",
+   "t": "**Jesenia - Bronze**",
+   "d": "Embaixo de uma cadeira de praia no alto do tanque AC-2C, no terreno da Vice-Dale County Water Analysis and Testing, SR-120, nordeste de Balsero"
+  },
+  {
+   "id": "cc-nine1nine-jesenia-gold",
+   "t": "**Jesenia - Gold**",
+   "d": "No rack da TV ao lado do receiver, 2º andar de uma mansão moderna na costa noroeste de Vespucci Island"
+  },
+  {
+   "id": "cc-nine1nine-jesenia-silver",
+   "t": "**Jesenia - Silver**",
+   "d": "Numa mesa sob um guarda-sol num banco de areia cercado de barcos, costa norte das Permit Keys"
+  },
+  {
+   "id": "cc-nine1nine-julia-bronze",
+   "t": "**Julia - Bronze**",
+   "d": "No chão ao lado de uma revista num barraquinho ao lado da torre de controle do aeroporto de Wild Hog Point"
+  },
+  {
+   "id": "cc-nine1nine-julia-gold",
+   "t": "**Julia - Gold**",
+   "d": "Entre duas revistas ao lado de uma cama no pátio do telhado do meio do Ocean Beach Apartments, Huevo St, Ocean Beach"
+  },
+  {
+   "id": "cc-nine1nine-julia-silver",
+   "t": "**Julia - Silver**",
+   "d": "No gradil do mirante no telhado do Bounty Plaza, SW 5th Ave, norte de Peacock Bay"
+  },
+  {
+   "id": "cc-nine1nine-lavinia-deep-red",
+   "t": "**Lavinia - Deep Red**",
+   "d": "Na mesa do escritório do armazém Xero Draper Refinery Engineering Maintenance, norte de Draper Island"
+  },
+  {
+   "id": "cc-nine1nine-lavinia-pink",
+   "t": "**Lavinia - Pink**",
+   "d": "Em cima de um barril na sala dos fundos do posto abandonado Lotto, Beer, Groceries, Chestnut Dr x Forest Mill Rd, Millport"
+  },
+  {
+   "id": "cc-nine1nine-lavinia-purple",
+   "t": "**Lavinia - Purple**",
+   "d": "Dentro de um vagão vermelho acidentado no rio, numa prateleira, perto dos trilhos, sul de Moreau"
+  },
+  {
+   "id": "cc-nine1nine-lenora-deep-red",
+   "t": "**Lenora - Deep Red**",
+   "d": "Num sofá amarelo na base do Saint Malo I Condominiums, perto da Bayside Dr, Tequesta Retreat"
+  },
+  {
+   "id": "cc-nine1nine-lenora-pink",
+   "t": "**Lenora - Pink**",
+   "d": "Numa mesa ao lado de uma caixa de mudança e de pichações na parede, apartamento 21, último andar do condomínio colorido na Rialto Cswy, nordeste de Rockridge"
+  },
+  {
+   "id": "cc-nine1nine-lenora-purple",
+   "t": "**Lenora - Purple**",
+   "d": "No corrimão no alto da escada da porta lateral atrás do Basix Food & Pharmacy, SW 4th Ave, norte de Tequesta"
+  },
+  {
+   "id": "cc-nine1nine-louise-bronze",
+   "t": "**Louise - Bronze**",
+   "d": "Na beira do telhado mais alto de um prédio abandonado sobre um pátio, Westbrook Dr, leste de Salton"
+  },
+  {
+   "id": "cc-nine1nine-louise-gold",
+   "t": "**Louise - Gold**",
+   "d": "No parapeito da torre norte sobre o Merlin's Palace Casino, NW 15th Ave, sul de Balsero"
+  },
+  {
+   "id": "cc-nine1nine-louise-silver",
+   "t": "**Louise - Silver**",
+   "d": "Em cima do vaso com o gnomo no banheiro masculino da pequena área de descanso perto do píer, sudeste do Lake Leonida, norte de Belville"
+  },
+  {
+   "id": "cc-nine1nine-meghan-bronze",
+   "t": "**Meghan - Bronze**",
+   "d": "Na segunda prateleira de uma estante no depósito de cima na lateral da Vice City Pawn, perto da NE 3rd Ave, Crosstown"
+  },
+  {
+   "id": "cc-nine1nine-meghan-gold",
+   "t": "**Meghan - Gold**",
+   "d": "No alto da torre no canteiro central da US-183, atrás da placa do King Gator Adventure Golf"
+  },
+  {
+   "id": "cc-nine1nine-meghan-silver",
+   "t": "**Meghan - Silver**",
+   "d": "Ao lado de um colchão sob um gnomo na praia junto ao quebra-mar sul, canto sudeste de Waning Sands"
+  },
+  {
+   "id": "cc-nine1nine-serena-bronze",
+   "t": "**Serena - Bronze**",
+   "d": "No chão ao lado de um sofá azul do lado de fora de um celeiro grande caindo aos pedaços perto da Forest Mill Rd, leste do Mount Kalaga National Park"
+  },
+  {
+   "id": "cc-nine1nine-serena-gold",
+   "t": "**Serena - Gold**",
+   "d": "No balcão na lateral de uma garagem separada cheia de manequins de uma mansão na Palladia Ln, sul de Peacock Estates"
+  },
+  {
+   "id": "cc-nine1nine-serena-silver",
+   "t": "**Serena - Silver**",
+   "d": "Numa poltrona de couro marrom na praia a sudoeste de Grayson"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Nine1Nine"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Nine1Nine",
+  "sum": "36 dancers cards, with every location.",
+  "body": "- Dancers, 36 cards. Locations from IGN's list; tick each one as you grab it.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Nine1Nine"
+  ],
+  "check": [
+   {
+    "id": "cc-nine1nine-amie-deep-red",
+    "t": "**Amie - Deep Red**",
+    "d": "On top of a bench seat in a small picnic area in the middle of Buckskin Swamp"
+   },
+   {
+    "id": "cc-nine1nine-amie-pink",
+    "t": "**Amie - Pink**",
+    "d": "On top of the toilet in the men's bathroom inside the Rusty Anchor bar in northern Key Lento"
+   },
+   {
+    "id": "cc-nine1nine-amie-purple",
+    "t": "**Amie - Purple**",
+    "d": "On top of an outdoor bed on the balcony in the back of a colorful house on Vela Rota Dr in northwestern Capri"
+   },
+   {
+    "id": "cc-nine1nine-braelynn-deep-red",
+    "t": "**Braelynn - Deep Red**",
+    "d": "On the top floor of an abandoned observatory next to a magazine on the side of a dirt road in North Kelly County"
+   },
+   {
+    "id": "cc-nine1nine-braelynn-pink",
+    "t": "**Braelynn - Pink**",
+    "d": "Underneath a bong on a ledge behind the Xero Gas sign along one of the racetracks in the Gellhorn Raceway in southwestern Gellhorn"
+   },
+   {
+    "id": "cc-nine1nine-braelynn-purple",
+    "t": "**Braelynn - Purple**",
+    "d": "Next to a mattress on the top floor of a destroyed church off of Bear Hollow Dr in Millport"
+   },
+   {
+    "id": "cc-nine1nine-chrissie-deep-red",
+    "t": "**Chrissie - Deep Red**",
+    "d": "On top of a red blanket surrounded by trash in a cave through the mountain in the MacAlister Gold Mine in Moreau"
+   },
+   {
+    "id": "cc-nine1nine-chrissie-pink",
+    "t": "**Chrissie - Pink**",
+    "d": "Tucked into the cushion of a chair in the corner of a red mobile home on Baywood Rd in Port Gellhorn"
+   },
+   {
+    "id": "cc-nine1nine-chrissie-purple",
+    "t": "**Chrissie - Purple**",
+    "d": "Next to a crate in a small camp in a cave going through the mountain near the railroad tracks in Manifest Canyon"
+   },
+   {
+    "id": "cc-nine1nine-clarissa-bronze",
+    "t": "**Clarissa - Bronze**",
+    "d": "Next to two lawn chairs on the roof of the yellow apartment building on NW 3rd Ave in southern Little Cuba"
+   },
+   {
+    "id": "cc-nine1nine-clarissa-gold",
+    "t": "**Clarissa - Gold**",
+    "d": "Under a lawn chair on the edge of the upper roof of the Leonida Industrial Services factory in the western section of the Breakwater Quarry in North Mariana County"
+   },
+   {
+    "id": "cc-nine1nine-clarissa-silver",
+    "t": "**Clarissa - Silver**",
+    "d": "Next to a magazine on the counter of the garage of a yellow villa on the northwestern peninsula of Capri"
+   },
+   {
+    "id": "cc-nine1nine-georgia-deep-red",
+    "t": "**Georgia - Deep Red**",
+    "d": "Underneath a lawn chair on the front patio next to the door into a white mobile home on the side of Forest Mill Rd in Millport"
+   },
+   {
+    "id": "cc-nine1nine-georgia-pink",
+    "t": "**Georgia - Pink**",
+    "d": "Tucked into a sleeping bag on a mattress in the middle of a rundown house on the corner of NW 11th St and NW 11th Pl in southern La Perle"
+   },
+   {
+    "id": "cc-nine1nine-georgia-purple",
+    "t": "**Georgia - Purple**",
+    "d": "On top of a stack of boxes in the storage room behind the Steven Strachan Construction building on the Sunbelt Hwy in central Key Lento"
+   },
+   {
+    "id": "cc-nine1nine-jesenia-bronze",
+    "t": "**Jesenia - Bronze**",
+    "d": "Underneath a lawn chair on top of tank AC-2C in the Vice-Dale County Water Analysis and Testing lot on SR-120 in northeastern Balsero"
+   },
+   {
+    "id": "cc-nine1nine-jesenia-gold",
+    "t": "**Jesenia - Gold**",
+    "d": "On top of the TV stand next to the receiver on the second floor of a modern mansion on the northwestern coast of Vespucci Island"
+   },
+   {
+    "id": "cc-nine1nine-jesenia-silver",
+    "t": "**Jesenia - Silver**",
+    "d": "On top of a table under an umbrella on a sandbar surrounded by boats off the northern coast of the Permit Keys"
+   },
+   {
+    "id": "cc-nine1nine-julia-bronze",
+    "t": "**Julia - Bronze**",
+    "d": "On the ground next to a magazine inside a small shack next to the air traffic control tower of Wild Hog Point's airport"
+   },
+   {
+    "id": "cc-nine1nine-julia-gold",
+    "t": "**Julia - Gold**",
+    "d": "Between two magazines next to a bed on the middle rooftop courtyard of the Ocean Beach Apartments building on Huevo St in Ocean Beach"
+   },
+   {
+    "id": "cc-nine1nine-julia-silver",
+    "t": "**Julia - Silver**",
+    "d": "On the railing of the overlook on the roof of the Bounty Plaza on SW 5th Ave in northern Peacock Bay"
+   },
+   {
+    "id": "cc-nine1nine-lavinia-deep-red",
+    "t": "**Lavinia - Deep Red**",
+    "d": "On top of the desk in the office of the Xero Draper Refinery Engineering Maintenance warehouse in northern Draper Island"
+   },
+   {
+    "id": "cc-nine1nine-lavinia-pink",
+    "t": "**Lavinia - Pink**",
+    "d": "On top of a barrel in the back room of the abandoned Lotto, Beer, Groceries gas station on the corner of Chestnut Dr and Forest Mill Rd in Millport"
+   },
+   {
+    "id": "cc-nine1nine-lavinia-purple",
+    "t": "**Lavinia - Purple**",
+    "d": "Inside a red, crashed train car in the river on a shelf near the railroad tracks in southern Moreau"
+   },
+   {
+    "id": "cc-nine1nine-lenora-deep-red",
+    "t": "**Lenora - Deep Red**",
+    "d": "On top of a yellow couch at the base of the Saint Malo I Condominiums near Bayside Dr on Tequesta Retreat"
+   },
+   {
+    "id": "cc-nine1nine-lenora-pink",
+    "t": "**Lenora - Pink**",
+    "d": "On top of a table next to a moving box and writing on the wall inside apartment 21 on the top floor of the color apartment complex on Rialto Cswy in northeastern Rockridge"
+   },
+   {
+    "id": "cc-nine1nine-lenora-purple",
+    "t": "**Lenora - Purple**",
+    "d": "On the railing at the top of the stairs going into the side door behind the Basix Food & Pharmacy building on SW 4th Ave in northern Tequesta"
+   },
+   {
+    "id": "cc-nine1nine-louise-bronze",
+    "t": "**Louise - Bronze**",
+    "d": "On the edge of the top roof of an abandoned building over a courtyard on Westbrook Dr in eastern Salton"
+   },
+   {
+    "id": "cc-nine1nine-louise-gold",
+    "t": "**Louise - Gold**",
+    "d": "On the parapet on the northern tower over the Merlin's Palace Casino on NW 15th Ave in southern Balsero"
+   },
+   {
+    "id": "cc-nine1nine-louise-silver",
+    "t": "**Louise - Silver**",
+    "d": "On top of the toilet with the gnome in the men's bathroom of the small rest area near the dock in the southeastern part of Lake Leonida in northern Belville"
+   },
+   {
+    "id": "cc-nine1nine-meghan-bronze",
+    "t": "**Meghan - Bronze**",
+    "d": "On the second shelf of a shelving unit in the upper storage room on the side of the Vice City Pawn shop off of NE 3rd Ave in Crosstown"
+   },
+   {
+    "id": "cc-nine1nine-meghan-gold",
+    "t": "**Meghan - Gold**",
+    "d": "On top of the tower in the median of US-183 behind the King Gator Adventure Golf sign"
+   },
+   {
+    "id": "cc-nine1nine-meghan-silver",
+    "t": "**Meghan - Silver**",
+    "d": "Next to a mattress under a gnome on the beach next to the southern seawall in the southeastern corner of the Waning Sands"
+   },
+   {
+    "id": "cc-nine1nine-serena-bronze",
+    "t": "**Serena - Bronze**",
+    "d": "On the ground next to a blue couch outside a large, run-down barn off of Forest Mill Rd in eastern Mount Kalaga National Park"
+   },
+   {
+    "id": "cc-nine1nine-serena-gold",
+    "t": "**Serena - Gold**",
+    "d": "On the counter on the side of a detached garage full of mannequins of a mansion on Palladia Ln in the southern part of the Peacock Estates"
+   },
+   {
+    "id": "cc-nine1nine-serena-silver",
+    "t": "**Serena - Silver**",
+    "d": "On top of a brown leather chair on the beach southwest of Grayson"
+   }
+  ]
+ }
+}

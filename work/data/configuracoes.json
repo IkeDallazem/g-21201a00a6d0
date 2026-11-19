@@ -1,0 +1,375 @@
+[
+ {
+  "kind": "card",
+  "id": "config-tela-inicial",
+  "sec": "configuracoes",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "pre"
+  ],
+  "title": "As 5 perguntas da primeira tela",
+  "sum": "Antes do Prólogo o jogo pergunta 5 coisas. As legendas vêm desligadas.",
+  "body": "Tudo pode ser mudado depois no menu. Fonte: nettoge (Japão), a partir de transmissões do jogo real.",
+  "table": {
+   "cols": [
+    "Opção",
+    "Padrão",
+    "Recomendação"
+   ],
+   "rows": [
+    [
+     "Leitura de tela",
+     "Desligada",
+     "Deixe desligada, salvo necessidade"
+    ],
+    [
+     "Minimapa e navegação",
+     "Dinâmico (só aparece quando precisa)",
+     "**Sempre ligado**, ou minimapa com bússola"
+    ],
+    [
+     "Tamanho do texto",
+     "Pequeno",
+     "Maior se a TV estiver longe"
+    ],
+    [
+     "Legendas",
+     "**Desligadas**",
+     "**Ligar**, em todos os diálogos (há opção que mostra só nas missões)"
+    ],
+    [
+     "Brilho",
+     "15",
+     "Perto de 20"
+    ]
+   ],
+   "sort": true
+  },
+  "src": [
+   "nettoge (JP)"
+  ],
+  "kw": [
+   "legenda",
+   "minimapa",
+   "brilho",
+   "texto",
+   "acessibilidade"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "The 5 questions on the first screen",
+   "sum": "Before the Prologue the game asks 5 things. Subtitles start off.",
+   "body": "Everything can be changed later in the menu. Source: nettoge (Japan), from streams of the actual game.",
+   "table": {
+    "cols": [
+     "Option",
+     "Default",
+     "Recommendation"
+    ],
+    "rows": [
+     [
+      "Screen reader",
+      "Off",
+      "Leave it off unless you need it"
+     ],
+     [
+      "Minimap and navigation",
+      "Dynamic (only shows when needed)",
+      "**Always on**, or minimap with compass"
+     ],
+     [
+      "Text size",
+      "Small",
+      "Larger if the TV is far away"
+     ],
+     [
+      "Subtitles",
+      "**Off**",
+      "**Turn on**, for all dialogue (there's an option that shows them only in missions)"
+     ],
+     [
+      "Brightness",
+      "15",
+      "Around 20"
+     ]
+    ],
+    "sort": true
+   },
+   "kw": [
+    "subtitles",
+    "minimap",
+    "brightness",
+    "text",
+    "accessibility"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "config-recomendada",
+  "sec": "configuracoes",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "pre"
+  ],
+  "title": "Configuração recomendada",
+  "sum": "O que mudar no menu e por quê.",
+  "table": {
+   "cols": [
+    "Opção",
+    "Recomendação",
+    "Por quê"
+   ],
+   "rows": [
+    [
+     "Legendas",
+     "PT-BR, ligadas em todas as falas",
+     "Não há dublagem, e sem isso você perde os diálogos do mundo aberto"
+    ],
+    [
+     "Assistência de mira",
+     "Padrão. Se vier do GTA V, moderada ou mais nas primeiras horas, depois reduza",
+     "A mira automática forte do GTA V acabou"
+    ],
+    [
+     "Sensibilidade de câmera e mira",
+     "Padrão 7. Suba de um em um até 10 se estiver lenta",
+     "Guias japoneses acharam a câmera lenta"
+    ],
+    [
+     "Notificações de HUD",
+     "Todas ligadas: progresso, colecionáveis e Perfil Criminal (Settings > UI > HUD Notifications)",
+     "Mostram como suas ações mexem no perfil"
+    ],
+    [
+     "Minimapa",
+     "Sempre ligado ou Clássico",
+     "Para nunca perder a navegação"
+    ],
+    [
+     "Câmeras cinematográficas",
+     "Batida e abate desligadas",
+     "Atrapalham a leitura da fuga"
+    ],
+    [
+     "Motion blur",
+     "Baixar ou zerar (padrão 5)",
+     "Cansa a vista"
+    ],
+    [
+     "HDR",
+     "Calibrar no console; ajustar brilho máximo, nível de preto e “papel branco” (começam em 50)",
+     "Imagem correta"
+    ],
+    [
+     "Unidades",
+     "Métrico, se preferir (vem em milhas, mph e °F)",
+     "Dica de comunidade, confiança baixa"
+    ],
+    [
+     "Música licenciada e Modo Streamer",
+     "Só mexa se for transmitir ou gravar",
+     "Desliga as músicas"
+    ],
+    [
+     "DualSense",
+     "Gatilhos adaptativos ajustáveis nas opções de acessibilidade",
+     "Conforto"
+    ],
+    [
+     "TV",
+     "Modo Jogo ligado",
+     "Menos atraso"
+    ]
+   ],
+   "sort": false
+  },
+  "div": "Mira padrão: fontes ocidentais falam em mira livre com pouca “aderência”. O nettoge (Japão) relata assistência “parcial” na intensidade 4, com assistência de tiro em veículo e “saque rápido” ligados. Confira no seu menu.",
+  "src": [
+   "PowerPyx",
+   "Skycoach",
+   "TechWiser",
+   "nettoge (JP)",
+   "fmkorea (KR)"
+  ],
+  "kw": [
+   "mira",
+   "aim assist",
+   "sensibilidade",
+   "hud",
+   "motion blur",
+   "hdr",
+   "unidades",
+   "km",
+   "configuracao"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Recommended settings",
+   "sum": "What to change in the menu and why.",
+   "table": {
+    "cols": [
+     "Option",
+     "Recommendation",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Subtitles",
+      "On for all dialogue (pick your language)",
+      "There's no dub, and without them you miss open-world dialogue"
+     ],
+     [
+      "Aim assist",
+      "Default. Coming from GTA V, moderate or higher for the first hours, then lower it",
+      "GTA V's strong lock-on is gone"
+     ],
+     [
+      "Camera and aim sensitivity",
+      "Default 7. Raise one step at a time up to 10 if it feels slow",
+      "Japanese guides found the camera slow"
+     ],
+     [
+      "HUD notifications",
+      "All on: progress, collectibles and Criminal Profile (Settings > UI > HUD Notifications)",
+      "They show how your actions move your profile"
+     ],
+     [
+      "Minimap",
+      "Always on or Classic",
+      "So you never lose navigation"
+     ],
+     [
+      "Cinematic cameras",
+      "Crash and takedown off",
+      "They get in the way of reading the escape"
+     ],
+     [
+      "Motion blur",
+      "Lower or zero (default 5)",
+      "Tiring on the eyes"
+     ],
+     [
+      "HDR",
+      "Calibrate on the console; adjust peak brightness, black level and “paper white” (start at 50)",
+      "Correct image"
+     ],
+     [
+      "Units",
+      "Metric if you prefer (defaults to miles, mph and °F)",
+      "Community tip, low confidence"
+     ],
+     [
+      "Licensed music and Streamer Mode",
+      "Only touch it if you stream or record",
+      "Turns off the songs"
+     ],
+     [
+      "DualSense",
+      "Adaptive triggers adjustable in accessibility options",
+      "Comfort"
+     ],
+     [
+      "TV",
+      "Game Mode on",
+      "Less input lag"
+     ]
+    ],
+    "sort": false
+   },
+   "div": "Default aim: Western sources describe free aim with little “stickiness”. nettoge (Japan) reports “partial” assist at strength 4, with vehicle aim assist and “quick draw” on. Check your own menu.",
+   "kw": [
+    "aim",
+    "aim assist",
+    "sensitivity",
+    "hud",
+    "motion blur",
+    "hdr",
+    "units",
+    "settings"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "config-desempenho",
+  "sec": "configuracoes",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "pre"
+  ],
+  "title": "Desempenho: 30 fps em qualquer console",
+  "sum": "Sem modo desempenho. Se tiver PS5 Pro, jogue nele.",
+  "body": "- **30 fps travados em todos os consoles, PS5 Pro incluído.** Não espere patch de 60 fps: segundo a Rockstar, a CPU do Pro não dá conta da simulação em taxas maiores. {{oficial}}\n- **PS5 Pro:** 30 fps estáveis, upscaling PSSR que passa por 4K nativo e sombras com ray tracing exclusivas. Foi onde a maioria das análises jogou.\n- **PS5 base:** ~1440p interno, com quedas até 23–25 fps em chuva, trânsito denso e explosões (Digital Foundry, Gcores).\n- Reserve **pelo menos 212 GB** livres.",
+  "src": [
+   "Rockstar (Marc Chambers à Kotaku)",
+   "Digital Foundry",
+   "Gcores"
+  ],
+  "kw": [
+   "fps",
+   "60 fps",
+   "ps5 pro",
+   "resolucao",
+   "4k",
+   "performance"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Performance: 30 fps on every console",
+   "sum": "No performance mode. If you have a PS5 Pro, play on it.",
+   "body": "- **30 fps locked on every console, PS5 Pro included.** Don't expect a 60 fps patch: per Rockstar, the Pro's CPU can't handle the simulation at higher rates. {{oficial}}\n- **PS5 Pro:** stable 30 fps, PSSR upscaling that passes for native 4K and exclusive ray-traced shadows. Most reviews played here.\n- **Base PS5:** ~1440p internal, dipping to 23–25 fps in rain, dense traffic and explosions (Digital Foundry, Gcores).\n- Keep **at least 212 GB** free.",
+   "kw": [
+    "fps",
+    "60 fps",
+    "ps5 pro",
+    "resolution",
+    "4k",
+    "performance"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "config-nao-existe",
+  "sec": "configuracoes",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "pre"
+  ],
+  "title": "O que não existe nos menus",
+  "sum": "Sem dificuldade, sem rejogar missões, sem primeira pessoa a pé.",
+  "body": "- **Seletor de dificuldade:** não existe; a dificuldade é uma só. O ajuste real é a mira.\n- **Rejogar missões e medalhas:** não existe. Só um save manual antigo volta no tempo.\n- **Primeira pessoa tradicional a pé:** não existe, segundo a VGC. Há visão em primeira pessoa em alguns veículos, mira pela luneta e um “olhar” em primeira pessoa parado.\n- **New Game Plus:** não existe.",
+  "div": "Um guia de configurações diz que a primeira pessoa está disponível; a VGC e a análise para veteranos dizem que não há modo tradicional a pé.",
+  "src": [
+   "GameSpot",
+   "PowerPyx",
+   "VGC"
+  ],
+  "kw": [
+   "dificuldade",
+   "primeira pessoa",
+   "fps view",
+   "replay",
+   "medalhas"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "What's not in the menus",
+   "sum": "No difficulty, no mission replay, no first person on foot.",
+   "body": "- **Difficulty selector:** doesn't exist; there's one difficulty. The real lever is aim assist.\n- **Mission replay and medals:** don't exist. Only an old manual save takes you back.\n- **Traditional first person on foot:** doesn't exist, per VGC. There's first-person view in some vehicles, scope aiming and a standing first-person “look”.\n- **New Game Plus:** doesn't exist.",
+   "div": "One settings guide says first person is available; VGC and the veterans' review say there's no traditional on-foot mode.",
+   "kw": [
+    "difficulty",
+    "first person",
+    "replay",
+    "medals",
+    "ng+"
+   ]
+  }
+ }
+]

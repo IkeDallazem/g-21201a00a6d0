@@ -1,0 +1,433 @@
+{
+ "kind": "card",
+ "id": "colecao-knife",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Os 40 Knife Flights",
+ "sum": "Avião de lado, a 90°, entre duas torres. Todos em Vice City e Vice Beach.",
+ "body": "- Ficam em Vice Beach, Ocean Beach, Peacock Bay, Tequesta, Downtown, Bayside e Washington Beach.\n- Use um avião pequeno e ágil; incline 90° só na aproximação.\n- Contam para os stunts de [[colecao-stunts]].",
+ "check": [
+  {
+   "id": "kf-positano-towers",
+   "t": "**Positano Towers**",
+   "d": "![Positano Towers](img/ign-kf-positano-towers-1.jpg)\n![Positano Towers (2)](img/ign-kf-positano-towers-2.jpg)"
+  },
+  {
+   "id": "kf-harrison-harbor",
+   "t": "**Harrison Harbor**",
+   "d": "![Harrison Harbor](img/ign-kf-harrison-harbor-1.jpg)\n![Harrison Harbor (2)](img/ign-kf-harrison-harbor-2.jpg)\n![Harrison Harbor (3)](img/ign-kf-harrison-harbor-3.jpg)"
+  },
+  {
+   "id": "kf-the-amalfi",
+   "t": "**The Amalfi**",
+   "d": "![The Amalfi](img/ign-kf-the-amalfi-1.jpg)\n![The Amalfi (2)](img/ign-kf-the-amalfi-2.jpg)\n![The Amalfi (3)](img/ign-kf-the-amalfi-3.jpg)"
+  },
+  {
+   "id": "kf-lampedusa",
+   "t": "**Lampedusa**",
+   "d": "![Lampedusa](img/ign-kf-lampedusa-1.jpg)\n![Lampedusa (2)](img/ign-kf-lampedusa-2.jpg)\n![Lampedusa (3)](img/ign-kf-lampedusa-3.jpg)"
+  },
+  {
+   "id": "kf-the-zaffre",
+   "t": "**The Zaffre**",
+   "d": "![The Zaffre](img/ign-kf-the-zaffre-1.jpg)\n![The Zaffre (2)](img/ign-kf-the-zaffre-2.jpg)\n![The Zaffre (3)](img/ign-kf-the-zaffre-3.jpg)"
+  },
+  {
+   "id": "kf-jia-luxury-condos",
+   "t": "**Jia Luxury Condos**",
+   "d": "![Jia Luxury Condos](img/ign-kf-jia-luxury-condos-1.jpg)\n![Jia Luxury Condos (2)](img/ign-kf-jia-luxury-condos-2.jpg)\n![Jia Luxury Condos (3)](img/ign-kf-jia-luxury-condos-3.jpg)"
+  },
+  {
+   "id": "kf-the-wash-haus",
+   "t": "**The Wash Haus**",
+   "d": "![The Wash Haus](img/ign-kf-the-wash-haus-1.jpg)\n![The Wash Haus (2)](img/ign-kf-the-wash-haus-2.jpg)\n![The Wash Haus (3)](img/ign-kf-the-wash-haus-3.jpg)"
+  },
+  {
+   "id": "kf-maison-estaque",
+   "t": "**Maison Estaque**",
+   "d": "![Maison Estaque](img/ign-kf-maison-estaque-1.jpg)\n![Maison Estaque (2)](img/ign-kf-maison-estaque-2.jpg)\n![Maison Estaque (3)](img/ign-kf-maison-estaque-3.jpg)"
+  },
+  {
+   "id": "kf-peacock-bay-luxury-condominiums-north",
+   "t": "**Peacock Bay Luxury Condominiums North**",
+   "d": "![Peacock Bay Luxury Condominiums North](img/ign-kf-peacock-bay-luxury-condominiums-north-1.jpg)\n![Peacock Bay Luxury Condominiums North (2)](img/ign-kf-peacock-bay-luxury-condominiums-north-2.jpg)\n![Peacock Bay Luxury Condominiums North (3)](img/ign-kf-peacock-bay-luxury-condominiums-north-3.jpg)"
+  },
+  {
+   "id": "kf-peacock-bay-luxury-condominiums-south",
+   "t": "**Peacock Bay Luxury Condominiums South**",
+   "d": "![Peacock Bay Luxury Condominiums South](img/ign-kf-peacock-bay-luxury-condominiums-south-1.jpg)\n![Peacock Bay Luxury Condominiums South (2)](img/ign-kf-peacock-bay-luxury-condominiums-south-2.jpg)\n![Peacock Bay Luxury Condominiums South (3)](img/ign-kf-peacock-bay-luxury-condominiums-south-3.jpg)"
+  },
+  {
+   "id": "kf-the-fitz-gerald",
+   "t": "**The Fitz-Gerald**",
+   "d": "![The Fitz-Gerald](img/ign-kf-the-fitz-gerald-1.jpg)\n![The Fitz-Gerald (2)](img/ign-kf-the-fitz-gerald-2.jpg)\n![The Fitz-Gerald (3)](img/ign-kf-the-fitz-gerald-3.jpg)"
+  },
+  {
+   "id": "kf-peacock-bay-luxury-condominiums-east",
+   "t": "**Peacock Bay Luxury Condominiums East**",
+   "d": "![Peacock Bay Luxury Condominiums East](img/ign-kf-peacock-bay-luxury-condominiums-east-1.jpg)\n![Peacock Bay Luxury Condominiums East (2)](img/ign-kf-peacock-bay-luxury-condominiums-east-2.jpg)\n![Peacock Bay Luxury Condominiums East (3)](img/ign-kf-peacock-bay-luxury-condominiums-east-3.jpg)"
+  },
+  {
+   "id": "kf-dock-of-the-bay-condominiums",
+   "t": "**Dock of the Bay Condominiums**"
+  },
+  {
+   "id": "kf-grand-majestic-aparthotel",
+   "t": "**Grand Majestic Aparthotel**",
+   "d": "![Grand Majestic Aparthotel](img/ign-kf-grand-majestic-aparthotel-1.jpg)\n![Grand Majestic Aparthotel (2)](img/ign-kf-grand-majestic-aparthotel-2.jpg)\n![Grand Majestic Aparthotel (3)](img/ign-kf-grand-majestic-aparthotel-3.jpg)"
+  },
+  {
+   "id": "kf-tequesta-tides-hotel-spa-north",
+   "t": "**Tequesta Tides Hotel & Spa North**",
+   "d": "![Tequesta Tides Hotel & Spa North](img/ign-kf-tequesta-tides-hotel-spa-north-1.jpg)\n![Tequesta Tides Hotel & Spa North (2)](img/ign-kf-tequesta-tides-hotel-spa-north-2.jpg)\n![Tequesta Tides Hotel & Spa North (3)](img/ign-kf-tequesta-tides-hotel-spa-north-3.jpg)"
+  },
+  {
+   "id": "kf-tequesta-tides-hotel-spa-south",
+   "t": "**Tequesta Tides Hotel & Spa South**",
+   "d": "![Tequesta Tides Hotel & Spa South](img/ign-kf-tequesta-tides-hotel-spa-south-1.jpg)\n![Tequesta Tides Hotel & Spa South (2)](img/ign-kf-tequesta-tides-hotel-spa-south-2.jpg)\n![Tequesta Tides Hotel & Spa South (3)](img/ign-kf-tequesta-tides-hotel-spa-south-3.jpg)"
+  },
+  {
+   "id": "kf-the-clarissa-hotel-east",
+   "t": "**The Clarissa Hotel East**",
+   "d": "![The Clarissa Hotel East](img/ign-kf-the-clarissa-hotel-east-1.jpg)\n![The Clarissa Hotel East (2)](img/ign-kf-the-clarissa-hotel-east-2.jpg)\n![The Clarissa Hotel East (3)](img/ign-kf-the-clarissa-hotel-east-3.jpg)"
+  },
+  {
+   "id": "kf-tequesta-on-the-water-apartments",
+   "t": "**Tequesta on the Water Apartments**",
+   "d": "![Tequesta on the Water Apartments](img/ign-kf-tequesta-on-the-water-apartments-1.jpg)\n![Tequesta on the Water Apartments (2)](img/ign-kf-tequesta-on-the-water-apartments-2.jpg)\n![Tequesta on the Water Apartments (3)](img/ign-kf-tequesta-on-the-water-apartments-3.jpg)"
+  },
+  {
+   "id": "kf-neo-paloma-apartments",
+   "t": "**Neo Paloma Apartments**",
+   "d": "![Neo Paloma Apartments](img/ign-kf-neo-paloma-apartments-1.jpg)\n![Neo Paloma Apartments (2)](img/ign-kf-neo-paloma-apartments-2.jpg)\n![Neo Paloma Apartments (3)](img/ign-kf-neo-paloma-apartments-3.jpg)"
+  },
+  {
+   "id": "kf-pj-butlin-baron",
+   "t": "**PJ Butlin Baron**",
+   "d": "![PJ Butlin Baron](img/ign-kf-pj-butlin-baron-1.jpg)\n![PJ Butlin Baron (2)](img/ign-kf-pj-butlin-baron-2.jpg)\n![PJ Butlin Baron (3)](img/ign-kf-pj-butlin-baron-3.jpg)"
+  },
+  {
+   "id": "kf-rico-huxley-hotels",
+   "t": "**Rico Huxley Hotels**",
+   "d": "![Rico Huxley Hotels](img/ign-kf-rico-huxley-hotels-1.jpg)\n![Rico Huxley Hotels (2)](img/ign-kf-rico-huxley-hotels-2.jpg)\n![Rico Huxley Hotels (3)](img/ign-kf-rico-huxley-hotels-3.jpg)"
+  },
+  {
+   "id": "kf-shorefront-hq",
+   "t": "**Shorefront HQ**",
+   "d": "![Shorefront HQ](img/ign-kf-shorefront-hq-1.jpg)\n![Shorefront HQ (2)](img/ign-kf-shorefront-hq-2.jpg)\n![Shorefront HQ (3)](img/ign-kf-shorefront-hq-3.jpg)"
+  },
+  {
+   "id": "kf-the-clarissa-hotel-south",
+   "t": "**The Clarissa Hotel South**",
+   "d": "![The Clarissa Hotel South](img/ign-kf-the-clarissa-hotel-south-1.jpg)\n![The Clarissa Hotel South (2)](img/ign-kf-the-clarissa-hotel-south-2.jpg)\n![The Clarissa Hotel South (3)](img/ign-kf-the-clarissa-hotel-south-3.jpg)"
+  },
+  {
+   "id": "kf-the-clarissa-hotel-north",
+   "t": "**The Clarissa Hotel North**",
+   "d": "![The Clarissa Hotel North](img/ign-kf-the-clarissa-hotel-north-1.jpg)\n![The Clarissa Hotel North (2)](img/ign-kf-the-clarissa-hotel-north-2.jpg)\n![The Clarissa Hotel North (3)](img/ign-kf-the-clarissa-hotel-north-3.jpg)"
+  },
+  {
+   "id": "kf-lnb-hq",
+   "t": "**LNB HQ**",
+   "d": "![LNB HQ](img/ign-kf-lnb-hq-1.jpg)\n![LNB HQ (2)](img/ign-kf-lnb-hq-2.jpg)\n![LNB HQ (3)](img/ign-kf-lnb-hq-3.jpg)"
+  },
+  {
+   "id": "kf-leonida-point-apartments",
+   "t": "**Leonida Point Apartments**",
+   "d": "![Leonida Point Apartments](img/ign-kf-leonida-point-apartments-1.jpg)\n![Leonida Point Apartments (2)](img/ign-kf-leonida-point-apartments-2.jpg)\n![Leonida Point Apartments (3)](img/ign-kf-leonida-point-apartments-3.jpg)"
+  },
+  {
+   "id": "kf-nauticus-condominiums",
+   "t": "**Nauticus Condominiums**",
+   "d": "![Nauticus Condominiums](img/ign-kf-nauticus-condominiums-1.jpg)\n![Nauticus Condominiums (2)](img/ign-kf-nauticus-condominiums-2.jpg)\n![Nauticus Condominiums (3)](img/ign-kf-nauticus-condominiums-3.jpg)"
+  },
+  {
+   "id": "kf-derwent-towers",
+   "t": "**Derwent Towers**",
+   "d": "![Derwent Towers](img/ign-kf-derwent-towers-1.jpg)\n![Derwent Towers (2)](img/ign-kf-derwent-towers-2.jpg)\n![Derwent Towers (3)](img/ign-kf-derwent-towers-3.jpg)"
+  },
+  {
+   "id": "kf-flora-hotel",
+   "t": "**Flora Hotel** — pelo buraco na lateral do prédio",
+   "d": "![Flora Hotel](img/ign-kf-flora-hotel-1.jpg)\n![Flora Hotel (2)](img/ign-kf-flora-hotel-2.jpg)\n![Flora Hotel (3)](img/ign-kf-flora-hotel-3.jpg)"
+  },
+  {
+   "id": "kf-arcadia-towers-apartments",
+   "t": "**Arcadia Towers Apartments**",
+   "d": "![Arcadia Towers Apartments](img/ign-kf-arcadia-towers-apartments-1.jpg)\n![Arcadia Towers Apartments (2)](img/ign-kf-arcadia-towers-apartments-2.jpg)\n![Arcadia Towers Apartments (3)](img/ign-kf-arcadia-towers-apartments-3.jpg)"
+  },
+  {
+   "id": "kf-aida-towers",
+   "t": "**Aida Towers**",
+   "d": "![Aida Towers](img/ign-kf-aida-towers-1.jpg)\n![Aida Towers (2)](img/ign-kf-aida-towers-2.jpg)\n![Aida Towers (3)](img/ign-kf-aida-towers-3.jpg)"
+  },
+  {
+   "id": "kf-archipelago-apartments",
+   "t": "**Archipelago Apartments**",
+   "d": "![Archipelago Apartments](img/ign-kf-archipelago-apartments-1.jpg)\n![Archipelago Apartments (2)](img/ign-kf-archipelago-apartments-2.jpg)\n![Archipelago Apartments (3)](img/ign-kf-archipelago-apartments-3.jpg)"
+  },
+  {
+   "id": "kf-tidemark",
+   "t": "**Tidemark**",
+   "d": "![Tidemark](img/ign-kf-tidemark-1.jpg)\n![Tidemark (2)](img/ign-kf-tidemark-2.jpg)\n![Tidemark (3)](img/ign-kf-tidemark-3.jpg)"
+  },
+  {
+   "id": "kf-brandy-carmine",
+   "t": "**Brandy Carmine**",
+   "d": "![Brandy Carmine](img/ign-kf-brandy-carmine-1.jpg)\n![Brandy Carmine (2)](img/ign-kf-brandy-carmine-2.jpg)\n![Brandy Carmine (3)](img/ign-kf-brandy-carmine-3.jpg)"
+  },
+  {
+   "id": "kf-the-fitz-gerald-north",
+   "t": "**The Fitz-Gerald North**",
+   "d": "![The Fitz-Gerald North](img/ign-kf-the-fitz-gerald-north-1.jpg)\n![The Fitz-Gerald North (2)](img/ign-kf-the-fitz-gerald-north-2.jpg)\n![The Fitz-Gerald North (3)](img/ign-kf-the-fitz-gerald-north-3.jpg)"
+  },
+  {
+   "id": "kf-the-fitz-gerald-south",
+   "t": "**The Fitz-Gerald South**",
+   "d": "![The Fitz-Gerald South](img/ign-kf-the-fitz-gerald-south-1.jpg)\n![The Fitz-Gerald South (2)](img/ign-kf-the-fitz-gerald-south-2.jpg)\n![The Fitz-Gerald South (3)](img/ign-kf-the-fitz-gerald-south-3.jpg)"
+  },
+  {
+   "id": "kf-bam1-condominiums",
+   "t": "**BAM1 Condominiums**",
+   "d": "![BAM1 Condominiums](img/ign-kf-bam1-condominiums-1.jpg)\n![BAM1 Condominiums (2)](img/ign-kf-bam1-condominiums-2.jpg)\n![BAM1 Condominiums (3)](img/ign-kf-bam1-condominiums-3.jpg)"
+  },
+  {
+   "id": "kf-aurum-condominiums",
+   "t": "**Aurum Condominiums** — pela abertura no meio do prédio"
+  },
+  {
+   "id": "kf-moon",
+   "t": "**Moon**",
+   "d": "![Moon](img/ign-kf-moon-1.jpg)\n![Moon (2)](img/ign-kf-moon-2.jpg)\n![Moon (3)](img/ign-kf-moon-3.jpg)"
+  },
+  {
+   "id": "kf-one-stracathro-tower",
+   "t": "**One Stracathro Tower**",
+   "d": "![One Stracathro Tower](img/ign-kf-one-stracathro-tower-1.jpg)\n![One Stracathro Tower (2)](img/ign-kf-one-stracathro-tower-2.jpg)\n![One Stracathro Tower (3)](img/ign-kf-one-stracathro-tower-3.jpg)"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "knife flight",
+  "faca",
+  "aviao de lado",
+  "stunt"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "The 40 Knife Flights",
+  "sum": "Plane on its side, at 90°, between two towers. All in Vice City and Vice Beach.",
+  "body": "- They're in Vice Beach, Ocean Beach, Peacock Bay, Tequesta, Downtown, Bayside and Washington Beach.\n- Use a small, nimble plane and only bank 90° on the approach.\n- They count toward the stunts in [[colecao-stunts]].",
+  "kw": [
+   "knife flight",
+   "plane",
+   "stunt"
+  ],
+  "check": [
+   {
+    "id": "kf-positano-towers",
+    "t": "**Positano Towers**",
+    "d": "![Positano Towers](img/ign-kf-positano-towers-1.jpg)\n![Positano Towers (2)](img/ign-kf-positano-towers-2.jpg)"
+   },
+   {
+    "id": "kf-harrison-harbor",
+    "t": "**Harrison Harbor**",
+    "d": "![Harrison Harbor](img/ign-kf-harrison-harbor-1.jpg)\n![Harrison Harbor (2)](img/ign-kf-harrison-harbor-2.jpg)\n![Harrison Harbor (3)](img/ign-kf-harrison-harbor-3.jpg)"
+   },
+   {
+    "id": "kf-the-amalfi",
+    "t": "**The Amalfi**",
+    "d": "![The Amalfi](img/ign-kf-the-amalfi-1.jpg)\n![The Amalfi (2)](img/ign-kf-the-amalfi-2.jpg)\n![The Amalfi (3)](img/ign-kf-the-amalfi-3.jpg)"
+   },
+   {
+    "id": "kf-lampedusa",
+    "t": "**Lampedusa**",
+    "d": "![Lampedusa](img/ign-kf-lampedusa-1.jpg)\n![Lampedusa (2)](img/ign-kf-lampedusa-2.jpg)\n![Lampedusa (3)](img/ign-kf-lampedusa-3.jpg)"
+   },
+   {
+    "id": "kf-the-zaffre",
+    "t": "**The Zaffre**",
+    "d": "![The Zaffre](img/ign-kf-the-zaffre-1.jpg)\n![The Zaffre (2)](img/ign-kf-the-zaffre-2.jpg)\n![The Zaffre (3)](img/ign-kf-the-zaffre-3.jpg)"
+   },
+   {
+    "id": "kf-jia-luxury-condos",
+    "t": "**Jia Luxury Condos**",
+    "d": "![Jia Luxury Condos](img/ign-kf-jia-luxury-condos-1.jpg)\n![Jia Luxury Condos (2)](img/ign-kf-jia-luxury-condos-2.jpg)\n![Jia Luxury Condos (3)](img/ign-kf-jia-luxury-condos-3.jpg)"
+   },
+   {
+    "id": "kf-the-wash-haus",
+    "t": "**The Wash Haus**",
+    "d": "![The Wash Haus](img/ign-kf-the-wash-haus-1.jpg)\n![The Wash Haus (2)](img/ign-kf-the-wash-haus-2.jpg)\n![The Wash Haus (3)](img/ign-kf-the-wash-haus-3.jpg)"
+   },
+   {
+    "id": "kf-maison-estaque",
+    "t": "**Maison Estaque**",
+    "d": "![Maison Estaque](img/ign-kf-maison-estaque-1.jpg)\n![Maison Estaque (2)](img/ign-kf-maison-estaque-2.jpg)\n![Maison Estaque (3)](img/ign-kf-maison-estaque-3.jpg)"
+   },
+   {
+    "id": "kf-peacock-bay-luxury-condominiums-north",
+    "t": "**Peacock Bay Luxury Condominiums North**",
+    "d": "![Peacock Bay Luxury Condominiums North](img/ign-kf-peacock-bay-luxury-condominiums-north-1.jpg)\n![Peacock Bay Luxury Condominiums North (2)](img/ign-kf-peacock-bay-luxury-condominiums-north-2.jpg)\n![Peacock Bay Luxury Condominiums North (3)](img/ign-kf-peacock-bay-luxury-condominiums-north-3.jpg)"
+   },
+   {
+    "id": "kf-peacock-bay-luxury-condominiums-south",
+    "t": "**Peacock Bay Luxury Condominiums South**",
+    "d": "![Peacock Bay Luxury Condominiums South](img/ign-kf-peacock-bay-luxury-condominiums-south-1.jpg)\n![Peacock Bay Luxury Condominiums South (2)](img/ign-kf-peacock-bay-luxury-condominiums-south-2.jpg)\n![Peacock Bay Luxury Condominiums South (3)](img/ign-kf-peacock-bay-luxury-condominiums-south-3.jpg)"
+   },
+   {
+    "id": "kf-the-fitz-gerald",
+    "t": "**The Fitz-Gerald**",
+    "d": "![The Fitz-Gerald](img/ign-kf-the-fitz-gerald-1.jpg)\n![The Fitz-Gerald (2)](img/ign-kf-the-fitz-gerald-2.jpg)\n![The Fitz-Gerald (3)](img/ign-kf-the-fitz-gerald-3.jpg)"
+   },
+   {
+    "id": "kf-peacock-bay-luxury-condominiums-east",
+    "t": "**Peacock Bay Luxury Condominiums East**",
+    "d": "![Peacock Bay Luxury Condominiums East](img/ign-kf-peacock-bay-luxury-condominiums-east-1.jpg)\n![Peacock Bay Luxury Condominiums East (2)](img/ign-kf-peacock-bay-luxury-condominiums-east-2.jpg)\n![Peacock Bay Luxury Condominiums East (3)](img/ign-kf-peacock-bay-luxury-condominiums-east-3.jpg)"
+   },
+   {
+    "id": "kf-dock-of-the-bay-condominiums",
+    "t": "**Dock of the Bay Condominiums**"
+   },
+   {
+    "id": "kf-grand-majestic-aparthotel",
+    "t": "**Grand Majestic Aparthotel**",
+    "d": "![Grand Majestic Aparthotel](img/ign-kf-grand-majestic-aparthotel-1.jpg)\n![Grand Majestic Aparthotel (2)](img/ign-kf-grand-majestic-aparthotel-2.jpg)\n![Grand Majestic Aparthotel (3)](img/ign-kf-grand-majestic-aparthotel-3.jpg)"
+   },
+   {
+    "id": "kf-tequesta-tides-hotel-spa-north",
+    "t": "**Tequesta Tides Hotel & Spa North**",
+    "d": "![Tequesta Tides Hotel & Spa North](img/ign-kf-tequesta-tides-hotel-spa-north-1.jpg)\n![Tequesta Tides Hotel & Spa North (2)](img/ign-kf-tequesta-tides-hotel-spa-north-2.jpg)\n![Tequesta Tides Hotel & Spa North (3)](img/ign-kf-tequesta-tides-hotel-spa-north-3.jpg)"
+   },
+   {
+    "id": "kf-tequesta-tides-hotel-spa-south",
+    "t": "**Tequesta Tides Hotel & Spa South**",
+    "d": "![Tequesta Tides Hotel & Spa South](img/ign-kf-tequesta-tides-hotel-spa-south-1.jpg)\n![Tequesta Tides Hotel & Spa South (2)](img/ign-kf-tequesta-tides-hotel-spa-south-2.jpg)\n![Tequesta Tides Hotel & Spa South (3)](img/ign-kf-tequesta-tides-hotel-spa-south-3.jpg)"
+   },
+   {
+    "id": "kf-the-clarissa-hotel-east",
+    "t": "**The Clarissa Hotel East**",
+    "d": "![The Clarissa Hotel East](img/ign-kf-the-clarissa-hotel-east-1.jpg)\n![The Clarissa Hotel East (2)](img/ign-kf-the-clarissa-hotel-east-2.jpg)\n![The Clarissa Hotel East (3)](img/ign-kf-the-clarissa-hotel-east-3.jpg)"
+   },
+   {
+    "id": "kf-tequesta-on-the-water-apartments",
+    "t": "**Tequesta on the Water Apartments**",
+    "d": "![Tequesta on the Water Apartments](img/ign-kf-tequesta-on-the-water-apartments-1.jpg)\n![Tequesta on the Water Apartments (2)](img/ign-kf-tequesta-on-the-water-apartments-2.jpg)\n![Tequesta on the Water Apartments (3)](img/ign-kf-tequesta-on-the-water-apartments-3.jpg)"
+   },
+   {
+    "id": "kf-neo-paloma-apartments",
+    "t": "**Neo Paloma Apartments**",
+    "d": "![Neo Paloma Apartments](img/ign-kf-neo-paloma-apartments-1.jpg)\n![Neo Paloma Apartments (2)](img/ign-kf-neo-paloma-apartments-2.jpg)\n![Neo Paloma Apartments (3)](img/ign-kf-neo-paloma-apartments-3.jpg)"
+   },
+   {
+    "id": "kf-pj-butlin-baron",
+    "t": "**PJ Butlin Baron**",
+    "d": "![PJ Butlin Baron](img/ign-kf-pj-butlin-baron-1.jpg)\n![PJ Butlin Baron (2)](img/ign-kf-pj-butlin-baron-2.jpg)\n![PJ Butlin Baron (3)](img/ign-kf-pj-butlin-baron-3.jpg)"
+   },
+   {
+    "id": "kf-rico-huxley-hotels",
+    "t": "**Rico Huxley Hotels**",
+    "d": "![Rico Huxley Hotels](img/ign-kf-rico-huxley-hotels-1.jpg)\n![Rico Huxley Hotels (2)](img/ign-kf-rico-huxley-hotels-2.jpg)\n![Rico Huxley Hotels (3)](img/ign-kf-rico-huxley-hotels-3.jpg)"
+   },
+   {
+    "id": "kf-shorefront-hq",
+    "t": "**Shorefront HQ**",
+    "d": "![Shorefront HQ](img/ign-kf-shorefront-hq-1.jpg)\n![Shorefront HQ (2)](img/ign-kf-shorefront-hq-2.jpg)\n![Shorefront HQ (3)](img/ign-kf-shorefront-hq-3.jpg)"
+   },
+   {
+    "id": "kf-the-clarissa-hotel-south",
+    "t": "**The Clarissa Hotel South**",
+    "d": "![The Clarissa Hotel South](img/ign-kf-the-clarissa-hotel-south-1.jpg)\n![The Clarissa Hotel South (2)](img/ign-kf-the-clarissa-hotel-south-2.jpg)\n![The Clarissa Hotel South (3)](img/ign-kf-the-clarissa-hotel-south-3.jpg)"
+   },
+   {
+    "id": "kf-the-clarissa-hotel-north",
+    "t": "**The Clarissa Hotel North**",
+    "d": "![The Clarissa Hotel North](img/ign-kf-the-clarissa-hotel-north-1.jpg)\n![The Clarissa Hotel North (2)](img/ign-kf-the-clarissa-hotel-north-2.jpg)\n![The Clarissa Hotel North (3)](img/ign-kf-the-clarissa-hotel-north-3.jpg)"
+   },
+   {
+    "id": "kf-lnb-hq",
+    "t": "**LNB HQ**",
+    "d": "![LNB HQ](img/ign-kf-lnb-hq-1.jpg)\n![LNB HQ (2)](img/ign-kf-lnb-hq-2.jpg)\n![LNB HQ (3)](img/ign-kf-lnb-hq-3.jpg)"
+   },
+   {
+    "id": "kf-leonida-point-apartments",
+    "t": "**Leonida Point Apartments**",
+    "d": "![Leonida Point Apartments](img/ign-kf-leonida-point-apartments-1.jpg)\n![Leonida Point Apartments (2)](img/ign-kf-leonida-point-apartments-2.jpg)\n![Leonida Point Apartments (3)](img/ign-kf-leonida-point-apartments-3.jpg)"
+   },
+   {
+    "id": "kf-nauticus-condominiums",
+    "t": "**Nauticus Condominiums**",
+    "d": "![Nauticus Condominiums](img/ign-kf-nauticus-condominiums-1.jpg)\n![Nauticus Condominiums (2)](img/ign-kf-nauticus-condominiums-2.jpg)\n![Nauticus Condominiums (3)](img/ign-kf-nauticus-condominiums-3.jpg)"
+   },
+   {
+    "id": "kf-derwent-towers",
+    "t": "**Derwent Towers**",
+    "d": "![Derwent Towers](img/ign-kf-derwent-towers-1.jpg)\n![Derwent Towers (2)](img/ign-kf-derwent-towers-2.jpg)\n![Derwent Towers (3)](img/ign-kf-derwent-towers-3.jpg)"
+   },
+   {
+    "id": "kf-flora-hotel",
+    "t": "**Flora Hotel** — through the hole in the side of the building",
+    "d": "![Flora Hotel](img/ign-kf-flora-hotel-1.jpg)\n![Flora Hotel (2)](img/ign-kf-flora-hotel-2.jpg)\n![Flora Hotel (3)](img/ign-kf-flora-hotel-3.jpg)"
+   },
+   {
+    "id": "kf-arcadia-towers-apartments",
+    "t": "**Arcadia Towers Apartments**",
+    "d": "![Arcadia Towers Apartments](img/ign-kf-arcadia-towers-apartments-1.jpg)\n![Arcadia Towers Apartments (2)](img/ign-kf-arcadia-towers-apartments-2.jpg)\n![Arcadia Towers Apartments (3)](img/ign-kf-arcadia-towers-apartments-3.jpg)"
+   },
+   {
+    "id": "kf-aida-towers",
+    "t": "**Aida Towers**",
+    "d": "![Aida Towers](img/ign-kf-aida-towers-1.jpg)\n![Aida Towers (2)](img/ign-kf-aida-towers-2.jpg)\n![Aida Towers (3)](img/ign-kf-aida-towers-3.jpg)"
+   },
+   {
+    "id": "kf-archipelago-apartments",
+    "t": "**Archipelago Apartments**",
+    "d": "![Archipelago Apartments](img/ign-kf-archipelago-apartments-1.jpg)\n![Archipelago Apartments (2)](img/ign-kf-archipelago-apartments-2.jpg)\n![Archipelago Apartments (3)](img/ign-kf-archipelago-apartments-3.jpg)"
+   },
+   {
+    "id": "kf-tidemark",
+    "t": "**Tidemark**",
+    "d": "![Tidemark](img/ign-kf-tidemark-1.jpg)\n![Tidemark (2)](img/ign-kf-tidemark-2.jpg)\n![Tidemark (3)](img/ign-kf-tidemark-3.jpg)"
+   },
+   {
+    "id": "kf-brandy-carmine",
+    "t": "**Brandy Carmine**",
+    "d": "![Brandy Carmine](img/ign-kf-brandy-carmine-1.jpg)\n![Brandy Carmine (2)](img/ign-kf-brandy-carmine-2.jpg)\n![Brandy Carmine (3)](img/ign-kf-brandy-carmine-3.jpg)"
+   },
+   {
+    "id": "kf-the-fitz-gerald-north",
+    "t": "**The Fitz-Gerald North**",
+    "d": "![The Fitz-Gerald North](img/ign-kf-the-fitz-gerald-north-1.jpg)\n![The Fitz-Gerald North (2)](img/ign-kf-the-fitz-gerald-north-2.jpg)\n![The Fitz-Gerald North (3)](img/ign-kf-the-fitz-gerald-north-3.jpg)"
+   },
+   {
+    "id": "kf-the-fitz-gerald-south",
+    "t": "**The Fitz-Gerald South**",
+    "d": "![The Fitz-Gerald South](img/ign-kf-the-fitz-gerald-south-1.jpg)\n![The Fitz-Gerald South (2)](img/ign-kf-the-fitz-gerald-south-2.jpg)\n![The Fitz-Gerald South (3)](img/ign-kf-the-fitz-gerald-south-3.jpg)"
+   },
+   {
+    "id": "kf-bam1-condominiums",
+    "t": "**BAM1 Condominiums**",
+    "d": "![BAM1 Condominiums](img/ign-kf-bam1-condominiums-1.jpg)\n![BAM1 Condominiums (2)](img/ign-kf-bam1-condominiums-2.jpg)\n![BAM1 Condominiums (3)](img/ign-kf-bam1-condominiums-3.jpg)"
+   },
+   {
+    "id": "kf-aurum-condominiums",
+    "t": "**Aurum Condominiums** — through the opening in the middle of the building"
+   },
+   {
+    "id": "kf-moon",
+    "t": "**Moon**",
+    "d": "![Moon](img/ign-kf-moon-1.jpg)\n![Moon (2)](img/ign-kf-moon-2.jpg)\n![Moon (3)](img/ign-kf-moon-3.jpg)"
+   },
+   {
+    "id": "kf-one-stracathro-tower",
+    "t": "**One Stracathro Tower**",
+    "d": "![One Stracathro Tower](img/ign-kf-one-stracathro-tower-1.jpg)\n![One Stracathro Tower (2)](img/ign-kf-one-stracathro-tower-2.jpg)\n![One Stracathro Tower (3)](img/ign-kf-one-stracathro-tower-3.jpg)"
+   }
+  ]
+ }
+}

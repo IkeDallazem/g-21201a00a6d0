@@ -1,0 +1,1330 @@
+{
+ "kind": "card",
+ "id": "colecao-stunts",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Stunts: saltos, pontes, knife flights e base jumps",
+ "sum": "397 no total. 250 dão o troféu Cunning Stunts e 300 contam para os 100%.",
+ "body": "- **Stunt Jumps (130):** rampa com desafio opcional (lista abaixo).\n- **Under the Bridge (202):** passar por baixo da ponte de avião ou helicóptero.\n- **Knife Flights (40):** avião inclinado 90° entre duas torres ([[colecao-knife]]).\n- **Base Jumps (25):** saltar entre dois cones amarelos e passar pelos checkpoints no tempo ([[colecao-base]]).\n- Stunt Jumps por condado: Vice-Dale 53, Kelly 29, Lummox 19, Mariana 16, Leonard 13.\n- O desafio de cada salto é um extra: estrelas, carro certo, velocidade, mortal, rádio ou parceiro junto.\n- 250 stunts de qualquer tipo dão **Cunning Stunts**; 300 fecham o item dos 100%.\n- A lista da IGN tem 129 dos 130 saltos.\n- **Controles do Stunt Jump:** analógico esquerdo controla o carro no ar, o direito a velocidade da câmera, {R3} sai da câmera.\n- **Base Jump:** {✕} abre o paraquedas, {L2}/{R2} giram rápido; esquerdo para cima acelera, para baixo freia. Perder um anel custa tempo.",
+ "check": [
+  {
+   "id": "sj-starlet-motel-construction",
+   "t": "**Starlet Motel Construction** — desafio: Pousar com 2 estrelas usando um Maibatsu Sanchez",
+   "d": "![Starlet Motel Construction](img/ign-sj-starlet-motel-construction-1.jpg)\n![Starlet Motel Construction (2)](img/ign-sj-starlet-motel-construction-2.jpg)"
+  },
+  {
+   "id": "sj-saputka-river",
+   "t": "**Saputka River** — desafio: Pousar a mais de 80 km/h (50 mph) com 3 estrelas",
+   "d": "![Saputka River](img/ign-sj-saputka-river-1.jpg)\n![Saputka River (2)](img/ign-sj-saputka-river-2.jpg)\n![Saputka River (3)](img/ign-sj-saputka-river-3.jpg)"
+  },
+  {
+   "id": "sj-lake-leonida-lock-west",
+   "t": "**Lake Leonida Lock West** — desafio: Pousar usando um JoBuilt Rubble",
+   "d": "![Lake Leonida Lock West](img/ign-sj-lake-leonida-lock-west-1.jpg)\n![Lake Leonida Lock West (2)](img/ign-sj-lake-leonida-lock-west-2.jpg)\n![Lake Leonida Lock West (3)](img/ign-sj-lake-leonida-lock-west-3.jpg)"
+  },
+  {
+   "id": "sj-mud-club-pond",
+   "t": "**Mud Club Pond** — desafio: Pousar usando um Vapid Marshall",
+   "d": "![Mud Club Pond](img/ign-sj-mud-club-pond-1.jpg)\n![Mud Club Pond (2)](img/ign-sj-mud-club-pond-2.jpg)\n![Mud Club Pond (3)](img/ign-sj-mud-club-pond-3.jpg)"
+  },
+  {
+   "id": "sj-gellhorn-hilltop",
+   "t": "**Gellhorn Hilltop** — desafio: Pousar usando um Mer-Can Outlaw",
+   "d": "![Gellhorn Hilltop](img/ign-sj-gellhorn-hilltop-1.jpg)\n![Gellhorn Hilltop (2)](img/ign-sj-gellhorn-hilltop-2.jpg)\n![Gellhorn Hilltop (3)](img/ign-sj-gellhorn-hilltop-3.jpg)"
+  },
+  {
+   "id": "sj-vcia-storage-facility",
+   "t": "**VCIA Storage Facility** — desafio: Pousar com um veículo da categoria Vans",
+   "d": "![VCIA Storage Facility](img/ign-sj-vcia-storage-facility-1.jpg)\n![VCIA Storage Facility (2)](img/ign-sj-vcia-storage-facility-2.jpg)\n![VCIA Storage Facility (3)](img/ign-sj-vcia-storage-facility-3.jpg)\n![VCIA Storage Facility (4)](img/ign-sj-vcia-storage-facility-4.jpg)"
+  },
+  {
+   "id": "sj-apollo-aggregates-quarry",
+   "t": "**Apollo Aggregates Quarry** — desafio: Mortal para trás por cima da Calderone Avenue",
+   "d": "![Apollo Aggregates Quarry](img/ign-sj-apollo-aggregates-quarry-1.jpg)\n![Apollo Aggregates Quarry (2)](img/ign-sj-apollo-aggregates-quarry-2.jpg)\n![Apollo Aggregates Quarry (3)](img/ign-sj-apollo-aggregates-quarry-3.jpg)"
+  },
+  {
+   "id": "sj-blackwell-sandrock",
+   "t": "**Blackwell Sandrock** — desafio: Pousar com o parceiro junto",
+   "d": "![Blackwell Sandrock](img/ign-sj-blackwell-sandrock-1.jpg)\n![Blackwell Sandrock (2)](img/ign-sj-blackwell-sandrock-2.jpg)\n![Blackwell Sandrock (3)](img/ign-sj-blackwell-sandrock-3.jpg)"
+  },
+  {
+   "id": "sj-interstate-404",
+   "t": "**Interstate 404** — desafio: Mortal para trás por cima da Interstate 404",
+   "d": "![Interstate 404](img/ign-sj-interstate-404-1.jpg)\n![Interstate 404 (2)](img/ign-sj-interstate-404-2.jpg)\n![Interstate 404 (3)](img/ign-sj-interstate-404-3.jpg)"
+  },
+  {
+   "id": "sj-west-vice-dale-county-broken-bridge",
+   "t": "**West Vice-Dale County Broken Bridge** — desafio: Pousar com veículo roubado",
+   "d": "![West Vice-Dale County Broken Bridge](img/ign-sj-west-vice-dale-county-broken-bridge-1.jpg)\n![West Vice-Dale County Broken Bridge (2)](img/ign-sj-west-vice-dale-county-broken-bridge-2.jpg)\n![West Vice-Dale County Broken Bridge (3)](img/ign-sj-west-vice-dale-county-broken-bridge-3.jpg)"
+  },
+  {
+   "id": "sj-howe-dairy",
+   "t": "**Howe Dairy** — desafio: Pousar por cima do celeiro da Howe Dairy ouvindo a Gloriana Blues Radio",
+   "d": "![Howe Dairy](img/ign-sj-howe-dairy-1.jpg)\n![Howe Dairy (2)](img/ign-sj-howe-dairy-2.jpg)\n![Howe Dairy (3)](img/ign-sj-howe-dairy-3.jpg)"
+  },
+  {
+   "id": "sj-richard-barebone-overpass-north",
+   "t": "**Richard Barebone Overpass North** — desafio: Pousar a mais de 113 km/h (70 mph) e com mortal para trás",
+   "d": "![Richard Barebone Overpass North](img/ign-sj-richard-barebone-overpass-north-1.jpg)\n![Richard Barebone Overpass North (2)](img/ign-sj-richard-barebone-overpass-north-2.jpg)\n![Richard Barebone Overpass North (3)](img/ign-sj-richard-barebone-overpass-north-3.jpg)"
+  },
+  {
+   "id": "sj-schlott-construction-west-vice-dale-county",
+   "t": "**Schlott Construction West Vice-Dale County** — desafio: Pousar com mais de 76 m (250 pés)",
+   "d": "![Schlott Construction West Vice-Dale County](img/ign-sj-schlott-construction-west-vice-dale-county-1.jpg)\n![Schlott Construction West Vice-Dale County (2)](img/ign-sj-schlott-construction-west-vice-dale-county-2.jpg)\n![Schlott Construction West Vice-Dale County (3)](img/ign-sj-schlott-construction-west-vice-dale-county-3.jpg)"
+  },
+  {
+   "id": "sj-county-route-62-roadworks",
+   "t": "**County Route 62 Roadworks** — desafio: Pousar a mais de 121 km/h (75 mph) com um veículo da categoria Picapes",
+   "d": "![County Route 62 Roadworks](img/ign-sj-county-route-62-roadworks-1.jpg)\n![County Route 62 Roadworks (2)](img/ign-sj-county-route-62-roadworks-2.jpg)\n![County Route 62 Roadworks (3)](img/ign-sj-county-route-62-roadworks-3.jpg)"
+  },
+  {
+   "id": "sj-vice-beach-park-in",
+   "t": "**Vice Beach Park In**",
+   "d": "![Vice Beach Park In](img/ign-sj-vice-beach-park-in-1.jpg)\n![Vice Beach Park In (2)](img/ign-sj-vice-beach-park-in-2.jpg)\n![Vice Beach Park In (3)](img/ign-sj-vice-beach-park-in-3.jpg)"
+  },
+  {
+   "id": "sj-saltrock-bridge-east",
+   "t": "**Saltrock Bridge East** — desafio: Encadear os dois saltos na Saltrock Bridge",
+   "d": "![Saltrock Bridge East](img/ign-sj-saltrock-bridge-east-1.jpg)\n![Saltrock Bridge East (2)](img/ign-sj-saltrock-bridge-east-2.jpg)\n![Saltrock Bridge East (3)](img/ign-sj-saltrock-bridge-east-3.jpg)"
+  },
+  {
+   "id": "sj-cargo-road-construction",
+   "t": "**Cargo Road Construction** — desafio: Pousar com conversível de capota abaixada",
+   "d": "![Cargo Road Construction](img/ign-sj-cargo-road-construction-1.jpg)\n![Cargo Road Construction (2)](img/ign-sj-cargo-road-construction-2.jpg)\n![Cargo Road Construction (3)](img/ign-sj-cargo-road-construction-3.jpg)"
+  },
+  {
+   "id": "sj-mastodon-u-s-a",
+   "t": "**Mastodon U.S.A** — desafio: Mortal para trás pelo outdoor da Black Holes",
+   "d": "![Mastodon U.S.A](img/ign-sj-mastodon-u-s-a-1.jpg)\n![Mastodon U.S.A (2)](img/ign-sj-mastodon-u-s-a-2.jpg)\n![Mastodon U.S.A (3)](img/ign-sj-mastodon-u-s-a-3.jpg)"
+  },
+  {
+   "id": "sj-ocean-beach-marina",
+   "t": "**Ocean Beach Marina**",
+   "d": "![Ocean Beach Marina](img/ign-sj-ocean-beach-marina-1.jpg)\n![Ocean Beach Marina (2)](img/ign-sj-ocean-beach-marina-2.jpg)\n![Ocean Beach Marina (3)](img/ign-sj-ocean-beach-marina-3.jpg)"
+  },
+  {
+   "id": "sj-sw-4th-avenue-construction",
+   "t": "**SW 4th Avenue Construction** — desafio: Pousar no estacionamento da LPL",
+   "d": "![SW 4th Avenue Construction](img/ign-sj-sw-4th-avenue-construction-1.jpg)\n![SW 4th Avenue Construction (2)](img/ign-sj-sw-4th-avenue-construction-2.jpg)"
+  },
+  {
+   "id": "sj-saltrock-bridge-west",
+   "t": "**Saltrock Bridge West**",
+   "d": "![Saltrock Bridge West](img/ign-sj-saltrock-bridge-west-1.jpg)\n![Saltrock Bridge West (2)](img/ign-sj-saltrock-bridge-west-2.jpg)\n![Saltrock Bridge West (3)](img/ign-sj-saltrock-bridge-west-3.jpg)"
+  },
+  {
+   "id": "sj-longneck-trail",
+   "t": "**Longneck Trail** — desafio: Pousar com quadriciclo",
+   "d": "![Longneck Trail](img/ign-sj-longneck-trail-1.jpg)\n![Longneck Trail (2)](img/ign-sj-longneck-trail-2.jpg)\n![Longneck Trail (3)](img/ign-sj-longneck-trail-3.jpg)"
+  },
+  {
+   "id": "sj-dth-depot-parking",
+   "t": "**DTH Depot Parking** — desafio: Pousar por cima do telhado mais baixo com 4 estrelas",
+   "d": "![DTH Depot Parking](img/ign-sj-dth-depot-parking-1.jpg)\n![DTH Depot Parking (2)](img/ign-sj-dth-depot-parking-2.jpg)\n![DTH Depot Parking (3)](img/ign-sj-dth-depot-parking-3.jpg)"
+  },
+  {
+   "id": "sj-key-lento-bridge-west",
+   "t": "**Key Lento Bridge West** — desafio: Encadear os dois saltos na Key Lento Bridge",
+   "d": "![Key Lento Bridge West](img/ign-sj-key-lento-bridge-west-1.jpg)\n![Key Lento Bridge West (2)](img/ign-sj-key-lento-bridge-west-2.jpg)\n![Key Lento Bridge West (3)](img/ign-sj-key-lento-bridge-west-3.jpg)"
+  },
+  {
+   "id": "sj-key-lento-bridge-east",
+   "t": "**Key Lento Bridge East**",
+   "d": "![Key Lento Bridge East](img/ign-sj-key-lento-bridge-east-1.jpg)\n![Key Lento Bridge East (2)](img/ign-sj-key-lento-bridge-east-2.jpg)\n![Key Lento Bridge East (3)](img/ign-sj-key-lento-bridge-east-3.jpg)"
+  },
+  {
+   "id": "sj-gellhorn-roadworks-east",
+   "t": "**Gellhorn Roadworks East** — desafio: Mortal duplo para trás usando um Maibatsu Sanchez",
+   "d": "![Gellhorn Roadworks East](img/ign-sj-gellhorn-roadworks-east-1.jpg)\n![Gellhorn Roadworks East (2)](img/ign-sj-gellhorn-roadworks-east-2.jpg)\n![Gellhorn Roadworks East (3)](img/ign-sj-gellhorn-roadworks-east-3.jpg)"
+  },
+  {
+   "id": "sj-port-gellhorn-center-of-praise-purpose",
+   "t": "**Port Gellhorn Center of Praise & Purpose** — desafio: Mortal para trás por cima do Center of Praise & Purpose",
+   "d": "![Port Gellhorn Center of Praise & Purpose](img/ign-sj-port-gellhorn-center-of-praise-purpose-1.jpg)\n![Port Gellhorn Center of Praise & Purpose (2)](img/ign-sj-port-gellhorn-center-of-praise-purpose-2.jpg)\n![Port Gellhorn Center of Praise & Purpose (3)](img/ign-sj-port-gellhorn-center-of-praise-purpose-3.jpg)"
+  },
+  {
+   "id": "sj-vcia-gator-parking",
+   "t": "**VCIA Gator Parking** — desafio: Pousar a mais de 64 km/h (40 mph) com táxi amarelo",
+   "d": "![VCIA Gator Parking](img/ign-sj-vcia-gator-parking-1.jpg)\n![VCIA Gator Parking (2)](img/ign-sj-vcia-gator-parking-2.jpg)\n![VCIA Gator Parking (3)](img/ign-sj-vcia-gator-parking-3.jpg)"
+  },
+  {
+   "id": "sj-mile-zero-air-station-south",
+   "t": "**Mile Zero Air Station South** — desafio: Pousar com 4 estrelas usando um Mammoth Patriot",
+   "d": "![Mile Zero Air Station South](img/ign-sj-mile-zero-air-station-south-1.jpg)\n![Mile Zero Air Station South (2)](img/ign-sj-mile-zero-air-station-south-2.jpg)\n![Mile Zero Air Station South (3)](img/ign-sj-mile-zero-air-station-south-3.jpg)"
+  },
+  {
+   "id": "sj-mile-zero-air-station-southeast",
+   "t": "**Mile Zero Air Station Southeast** — desafio: Pousar ouvindo a The Chamber 106.6",
+   "d": "![Mile Zero Air Station Southeast](img/ign-sj-mile-zero-air-station-southeast-1.jpg)\n![Mile Zero Air Station Southeast (2)](img/ign-sj-mile-zero-air-station-southeast-2.jpg)\n![Mile Zero Air Station Southeast (3)](img/ign-sj-mile-zero-air-station-southeast-3.jpg)"
+  },
+  {
+   "id": "sj-nehrling-river",
+   "t": "**Nehrling River** — desafio: Pousar com mais de 46 m (150 pés)",
+   "d": "![Nehrling River](img/ign-sj-nehrling-river-1.jpg)\n![Nehrling River (2)](img/ign-sj-nehrling-river-2.jpg)\n![Nehrling River (3)](img/ign-sj-nehrling-river-3.jpg)"
+  },
+  {
+   "id": "sj-west-kalaga-logging",
+   "t": "**West Kalaga Logging** — desafio: Mortal para frente",
+   "d": "![West Kalaga Logging](img/ign-sj-west-kalaga-logging-1.jpg)\n![West Kalaga Logging (2)](img/ign-sj-west-kalaga-logging-2.jpg)\n![West Kalaga Logging (3)](img/ign-sj-west-kalaga-logging-3.jpg)"
+  },
+  {
+   "id": "sj-prairie-court",
+   "t": "**Prairie Court**",
+   "d": "![Prairie Court](img/ign-sj-prairie-court-1.jpg)\n![Prairie Court (2)](img/ign-sj-prairie-court-2.jpg)\n![Prairie Court (3)](img/ign-sj-prairie-court-3.jpg)"
+  },
+  {
+   "id": "sj-mount-kalaga-lookout-point",
+   "t": "**Mount Kalaga Lookout Point** — desafio: Encadear os dois saltos na National Park Trail",
+   "d": "![Mount Kalaga Lookout Point](img/ign-sj-mount-kalaga-lookout-point-1.jpg)\n![Mount Kalaga Lookout Point (2)](img/ign-sj-mount-kalaga-lookout-point-2.jpg)\n![Mount Kalaga Lookout Point (3)](img/ign-sj-mount-kalaga-lookout-point-3.jpg)"
+  },
+  {
+   "id": "sj-south-ambrosia-broken-bridge",
+   "t": "**South Ambrosia Broken Bridge** — desafio: Pousar com 3 estrelas com um veículo da categoria Muscle",
+   "d": "![South Ambrosia Broken Bridge](img/ign-sj-south-ambrosia-broken-bridge-1.jpg)\n![South Ambrosia Broken Bridge (2)](img/ign-sj-south-ambrosia-broken-bridge-2.jpg)\n![South Ambrosia Broken Bridge (3)](img/ign-sj-south-ambrosia-broken-bridge-3.jpg)"
+  },
+  {
+   "id": "sj-goliath-global-quarry-storage",
+   "t": "**Goliath Global Quarry Storage** — desafio: Mortal para trás com o parceiro junto",
+   "d": "![Goliath Global Quarry Storage](img/ign-sj-goliath-global-quarry-storage-1.jpg)\n![Goliath Global Quarry Storage (2)](img/ign-sj-goliath-global-quarry-storage-2.jpg)\n![Goliath Global Quarry Storage (3)](img/ign-sj-goliath-global-quarry-storage-3.jpg)"
+  },
+  {
+   "id": "sj-dalton-island-sculpture-park",
+   "t": "**Dalton Island Sculpture Park** — desafio: Pousar com mais de 107 m (350 pés) ouvindo a Dirty South Classics",
+   "d": "![Dalton Island Sculpture Park](img/ign-sj-dalton-island-sculpture-park-1.jpg)\n![Dalton Island Sculpture Park (2)](img/ign-sj-dalton-island-sculpture-park-2.jpg)\n![Dalton Island Sculpture Park (3)](img/ign-sj-dalton-island-sculpture-park-3.jpg)"
+  },
+  {
+   "id": "sj-gellhorn-pylons",
+   "t": "**Gellhorn Pylons** — desafio: Pousar com um veículo da categoria Picapes",
+   "d": "![Gellhorn Pylons](img/ign-sj-gellhorn-pylons-1.jpg)\n![Gellhorn Pylons (2)](img/ign-sj-gellhorn-pylons-2.jpg)\n![Gellhorn Pylons (3)](img/ign-sj-gellhorn-pylons-3.jpg)"
+  },
+  {
+   "id": "sj-gellhorn-roadworks-west",
+   "t": "**Gellhorn Roadworks West**",
+   "d": "![Gellhorn Roadworks West](img/ign-sj-gellhorn-roadworks-west-1.jpg)\n![Gellhorn Roadworks West (2)](img/ign-sj-gellhorn-roadworks-west-2.jpg)\n![Gellhorn Roadworks West (3)](img/ign-sj-gellhorn-roadworks-west-3.jpg)"
+  },
+  {
+   "id": "sj-gellhorn-drive-in-theatre",
+   "t": "**Gellhorn Drive-In Theatre**",
+   "d": "![Gellhorn Drive-In Theatre](img/ign-sj-gellhorn-drive-in-theatre-1.jpg)\n![Gellhorn Drive-In Theatre (2)](img/ign-sj-gellhorn-drive-in-theatre-2.jpg)\n![Gellhorn Drive-In Theatre (3)](img/ign-sj-gellhorn-drive-in-theatre-3.jpg)"
+  },
+  {
+   "id": "sj-leone-street",
+   "t": "**Leone Street** — desafio: Pousar com veículo pessoal",
+   "d": "![Leone Street](img/ign-sj-leone-street-1.jpg)\n![Leone Street (2)](img/ign-sj-leone-street-2.jpg)\n![Leone Street (3)](img/ign-sj-leone-street-3.jpg)"
+  },
+  {
+   "id": "sj-mariner-s-highway",
+   "t": "**Mariner’s Highway** — desafio: Pousar na Mariner’s Highway",
+   "d": "![Mariner’s Highway](img/ign-sj-mariner-s-highway-1.jpg)\n![Mariner’s Highway (2)](img/ign-sj-mariner-s-highway-2.jpg)\n![Mariner’s Highway (3)](img/ign-sj-mariner-s-highway-3.jpg)"
+  },
+  {
+   "id": "sj-shoreline-park-amphitheater",
+   "t": "**Shoreline Park Amphitheater** — desafio: Pousar usando um Declasse Burrito",
+   "d": "![Shoreline Park Amphitheater](img/ign-sj-shoreline-park-amphitheater-1.jpg)\n![Shoreline Park Amphitheater (2)](img/ign-sj-shoreline-park-amphitheater-2.jpg)\n![Shoreline Park Amphitheater (3)](img/ign-sj-shoreline-park-amphitheater-3.jpg)"
+  },
+  {
+   "id": "sj-ocean-beach-mvp-park-north",
+   "t": "**Ocean Beach MVP Park North**",
+   "d": "![Ocean Beach MVP Park North](img/ign-sj-ocean-beach-mvp-park-north-1.jpg)\n![Ocean Beach MVP Park North (2)](img/ign-sj-ocean-beach-mvp-park-north-2.jpg)\n![Ocean Beach MVP Park North (3)](img/ign-sj-ocean-beach-mvp-park-north-3.jpg)"
+  },
+  {
+   "id": "sj-lake-leonida-lock-southwest",
+   "t": "**Lake Leonida Lock Southwest** — desafio: Encadear os dois saltos ao sul do Lake Leonida",
+   "d": "![Lake Leonida Lock Southwest](img/ign-sj-lake-leonida-lock-southwest-1.jpg)\n![Lake Leonida Lock Southwest (2)](img/ign-sj-lake-leonida-lock-southwest-2.jpg)\n![Lake Leonida Lock Southwest (3)](img/ign-sj-lake-leonida-lock-southwest-3.jpg)"
+  },
+  {
+   "id": "sj-lake-bonner-construction-west",
+   "t": "**Lake Bonner Construction West** — desafio: Mortal para trás",
+   "d": "![Lake Bonner Construction West](img/ign-sj-lake-bonner-construction-west-1.jpg)\n![Lake Bonner Construction West (2)](img/ign-sj-lake-bonner-construction-west-2.jpg)\n![Lake Bonner Construction West (3)](img/ign-sj-lake-bonner-construction-west-3.jpg)"
+  },
+  {
+   "id": "sj-lake-leonida-lock-south",
+   "t": "**Lake Leonida Lock South**",
+   "d": "![Lake Leonida Lock South](img/ign-sj-lake-leonida-lock-south-1.jpg)\n![Lake Leonida Lock South (2)](img/ign-sj-lake-leonida-lock-south-2.jpg)\n![Lake Leonida Lock South (3)](img/ign-sj-lake-leonida-lock-south-3.jpg)"
+  },
+  {
+   "id": "sj-thundergolf",
+   "t": "**Thundergolf** — desafio: Mortal para trás por cima do Thundergolf",
+   "d": "![Thundergolf](img/ign-sj-thundergolf-1.jpg)\n![Thundergolf (2)](img/ign-sj-thundergolf-2.jpg)\n![Thundergolf (3)](img/ign-sj-thundergolf-3.jpg)"
+  },
+  {
+   "id": "sj-lake-leonida-lock-east",
+   "t": "**Lake Leonida Lock East** — desafio: Pousar usando um Interstate Yankee",
+   "d": "![Lake Leonida Lock East](img/ign-sj-lake-leonida-lock-east-1.jpg)\n![Lake Leonida Lock East (2)](img/ign-sj-lake-leonida-lock-east-2.jpg)\n![Lake Leonida Lock East (3)](img/ign-sj-lake-leonida-lock-east-3.jpg)"
+  },
+  {
+   "id": "sj-vice-dale-police-parking",
+   "t": "**Vice-Dale Police Parking** — desafio: Pousar por cima de um trem com viatura policial",
+   "d": "![Vice-Dale Police Parking](img/ign-sj-vice-dale-police-parking-1.jpg)\n![Vice-Dale Police Parking (2)](img/ign-sj-vice-dale-police-parking-2.jpg)\n![Vice-Dale Police Parking (3)](img/ign-sj-vice-dale-police-parking-3.jpg)"
+  },
+  {
+   "id": "sj-goliath-global-quarry-railroad",
+   "t": "**Goliath Global Quarry Railroad** — desafio: Pousar usando um Bravado Bison roubado",
+   "d": "![Goliath Global Quarry Railroad](img/ign-sj-goliath-global-quarry-railroad-1.jpg)\n![Goliath Global Quarry Railroad (2)](img/ign-sj-goliath-global-quarry-railroad-2.jpg)\n![Goliath Global Quarry Railroad (3)](img/ign-sj-goliath-global-quarry-railroad-3.jpg)"
+  },
+  {
+   "id": "sj-us-route-82-construction",
+   "t": "**US Route 82 Construction** — desafio: Pousar por cima da ponte",
+   "d": "![US Route 82 Construction](img/ign-sj-us-route-82-construction-1.jpg)\n![US Route 82 Construction (2)](img/ign-sj-us-route-82-construction-2.jpg)\n![US Route 82 Construction (3)](img/ign-sj-us-route-82-construction-3.jpg)"
+  },
+  {
+   "id": "sj-lake-bonner-construction-east",
+   "t": "**Lake Bonner Construction East** — desafio: Pousar na Interstate 97",
+   "d": "![Lake Bonner Construction East](img/ign-sj-lake-bonner-construction-east-1.jpg)\n![Lake Bonner Construction East (2)](img/ign-sj-lake-bonner-construction-east-2.jpg)\n![Lake Bonner Construction East (3)](img/ign-sj-lake-bonner-construction-east-3.jpg)"
+  },
+  {
+   "id": "sj-kalaga-pond",
+   "t": "**Kalaga Pond**",
+   "d": "![Kalaga Pond](img/ign-sj-kalaga-pond-1.jpg)\n![Kalaga Pond (2)](img/ign-sj-kalaga-pond-2.jpg)\n![Kalaga Pond (3)](img/ign-sj-kalaga-pond-3.jpg)"
+  },
+  {
+   "id": "sj-waste-transfer-services-south",
+   "t": "**Waste Transfer Services South** — desafio: Pousar com mais de 107 m (350 pés)",
+   "d": "![Waste Transfer Services South](img/ign-sj-waste-transfer-services-south-1.jpg)\n![Waste Transfer Services South (2)](img/ign-sj-waste-transfer-services-south-2.jpg)\n![Waste Transfer Services South (3)](img/ign-sj-waste-transfer-services-south-3.jpg)"
+  },
+  {
+   "id": "sj-waste-transfer-services-north",
+   "t": "**Waste Transfer Services North** — desafio: Encadear os dois saltos perto da Waste Transfer Services",
+   "d": "![Waste Transfer Services North](img/ign-sj-waste-transfer-services-north-1.jpg)\n![Waste Transfer Services North (2)](img/ign-sj-waste-transfer-services-north-2.jpg)\n![Waste Transfer Services North (3)](img/ign-sj-waste-transfer-services-north-3.jpg)"
+  },
+  {
+   "id": "sj-waste-transfer-services-lake",
+   "t": "**Waste Transfer Services Lake**",
+   "d": "![Waste Transfer Services Lake](img/ign-sj-waste-transfer-services-lake-1.jpg)\n![Waste Transfer Services Lake (2)](img/ign-sj-waste-transfer-services-lake-2.jpg)\n![Waste Transfer Services Lake (3)](img/ign-sj-waste-transfer-services-lake-3.jpg)"
+  },
+  {
+   "id": "sj-lake-leonida-lock-northwest",
+   "t": "**Lake Leonida Lock Northwest** — desafio: Pousar na Interstate 27",
+   "d": "![Lake Leonida Lock Northwest](img/ign-sj-lake-leonida-lock-northwest-1.jpg)\n![Lake Leonida Lock Northwest (2)](img/ign-sj-lake-leonida-lock-northwest-2.jpg)\n![Lake Leonida Lock Northwest (3)](img/ign-sj-lake-leonida-lock-northwest-3.jpg)"
+  },
+  {
+   "id": "sj-richard-barebone-overpass-south",
+   "t": "**Richard Barebone Overpass South** — desafio: Pousar a mais de 113 km/h (70 mph) com um veículo da categoria Muscle",
+   "d": "![Richard Barebone Overpass South](img/ign-sj-richard-barebone-overpass-south-1.jpg)\n![Richard Barebone Overpass South (2)](img/ign-sj-richard-barebone-overpass-south-2.jpg)\n![Richard Barebone Overpass South (3)](img/ign-sj-richard-barebone-overpass-south-3.jpg)"
+  },
+  {
+   "id": "sj-kalaga-ridge",
+   "t": "**Kalaga Ridge**",
+   "d": "![Kalaga Ridge](img/ign-sj-kalaga-ridge-1.jpg)\n![Kalaga Ridge (2)](img/ign-sj-kalaga-ridge-2.jpg)\n![Kalaga Ridge (3)](img/ign-sj-kalaga-ridge-3.jpg)"
+  },
+  {
+   "id": "sj-schlott-construction-key-lento",
+   "t": "**Schlott Construction Key Lento**",
+   "d": "![Schlott Construction Key Lento](img/ign-sj-schlott-construction-key-lento-1.jpg)\n![Schlott Construction Key Lento (2)](img/ign-sj-schlott-construction-key-lento-2.jpg)\n![Schlott Construction Key Lento (3)](img/ign-sj-schlott-construction-key-lento-3.jpg)"
+  },
+  {
+   "id": "sj-ocean-sound-road",
+   "t": "**Ocean Sound Road** — desafio: Pousar a mais de 113 km/h (70 mph) de moto",
+   "d": "![Ocean Sound Road](img/ign-sj-ocean-sound-road-1.jpg)\n![Ocean Sound Road (2)](img/ign-sj-ocean-sound-road-2.jpg)\n![Ocean Sound Road (3)](img/ign-sj-ocean-sound-road-3.jpg)"
+  },
+  {
+   "id": "sj-anderson-murphy-construction",
+   "t": "**Anderson Murphy Construction** — desafio: Pousar por cima de um barco",
+   "d": "![Anderson Murphy Construction](img/ign-sj-anderson-murphy-construction-1.jpg)\n![Anderson Murphy Construction (2)](img/ign-sj-anderson-murphy-construction-2.jpg)\n![Anderson Murphy Construction (3)](img/ign-sj-anderson-murphy-construction-3.jpg)"
+  },
+  {
+   "id": "sj-peregrine-bay-coastal",
+   "t": "**Peregrine Bay Coastal** — desafio: Pousar por cima de um trator HVY",
+   "d": "![Peregrine Bay Coastal](img/ign-sj-peregrine-bay-coastal-1.jpg)\n![Peregrine Bay Coastal (2)](img/ign-sj-peregrine-bay-coastal-2.jpg)\n![Peregrine Bay Coastal (3)](img/ign-sj-peregrine-bay-coastal-3.jpg)"
+  },
+  {
+   "id": "sj-opulence-construction",
+   "t": "**Opulence Construction** — desafio: Pousar com o parceiro junto com veículo pessoal",
+   "d": "![Opulence Construction](img/ign-sj-opulence-construction-1.jpg)\n![Opulence Construction (2)](img/ign-sj-opulence-construction-2.jpg)\n![Opulence Construction (3)](img/ign-sj-opulence-construction-3.jpg)"
+  },
+  {
+   "id": "sj-abandoned-radio-station",
+   "t": "**Abandoned Radio Station**",
+   "d": "![Abandoned Radio Station](img/ign-sj-abandoned-radio-station-1.jpg)\n![Abandoned Radio Station (2)](img/ign-sj-abandoned-radio-station-2.jpg)\n![Abandoned Radio Station (3)](img/ign-sj-abandoned-radio-station-3.jpg)"
+  },
+  {
+   "id": "sj-goliath-global-quarry-lakeside",
+   "t": "**Goliath Global Quarry Lakeside** — desafio: Pousar usando um Bravado Bison roubado",
+   "d": "![Goliath Global Quarry Lakeside](img/ign-sj-goliath-global-quarry-lakeside-1.jpg)\n![Goliath Global Quarry Lakeside (2)](img/ign-sj-goliath-global-quarry-lakeside-2.jpg)\n![Goliath Global Quarry Lakeside (3)](img/ign-sj-goliath-global-quarry-lakeside-3.jpg)"
+  },
+  {
+   "id": "sj-go-postal",
+   "t": "**Go Postal** — desafio: Pousar a mais de 161 km/h (100 mph)",
+   "d": "![Go Postal](img/ign-sj-go-postal-1.jpg)\n![Go Postal (2)](img/ign-sj-go-postal-2.jpg)\n![Go Postal (3)](img/ign-sj-go-postal-3.jpg)"
+  },
+  {
+   "id": "sj-skorpen-brothers-recycling",
+   "t": "**Skorpen Brothers Recycling** — desafio: Pousar por cima de um barco",
+   "d": "![Skorpen Brothers Recycling](img/ign-sj-skorpen-brothers-recycling-1.jpg)\n![Skorpen Brothers Recycling (2)](img/ign-sj-skorpen-brothers-recycling-2.jpg)\n![Skorpen Brothers Recycling (3)](img/ign-sj-skorpen-brothers-recycling-3.jpg)"
+  },
+  {
+   "id": "sj-north-kelly-county-ledge",
+   "t": "**North Kelly County Ledge**",
+   "d": "![North Kelly County Ledge](img/ign-sj-north-kelly-county-ledge-1.jpg)\n![North Kelly County Ledge (2)](img/ign-sj-north-kelly-county-ledge-2.jpg)\n![North Kelly County Ledge (3)](img/ign-sj-north-kelly-county-ledge-3.jpg)"
+  },
+  {
+   "id": "sj-dock-coal-company-freeway",
+   "t": "**Dock Coal Company Freeway**",
+   "d": "![Dock Coal Company Freeway](img/ign-sj-dock-coal-company-freeway-1.jpg)\n![Dock Coal Company Freeway (2)](img/ign-sj-dock-coal-company-freeway-2.jpg)\n![Dock Coal Company Freeway (3)](img/ign-sj-dock-coal-company-freeway-3.jpg)"
+  },
+  {
+   "id": "sj-la-perle-parking-lot",
+   "t": "**La Perle Parking Lot** — desafio: Pousar com o parceiro junto com veículo roubado",
+   "d": "![La Perle Parking Lot](img/ign-sj-la-perle-parking-lot-1.jpg)\n![La Perle Parking Lot (2)](img/ign-sj-la-perle-parking-lot-2.jpg)\n![La Perle Parking Lot (3)](img/ign-sj-la-perle-parking-lot-3.jpg)"
+  },
+  {
+   "id": "sj-vice-city-parking-department-ocean-beach",
+   "t": "**Vice City Parking Department Ocean Beach**",
+   "d": "![Vice City Parking Department Ocean Beach](img/ign-sj-vice-city-parking-department-ocean-beach-1.jpg)\n![Vice City Parking Department Ocean Beach (2)](img/ign-sj-vice-city-parking-department-ocean-beach-2.jpg)\n![Vice City Parking Department Ocean Beach (3)](img/ign-sj-vice-city-parking-department-ocean-beach-3.jpg)"
+  },
+  {
+   "id": "sj-goliath-global-quarry-conveyor",
+   "t": "**Goliath Global Quarry Conveyor** — desafio: Pousar no telhado da Goliath Global",
+   "d": "![Goliath Global Quarry Conveyor](img/ign-sj-goliath-global-quarry-conveyor-1.jpg)\n![Goliath Global Quarry Conveyor (2)](img/ign-sj-goliath-global-quarry-conveyor-2.jpg)\n![Goliath Global Quarry Conveyor (3)](img/ign-sj-goliath-global-quarry-conveyor-3.jpg)"
+  },
+  {
+   "id": "sj-goliath-global-quarry-heap",
+   "t": "**Goliath Global Quarry Heap** — desafio: Pousar com mais de 24 m (80 pés)",
+   "d": "![Goliath Global Quarry Heap](img/ign-sj-goliath-global-quarry-heap-1.jpg)\n![Goliath Global Quarry Heap (2)](img/ign-sj-goliath-global-quarry-heap-2.jpg)\n![Goliath Global Quarry Heap (3)](img/ign-sj-goliath-global-quarry-heap-3.jpg)"
+  },
+  {
+   "id": "sj-apollo-aggregates-south",
+   "t": "**Apollo Aggregates South**",
+   "d": "![Apollo Aggregates South](img/ign-sj-apollo-aggregates-south-1.jpg)\n![Apollo Aggregates South (2)](img/ign-sj-apollo-aggregates-south-2.jpg)\n![Apollo Aggregates South (3)](img/ign-sj-apollo-aggregates-south-3.jpg)"
+  },
+  {
+   "id": "sj-kalaga-roadside",
+   "t": "**Kalaga Roadside** — desafio: Pousar por cima de um motorhome",
+   "d": "![Kalaga Roadside](img/ign-sj-kalaga-roadside-1.jpg)\n![Kalaga Roadside (2)](img/ign-sj-kalaga-roadside-2.jpg)\n![Kalaga Roadside (3)](img/ign-sj-kalaga-roadside-3.jpg)"
+  },
+  {
+   "id": "sj-bonanza-harbor",
+   "t": "**Bonanza Harbor** — desafio: Pousar por cima da cabana de pesca",
+   "d": "![Bonanza Harbor](img/ign-sj-bonanza-harbor-1.jpg)\n![Bonanza Harbor (2)](img/ign-sj-bonanza-harbor-2.jpg)\n![Bonanza Harbor (3)](img/ign-sj-bonanza-harbor-3.jpg)"
+  },
+  {
+   "id": "sj-north-moreau-broken-bridge",
+   "t": "**North Moreau Broken Bridge** — desafio: Pousar com o parceiro junto ouvindo a Back Country Radio",
+   "d": "![North Moreau Broken Bridge](img/ign-sj-north-moreau-broken-bridge-1.jpg)\n![North Moreau Broken Bridge (2)](img/ign-sj-north-moreau-broken-bridge-2.jpg)\n![North Moreau Broken Bridge (3)](img/ign-sj-north-moreau-broken-bridge-3.jpg)"
+  },
+  {
+   "id": "sj-southpoint-airfield",
+   "t": "**Southpoint Airfield** — desafio: Pousar a mais de 105 km/h (65 mph) com veículo pessoal",
+   "d": "![Southpoint Airfield](img/ign-sj-southpoint-airfield-1.jpg)\n![Southpoint Airfield (2)](img/ign-sj-southpoint-airfield-2.jpg)\n![Southpoint Airfield (3)](img/ign-sj-southpoint-airfield-3.jpg)"
+  },
+  {
+   "id": "sj-west-vice-dale-county-landfill",
+   "t": "**West Vice-Dale County Landfill** — desafio: Pousar por cima da Cargo Road",
+   "d": "![West Vice-Dale County Landfill](img/ign-sj-west-vice-dale-county-landfill-1.jpg)\n![West Vice-Dale County Landfill (2)](img/ign-sj-west-vice-dale-county-landfill-2.jpg)\n![West Vice-Dale County Landfill (3)](img/ign-sj-west-vice-dale-county-landfill-3.jpg)"
+  },
+  {
+   "id": "sj-south-ambrosia-water-treatment",
+   "t": "**South Ambrosia Water Treatment** — desafio: Pousar no telhado da Aggro Feed & Farm Supply",
+   "d": "![South Ambrosia Water Treatment](img/ign-sj-south-ambrosia-water-treatment-1.jpg)\n![South Ambrosia Water Treatment (2)](img/ign-sj-south-ambrosia-water-treatment-2.jpg)\n![South Ambrosia Water Treatment (3)](img/ign-sj-south-ambrosia-water-treatment-3.jpg)"
+  },
+  {
+   "id": "sj-waste-transfer-services-pond",
+   "t": "**Waste Transfer Services Pond**",
+   "d": "![Waste Transfer Services Pond](img/ign-sj-waste-transfer-services-pond-1.jpg)\n![Waste Transfer Services Pond (2)](img/ign-sj-waste-transfer-services-pond-2.jpg)\n![Waste Transfer Services Pond (3)](img/ign-sj-waste-transfer-services-pond-3.jpg)"
+  },
+  {
+   "id": "sj-peacock-estate",
+   "t": "**Peacock Estate**",
+   "d": "![Peacock Estate](img/ign-sj-peacock-estate-1.jpg)\n![Peacock Estate (2)](img/ign-sj-peacock-estate-2.jpg)\n![Peacock Estate (3)](img/ign-sj-peacock-estate-3.jpg)"
+  },
+  {
+   "id": "sj-gellhorn-international-raceway",
+   "t": "**Gellhorn International Raceway** — desafio: Mortal para trás por cima do Gellhorn International Raceway",
+   "d": "![Gellhorn International Raceway](img/ign-sj-gellhorn-international-raceway-1.jpg)\n![Gellhorn International Raceway (2)](img/ign-sj-gellhorn-international-raceway-2.jpg)\n![Gellhorn International Raceway (3)](img/ign-sj-gellhorn-international-raceway-3.jpg)"
+  },
+  {
+   "id": "sj-tequesta-park-in",
+   "t": "**Tequesta Park In**",
+   "d": "![Tequesta Park In](img/ign-sj-tequesta-park-in-1.jpg)\n![Tequesta Park In (2)](img/ign-sj-tequesta-park-in-2.jpg)\n![Tequesta Park In (3)](img/ign-sj-tequesta-park-in-3.jpg)"
+  },
+  {
+   "id": "sj-ocean-beach-mvp-park-south",
+   "t": "**Ocean Beach MVP Park South**",
+   "d": "![Ocean Beach MVP Park South](img/ign-sj-ocean-beach-mvp-park-south-1.jpg)\n![Ocean Beach MVP Park South (2)](img/ign-sj-ocean-beach-mvp-park-south-2.jpg)\n![Ocean Beach MVP Park South (3)](img/ign-sj-ocean-beach-mvp-park-south-3.jpg)"
+  },
+  {
+   "id": "sj-port-vice-city-plus-parking",
+   "t": "**Port Vice City Plus Parking** — desafio: Pousar com 3 estrelas com veículo roubado",
+   "d": "![Port Vice City Plus Parking](img/ign-sj-port-vice-city-plus-parking-1.jpg)\n![Port Vice City Plus Parking (2)](img/ign-sj-port-vice-city-plus-parking-2.jpg)\n![Port Vice City Plus Parking (3)](img/ign-sj-port-vice-city-plus-parking-3.jpg)"
+  },
+  {
+   "id": "sj-ocean-beach-plus-parking",
+   "t": "**Ocean Beach Plus Parking** — desafio: Encadear os dois saltos de Sixth & Harper até Ocean Beach Plus",
+   "d": "![Ocean Beach Plus Parking](img/ign-sj-ocean-beach-plus-parking-1.jpg)\n![Ocean Beach Plus Parking (2)](img/ign-sj-ocean-beach-plus-parking-2.jpg)\n![Ocean Beach Plus Parking (3)](img/ign-sj-ocean-beach-plus-parking-3.jpg)"
+  },
+  {
+   "id": "sj-cruda-y-asi",
+   "t": "**Cruda Y Asi** — desafio: Pousar usando um Grotti Cheetah ouvindo a Vice City FM",
+   "d": "![Cruda Y Asi](img/ign-sj-cruda-y-asi-1.jpg)\n![Cruda Y Asi (2)](img/ign-sj-cruda-y-asi-2.jpg)\n![Cruda Y Asi (3)](img/ign-sj-cruda-y-asi-3.jpg)"
+  },
+  {
+   "id": "sj-sixth-harper-parking",
+   "t": "**Sixth & Harper Parking**",
+   "d": "![Sixth & Harper Parking](img/ign-sj-sixth-harper-parking-1.jpg)\n![Sixth & Harper Parking (2)](img/ign-sj-sixth-harper-parking-2.jpg)\n![Sixth & Harper Parking (3)](img/ign-sj-sixth-harper-parking-3.jpg)"
+  },
+  {
+   "id": "sj-vice-city-parking-department-downtown",
+   "t": "**Vice City Parking Department Downtown**",
+   "d": "![Vice City Parking Department Downtown](img/ign-sj-vice-city-parking-department-downtown-1.jpg)\n![Vice City Parking Department Downtown (2)](img/ign-sj-vice-city-parking-department-downtown-2.jpg)\n![Vice City Parking Department Downtown (3)](img/ign-sj-vice-city-parking-department-downtown-3.jpg)"
+  },
+  {
+   "id": "sj-dolly-and-darrel-zimmermann-parking",
+   "t": "**Dolly and Darrel Zimmermann Parking** — desafio: Pousar com táxi amarelo",
+   "d": "![Dolly and Darrel Zimmermann Parking](img/ign-sj-dolly-and-darrel-zimmermann-parking-1.jpg)\n![Dolly and Darrel Zimmermann Parking (2)](img/ign-sj-dolly-and-darrel-zimmermann-parking-2.jpg)\n![Dolly and Darrel Zimmermann Parking (3)](img/ign-sj-dolly-and-darrel-zimmermann-parking-3.jpg)"
+  },
+  {
+   "id": "sj-tequesta-mvp-park",
+   "t": "**Tequesta MVP Park** — desafio: Pousar a mais de 80 km/h (50 mph)",
+   "d": "![Tequesta MVP Park](img/ign-sj-tequesta-mvp-park-1.jpg)\n![Tequesta MVP Park (2)](img/ign-sj-tequesta-mvp-park-2.jpg)\n![Tequesta MVP Park (3)](img/ign-sj-tequesta-mvp-park-3.jpg)"
+  },
+  {
+   "id": "sj-downtown-mvp-park",
+   "t": "**Downtown MVP Park**",
+   "d": "![Downtown MVP Park](img/ign-sj-downtown-mvp-park-1.jpg)\n![Downtown MVP Park (2)](img/ign-sj-downtown-mvp-park-2.jpg)\n![Downtown MVP Park (3)](img/ign-sj-downtown-mvp-park-3.jpg)"
+  },
+  {
+   "id": "sj-vcia-north-central-gate",
+   "t": "**VCIA North Central Gate** — desafio: Pousar com 4 estrelas",
+   "d": "![VCIA North Central Gate](img/ign-sj-vcia-north-central-gate-1.jpg)\n![VCIA North Central Gate (2)](img/ign-sj-vcia-north-central-gate-2.jpg)\n![VCIA North Central Gate (3)](img/ign-sj-vcia-north-central-gate-3.jpg)"
+  },
+  {
+   "id": "sj-grayson-rail-tunnel",
+   "t": "**Grayson Rail Tunnel** — desafio: Pousar por cima de um trem",
+   "d": "![Grayson Rail Tunnel](img/ign-sj-grayson-rail-tunnel-1.jpg)\n![Grayson Rail Tunnel (2)](img/ign-sj-grayson-rail-tunnel-2.jpg)\n![Grayson Rail Tunnel (3)](img/ign-sj-grayson-rail-tunnel-3.jpg)"
+  },
+  {
+   "id": "sj-kalaga-ramp",
+   "t": "**Kalaga Ramp**",
+   "d": "![Kalaga Ramp](img/ign-sj-kalaga-ramp-1.jpg)\n![Kalaga Ramp (2)](img/ign-sj-kalaga-ramp-2.jpg)\n![Kalaga Ramp (3)](img/ign-sj-kalaga-ramp-3.jpg)"
+  },
+  {
+   "id": "sj-harrison-harbor-parking",
+   "t": "**Harrison Harbor Parking** — desafio: Pousar com viatura policial de sirene ligada",
+   "d": "![Harrison Harbor Parking](img/ign-sj-harrison-harbor-parking-1.jpg)\n![Harrison Harbor Parking (2)](img/ign-sj-harrison-harbor-parking-2.jpg)\n![Harrison Harbor Parking (3)](img/ign-sj-harrison-harbor-parking-3.jpg)"
+  },
+  {
+   "id": "sj-north-kelly-county-railroad",
+   "t": "**North Kelly County Railroad** — desafio: Mortal para frente por cima de um trem",
+   "d": "![North Kelly County Railroad](img/ign-sj-north-kelly-county-railroad-1.jpg)\n![North Kelly County Railroad (2)](img/ign-sj-north-kelly-county-railroad-2.jpg)\n![North Kelly County Railroad (3)](img/ign-sj-north-kelly-county-railroad-3.jpg)"
+  },
+  {
+   "id": "sj-mount-kalaga-visitor-center",
+   "t": "**Mount Kalaga Visitor Center** — desafio: Mortal para frente por cima do Visitor Center",
+   "d": "![Mount Kalaga Visitor Center](img/ign-sj-mount-kalaga-visitor-center-1.jpg)\n![Mount Kalaga Visitor Center (2)](img/ign-sj-mount-kalaga-visitor-center-2.jpg)\n![Mount Kalaga Visitor Center (3)](img/ign-sj-mount-kalaga-visitor-center-3.jpg)"
+  },
+  {
+   "id": "sj-nolan-center-parking",
+   "t": "**Nolan Center Parking** — desafio: Encadear os dois saltos de 7777 Ocean Beach até Nolan Center ouvindo a Honey FM",
+   "d": "![Nolan Center Parking](img/ign-sj-nolan-center-parking-1.jpg)\n![Nolan Center Parking (2)](img/ign-sj-nolan-center-parking-2.jpg)\n![Nolan Center Parking (3)](img/ign-sj-nolan-center-parking-3.jpg)"
+  },
+  {
+   "id": "sj-valdemar-on-the-river-parking-south",
+   "t": "**Valdemar on the River Parking South**",
+   "d": "![Valdemar on the River Parking South](img/ign-sj-valdemar-on-the-river-parking-south-1.jpg)\n![Valdemar on the River Parking South (2)](img/ign-sj-valdemar-on-the-river-parking-south-2.jpg)\n![Valdemar on the River Parking South (3)](img/ign-sj-valdemar-on-the-river-parking-south-3.jpg)"
+  },
+  {
+   "id": "sj-banner-hotel-spa-parking",
+   "t": "**Banner Hotel & Spa Parking**",
+   "d": "![Banner Hotel & Spa Parking](img/ign-sj-banner-hotel-spa-parking-1.jpg)\n![Banner Hotel & Spa Parking (2)](img/ign-sj-banner-hotel-spa-parking-2.jpg)\n![Banner Hotel & Spa Parking (3)](img/ign-sj-banner-hotel-spa-parking-3.jpg)"
+  },
+  {
+   "id": "sj-vice-city-parking-department-salton",
+   "t": "**Vice City Parking Department Salton** — desafio: Pousar na Interstate 35",
+   "d": "![Vice City Parking Department Salton](img/ign-sj-vice-city-parking-department-salton-1.jpg)\n![Vice City Parking Department Salton (2)](img/ign-sj-vice-city-parking-department-salton-2.jpg)\n![Vice City Parking Department Salton (3)](img/ign-sj-vice-city-parking-department-salton-3.jpg)"
+  },
+  {
+   "id": "sj-7777-ocean-beach-parking",
+   "t": "**7777 Ocean Beach Parking**",
+   "d": "![7777 Ocean Beach Parking](img/ign-sj-7777-ocean-beach-parking-1.jpg)\n![7777 Ocean Beach Parking (2)](img/ign-sj-7777-ocean-beach-parking-2.jpg)\n![7777 Ocean Beach Parking (3)](img/ign-sj-7777-ocean-beach-parking-3.jpg)"
+  },
+  {
+   "id": "sj-vice-beach-police-headquarters",
+   "t": "**Vice Beach Police Headquarters**",
+   "d": "![Vice Beach Police Headquarters](img/ign-sj-vice-beach-police-headquarters-1.jpg)\n![Vice Beach Police Headquarters (2)](img/ign-sj-vice-beach-police-headquarters-2.jpg)\n![Vice Beach Police Headquarters (3)](img/ign-sj-vice-beach-police-headquarters-3.jpg)"
+  },
+  {
+   "id": "sj-gator-plaza-parking",
+   "t": "**Gator Plaza Parking** — desafio: Pousar usando um Vapid Dominator GT roubado",
+   "d": "![Gator Plaza Parking](img/ign-sj-gator-plaza-parking-1.jpg)\n![Gator Plaza Parking (2)](img/ign-sj-gator-plaza-parking-2.jpg)\n![Gator Plaza Parking (3)](img/ign-sj-gator-plaza-parking-3.jpg)"
+  },
+  {
+   "id": "sj-vice-city-parking-department-tequesta",
+   "t": "**Vice City Parking Department Tequesta** — desafio: Pousar por cima do metrô",
+   "d": "![Vice City Parking Department Tequesta](img/ign-sj-vice-city-parking-department-tequesta-1.jpg)\n![Vice City Parking Department Tequesta (2)](img/ign-sj-vice-city-parking-department-tequesta-2.jpg)\n![Vice City Parking Department Tequesta (3)](img/ign-sj-vice-city-parking-department-tequesta-3.jpg)"
+  },
+  {
+   "id": "sj-us-route-628",
+   "t": "**US Route 628** — desafio: Pousar nos trilhos do outro lado",
+   "d": "![US Route 628](img/ign-sj-us-route-628-1.jpg)\n![US Route 628 (2)](img/ign-sj-us-route-628-2.jpg)\n![US Route 628 (3)](img/ign-sj-us-route-628-3.jpg)"
+  },
+  {
+   "id": "sj-valdemar-on-the-river-parking-north",
+   "t": "**Valdemar on the River Parking North** — desafio: Pousar na West Royale Street",
+   "d": "![Valdemar on the River Parking North](img/ign-sj-valdemar-on-the-river-parking-north-1.jpg)\n![Valdemar on the River Parking North (2)](img/ign-sj-valdemar-on-the-river-parking-north-2.jpg)\n![Valdemar on the River Parking North (3)](img/ign-sj-valdemar-on-the-river-parking-north-3.jpg)"
+  },
+  {
+   "id": "sj-kelly-river",
+   "t": "**Kelly River** — desafio: Pousar a mais de 129 km/h (80 mph) com veículo pessoal",
+   "d": "![Kelly River](img/ign-sj-kelly-river-1.jpg)\n![Kelly River (2)](img/ign-sj-kelly-river-2.jpg)\n![Kelly River (3)](img/ign-sj-kelly-river-3.jpg)"
+  },
+  {
+   "id": "sj-hoopla-construction",
+   "t": "**Hoopla Construction**",
+   "d": "![Hoopla Construction](img/ign-sj-hoopla-construction-1.jpg)\n![Hoopla Construction (2)](img/ign-sj-hoopla-construction-2.jpg)\n![Hoopla Construction (3)](img/ign-sj-hoopla-construction-3.jpg)"
+  },
+  {
+   "id": "sj-gellhorn-campsite",
+   "t": "**Gellhorn Campsite** — desafio: Mortal para frente ouvindo a Symphony FM",
+   "d": "![Gellhorn Campsite](img/ign-sj-gellhorn-campsite-1.jpg)\n![Gellhorn Campsite (2)](img/ign-sj-gellhorn-campsite-2.jpg)\n![Gellhorn Campsite (3)](img/ign-sj-gellhorn-campsite-3.jpg)"
+  },
+  {
+   "id": "sj-interstate-97-west",
+   "t": "**Interstate 97 West**",
+   "d": "![Interstate 97 West](img/ign-sj-interstate-97-west-1.jpg)\n![Interstate 97 West (2)](img/ign-sj-interstate-97-west-2.jpg)\n![Interstate 97 West (3)](img/ign-sj-interstate-97-west-3.jpg)"
+  },
+  {
+   "id": "sj-moreau-broken-bridge",
+   "t": "**Moreau Broken Bridge**",
+   "d": "![Moreau Broken Bridge](img/ign-sj-moreau-broken-bridge-1.jpg)\n![Moreau Broken Bridge (2)](img/ign-sj-moreau-broken-bridge-2.jpg)\n![Moreau Broken Bridge (3)](img/ign-sj-moreau-broken-bridge-3.jpg)"
+  },
+  {
+   "id": "sj-interstate-97-east",
+   "t": "**Interstate 97 East**",
+   "d": "![Interstate 97 East](img/ign-sj-interstate-97-east-1.jpg)\n![Interstate 97 East (2)](img/ign-sj-interstate-97-east-2.jpg)\n![Interstate 97 East (3)](img/ign-sj-interstate-97-east-3.jpg)"
+  },
+  {
+   "id": "sj-kalaga-river",
+   "t": "**Kalaga River**",
+   "d": "![Kalaga River](img/ign-sj-kalaga-river-1.jpg)\n![Kalaga River (2)](img/ign-sj-kalaga-river-2.jpg)\n![Kalaga River (3)](img/ign-sj-kalaga-river-3.jpg)"
+  },
+  {
+   "id": "sj-hamlet-backyard",
+   "t": "**Hamlet Backyard** — desafio: Pousar no estacionamento da LPL",
+   "d": "![Hamlet Backyard](img/ign-sj-hamlet-backyard-1.jpg)\n![Hamlet Backyard (2)](img/ign-sj-hamlet-backyard-2.jpg)\n![Hamlet Backyard (3)](img/ign-sj-hamlet-backyard-3.jpg)"
+  },
+  {
+   "id": "sj-manifest-canyon-trail-east",
+   "t": "**Manifest Canyon Trail East** — desafio: Encadear os dois saltos na Manifest Canyon Trail",
+   "d": "![Manifest Canyon Trail East](img/ign-sj-manifest-canyon-trail-east-1.jpg)\n![Manifest Canyon Trail East (2)](img/ign-sj-manifest-canyon-trail-east-2.jpg)\n![Manifest Canyon Trail East (3)](img/ign-sj-manifest-canyon-trail-east-3.jpg)"
+  },
+  {
+   "id": "sj-manifest-canyon-trail-west",
+   "t": "**Manifest Canyon Trail West**",
+   "d": "![Manifest Canyon Trail West](img/ign-sj-manifest-canyon-trail-west-1.jpg)\n![Manifest Canyon Trail West (2)](img/ign-sj-manifest-canyon-trail-west-2.jpg)\n![Manifest Canyon Trail West (3)](img/ign-sj-manifest-canyon-trail-west-3.jpg)"
+  },
+  {
+   "id": "sj-manifest-canyon",
+   "t": "**Manifest Canyon**",
+   "d": "![Manifest Canyon](img/ign-sj-manifest-canyon-1.jpg)\n![Manifest Canyon (2)](img/ign-sj-manifest-canyon-2.jpg)\n![Manifest Canyon (3)](img/ign-sj-manifest-canyon-3.jpg)"
+  },
+  {
+   "id": "sj-moreau-coal-mound",
+   "t": "**Moreau Coal Mound** — desafio: Mortal para trás por cima dos trilhos",
+   "d": "![Moreau Coal Mound](img/ign-sj-moreau-coal-mound-1.jpg)\n![Moreau Coal Mound (2)](img/ign-sj-moreau-coal-mound-2.jpg)\n![Moreau Coal Mound (3)](img/ign-sj-moreau-coal-mound-3.jpg)"
+  },
+  {
+   "id": "sj-millport-harbor",
+   "t": "**Millport Harbor** — desafio: Pousar a mais de 121 km/h (75 mph)",
+   "d": "![Millport Harbor](img/ign-sj-millport-harbor-1.jpg)\n![Millport Harbor (2)](img/ign-sj-millport-harbor-2.jpg)\n![Millport Harbor (3)](img/ign-sj-millport-harbor-3.jpg)"
+  },
+  {
+   "id": "sj-draper-island",
+   "t": "**Draper Island** — desafio: Pousar na Interstate 45",
+   "d": "![Draper Island](img/ign-sj-draper-island-1.jpg)\n![Draper Island (2)](img/ign-sj-draper-island-2.jpg)\n![Draper Island (3)](img/ign-sj-draper-island-3.jpg)"
+  },
+  {
+   "id": "sj-axiom-house",
+   "t": "**Axiom House** — desafio: Pousar usando um Mer-Can Blast",
+   "d": "![Axiom House](img/ign-sj-axiom-house-1.jpg)\n![Axiom House (2)](img/ign-sj-axiom-house-2.jpg)\n![Axiom House (3)](img/ign-sj-axiom-house-3.jpg)"
+  },
+  {
+   "id": "sj-vcia-concourse",
+   "t": "**VCIA Concourse**",
+   "d": "![VCIA Concourse](img/ign-sj-vcia-concourse-1.jpg)\n![VCIA Concourse (2)](img/ign-sj-vcia-concourse-2.jpg)\n![VCIA Concourse (3)](img/ign-sj-vcia-concourse-3.jpg)"
+  },
+  {
+   "id": "sj-macalister-gold-mine",
+   "t": "**Macalister Gold Mine** — desafio: Mortal duplo para trás",
+   "d": "![Macalister Gold Mine](img/ign-sj-macalister-gold-mine-1.jpg)\n![Macalister Gold Mine (2)](img/ign-sj-macalister-gold-mine-2.jpg)\n![Macalister Gold Mine (3)](img/ign-sj-macalister-gold-mine-3.jpg)"
+  },
+  {
+   "id": "sj-the-free-state-of-henry-perculay",
+   "t": "**The Free State of Henry Perculay**",
+   "d": "![The Free State of Henry Perculay](img/ign-sj-the-free-state-of-henry-perculay-1.jpg)\n![The Free State of Henry Perculay (2)](img/ign-sj-the-free-state-of-henry-perculay-2.jpg)\n![The Free State of Henry Perculay (3)](img/ign-sj-the-free-state-of-henry-perculay-3.jpg)"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "stunt",
+  "salto",
+  "rampa",
+  "under the bridge",
+  "ponte",
+  "cunning stunts"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Stunts: jumps, bridges, knife flights and base jumps",
+  "sum": "397 in total. 250 unlock Cunning Stunts and 300 count toward 100%.",
+  "body": "- **Stunt Jumps (130):** ramp with an optional challenge (list below).\n- **Under the Bridge (202):** fly under the bridge in a plane or helicopter.\n- **Knife Flights (40):** plane banked 90° between two towers ([[colecao-knife]]).\n- **Base Jumps (25):** jump from between two yellow cones and clear the checkpoints in time ([[colecao-base]]).\n- Stunt Jumps by county: Vice-Dale 53, Kelly 29, Lummox 19, Mariana 16, Leonard 13.\n- Each jump's challenge is a bonus: stars, the right vehicle, speed, a flip, a radio station or your partner along.\n- 250 stunts of any type unlock **Cunning Stunts**; 300 tick the 100% item.\n- IGN's list has 129 of the 130 jumps.\n- **Stunt Jump controls:** left stick steers in the air, right stick sets the camera speed, {R3} exits the camera.\n- **Base Jump:** {✕} opens the chute, {L2}/{R2} spin fast; left stick up speeds up, down brakes. Missing a ring costs time.",
+  "kw": [
+   "stunt jump",
+   "ramp",
+   "under the bridge",
+   "cunning stunts"
+  ],
+  "check": [
+   {
+    "id": "sj-starlet-motel-construction",
+    "t": "**Starlet Motel Construction** — challenge: Land the jump with a 2-star wanted level using a Maibatsu Sanchez",
+    "d": "![Starlet Motel Construction](img/ign-sj-starlet-motel-construction-1.jpg)\n![Starlet Motel Construction (2)](img/ign-sj-starlet-motel-construction-2.jpg)"
+   },
+   {
+    "id": "sj-saputka-river",
+    "t": "**Saputka River** — challenge: Land the jump going over 50mph with a 3-star wanted level",
+    "d": "![Saputka River](img/ign-sj-saputka-river-1.jpg)\n![Saputka River (2)](img/ign-sj-saputka-river-2.jpg)\n![Saputka River (3)](img/ign-sj-saputka-river-3.jpg)"
+   },
+   {
+    "id": "sj-lake-leonida-lock-west",
+    "t": "**Lake Leonida Lock West** — challenge: Land the jump using a JoBuilt Rubble",
+    "d": "![Lake Leonida Lock West](img/ign-sj-lake-leonida-lock-west-1.jpg)\n![Lake Leonida Lock West (2)](img/ign-sj-lake-leonida-lock-west-2.jpg)\n![Lake Leonida Lock West (3)](img/ign-sj-lake-leonida-lock-west-3.jpg)"
+   },
+   {
+    "id": "sj-mud-club-pond",
+    "t": "**Mud Club Pond** — challenge: Land the jump using a Vapid Marshall",
+    "d": "![Mud Club Pond](img/ign-sj-mud-club-pond-1.jpg)\n![Mud Club Pond (2)](img/ign-sj-mud-club-pond-2.jpg)\n![Mud Club Pond (3)](img/ign-sj-mud-club-pond-3.jpg)"
+   },
+   {
+    "id": "sj-gellhorn-hilltop",
+    "t": "**Gellhorn Hilltop** — challenge: Land the jump using a Mer-Can Outlaw",
+    "d": "![Gellhorn Hilltop](img/ign-sj-gellhorn-hilltop-1.jpg)\n![Gellhorn Hilltop (2)](img/ign-sj-gellhorn-hilltop-2.jpg)\n![Gellhorn Hilltop (3)](img/ign-sj-gellhorn-hilltop-3.jpg)"
+   },
+   {
+    "id": "sj-vcia-storage-facility",
+    "t": "**VCIA Storage Facility** — challenge: Land the jump using a vehicle from the Vans category",
+    "d": "![VCIA Storage Facility](img/ign-sj-vcia-storage-facility-1.jpg)\n![VCIA Storage Facility (2)](img/ign-sj-vcia-storage-facility-2.jpg)\n![VCIA Storage Facility (3)](img/ign-sj-vcia-storage-facility-3.jpg)\n![VCIA Storage Facility (4)](img/ign-sj-vcia-storage-facility-4.jpg)"
+   },
+   {
+    "id": "sj-apollo-aggregates-quarry",
+    "t": "**Apollo Aggregates Quarry** — challenge: Land a backflip over Calderone Avenue",
+    "d": "![Apollo Aggregates Quarry](img/ign-sj-apollo-aggregates-quarry-1.jpg)\n![Apollo Aggregates Quarry (2)](img/ign-sj-apollo-aggregates-quarry-2.jpg)\n![Apollo Aggregates Quarry (3)](img/ign-sj-apollo-aggregates-quarry-3.jpg)"
+   },
+   {
+    "id": "sj-blackwell-sandrock",
+    "t": "**Blackwell Sandrock** — challenge: Land the jump with your partner",
+    "d": "![Blackwell Sandrock](img/ign-sj-blackwell-sandrock-1.jpg)\n![Blackwell Sandrock (2)](img/ign-sj-blackwell-sandrock-2.jpg)\n![Blackwell Sandrock (3)](img/ign-sj-blackwell-sandrock-3.jpg)"
+   },
+   {
+    "id": "sj-interstate-404",
+    "t": "**Interstate 404** — challenge: Land a backflip over Interstate 404",
+    "d": "![Interstate 404](img/ign-sj-interstate-404-1.jpg)\n![Interstate 404 (2)](img/ign-sj-interstate-404-2.jpg)\n![Interstate 404 (3)](img/ign-sj-interstate-404-3.jpg)"
+   },
+   {
+    "id": "sj-west-vice-dale-county-broken-bridge",
+    "t": "**West Vice-Dale County Broken Bridge** — challenge: Land the jump using a stolen vehicle",
+    "d": "![West Vice-Dale County Broken Bridge](img/ign-sj-west-vice-dale-county-broken-bridge-1.jpg)\n![West Vice-Dale County Broken Bridge (2)](img/ign-sj-west-vice-dale-county-broken-bridge-2.jpg)\n![West Vice-Dale County Broken Bridge (3)](img/ign-sj-west-vice-dale-county-broken-bridge-3.jpg)"
+   },
+   {
+    "id": "sj-howe-dairy",
+    "t": "**Howe Dairy** — challenge: Land the jump over the Howe Dairy barn while listening to Gloriana Blues Radio",
+    "d": "![Howe Dairy](img/ign-sj-howe-dairy-1.jpg)\n![Howe Dairy (2)](img/ign-sj-howe-dairy-2.jpg)\n![Howe Dairy (3)](img/ign-sj-howe-dairy-3.jpg)"
+   },
+   {
+    "id": "sj-richard-barebone-overpass-north",
+    "t": "**Richard Barebone Overpass North** — challenge: Land the jump going over 70mph and land a backflip",
+    "d": "![Richard Barebone Overpass North](img/ign-sj-richard-barebone-overpass-north-1.jpg)\n![Richard Barebone Overpass North (2)](img/ign-sj-richard-barebone-overpass-north-2.jpg)\n![Richard Barebone Overpass North (3)](img/ign-sj-richard-barebone-overpass-north-3.jpg)"
+   },
+   {
+    "id": "sj-schlott-construction-west-vice-dale-county",
+    "t": "**Schlott Construction West Vice-Dale County** — challenge: Land the jump with a distance over 250ft",
+    "d": "![Schlott Construction West Vice-Dale County](img/ign-sj-schlott-construction-west-vice-dale-county-1.jpg)\n![Schlott Construction West Vice-Dale County (2)](img/ign-sj-schlott-construction-west-vice-dale-county-2.jpg)\n![Schlott Construction West Vice-Dale County (3)](img/ign-sj-schlott-construction-west-vice-dale-county-3.jpg)"
+   },
+   {
+    "id": "sj-county-route-62-roadworks",
+    "t": "**County Route 62 Roadworks** — challenge: Land the jump going over 75mph using a vehicle from the Pickups category",
+    "d": "![County Route 62 Roadworks](img/ign-sj-county-route-62-roadworks-1.jpg)\n![County Route 62 Roadworks (2)](img/ign-sj-county-route-62-roadworks-2.jpg)\n![County Route 62 Roadworks (3)](img/ign-sj-county-route-62-roadworks-3.jpg)"
+   },
+   {
+    "id": "sj-vice-beach-park-in",
+    "t": "**Vice Beach Park In**",
+    "d": "![Vice Beach Park In](img/ign-sj-vice-beach-park-in-1.jpg)\n![Vice Beach Park In (2)](img/ign-sj-vice-beach-park-in-2.jpg)\n![Vice Beach Park In (3)](img/ign-sj-vice-beach-park-in-3.jpg)"
+   },
+   {
+    "id": "sj-saltrock-bridge-east",
+    "t": "**Saltrock Bridge East** — challenge: Chain both jumps on Saltrock Bridge",
+    "d": "![Saltrock Bridge East](img/ign-sj-saltrock-bridge-east-1.jpg)\n![Saltrock Bridge East (2)](img/ign-sj-saltrock-bridge-east-2.jpg)\n![Saltrock Bridge East (3)](img/ign-sj-saltrock-bridge-east-3.jpg)"
+   },
+   {
+    "id": "sj-cargo-road-construction",
+    "t": "**Cargo Road Construction** — challenge: Land the jump using a convertible with the roof down",
+    "d": "![Cargo Road Construction](img/ign-sj-cargo-road-construction-1.jpg)\n![Cargo Road Construction (2)](img/ign-sj-cargo-road-construction-2.jpg)\n![Cargo Road Construction (3)](img/ign-sj-cargo-road-construction-3.jpg)"
+   },
+   {
+    "id": "sj-mastodon-u-s-a",
+    "t": "**Mastodon U.S.A** — challenge: Land a backflip through the Black Holes sign",
+    "d": "![Mastodon U.S.A](img/ign-sj-mastodon-u-s-a-1.jpg)\n![Mastodon U.S.A (2)](img/ign-sj-mastodon-u-s-a-2.jpg)\n![Mastodon U.S.A (3)](img/ign-sj-mastodon-u-s-a-3.jpg)"
+   },
+   {
+    "id": "sj-ocean-beach-marina",
+    "t": "**Ocean Beach Marina**",
+    "d": "![Ocean Beach Marina](img/ign-sj-ocean-beach-marina-1.jpg)\n![Ocean Beach Marina (2)](img/ign-sj-ocean-beach-marina-2.jpg)\n![Ocean Beach Marina (3)](img/ign-sj-ocean-beach-marina-3.jpg)"
+   },
+   {
+    "id": "sj-sw-4th-avenue-construction",
+    "t": "**SW 4th Avenue Construction** — challenge: Land the jump inside the LPL parking lot",
+    "d": "![SW 4th Avenue Construction](img/ign-sj-sw-4th-avenue-construction-1.jpg)\n![SW 4th Avenue Construction (2)](img/ign-sj-sw-4th-avenue-construction-2.jpg)"
+   },
+   {
+    "id": "sj-saltrock-bridge-west",
+    "t": "**Saltrock Bridge West**",
+    "d": "![Saltrock Bridge West](img/ign-sj-saltrock-bridge-west-1.jpg)\n![Saltrock Bridge West (2)](img/ign-sj-saltrock-bridge-west-2.jpg)\n![Saltrock Bridge West (3)](img/ign-sj-saltrock-bridge-west-3.jpg)"
+   },
+   {
+    "id": "sj-longneck-trail",
+    "t": "**Longneck Trail** — challenge: Land the jump using a quad bike",
+    "d": "![Longneck Trail](img/ign-sj-longneck-trail-1.jpg)\n![Longneck Trail (2)](img/ign-sj-longneck-trail-2.jpg)\n![Longneck Trail (3)](img/ign-sj-longneck-trail-3.jpg)"
+   },
+   {
+    "id": "sj-dth-depot-parking",
+    "t": "**DTH Depot Parking** — challenge: Land the jump over the lower rooftop with a 4-star wanted level",
+    "d": "![DTH Depot Parking](img/ign-sj-dth-depot-parking-1.jpg)\n![DTH Depot Parking (2)](img/ign-sj-dth-depot-parking-2.jpg)\n![DTH Depot Parking (3)](img/ign-sj-dth-depot-parking-3.jpg)"
+   },
+   {
+    "id": "sj-key-lento-bridge-west",
+    "t": "**Key Lento Bridge West** — challenge: Chain both jumps on Key Lento Bridge",
+    "d": "![Key Lento Bridge West](img/ign-sj-key-lento-bridge-west-1.jpg)\n![Key Lento Bridge West (2)](img/ign-sj-key-lento-bridge-west-2.jpg)\n![Key Lento Bridge West (3)](img/ign-sj-key-lento-bridge-west-3.jpg)"
+   },
+   {
+    "id": "sj-key-lento-bridge-east",
+    "t": "**Key Lento Bridge East**",
+    "d": "![Key Lento Bridge East](img/ign-sj-key-lento-bridge-east-1.jpg)\n![Key Lento Bridge East (2)](img/ign-sj-key-lento-bridge-east-2.jpg)\n![Key Lento Bridge East (3)](img/ign-sj-key-lento-bridge-east-3.jpg)"
+   },
+   {
+    "id": "sj-gellhorn-roadworks-east",
+    "t": "**Gellhorn Roadworks East** — challenge: Land a double backflip using a Maibatsu Sanchez",
+    "d": "![Gellhorn Roadworks East](img/ign-sj-gellhorn-roadworks-east-1.jpg)\n![Gellhorn Roadworks East (2)](img/ign-sj-gellhorn-roadworks-east-2.jpg)\n![Gellhorn Roadworks East (3)](img/ign-sj-gellhorn-roadworks-east-3.jpg)"
+   },
+   {
+    "id": "sj-port-gellhorn-center-of-praise-purpose",
+    "t": "**Port Gellhorn Center of Praise & Purpose** — challenge: Land a backflip over the Center Of Praise & Purpose",
+    "d": "![Port Gellhorn Center of Praise & Purpose](img/ign-sj-port-gellhorn-center-of-praise-purpose-1.jpg)\n![Port Gellhorn Center of Praise & Purpose (2)](img/ign-sj-port-gellhorn-center-of-praise-purpose-2.jpg)\n![Port Gellhorn Center of Praise & Purpose (3)](img/ign-sj-port-gellhorn-center-of-praise-purpose-3.jpg)"
+   },
+   {
+    "id": "sj-vcia-gator-parking",
+    "t": "**VCIA Gator Parking** — challenge: Land the jump going over 40mpg using a yellow taxi",
+    "d": "![VCIA Gator Parking](img/ign-sj-vcia-gator-parking-1.jpg)\n![VCIA Gator Parking (2)](img/ign-sj-vcia-gator-parking-2.jpg)\n![VCIA Gator Parking (3)](img/ign-sj-vcia-gator-parking-3.jpg)"
+   },
+   {
+    "id": "sj-mile-zero-air-station-south",
+    "t": "**Mile Zero Air Station South** — challenge: Land the jump with a 4-star wanted level using a Mammoth Patriot",
+    "d": "![Mile Zero Air Station South](img/ign-sj-mile-zero-air-station-south-1.jpg)\n![Mile Zero Air Station South (2)](img/ign-sj-mile-zero-air-station-south-2.jpg)\n![Mile Zero Air Station South (3)](img/ign-sj-mile-zero-air-station-south-3.jpg)"
+   },
+   {
+    "id": "sj-mile-zero-air-station-southeast",
+    "t": "**Mile Zero Air Station Southeast** — challenge: Land the jump while listening to The Chamber 106.6",
+    "d": "![Mile Zero Air Station Southeast](img/ign-sj-mile-zero-air-station-southeast-1.jpg)\n![Mile Zero Air Station Southeast (2)](img/ign-sj-mile-zero-air-station-southeast-2.jpg)\n![Mile Zero Air Station Southeast (3)](img/ign-sj-mile-zero-air-station-southeast-3.jpg)"
+   },
+   {
+    "id": "sj-nehrling-river",
+    "t": "**Nehrling River** — challenge: Land the jump with a distance over 150ft",
+    "d": "![Nehrling River](img/ign-sj-nehrling-river-1.jpg)\n![Nehrling River (2)](img/ign-sj-nehrling-river-2.jpg)\n![Nehrling River (3)](img/ign-sj-nehrling-river-3.jpg)"
+   },
+   {
+    "id": "sj-west-kalaga-logging",
+    "t": "**West Kalaga Logging** — challenge: Land a front flip",
+    "d": "![West Kalaga Logging](img/ign-sj-west-kalaga-logging-1.jpg)\n![West Kalaga Logging (2)](img/ign-sj-west-kalaga-logging-2.jpg)\n![West Kalaga Logging (3)](img/ign-sj-west-kalaga-logging-3.jpg)"
+   },
+   {
+    "id": "sj-prairie-court",
+    "t": "**Prairie Court**",
+    "d": "![Prairie Court](img/ign-sj-prairie-court-1.jpg)\n![Prairie Court (2)](img/ign-sj-prairie-court-2.jpg)\n![Prairie Court (3)](img/ign-sj-prairie-court-3.jpg)"
+   },
+   {
+    "id": "sj-mount-kalaga-lookout-point",
+    "t": "**Mount Kalaga Lookout Point** — challenge: Chain both jumps in the National Park Trail",
+    "d": "![Mount Kalaga Lookout Point](img/ign-sj-mount-kalaga-lookout-point-1.jpg)\n![Mount Kalaga Lookout Point (2)](img/ign-sj-mount-kalaga-lookout-point-2.jpg)\n![Mount Kalaga Lookout Point (3)](img/ign-sj-mount-kalaga-lookout-point-3.jpg)"
+   },
+   {
+    "id": "sj-south-ambrosia-broken-bridge",
+    "t": "**South Ambrosia Broken Bridge** — challenge: Land the jump with a 3-star wanted level using a vehicle from the Muscle category",
+    "d": "![South Ambrosia Broken Bridge](img/ign-sj-south-ambrosia-broken-bridge-1.jpg)\n![South Ambrosia Broken Bridge (2)](img/ign-sj-south-ambrosia-broken-bridge-2.jpg)\n![South Ambrosia Broken Bridge (3)](img/ign-sj-south-ambrosia-broken-bridge-3.jpg)"
+   },
+   {
+    "id": "sj-goliath-global-quarry-storage",
+    "t": "**Goliath Global Quarry Storage** — challenge: Land a backflip with your partner",
+    "d": "![Goliath Global Quarry Storage](img/ign-sj-goliath-global-quarry-storage-1.jpg)\n![Goliath Global Quarry Storage (2)](img/ign-sj-goliath-global-quarry-storage-2.jpg)\n![Goliath Global Quarry Storage (3)](img/ign-sj-goliath-global-quarry-storage-3.jpg)"
+   },
+   {
+    "id": "sj-dalton-island-sculpture-park",
+    "t": "**Dalton Island Sculpture Park** — challenge: Land the jump with a distance over 350ft while listening to Dirty South Classics",
+    "d": "![Dalton Island Sculpture Park](img/ign-sj-dalton-island-sculpture-park-1.jpg)\n![Dalton Island Sculpture Park (2)](img/ign-sj-dalton-island-sculpture-park-2.jpg)\n![Dalton Island Sculpture Park (3)](img/ign-sj-dalton-island-sculpture-park-3.jpg)"
+   },
+   {
+    "id": "sj-gellhorn-pylons",
+    "t": "**Gellhorn Pylons** — challenge: Land the jump using a vehicle from the Pickups category",
+    "d": "![Gellhorn Pylons](img/ign-sj-gellhorn-pylons-1.jpg)\n![Gellhorn Pylons (2)](img/ign-sj-gellhorn-pylons-2.jpg)\n![Gellhorn Pylons (3)](img/ign-sj-gellhorn-pylons-3.jpg)"
+   },
+   {
+    "id": "sj-gellhorn-roadworks-west",
+    "t": "**Gellhorn Roadworks West**",
+    "d": "![Gellhorn Roadworks West](img/ign-sj-gellhorn-roadworks-west-1.jpg)\n![Gellhorn Roadworks West (2)](img/ign-sj-gellhorn-roadworks-west-2.jpg)\n![Gellhorn Roadworks West (3)](img/ign-sj-gellhorn-roadworks-west-3.jpg)"
+   },
+   {
+    "id": "sj-gellhorn-drive-in-theatre",
+    "t": "**Gellhorn Drive-In Theatre**",
+    "d": "![Gellhorn Drive-In Theatre](img/ign-sj-gellhorn-drive-in-theatre-1.jpg)\n![Gellhorn Drive-In Theatre (2)](img/ign-sj-gellhorn-drive-in-theatre-2.jpg)\n![Gellhorn Drive-In Theatre (3)](img/ign-sj-gellhorn-drive-in-theatre-3.jpg)"
+   },
+   {
+    "id": "sj-leone-street",
+    "t": "**Leone Street** — challenge: Land the jump using a personal vehicle",
+    "d": "![Leone Street](img/ign-sj-leone-street-1.jpg)\n![Leone Street (2)](img/ign-sj-leone-street-2.jpg)\n![Leone Street (3)](img/ign-sj-leone-street-3.jpg)"
+   },
+   {
+    "id": "sj-mariner-s-highway",
+    "t": "**Mariner’s Highway** — challenge: Land the jump on the Mariner’s Highway",
+    "d": "![Mariner’s Highway](img/ign-sj-mariner-s-highway-1.jpg)\n![Mariner’s Highway (2)](img/ign-sj-mariner-s-highway-2.jpg)\n![Mariner’s Highway (3)](img/ign-sj-mariner-s-highway-3.jpg)"
+   },
+   {
+    "id": "sj-shoreline-park-amphitheater",
+    "t": "**Shoreline Park Amphitheater** — challenge: Land the jump using a Declasse Burrito",
+    "d": "![Shoreline Park Amphitheater](img/ign-sj-shoreline-park-amphitheater-1.jpg)\n![Shoreline Park Amphitheater (2)](img/ign-sj-shoreline-park-amphitheater-2.jpg)\n![Shoreline Park Amphitheater (3)](img/ign-sj-shoreline-park-amphitheater-3.jpg)"
+   },
+   {
+    "id": "sj-ocean-beach-mvp-park-north",
+    "t": "**Ocean Beach MVP Park North**",
+    "d": "![Ocean Beach MVP Park North](img/ign-sj-ocean-beach-mvp-park-north-1.jpg)\n![Ocean Beach MVP Park North (2)](img/ign-sj-ocean-beach-mvp-park-north-2.jpg)\n![Ocean Beach MVP Park North (3)](img/ign-sj-ocean-beach-mvp-park-north-3.jpg)"
+   },
+   {
+    "id": "sj-lake-leonida-lock-southwest",
+    "t": "**Lake Leonida Lock Southwest** — challenge: Chain both jumps south of Lake Leonida",
+    "d": "![Lake Leonida Lock Southwest](img/ign-sj-lake-leonida-lock-southwest-1.jpg)\n![Lake Leonida Lock Southwest (2)](img/ign-sj-lake-leonida-lock-southwest-2.jpg)\n![Lake Leonida Lock Southwest (3)](img/ign-sj-lake-leonida-lock-southwest-3.jpg)"
+   },
+   {
+    "id": "sj-lake-bonner-construction-west",
+    "t": "**Lake Bonner Construction West** — challenge: Land a backflip",
+    "d": "![Lake Bonner Construction West](img/ign-sj-lake-bonner-construction-west-1.jpg)\n![Lake Bonner Construction West (2)](img/ign-sj-lake-bonner-construction-west-2.jpg)\n![Lake Bonner Construction West (3)](img/ign-sj-lake-bonner-construction-west-3.jpg)"
+   },
+   {
+    "id": "sj-lake-leonida-lock-south",
+    "t": "**Lake Leonida Lock South**",
+    "d": "![Lake Leonida Lock South](img/ign-sj-lake-leonida-lock-south-1.jpg)\n![Lake Leonida Lock South (2)](img/ign-sj-lake-leonida-lock-south-2.jpg)\n![Lake Leonida Lock South (3)](img/ign-sj-lake-leonida-lock-south-3.jpg)"
+   },
+   {
+    "id": "sj-thundergolf",
+    "t": "**Thundergolf** — challenge: Land a backflip over Thundergolf",
+    "d": "![Thundergolf](img/ign-sj-thundergolf-1.jpg)\n![Thundergolf (2)](img/ign-sj-thundergolf-2.jpg)\n![Thundergolf (3)](img/ign-sj-thundergolf-3.jpg)"
+   },
+   {
+    "id": "sj-lake-leonida-lock-east",
+    "t": "**Lake Leonida Lock East** — challenge: Land the jump using an Interstate Yankee",
+    "d": "![Lake Leonida Lock East](img/ign-sj-lake-leonida-lock-east-1.jpg)\n![Lake Leonida Lock East (2)](img/ign-sj-lake-leonida-lock-east-2.jpg)\n![Lake Leonida Lock East (3)](img/ign-sj-lake-leonida-lock-east-3.jpg)"
+   },
+   {
+    "id": "sj-vice-dale-police-parking",
+    "t": "**Vice-Dale Police Parking** — challenge: Land the jump over a train using a law enforcement vehicle",
+    "d": "![Vice-Dale Police Parking](img/ign-sj-vice-dale-police-parking-1.jpg)\n![Vice-Dale Police Parking (2)](img/ign-sj-vice-dale-police-parking-2.jpg)\n![Vice-Dale Police Parking (3)](img/ign-sj-vice-dale-police-parking-3.jpg)"
+   },
+   {
+    "id": "sj-goliath-global-quarry-railroad",
+    "t": "**Goliath Global Quarry Railroad** — challenge: Land the jump using a stolen Bravado Bison",
+    "d": "![Goliath Global Quarry Railroad](img/ign-sj-goliath-global-quarry-railroad-1.jpg)\n![Goliath Global Quarry Railroad (2)](img/ign-sj-goliath-global-quarry-railroad-2.jpg)\n![Goliath Global Quarry Railroad (3)](img/ign-sj-goliath-global-quarry-railroad-3.jpg)"
+   },
+   {
+    "id": "sj-us-route-82-construction",
+    "t": "**US Route 82 Construction** — challenge: Land the jump over the bridge",
+    "d": "![US Route 82 Construction](img/ign-sj-us-route-82-construction-1.jpg)\n![US Route 82 Construction (2)](img/ign-sj-us-route-82-construction-2.jpg)\n![US Route 82 Construction (3)](img/ign-sj-us-route-82-construction-3.jpg)"
+   },
+   {
+    "id": "sj-lake-bonner-construction-east",
+    "t": "**Lake Bonner Construction East** — challenge: Land the jump on Interstate 97",
+    "d": "![Lake Bonner Construction East](img/ign-sj-lake-bonner-construction-east-1.jpg)\n![Lake Bonner Construction East (2)](img/ign-sj-lake-bonner-construction-east-2.jpg)\n![Lake Bonner Construction East (3)](img/ign-sj-lake-bonner-construction-east-3.jpg)"
+   },
+   {
+    "id": "sj-kalaga-pond",
+    "t": "**Kalaga Pond**",
+    "d": "![Kalaga Pond](img/ign-sj-kalaga-pond-1.jpg)\n![Kalaga Pond (2)](img/ign-sj-kalaga-pond-2.jpg)\n![Kalaga Pond (3)](img/ign-sj-kalaga-pond-3.jpg)"
+   },
+   {
+    "id": "sj-waste-transfer-services-south",
+    "t": "**Waste Transfer Services South** — challenge: Land the jump with distance over 350ft",
+    "d": "![Waste Transfer Services South](img/ign-sj-waste-transfer-services-south-1.jpg)\n![Waste Transfer Services South (2)](img/ign-sj-waste-transfer-services-south-2.jpg)\n![Waste Transfer Services South (3)](img/ign-sj-waste-transfer-services-south-3.jpg)"
+   },
+   {
+    "id": "sj-waste-transfer-services-north",
+    "t": "**Waste Transfer Services North** — challenge: Chain both jumps by the Waste Transfer Services",
+    "d": "![Waste Transfer Services North](img/ign-sj-waste-transfer-services-north-1.jpg)\n![Waste Transfer Services North (2)](img/ign-sj-waste-transfer-services-north-2.jpg)\n![Waste Transfer Services North (3)](img/ign-sj-waste-transfer-services-north-3.jpg)"
+   },
+   {
+    "id": "sj-waste-transfer-services-lake",
+    "t": "**Waste Transfer Services Lake**",
+    "d": "![Waste Transfer Services Lake](img/ign-sj-waste-transfer-services-lake-1.jpg)\n![Waste Transfer Services Lake (2)](img/ign-sj-waste-transfer-services-lake-2.jpg)\n![Waste Transfer Services Lake (3)](img/ign-sj-waste-transfer-services-lake-3.jpg)"
+   },
+   {
+    "id": "sj-lake-leonida-lock-northwest",
+    "t": "**Lake Leonida Lock Northwest** — challenge: Land the jump on Interstate 27",
+    "d": "![Lake Leonida Lock Northwest](img/ign-sj-lake-leonida-lock-northwest-1.jpg)\n![Lake Leonida Lock Northwest (2)](img/ign-sj-lake-leonida-lock-northwest-2.jpg)\n![Lake Leonida Lock Northwest (3)](img/ign-sj-lake-leonida-lock-northwest-3.jpg)"
+   },
+   {
+    "id": "sj-richard-barebone-overpass-south",
+    "t": "**Richard Barebone Overpass South** — challenge: Land the jump going over 70mph using a vehicle from the Muscle category",
+    "d": "![Richard Barebone Overpass South](img/ign-sj-richard-barebone-overpass-south-1.jpg)\n![Richard Barebone Overpass South (2)](img/ign-sj-richard-barebone-overpass-south-2.jpg)\n![Richard Barebone Overpass South (3)](img/ign-sj-richard-barebone-overpass-south-3.jpg)"
+   },
+   {
+    "id": "sj-kalaga-ridge",
+    "t": "**Kalaga Ridge**",
+    "d": "![Kalaga Ridge](img/ign-sj-kalaga-ridge-1.jpg)\n![Kalaga Ridge (2)](img/ign-sj-kalaga-ridge-2.jpg)\n![Kalaga Ridge (3)](img/ign-sj-kalaga-ridge-3.jpg)"
+   },
+   {
+    "id": "sj-schlott-construction-key-lento",
+    "t": "**Schlott Construction Key Lento**",
+    "d": "![Schlott Construction Key Lento](img/ign-sj-schlott-construction-key-lento-1.jpg)\n![Schlott Construction Key Lento (2)](img/ign-sj-schlott-construction-key-lento-2.jpg)\n![Schlott Construction Key Lento (3)](img/ign-sj-schlott-construction-key-lento-3.jpg)"
+   },
+   {
+    "id": "sj-ocean-sound-road",
+    "t": "**Ocean Sound Road** — challenge: Land the jump going over 70mph using a motorcycle",
+    "d": "![Ocean Sound Road](img/ign-sj-ocean-sound-road-1.jpg)\n![Ocean Sound Road (2)](img/ign-sj-ocean-sound-road-2.jpg)\n![Ocean Sound Road (3)](img/ign-sj-ocean-sound-road-3.jpg)"
+   },
+   {
+    "id": "sj-anderson-murphy-construction",
+    "t": "**Anderson Murphy Construction** — challenge: Land the jump over a boat",
+    "d": "![Anderson Murphy Construction](img/ign-sj-anderson-murphy-construction-1.jpg)\n![Anderson Murphy Construction (2)](img/ign-sj-anderson-murphy-construction-2.jpg)\n![Anderson Murphy Construction (3)](img/ign-sj-anderson-murphy-construction-3.jpg)"
+   },
+   {
+    "id": "sj-peregrine-bay-coastal",
+    "t": "**Peregrine Bay Coastal** — challenge: Land the jump over a HVY Bulldozer",
+    "d": "![Peregrine Bay Coastal](img/ign-sj-peregrine-bay-coastal-1.jpg)\n![Peregrine Bay Coastal (2)](img/ign-sj-peregrine-bay-coastal-2.jpg)\n![Peregrine Bay Coastal (3)](img/ign-sj-peregrine-bay-coastal-3.jpg)"
+   },
+   {
+    "id": "sj-opulence-construction",
+    "t": "**Opulence Construction** — challenge: Land the jump with your partner using a personal vehicle",
+    "d": "![Opulence Construction](img/ign-sj-opulence-construction-1.jpg)\n![Opulence Construction (2)](img/ign-sj-opulence-construction-2.jpg)\n![Opulence Construction (3)](img/ign-sj-opulence-construction-3.jpg)"
+   },
+   {
+    "id": "sj-abandoned-radio-station",
+    "t": "**Abandoned Radio Station**",
+    "d": "![Abandoned Radio Station](img/ign-sj-abandoned-radio-station-1.jpg)\n![Abandoned Radio Station (2)](img/ign-sj-abandoned-radio-station-2.jpg)\n![Abandoned Radio Station (3)](img/ign-sj-abandoned-radio-station-3.jpg)"
+   },
+   {
+    "id": "sj-goliath-global-quarry-lakeside",
+    "t": "**Goliath Global Quarry Lakeside** — challenge: Land the jump using any stolen Bravado Bison",
+    "d": "![Goliath Global Quarry Lakeside](img/ign-sj-goliath-global-quarry-lakeside-1.jpg)\n![Goliath Global Quarry Lakeside (2)](img/ign-sj-goliath-global-quarry-lakeside-2.jpg)\n![Goliath Global Quarry Lakeside (3)](img/ign-sj-goliath-global-quarry-lakeside-3.jpg)"
+   },
+   {
+    "id": "sj-go-postal",
+    "t": "**Go Postal** — challenge: Land the jump going over 100mph",
+    "d": "![Go Postal](img/ign-sj-go-postal-1.jpg)\n![Go Postal (2)](img/ign-sj-go-postal-2.jpg)\n![Go Postal (3)](img/ign-sj-go-postal-3.jpg)"
+   },
+   {
+    "id": "sj-skorpen-brothers-recycling",
+    "t": "**Skorpen Brothers Recycling** — challenge: Land your jump over a boat",
+    "d": "![Skorpen Brothers Recycling](img/ign-sj-skorpen-brothers-recycling-1.jpg)\n![Skorpen Brothers Recycling (2)](img/ign-sj-skorpen-brothers-recycling-2.jpg)\n![Skorpen Brothers Recycling (3)](img/ign-sj-skorpen-brothers-recycling-3.jpg)"
+   },
+   {
+    "id": "sj-north-kelly-county-ledge",
+    "t": "**North Kelly County Ledge**",
+    "d": "![North Kelly County Ledge](img/ign-sj-north-kelly-county-ledge-1.jpg)\n![North Kelly County Ledge (2)](img/ign-sj-north-kelly-county-ledge-2.jpg)\n![North Kelly County Ledge (3)](img/ign-sj-north-kelly-county-ledge-3.jpg)"
+   },
+   {
+    "id": "sj-dock-coal-company-freeway",
+    "t": "**Dock Coal Company Freeway**",
+    "d": "![Dock Coal Company Freeway](img/ign-sj-dock-coal-company-freeway-1.jpg)\n![Dock Coal Company Freeway (2)](img/ign-sj-dock-coal-company-freeway-2.jpg)\n![Dock Coal Company Freeway (3)](img/ign-sj-dock-coal-company-freeway-3.jpg)"
+   },
+   {
+    "id": "sj-la-perle-parking-lot",
+    "t": "**La Perle Parking Lot** — challenge: Land the jump with your partner using a stolen vehicle",
+    "d": "![La Perle Parking Lot](img/ign-sj-la-perle-parking-lot-1.jpg)\n![La Perle Parking Lot (2)](img/ign-sj-la-perle-parking-lot-2.jpg)\n![La Perle Parking Lot (3)](img/ign-sj-la-perle-parking-lot-3.jpg)"
+   },
+   {
+    "id": "sj-vice-city-parking-department-ocean-beach",
+    "t": "**Vice City Parking Department Ocean Beach**",
+    "d": "![Vice City Parking Department Ocean Beach](img/ign-sj-vice-city-parking-department-ocean-beach-1.jpg)\n![Vice City Parking Department Ocean Beach (2)](img/ign-sj-vice-city-parking-department-ocean-beach-2.jpg)\n![Vice City Parking Department Ocean Beach (3)](img/ign-sj-vice-city-parking-department-ocean-beach-3.jpg)"
+   },
+   {
+    "id": "sj-goliath-global-quarry-conveyor",
+    "t": "**Goliath Global Quarry Conveyor** — challenge: Land the jump on the Goliath Global roof",
+    "d": "![Goliath Global Quarry Conveyor](img/ign-sj-goliath-global-quarry-conveyor-1.jpg)\n![Goliath Global Quarry Conveyor (2)](img/ign-sj-goliath-global-quarry-conveyor-2.jpg)\n![Goliath Global Quarry Conveyor (3)](img/ign-sj-goliath-global-quarry-conveyor-3.jpg)"
+   },
+   {
+    "id": "sj-goliath-global-quarry-heap",
+    "t": "**Goliath Global Quarry Heap** — challenge: Land the jump with a distance over 80ft",
+    "d": "![Goliath Global Quarry Heap](img/ign-sj-goliath-global-quarry-heap-1.jpg)\n![Goliath Global Quarry Heap (2)](img/ign-sj-goliath-global-quarry-heap-2.jpg)\n![Goliath Global Quarry Heap (3)](img/ign-sj-goliath-global-quarry-heap-3.jpg)"
+   },
+   {
+    "id": "sj-apollo-aggregates-south",
+    "t": "**Apollo Aggregates South**",
+    "d": "![Apollo Aggregates South](img/ign-sj-apollo-aggregates-south-1.jpg)\n![Apollo Aggregates South (2)](img/ign-sj-apollo-aggregates-south-2.jpg)\n![Apollo Aggregates South (3)](img/ign-sj-apollo-aggregates-south-3.jpg)"
+   },
+   {
+    "id": "sj-kalaga-roadside",
+    "t": "**Kalaga Roadside** — challenge: Land the jump over a motorhome",
+    "d": "![Kalaga Roadside](img/ign-sj-kalaga-roadside-1.jpg)\n![Kalaga Roadside (2)](img/ign-sj-kalaga-roadside-2.jpg)\n![Kalaga Roadside (3)](img/ign-sj-kalaga-roadside-3.jpg)"
+   },
+   {
+    "id": "sj-bonanza-harbor",
+    "t": "**Bonanza Harbor** — challenge: Land the jump over the fishing hut",
+    "d": "![Bonanza Harbor](img/ign-sj-bonanza-harbor-1.jpg)\n![Bonanza Harbor (2)](img/ign-sj-bonanza-harbor-2.jpg)\n![Bonanza Harbor (3)](img/ign-sj-bonanza-harbor-3.jpg)"
+   },
+   {
+    "id": "sj-north-moreau-broken-bridge",
+    "t": "**North Moreau Broken Bridge** — challenge: Land the jump with your partner while listening to Back Country Radio",
+    "d": "![North Moreau Broken Bridge](img/ign-sj-north-moreau-broken-bridge-1.jpg)\n![North Moreau Broken Bridge (2)](img/ign-sj-north-moreau-broken-bridge-2.jpg)\n![North Moreau Broken Bridge (3)](img/ign-sj-north-moreau-broken-bridge-3.jpg)"
+   },
+   {
+    "id": "sj-southpoint-airfield",
+    "t": "**Southpoint Airfield** — challenge: Land the jump going over 65mph using a personal vehicle",
+    "d": "![Southpoint Airfield](img/ign-sj-southpoint-airfield-1.jpg)\n![Southpoint Airfield (2)](img/ign-sj-southpoint-airfield-2.jpg)\n![Southpoint Airfield (3)](img/ign-sj-southpoint-airfield-3.jpg)"
+   },
+   {
+    "id": "sj-west-vice-dale-county-landfill",
+    "t": "**West Vice-Dale County Landfill** — challenge: Land the jump over Cargo Road",
+    "d": "![West Vice-Dale County Landfill](img/ign-sj-west-vice-dale-county-landfill-1.jpg)\n![West Vice-Dale County Landfill (2)](img/ign-sj-west-vice-dale-county-landfill-2.jpg)\n![West Vice-Dale County Landfill (3)](img/ign-sj-west-vice-dale-county-landfill-3.jpg)"
+   },
+   {
+    "id": "sj-south-ambrosia-water-treatment",
+    "t": "**South Ambrosia Water Treatment** — challenge: Land the jump on the Aggro Feed & Farm Supply roof",
+    "d": "![South Ambrosia Water Treatment](img/ign-sj-south-ambrosia-water-treatment-1.jpg)\n![South Ambrosia Water Treatment (2)](img/ign-sj-south-ambrosia-water-treatment-2.jpg)\n![South Ambrosia Water Treatment (3)](img/ign-sj-south-ambrosia-water-treatment-3.jpg)"
+   },
+   {
+    "id": "sj-waste-transfer-services-pond",
+    "t": "**Waste Transfer Services Pond**",
+    "d": "![Waste Transfer Services Pond](img/ign-sj-waste-transfer-services-pond-1.jpg)\n![Waste Transfer Services Pond (2)](img/ign-sj-waste-transfer-services-pond-2.jpg)\n![Waste Transfer Services Pond (3)](img/ign-sj-waste-transfer-services-pond-3.jpg)"
+   },
+   {
+    "id": "sj-peacock-estate",
+    "t": "**Peacock Estate**",
+    "d": "![Peacock Estate](img/ign-sj-peacock-estate-1.jpg)\n![Peacock Estate (2)](img/ign-sj-peacock-estate-2.jpg)\n![Peacock Estate (3)](img/ign-sj-peacock-estate-3.jpg)"
+   },
+   {
+    "id": "sj-gellhorn-international-raceway",
+    "t": "**Gellhorn International Raceway** — challenge: Land a backflip over Gellhorn International Raceway",
+    "d": "![Gellhorn International Raceway](img/ign-sj-gellhorn-international-raceway-1.jpg)\n![Gellhorn International Raceway (2)](img/ign-sj-gellhorn-international-raceway-2.jpg)\n![Gellhorn International Raceway (3)](img/ign-sj-gellhorn-international-raceway-3.jpg)"
+   },
+   {
+    "id": "sj-tequesta-park-in",
+    "t": "**Tequesta Park In**",
+    "d": "![Tequesta Park In](img/ign-sj-tequesta-park-in-1.jpg)\n![Tequesta Park In (2)](img/ign-sj-tequesta-park-in-2.jpg)\n![Tequesta Park In (3)](img/ign-sj-tequesta-park-in-3.jpg)"
+   },
+   {
+    "id": "sj-ocean-beach-mvp-park-south",
+    "t": "**Ocean Beach MVP Park South**",
+    "d": "![Ocean Beach MVP Park South](img/ign-sj-ocean-beach-mvp-park-south-1.jpg)\n![Ocean Beach MVP Park South (2)](img/ign-sj-ocean-beach-mvp-park-south-2.jpg)\n![Ocean Beach MVP Park South (3)](img/ign-sj-ocean-beach-mvp-park-south-3.jpg)"
+   },
+   {
+    "id": "sj-port-vice-city-plus-parking",
+    "t": "**Port Vice City Plus Parking** — challenge: Land the jump with a 3-star wanted level using a stolen vehicle",
+    "d": "![Port Vice City Plus Parking](img/ign-sj-port-vice-city-plus-parking-1.jpg)\n![Port Vice City Plus Parking (2)](img/ign-sj-port-vice-city-plus-parking-2.jpg)\n![Port Vice City Plus Parking (3)](img/ign-sj-port-vice-city-plus-parking-3.jpg)"
+   },
+   {
+    "id": "sj-ocean-beach-plus-parking",
+    "t": "**Ocean Beach Plus Parking** — challenge: Chain both jumps from Sixth & Harper to Ocean Beach Plus",
+    "d": "![Ocean Beach Plus Parking](img/ign-sj-ocean-beach-plus-parking-1.jpg)\n![Ocean Beach Plus Parking (2)](img/ign-sj-ocean-beach-plus-parking-2.jpg)\n![Ocean Beach Plus Parking (3)](img/ign-sj-ocean-beach-plus-parking-3.jpg)"
+   },
+   {
+    "id": "sj-cruda-y-asi",
+    "t": "**Cruda Y Asi** — challenge: Land the jump using a Grotti Cheetah while listening to Vice City FM",
+    "d": "![Cruda Y Asi](img/ign-sj-cruda-y-asi-1.jpg)\n![Cruda Y Asi (2)](img/ign-sj-cruda-y-asi-2.jpg)\n![Cruda Y Asi (3)](img/ign-sj-cruda-y-asi-3.jpg)"
+   },
+   {
+    "id": "sj-sixth-harper-parking",
+    "t": "**Sixth & Harper Parking**",
+    "d": "![Sixth & Harper Parking](img/ign-sj-sixth-harper-parking-1.jpg)\n![Sixth & Harper Parking (2)](img/ign-sj-sixth-harper-parking-2.jpg)\n![Sixth & Harper Parking (3)](img/ign-sj-sixth-harper-parking-3.jpg)"
+   },
+   {
+    "id": "sj-vice-city-parking-department-downtown",
+    "t": "**Vice City Parking Department Downtown**",
+    "d": "![Vice City Parking Department Downtown](img/ign-sj-vice-city-parking-department-downtown-1.jpg)\n![Vice City Parking Department Downtown (2)](img/ign-sj-vice-city-parking-department-downtown-2.jpg)\n![Vice City Parking Department Downtown (3)](img/ign-sj-vice-city-parking-department-downtown-3.jpg)"
+   },
+   {
+    "id": "sj-dolly-and-darrel-zimmermann-parking",
+    "t": "**Dolly and Darrel Zimmermann Parking** — challenge: Land the jump using a yellow taxi",
+    "d": "![Dolly and Darrel Zimmermann Parking](img/ign-sj-dolly-and-darrel-zimmermann-parking-1.jpg)\n![Dolly and Darrel Zimmermann Parking (2)](img/ign-sj-dolly-and-darrel-zimmermann-parking-2.jpg)\n![Dolly and Darrel Zimmermann Parking (3)](img/ign-sj-dolly-and-darrel-zimmermann-parking-3.jpg)"
+   },
+   {
+    "id": "sj-tequesta-mvp-park",
+    "t": "**Tequesta MVP Park** — challenge: Land the jump going over 50mph",
+    "d": "![Tequesta MVP Park](img/ign-sj-tequesta-mvp-park-1.jpg)\n![Tequesta MVP Park (2)](img/ign-sj-tequesta-mvp-park-2.jpg)\n![Tequesta MVP Park (3)](img/ign-sj-tequesta-mvp-park-3.jpg)"
+   },
+   {
+    "id": "sj-downtown-mvp-park",
+    "t": "**Downtown MVP Park**",
+    "d": "![Downtown MVP Park](img/ign-sj-downtown-mvp-park-1.jpg)\n![Downtown MVP Park (2)](img/ign-sj-downtown-mvp-park-2.jpg)\n![Downtown MVP Park (3)](img/ign-sj-downtown-mvp-park-3.jpg)"
+   },
+   {
+    "id": "sj-vcia-north-central-gate",
+    "t": "**VCIA North Central Gate** — challenge: Land the jump with a 4-star wanted level",
+    "d": "![VCIA North Central Gate](img/ign-sj-vcia-north-central-gate-1.jpg)\n![VCIA North Central Gate (2)](img/ign-sj-vcia-north-central-gate-2.jpg)\n![VCIA North Central Gate (3)](img/ign-sj-vcia-north-central-gate-3.jpg)"
+   },
+   {
+    "id": "sj-grayson-rail-tunnel",
+    "t": "**Grayson Rail Tunnel** — challenge: Land the jump over a train",
+    "d": "![Grayson Rail Tunnel](img/ign-sj-grayson-rail-tunnel-1.jpg)\n![Grayson Rail Tunnel (2)](img/ign-sj-grayson-rail-tunnel-2.jpg)\n![Grayson Rail Tunnel (3)](img/ign-sj-grayson-rail-tunnel-3.jpg)"
+   },
+   {
+    "id": "sj-kalaga-ramp",
+    "t": "**Kalaga Ramp**",
+    "d": "![Kalaga Ramp](img/ign-sj-kalaga-ramp-1.jpg)\n![Kalaga Ramp (2)](img/ign-sj-kalaga-ramp-2.jpg)\n![Kalaga Ramp (3)](img/ign-sj-kalaga-ramp-3.jpg)"
+   },
+   {
+    "id": "sj-harrison-harbor-parking",
+    "t": "**Harrison Harbor Parking** — challenge: Land the jump using a law enforcement vehicle with the siren on",
+    "d": "![Harrison Harbor Parking](img/ign-sj-harrison-harbor-parking-1.jpg)\n![Harrison Harbor Parking (2)](img/ign-sj-harrison-harbor-parking-2.jpg)\n![Harrison Harbor Parking (3)](img/ign-sj-harrison-harbor-parking-3.jpg)"
+   },
+   {
+    "id": "sj-north-kelly-county-railroad",
+    "t": "**North Kelly County Railroad** — challenge: Land a front flip over a train",
+    "d": "![North Kelly County Railroad](img/ign-sj-north-kelly-county-railroad-1.jpg)\n![North Kelly County Railroad (2)](img/ign-sj-north-kelly-county-railroad-2.jpg)\n![North Kelly County Railroad (3)](img/ign-sj-north-kelly-county-railroad-3.jpg)"
+   },
+   {
+    "id": "sj-mount-kalaga-visitor-center",
+    "t": "**Mount Kalaga Visitor Center** — challenge: Land a front flip over the Visitor Center",
+    "d": "![Mount Kalaga Visitor Center](img/ign-sj-mount-kalaga-visitor-center-1.jpg)\n![Mount Kalaga Visitor Center (2)](img/ign-sj-mount-kalaga-visitor-center-2.jpg)\n![Mount Kalaga Visitor Center (3)](img/ign-sj-mount-kalaga-visitor-center-3.jpg)"
+   },
+   {
+    "id": "sj-nolan-center-parking",
+    "t": "**Nolan Center Parking** — challenge: Chain both jumps from 7777 Ocean Beach to the Nolan Center while listening to Honey FM",
+    "d": "![Nolan Center Parking](img/ign-sj-nolan-center-parking-1.jpg)\n![Nolan Center Parking (2)](img/ign-sj-nolan-center-parking-2.jpg)\n![Nolan Center Parking (3)](img/ign-sj-nolan-center-parking-3.jpg)"
+   },
+   {
+    "id": "sj-valdemar-on-the-river-parking-south",
+    "t": "**Valdemar on the River Parking South**",
+    "d": "![Valdemar on the River Parking South](img/ign-sj-valdemar-on-the-river-parking-south-1.jpg)\n![Valdemar on the River Parking South (2)](img/ign-sj-valdemar-on-the-river-parking-south-2.jpg)\n![Valdemar on the River Parking South (3)](img/ign-sj-valdemar-on-the-river-parking-south-3.jpg)"
+   },
+   {
+    "id": "sj-banner-hotel-spa-parking",
+    "t": "**Banner Hotel & Spa Parking**",
+    "d": "![Banner Hotel & Spa Parking](img/ign-sj-banner-hotel-spa-parking-1.jpg)\n![Banner Hotel & Spa Parking (2)](img/ign-sj-banner-hotel-spa-parking-2.jpg)\n![Banner Hotel & Spa Parking (3)](img/ign-sj-banner-hotel-spa-parking-3.jpg)"
+   },
+   {
+    "id": "sj-vice-city-parking-department-salton",
+    "t": "**Vice City Parking Department Salton** — challenge: Land the jump on Interstate 35",
+    "d": "![Vice City Parking Department Salton](img/ign-sj-vice-city-parking-department-salton-1.jpg)\n![Vice City Parking Department Salton (2)](img/ign-sj-vice-city-parking-department-salton-2.jpg)\n![Vice City Parking Department Salton (3)](img/ign-sj-vice-city-parking-department-salton-3.jpg)"
+   },
+   {
+    "id": "sj-7777-ocean-beach-parking",
+    "t": "**7777 Ocean Beach Parking**",
+    "d": "![7777 Ocean Beach Parking](img/ign-sj-7777-ocean-beach-parking-1.jpg)\n![7777 Ocean Beach Parking (2)](img/ign-sj-7777-ocean-beach-parking-2.jpg)\n![7777 Ocean Beach Parking (3)](img/ign-sj-7777-ocean-beach-parking-3.jpg)"
+   },
+   {
+    "id": "sj-vice-beach-police-headquarters",
+    "t": "**Vice Beach Police Headquarters**",
+    "d": "![Vice Beach Police Headquarters](img/ign-sj-vice-beach-police-headquarters-1.jpg)\n![Vice Beach Police Headquarters (2)](img/ign-sj-vice-beach-police-headquarters-2.jpg)\n![Vice Beach Police Headquarters (3)](img/ign-sj-vice-beach-police-headquarters-3.jpg)"
+   },
+   {
+    "id": "sj-gator-plaza-parking",
+    "t": "**Gator Plaza Parking** — challenge: Land the jump using a stolen Vapid Dominator GT",
+    "d": "![Gator Plaza Parking](img/ign-sj-gator-plaza-parking-1.jpg)\n![Gator Plaza Parking (2)](img/ign-sj-gator-plaza-parking-2.jpg)\n![Gator Plaza Parking (3)](img/ign-sj-gator-plaza-parking-3.jpg)"
+   },
+   {
+    "id": "sj-vice-city-parking-department-tequesta",
+    "t": "**Vice City Parking Department Tequesta** — challenge: Land your jump over a metro train",
+    "d": "![Vice City Parking Department Tequesta](img/ign-sj-vice-city-parking-department-tequesta-1.jpg)\n![Vice City Parking Department Tequesta (2)](img/ign-sj-vice-city-parking-department-tequesta-2.jpg)\n![Vice City Parking Department Tequesta (3)](img/ign-sj-vice-city-parking-department-tequesta-3.jpg)"
+   },
+   {
+    "id": "sj-us-route-628",
+    "t": "**US Route 628** — challenge: Land the jump on the opposite train tracks",
+    "d": "![US Route 628](img/ign-sj-us-route-628-1.jpg)\n![US Route 628 (2)](img/ign-sj-us-route-628-2.jpg)\n![US Route 628 (3)](img/ign-sj-us-route-628-3.jpg)"
+   },
+   {
+    "id": "sj-valdemar-on-the-river-parking-north",
+    "t": "**Valdemar on the River Parking North** — challenge: Land the jump on West Royale Street",
+    "d": "![Valdemar on the River Parking North](img/ign-sj-valdemar-on-the-river-parking-north-1.jpg)\n![Valdemar on the River Parking North (2)](img/ign-sj-valdemar-on-the-river-parking-north-2.jpg)\n![Valdemar on the River Parking North (3)](img/ign-sj-valdemar-on-the-river-parking-north-3.jpg)"
+   },
+   {
+    "id": "sj-kelly-river",
+    "t": "**Kelly River** — challenge: Land the jump going over 80mph using a personal vehicle",
+    "d": "![Kelly River](img/ign-sj-kelly-river-1.jpg)\n![Kelly River (2)](img/ign-sj-kelly-river-2.jpg)\n![Kelly River (3)](img/ign-sj-kelly-river-3.jpg)"
+   },
+   {
+    "id": "sj-hoopla-construction",
+    "t": "**Hoopla Construction**",
+    "d": "![Hoopla Construction](img/ign-sj-hoopla-construction-1.jpg)\n![Hoopla Construction (2)](img/ign-sj-hoopla-construction-2.jpg)\n![Hoopla Construction (3)](img/ign-sj-hoopla-construction-3.jpg)"
+   },
+   {
+    "id": "sj-gellhorn-campsite",
+    "t": "**Gellhorn Campsite** — challenge: Land a front flip while listening to Symphony FM",
+    "d": "![Gellhorn Campsite](img/ign-sj-gellhorn-campsite-1.jpg)\n![Gellhorn Campsite (2)](img/ign-sj-gellhorn-campsite-2.jpg)\n![Gellhorn Campsite (3)](img/ign-sj-gellhorn-campsite-3.jpg)"
+   },
+   {
+    "id": "sj-interstate-97-west",
+    "t": "**Interstate 97 West**",
+    "d": "![Interstate 97 West](img/ign-sj-interstate-97-west-1.jpg)\n![Interstate 97 West (2)](img/ign-sj-interstate-97-west-2.jpg)\n![Interstate 97 West (3)](img/ign-sj-interstate-97-west-3.jpg)"
+   },
+   {
+    "id": "sj-moreau-broken-bridge",
+    "t": "**Moreau Broken Bridge**",
+    "d": "![Moreau Broken Bridge](img/ign-sj-moreau-broken-bridge-1.jpg)\n![Moreau Broken Bridge (2)](img/ign-sj-moreau-broken-bridge-2.jpg)\n![Moreau Broken Bridge (3)](img/ign-sj-moreau-broken-bridge-3.jpg)"
+   },
+   {
+    "id": "sj-interstate-97-east",
+    "t": "**Interstate 97 East**",
+    "d": "![Interstate 97 East](img/ign-sj-interstate-97-east-1.jpg)\n![Interstate 97 East (2)](img/ign-sj-interstate-97-east-2.jpg)\n![Interstate 97 East (3)](img/ign-sj-interstate-97-east-3.jpg)"
+   },
+   {
+    "id": "sj-kalaga-river",
+    "t": "**Kalaga River**",
+    "d": "![Kalaga River](img/ign-sj-kalaga-river-1.jpg)\n![Kalaga River (2)](img/ign-sj-kalaga-river-2.jpg)\n![Kalaga River (3)](img/ign-sj-kalaga-river-3.jpg)"
+   },
+   {
+    "id": "sj-hamlet-backyard",
+    "t": "**Hamlet Backyard** — challenge: Land the jump in the LPL parking lot",
+    "d": "![Hamlet Backyard](img/ign-sj-hamlet-backyard-1.jpg)\n![Hamlet Backyard (2)](img/ign-sj-hamlet-backyard-2.jpg)\n![Hamlet Backyard (3)](img/ign-sj-hamlet-backyard-3.jpg)"
+   },
+   {
+    "id": "sj-manifest-canyon-trail-east",
+    "t": "**Manifest Canyon Trail East** — challenge: Chain both jumps on the Manifest Canyon Trail",
+    "d": "![Manifest Canyon Trail East](img/ign-sj-manifest-canyon-trail-east-1.jpg)\n![Manifest Canyon Trail East (2)](img/ign-sj-manifest-canyon-trail-east-2.jpg)\n![Manifest Canyon Trail East (3)](img/ign-sj-manifest-canyon-trail-east-3.jpg)"
+   },
+   {
+    "id": "sj-manifest-canyon-trail-west",
+    "t": "**Manifest Canyon Trail West**",
+    "d": "![Manifest Canyon Trail West](img/ign-sj-manifest-canyon-trail-west-1.jpg)\n![Manifest Canyon Trail West (2)](img/ign-sj-manifest-canyon-trail-west-2.jpg)\n![Manifest Canyon Trail West (3)](img/ign-sj-manifest-canyon-trail-west-3.jpg)"
+   },
+   {
+    "id": "sj-manifest-canyon",
+    "t": "**Manifest Canyon**",
+    "d": "![Manifest Canyon](img/ign-sj-manifest-canyon-1.jpg)\n![Manifest Canyon (2)](img/ign-sj-manifest-canyon-2.jpg)\n![Manifest Canyon (3)](img/ign-sj-manifest-canyon-3.jpg)"
+   },
+   {
+    "id": "sj-moreau-coal-mound",
+    "t": "**Moreau Coal Mound** — challenge: Land a backflip over the train tracks",
+    "d": "![Moreau Coal Mound](img/ign-sj-moreau-coal-mound-1.jpg)\n![Moreau Coal Mound (2)](img/ign-sj-moreau-coal-mound-2.jpg)\n![Moreau Coal Mound (3)](img/ign-sj-moreau-coal-mound-3.jpg)"
+   },
+   {
+    "id": "sj-millport-harbor",
+    "t": "**Millport Harbor** — challenge: Land the jump going over 75mph",
+    "d": "![Millport Harbor](img/ign-sj-millport-harbor-1.jpg)\n![Millport Harbor (2)](img/ign-sj-millport-harbor-2.jpg)\n![Millport Harbor (3)](img/ign-sj-millport-harbor-3.jpg)"
+   },
+   {
+    "id": "sj-draper-island",
+    "t": "**Draper Island** — challenge: Land your jump on Interstate 45",
+    "d": "![Draper Island](img/ign-sj-draper-island-1.jpg)\n![Draper Island (2)](img/ign-sj-draper-island-2.jpg)\n![Draper Island (3)](img/ign-sj-draper-island-3.jpg)"
+   },
+   {
+    "id": "sj-axiom-house",
+    "t": "**Axiom House** — challenge: Land the jump using a Mer-Can Blast",
+    "d": "![Axiom House](img/ign-sj-axiom-house-1.jpg)\n![Axiom House (2)](img/ign-sj-axiom-house-2.jpg)\n![Axiom House (3)](img/ign-sj-axiom-house-3.jpg)"
+   },
+   {
+    "id": "sj-vcia-concourse",
+    "t": "**VCIA Concourse**",
+    "d": "![VCIA Concourse](img/ign-sj-vcia-concourse-1.jpg)\n![VCIA Concourse (2)](img/ign-sj-vcia-concourse-2.jpg)\n![VCIA Concourse (3)](img/ign-sj-vcia-concourse-3.jpg)"
+   },
+   {
+    "id": "sj-macalister-gold-mine",
+    "t": "**Macalister Gold Mine** — challenge: Land a double backflip",
+    "d": "![Macalister Gold Mine](img/ign-sj-macalister-gold-mine-1.jpg)\n![Macalister Gold Mine (2)](img/ign-sj-macalister-gold-mine-2.jpg)\n![Macalister Gold Mine (3)](img/ign-sj-macalister-gold-mine-3.jpg)"
+   },
+   {
+    "id": "sj-the-free-state-of-henry-perculay",
+    "t": "**The Free State of Henry Perculay**",
+    "d": "![The Free State of Henry Perculay](img/ign-sj-the-free-state-of-henry-perculay-1.jpg)\n![The Free State of Henry Perculay (2)](img/ign-sj-the-free-state-of-henry-perculay-2.jpg)\n![The Free State of Henry Perculay (3)](img/ign-sj-the-free-state-of-henry-perculay-3.jpg)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,806 @@
+[
+ {
+  "kind": "card",
+  "id": "compras-prioridade",
+  "sec": "compras",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2",
+   "c3",
+   "c4"
+  ],
+  "title": "O que comprar e quando",
+  "sum": "Quatro grupos: comprar já, comprar no Cap. 2 (quando o dinheiro volta), pode esperar e evitar.",
+  "table": {
+   "cols": [
+    "Prioridade",
+    "Item",
+    "Preço",
+    "Libera"
+   ],
+   "rows": [
+    [
+     "Comprar já",
+     "Colete (Ammu-Nation)",
+     "Não confirmado, barato",
+     "Cap. 1 (Key Lento)"
+    ],
+    [
+     "Comprar já",
+     "Silenciador",
+     "“Barato” (GameSpot)",
+     "Cap. 1"
+    ],
+    [
+     "Comprar já",
+     "Munição; uma arma básica se não achar de graça",
+     "Baixo",
+     "Cap. 1"
+    ],
+    [
+     "Comprar já",
+     "2 ou 3 trocas de roupa baratas, para despistar a polícia",
+     "Baixo",
+     "Cap. 1"
+    ],
+    [
+     "Comprar já",
+     "Colar da Lucia (opcional)",
+     "~US$ 425",
+     "Cap. 1"
+    ],
+    [
+     "No Cap. 2",
+     "Registro de um carro de fuga barato (veja no Waink)",
+     "Não confirmado",
+     "Cap. 2 (Moses)"
+    ],
+    [
+     "No Cap. 2",
+     "Scooter Bros Premium",
+     "US$ 12.500",
+     "Cap. 2"
+    ],
+    [
+     "Se faltar vaga",
+     "Garagem mais barata",
+     "US$ 4.000 a 9.500",
+     "Cap. 2 (Daily Driver)"
+    ],
+    [
+     "Cap. 4",
+     "Dicas de carro-forte do Yasmani",
+     "US$ 10.000",
+     "Cap. 4"
+    ],
+    [
+     "Pode esperar",
+     "Melhorias de oficina",
+     "Caros, não confirmados",
+     "Caps. 2 e 3"
+    ],
+    [
+     "Pode esperar",
+     "Fuzis e armas avançadas",
+     "Variável",
+     "Conforme a história"
+    ],
+    [
+     "Pode esperar",
+     "Roupas caras, salão e tatuagens",
+     "Variável",
+     "Desde o início"
+    ],
+    [
+     "Pode esperar",
+     "Garagens de Vice City",
+     "US$ 30 mil a 40 mil",
+     "Cap. 3"
+    ],
+    [
+     "Evitar",
+     "Poupança BuckMe cedo",
+     "—",
+     "Cap. 1"
+    ],
+    [
+     "Evitar",
+     "Carro de luxo registrado",
+     "Alto",
+     "—"
+    ],
+    [
+     "Evitar",
+     "Andar com dinheiro vivo",
+     "—",
+     "—"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "GameSpot",
+   "Press Start",
+   "PowerPyx",
+   "games.gg (CN)"
+  ],
+  "kw": [
+   "comprar",
+   "prioridade",
+   "gastar",
+   "o que comprar primeiro",
+   "vale a pena"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "What to buy and when",
+   "sum": "Buy now, after the crunch, can wait or avoid.",
+   "table": {
+    "cols": [
+     "Priority",
+     "Item",
+     "Price",
+     "Unlocks"
+    ],
+    "rows": [
+     [
+      "Buy now",
+      "Body armor (Ammu-Nation)",
+      "Unconfirmed, cheap",
+      "Ch. 1 (Key Lento)"
+     ],
+     [
+      "Buy now",
+      "Suppressor",
+      "“Cheap” (GameSpot)",
+      "Ch. 1"
+     ],
+     [
+      "Buy now",
+      "Ammo; a basic gun if you can't find one free",
+      "Low",
+      "Ch. 1"
+     ],
+     [
+      "Buy now",
+      "2 or 3 cheap outfit changes, to shake the police",
+      "Low",
+      "Ch. 1"
+     ],
+     [
+      "Buy now",
+      "Lucia's necklace (optional)",
+      "~$425",
+      "Ch. 1"
+     ],
+     [
+      "After the crunch",
+      "Registering a cheap getaway car (check in WAiNK)",
+      "Unconfirmed",
+      "Ch. 2 (Moses)"
+     ],
+     [
+      "After the crunch",
+      "Scooter Bros Premium",
+      "$12,500",
+      "Ch. 2"
+     ],
+     [
+      "If you run out of slots",
+      "Cheapest garage",
+      "$4,000–9,500",
+      "Ch. 2 (Daily Driver)"
+     ],
+     [
+      "Ch. 4",
+      "Yasmani's armored-truck tips",
+      "$10,000",
+      "Ch. 4"
+     ],
+     [
+      "Can wait",
+      "Mod shop upgrades",
+      "Expensive, unconfirmed",
+      "Ch. 2 and 3"
+     ],
+     [
+      "Can wait",
+      "Rifles and advanced weapons",
+      "Varies",
+      "As the story goes"
+     ],
+     [
+      "Can wait",
+      "Expensive clothes, salon and tattoos",
+      "Varies",
+      "From the start"
+     ],
+     [
+      "Can wait",
+      "Vice City garages",
+      "$30k–40k",
+      "Ch. 3"
+     ],
+     [
+      "Avoid",
+      "BuckMe savings early",
+      "—",
+      "Ch. 1"
+     ],
+     [
+      "Avoid",
+      "Registered luxury car",
+      "High",
+      "—"
+     ],
+     [
+      "Avoid",
+      "Carrying pocket cash",
+      "—",
+      "—"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "buy",
+    "priority",
+    "spend",
+    "what to buy first",
+    "worth it"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "compras-ordem",
+  "sec": "compras",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2",
+   "c3",
+   "c4"
+  ],
+  "title": "Ordem recomendada de compras",
+  "sum": "Do Cap. 1 ao primeiro milhão.",
+  "body": "1. **Cap. 1:** colete, silenciador, munição, 1 ou 2 roupas baratas e o colar da Lucia. Deposite todo o resto. Dirija com cuidado: conserto custa caro nessa fase.\n2. **Início do Cap. 2:** não compre nada. Junte o necessário com lojas e pedestres e deposite a cada golpe.\n3. **Fim do Cap. 2, com o Moses liberado:** registre **um** carro barato e discreto, venda os outros e use a garagem grátis.\n4. **Com US$ 15 mil a 20 mil no banco:** Scooter Bros Premium. Se faltar vaga, a garagem de US$ 4.000.\n5. **Cap. 3:** melhorias de oficina no carro que você vai manter, uma arma melhor e as entregas do Randy.\n6. **Cap. 4:** dicas do Yasmani e cofres de banco. A partir daqui, cosméticos e garagens de Vice City à vontade.",
+  "src": [
+   "Press Start",
+   "GameSpot",
+   "PowerPyx"
+  ],
+  "kw": [
+   "ordem",
+   "primeira compra",
+   "o que comprar primeiro"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Recommended purchase order",
+   "sum": "From Ch. 1 to the first million.",
+   "body": "1. **Ch. 1:** armor, suppressor, ammo, 1 or 2 cheap outfits and Lucia's necklace. Deposit the rest. Drive carefully: repairs are expensive at this stage.\n2. **Start of Ch. 2:** buy nothing. Build what you need with stores and pedestrians and deposit after every job.\n3. **End of Ch. 2, with Moses unlocked:** register **one** cheap, low-key car, sell the others and use the free garage.\n4. **With $15–20k in the bank:** Scooter Bros Premium. If you run out of slots, the $4,000 garage.\n5. **Ch. 3:** upgrades on your long-term car, a better gun and Randy's deliveries.\n6. **Ch. 4:** Yasmani's tips and bank vaults. From here on, cosmetics and Vice City garages as you like.",
+   "kw": [
+    "order",
+    "first purchase",
+    "what to buy first"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "compras-garagens",
+  "sec": "compras",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "c2",
+   "c3"
+  ],
+  "title": "Garagens: preços e onde ficam",
+  "sum": "A única propriedade que se compra. A mais barata custa US$ 4.000.",
+  "body": "- Compre pelo app Vice City Real Estate ou indo ao local, depois de “Daily Driver”.\n- Garagens guardam veículos (também roubados ainda não registrados), dão acesso ao seu arsenal no armário e recebem mercadoria para vender. As de bônus têm armário de armas.\n- Você começa com 3 vagas de veículo pessoal: uma do Jason, uma da Lucia e uma reserva.",
+  "table": {
+   "cols": [
+    "Garagem",
+    "Preço",
+    "Onde",
+    "Observação"
+   ],
+   "rows": [
+    [
+     "Port Gellhorn Station Garage",
+     "Grátis",
+     "Ao norte da oficina do Moses",
+     "Dada pelo Moses em “Daily Driver” (Cap. 2)"
+    ],
+    [
+     "Paradise Garage",
+     "Grátis",
+     "Watson Bay",
+     "Ultimate; dada pelo Wyman (Cap. 2)"
+    ],
+    [
+     "Shore Court Garage",
+     "Bônus",
+     "Ocean Beach",
+     "Vintage Vice City Pack, com o Stanier ’55"
+    ],
+    [
+     "Mitchell Auto Center",
+     "US$ 4.000",
+     "Kelly County, a leste de Port Gellhorn",
+     "A mais barata, perto do Moses"
+    ],
+    [
+     "Persistence Road Garage",
+     "US$ 9.500",
+     "—",
+     ""
+    ],
+    [
+     "7th Avenue Garage",
+     "US$ 12.000",
+     "—",
+     ""
+    ],
+    [
+     "Store 'N' Bolt",
+     "US$ 16.800",
+     "Norte de Ambrosia",
+     ""
+    ],
+    [
+     "Wyatt Motors",
+     "US$ 21.600",
+     "Centro de Ambrosia, perto da Pay 'n' Spray",
+     ""
+    ],
+    [
+     "Vela Rota Drive",
+     "US$ 30.000",
+     "Centro de Capri, segundo a Sportskeeda",
+     ""
+    ],
+    [
+     "Bonita Court Garage",
+     "US$ 34.000",
+     "—",
+     ""
+    ],
+    [
+     "Garagem de Ocean Beach (nome não informado)",
+     "US$ 40.000",
+     "Ao sul do Y Hotel, a sudoeste do VYB Club",
+     "A mais cara"
+    ]
+   ],
+   "sort": true
+  },
+  "div": "A PowerPyx fala em 8 garagens compráveis que somam US$ 160.000, mas os preços listados somam US$ 167.900: algum valor pode estar errado. A GameSpot fala em “pouco menos de uma dúzia”. O Gamersky diz que o registro começa com 1 vaga.",
+  "src": [
+   "GameSpot",
+   "Sportskeeda",
+   "PowerPyx",
+   "17173",
+   "Gamersky"
+  ],
+  "kw": [
+   "garagem",
+   "garage",
+   "propriedade",
+   "imovel",
+   "vagas",
+   "mais barata"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Garages: prices and locations",
+   "sum": "The only property you can buy. The cheapest is $4,000.",
+   "body": "- Buy through the Vice City Real Estate app or on site, after “Daily Driver”.\n- Garages store vehicles (including stolen ones not yet registered), give access to your arsenal via the locker and receive goods to sell. The bonus ones have a weapon locker.\n- You start with 3 personal vehicle slots: one for Jason, one for Lucia and a spare.",
+   "table": {
+    "cols": [
+     "Garage",
+     "Price",
+     "Where",
+     "Note"
+    ],
+    "rows": [
+     [
+      "Port Gellhorn Station Garage",
+      "Free",
+      "North of Moses's shop",
+      "Given by Moses in “Daily Driver” (Ch. 2)"
+     ],
+     [
+      "Paradise Garage",
+      "Free",
+      "Watson Bay",
+      "Ultimate; given by Wyman (Ch. 2)"
+     ],
+     [
+      "Shore Court Garage",
+      "Bonus",
+      "Ocean Beach",
+      "Vintage Vice City Pack, with the Stanier ’55"
+     ],
+     [
+      "Mitchell Auto Center",
+      "$4,000",
+      "Kelly County, east of Port Gellhorn",
+      "Cheapest, near Moses"
+     ],
+     [
+      "Persistence Road Garage",
+      "$9,500",
+      "—",
+      ""
+     ],
+     [
+      "7th Avenue Garage",
+      "$12,000",
+      "—",
+      ""
+     ],
+     [
+      "Store 'N' Bolt",
+      "$16,800",
+      "North Ambrosia",
+      ""
+     ],
+     [
+      "Wyatt Motors",
+      "$21,600",
+      "Central Ambrosia, near the Pay 'n' Spray",
+      ""
+     ],
+     [
+      "Vela Rota Drive",
+      "$30,000",
+      "Central Capri, per Sportskeeda",
+      ""
+     ],
+     [
+      "Bonita Court Garage",
+      "$34,000",
+      "—",
+      ""
+     ],
+     [
+      "Ocean Beach garage (name not given)",
+      "$40,000",
+      "South of the Y Hotel, south-west of VYB Club",
+      "The most expensive"
+     ]
+    ],
+    "sort": true
+   },
+   "div": "PowerPyx mentions 8 buyable garages totaling $160,000, but the listed prices add up to $167,900: one value may be wrong. GameSpot says “just under a dozen”. Gamersky says registration starts with 1 slot.",
+   "kw": [
+    "garage",
+    "property",
+    "slots",
+    "cheapest"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "compras-scooter",
+  "sec": "compras",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "c2"
+  ],
+  "title": "Scooter Bros Premium",
+  "sum": "US$ 12.500 uma vez, 3 entregas grátis por dia. Já vem no GTA+.",
+  "body": "- O app entrega seu carro registrado onde você estiver (um NPC traz o carro e vai embora de patinete), recupera veículo destruído ou apreendido e desvira ou reboca carro capotado.\n- A entrega avulsa custa centenas de dólares. O Premium é pagamento único de **US$ 12.500** com **3 entregas grátis por dia** de jogo, e os créditos também tiram carro do pátio.\n- **Assina o GTA+ (US$ 8 por mês)? O Premium já vem incluso** (GameSpot).\n- O app só libera no Cap. 2 (missão “Moses”), então não dá para comprar antes da virada de dinheiro. Compre quando sobrar caixa, com uns US$ 15–20 mil no banco.\n\n**Valores divergem:** a Eurogamer fala em **US$ 12.000** pelo Premium e **US$ 100** por entrega avulsa; a IGN diz que o GTA+ dá **5** entregas grátis por dia em vez de 3. O app também conserta o carro, com preço conforme o valor dele.",
+  "src": [
+   "Eurogamer",
+   "GameSpot",
+   "IGN",
+   "Press Start",
+   "República DG",
+   "Ruliweb"
+  ],
+  "kw": [
+   "scooter bros",
+   "entrega do carro",
+   "gta+",
+   "assinatura",
+   "premium",
+   "chamar carro"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Scooter Bros Premium",
+   "sum": "$12,500 once, 3 free deliveries a day. Included with GTA+.",
+   "body": "- The app delivers your registered car wherever you are (an NPC drops it off and leaves on a scooter), recovers a destroyed or impounded vehicle and flips or tows a rolled car.\n- A single delivery costs hundreds of dollars. Premium is a one-time **$12,500** with **3 free deliveries per in-game day**, and the credits also get cars out of the impound.\n- **Subscribe to GTA+ ($8/month)? Premium is included** (GameSpot).\n- The app only unlocks in Ch. 2 (“Moses”), so you can't buy it before the money turn. Buy it when you have spare cash, around $15–20k in the bank.\n\n**Figures differ:** Eurogamer says **$12,000** for Premium and **$100** per single delivery; IGN says GTA+ gives **5** free deliveries a day instead of 3. The app also repairs your car, priced by the car's value.",
+   "kw": [
+    "scooter bros",
+    "car delivery",
+    "gta+",
+    "subscription",
+    "premium",
+    "call car"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "compras-ammunation",
+  "sec": "compras",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Ammu-Nation",
+  "sum": "24 lojas. As “Expanded” têm o estoque completo.",
+  "body": "- **24 Ammu-Nations** no mapa. Passe o cursor no ícone: as marcadas como **“Expanded”** têm o estoque completo, com lança-granadas e lança-foguetes.\n- Cada loja tem armas exclusivas e opções de personalização diferentes.\n- Programa de fidelidade: quanto mais você compra, mais itens liberam.\n- O **armário** de qualquer Ammu-Nation guarda suas armas; as variantes da Ultimate ficam na seção *Variants*.\n- **Preços não confirmados.** Valores como “colete US$ 200” vêm do Vice City e do San Andreas e não valem aqui.\n- A primeira loja fica em Key Lento, perto da casa do Jason (missão Gear Up). Depois das missões do Yasmani há sticky bombs grátis nos fundos da loja dele.",
+  "src": [
+   "PowerPyx",
+   "Insider Gaming",
+   "Famitsu"
+  ],
+  "kw": [
+   "loja de armas",
+   "ammunation",
+   "armario",
+   "expanded",
+   "preco das armas"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Ammu-Nation",
+   "sum": "24 stores. The “Expanded” ones carry the full stock.",
+   "body": "- **24 Ammu-Nations** on the map. Hover the icon: the ones marked **“Expanded”** carry the full stock, including grenade and rocket launchers.\n- Each store has exclusive weapons and different customization options.\n- Loyalty program: the more you buy, the more items unlock.\n- The **locker** at any Ammu-Nation stores your weapons; Ultimate variants live under *Variants*.\n- **Prices unconfirmed.** Figures like “armor $200” come from Vice City and San Andreas and don't apply here.\n- The first store is in Key Lento near Jason's house (Gear Up). After Yasmani's missions there are free sticky bombs in the back of his shop.",
+   "kw": [
+    "gun store",
+    "ammunation",
+    "locker",
+    "expanded",
+    "weapon prices"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "compras-edicoes",
+  "sec": "compras",
+  "tipo": "dado",
+  "conf": "oficial",
+  "ch": [
+   "pre",
+   "c1",
+   "c2",
+   "c4"
+  ],
+  "title": "Edições e bônus",
+  "sum": "O que vem em cada edição e em que capítulo aparece.",
+  "body": "Standard: US$ 79,99 ou R$ 449,90. Ultimate: US$ 99,99 ou R$ 549,90. Em dinheiro de jogo, a Ultimate acrescenta um alvo de roubo e alguns veículos. Ajuda, mas não muda a economia.\n\n**Onde e quando cada item da Ultimate aparece (Eurogamer):**\n- **Só no Cap. 1, na casa do Jason:** Dinka Enduro camuflada e caiaque Crest. **Ganado Retro Build:** só no Cap. 1, na Coastal Auto Care, menu **Pro Builds** (grátis para a Ultimate).\n- **Desde o Cap. 1:** Stock 305 (roupas) e Electric Fang (tatuagens), em Stockyard; Sara's Unisex Salon em Hamlet (estilos exclusivos no Cap. 2); Goodtime Gear nos manequins da The Wonder Whale, Key Lento; **PTT Youngin$ Illegal Goods Store**, um esconderijo para assaltar em Southside, Vice City.\n- **Depois de Moses (Cap. 2):** oficinas Rideout Customs e One-Eyed Willie's (off-road, Lake Leonida), com ícone dourado.\n- **Depois de Coffee Break:** revólveres Hawk & Little Morgan e pistolas gravadas no porta-malas ou armário; o Wyman manda mensagem sobre o **Dominator Buggy** (Paradise Garage, Watson Bay) e a **coleção de carros clássicos**.\n- **Cap. 3:** Vintage Vice City Pack (sem a Ultimate, dá para comprá-lo na loja do menu nesse ponto). **Cap. 4:** Vice City Style e a lancha Shitzu Squalo em Washington Beach, com caixa de explosivos. **Cap. 5:** Grotti Cheetah no Pegassi Residences.",
+  "table": {
+   "cols": [
+    "Bônus",
+    "Edição",
+    "Quando aparece"
+   ],
+   "rows": [
+    [
+     "Vintage Vice City Pack: Vapid Stanier ’55 e Shore Court Garage",
+     "Compra digital antecipada (até 19/11 para garantir)",
+     "Desde o início"
+    ],
+    [
+     "Scooter Bros Premium",
+     "Assinatura GTA+",
+     "Cap. 2"
+    ],
+    [
+     "Girardi ES9 gravada (Jason)",
+     "Ultimate",
+     "Cap. 1"
+    ],
+    [
+     "Dinka Enduro, caiaque Crest e kit retrô do Ganado",
+     "Ultimate",
+     "**Só no Cap. 1**; depois somem"
+    ],
+    [
+     "Oficinas Rideout Customs e One-Eyed Willie's",
+     "Ultimate",
+     "Cap. 1 em diante"
+    ],
+    [
+     "Lojas Stock 305, Sara's Unisex Salon e Electric Fang",
+     "Ultimate",
+     "—"
+    ],
+    [
+     "Klose K17 gravada (Lucia)",
+     "Ultimate",
+     "Cap. 2"
+    ],
+    [
+     "Revólveres Morgan com luneta (“do Vercetti Estate”)",
+     "Ultimate",
+     "Cap. 2, no armário da Ammu-Nation (GameSpot: a partir de Coffee Break)"
+    ],
+    [
+     "Vapid Dominator Buggy ’67 e Paradise Garage",
+     "Ultimate",
+     "Cap. 2, depois do Mud Club com o Wyman"
+    ],
+    [
+     "Coleção de clássicos do Wyman",
+     "Ultimate",
+     "Cap. 2, sem prazo"
+    ],
+    [
+     "Esconderijo extra PTT Youngin$ Compound (Southside Vice City)",
+     "Ultimate",
+     "Com as Illegal Operations"
+    ],
+    [
+     "Lancha Shitzu Squalo com caixa de explosivos",
+     "Ultimate",
+     "Cap. 4 (Washington Beach)"
+    ],
+    [
+     "Grotti Cheetah ’95",
+     "Ultimate",
+     "Cap. 5 (Pegassi Residences)"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "17173 (CN)",
+   "Eurogamer",
+   "GameSpot",
+   "IGN",
+   "PC Gamer",
+   "Rockstar"
+  ],
+  "kw": [
+   "ultimate",
+   "edicao",
+   "pre venda",
+   "bonus",
+   "vintage vice city pack",
+   "gta+",
+   "standard"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Editions and bonuses",
+   "sum": "What each edition includes and which chapter it appears in.",
+   "body": "Standard: $79.99 or R$ 449.90. Ultimate: $99.99 or R$ 549.90. In in-game money, Ultimate adds one robbery target and a few vehicles. It helps, but doesn't change the economy.\n\n**Where and when each Ultimate Edition item shows up (Eurogamer):**\n- **Chapter 1 only, at Jason's house:** camo Dinka Enduro and Crest Kayak. **Ganado Retro Build:** Chapter 1 only, at Coastal Auto Care, **Pro Builds** menu (free with Ultimate).\n- **From Chapter 1:** Stock 305 (clothes) and Electric Fang (tattoos) in Stockyard; Sara's Unisex Salon in Hamlet (signature looks in Chapter 2); Goodtime Gear on the mannequins at The Wonder Whale, Key Lento; **PTT Youngin$ Illegal Goods Store**, a compound to raid in Southside Vice City.\n- **After Moses (Chapter 2):** Rideout Customs and One-Eyed Willie's (off-road, Lake Leonida) mod shops, with a gold icon.\n- **After Coffee Break:** Hawk & Little Morgan Revolvers and the engraved pistols in your trunk or lockers; Wyman texts about the **Dominator Buggy** (Paradise Garage, Watson Bay) and the **Classic Car Collection**.\n- **Chapter 3:** Vintage Vice City Pack (without Ultimate, you can buy it from the in-game store at this point). **Chapter 4:** Vice City Style and the Shitzu Squalo at Washington Beach, with an explosives crate. **Chapter 5:** Grotti Cheetah at Pegassi Residences.",
+   "table": {
+    "cols": [
+     "Bonus",
+     "Edition",
+     "When it appears"
+    ],
+    "rows": [
+     [
+      "Vintage Vice City Pack: Vapid Stanier ’55 and Shore Court Garage",
+      "Early digital purchase (by 11/19 to be safe)",
+      "From the start"
+     ],
+     [
+      "Scooter Bros Premium",
+      "GTA+ subscription",
+      "Ch. 2"
+     ],
+     [
+      "Engraved Girardi ES9 (Jason)",
+      "Ultimate",
+      "Ch. 1"
+     ],
+     [
+      "Dinka Enduro, Crest kayak and retro Ganado kit",
+      "Ultimate",
+      "**Ch. 1 only**; gone afterward"
+     ],
+     [
+      "Rideout Customs and One-Eyed Willie's mod shops",
+      "Ultimate",
+      "Ch. 1 onward"
+     ],
+     [
+      "Stock 305, Sara's Unisex Salon and Electric Fang stores",
+      "Ultimate",
+      "—"
+     ],
+     [
+      "Engraved Klose K17 (Lucia)",
+      "Ultimate",
+      "Ch. 2"
+     ],
+     [
+      "Scoped Morgan revolvers (“from the Vercetti Estate”)",
+      "Ultimate",
+      "Ch. 2, in the Ammu-Nation locker (GameSpot: from Coffee Break)"
+     ],
+     [
+      "Vapid Dominator Buggy ’67 and Paradise Garage",
+      "Ultimate",
+      "Ch. 2, after the Mud Club with Wyman"
+     ],
+     [
+      "Wyman's classic car collection",
+      "Ultimate",
+      "Ch. 2, no deadline"
+     ],
+     [
+      "Extra PTT Youngin$ Compound hideout (Southside Vice City)",
+      "Ultimate",
+      "With the Illegal Operations"
+     ],
+     [
+      "Shitzu Squalo speedboat with explosives crate",
+      "Ultimate",
+      "Ch. 4 (Washington Beach)"
+     ],
+     [
+      "Grotti Cheetah ’95",
+      "Ultimate",
+      "Ch. 5 (Pegassi Residences)"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "ultimate",
+    "edition",
+    "pre-order",
+    "bonus",
+    "vintage vice city pack",
+    "gta+",
+    "standard"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "compras-evitar",
+  "sec": "compras",
+  "tipo": "alerta",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "O que evitar no começo",
+  "sum": "8 erros de compra que custam caro.",
+  "body": "1. Andar com muito dinheiro vivo.\n2. Mandar dinheiro para a poupança BuckMe cedo, fora o plano de [[dinheiro-reset]].\n3. Registrar carro de luxo: ocupa vaga, o registro é caro e ele costuma ter rastreador. Carro bom é para **vender**.\n4. Bater o carro à toa: no Cap. 1 um conserto de ~US$ 250 pesa, e carro batido vale menos.\n5. Garagem cara antes da hora.\n6. Cosmético de luxo antes da virada de ~30%.\n7. Comprar arma que dá para pegar de graça.\n8. Sites que vendem “dinheiro de GTA 6”: golpe.",
+  "src": [
+   "GameSpot",
+   "Press Start",
+   "Inven (KR)"
+  ],
+  "kw": [
+   "erros",
+   "nao comprar",
+   "desperdicio",
+   "evitar"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "What to avoid early on",
+   "sum": "8 purchase mistakes that cost you.",
+   "body": "1. Carrying lots of pocket cash.\n2. Moving money into BuckMe savings early, outside the [[dinheiro-reset]] plan.\n3. Registering a luxury car: takes a slot, registration is expensive and it usually has a tracker. Good cars are for **selling**.\n4. Wrecking your car for nothing: in Ch. 1 a ~$250 repair hurts, and damaged cars sell for less.\n5. An expensive garage too early.\n6. Luxury cosmetics before the ~30% turn.\n7. Buying a gun you can get for free.\n8. Sites selling “GTA 6 money”: a scam.",
+   "kw": [
+    "mistakes",
+    "don't buy",
+    "waste",
+    "avoid"
+   ]
+  }
+ }
+]

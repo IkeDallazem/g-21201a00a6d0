@@ -1,0 +1,840 @@
+[
+ {
+  "kind": "card",
+  "id": "missoes-como",
+  "sec": "missoes",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Como usar a lista de missões",
+  "sum": "Todas as missões em ordem, para marcar, com o passo a passo completo em português ou inglês.",
+  "body": "- **Toque em “Como fazer”** embaixo de qualquer missão para abrir o passo a passo: onde começa, quem passa, personagem, recompensa, todos os objetivos, escolhas, códigos e perdíveis. O seletor **PT | EN** troca o idioma do guia inteiro.\n- **Imagens:** no fim de cada passo a passo há os links das imagens do walkthrough original, embaixo do objetivo em que cada uma aparece.\n- **5 capítulos, 60 a 80 horas** de história. A ordem dentro do capítulo pode variar, porque as missões chegam por mensagem no celular.\n- **⌛ Ampulheta no mapa = missão com prazo.** Some se você avançar a história. Faça assim que aparecer.\n- **Só Jason / Só Lucia:** a missão só começa com aquele personagem. **Só solo:** não dá para fazer em dupla.\n- **Sem medalha de ouro e sem replay**: o que importa é o save manual (veja [[perdiveis-saves]]).\n- **Fontes:** Prólogo ao Cap. 2 pela GTABase e pela PowerPyx; Cap. 3 e Strangers & Freaks pela PowerPyx. Os Caps. 4 e 5 ainda não têm passo a passo publicado (conferido de novo em 19/11 nas duas fontes): por enquanto, só a descrição curta da GTABase.",
+  "src": [
+   "PowerPyx"
+  ],
+  "kw": [
+   "missoes",
+   "walkthrough",
+   "detonado",
+   "lista de missoes",
+   "passo a passo",
+   "ampulheta",
+   "prazo"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "How to use the mission list",
+   "sum": "Every mission in order, to tick off, with a full walkthrough in English or Portuguese.",
+   "body": "- **Tap “Walkthrough”** under any mission to open it: where it starts, who gives it, character, reward, every objective, choices, codes and missables. The **PT | EN** switch changes the language of the whole guide.\n- **Images:** at the end of each walkthrough there are links to the original walkthrough's screenshots, under the objective where each one appears.\n- **5 chapters, 60–80 hours** of story. The order within a chapter can vary, since missions arrive as phone messages.\n- **⌛ Hourglass on the map = time-limited mission.** It disappears if you advance the story. Do it as soon as it appears.\n- **Jason only / Lucia only:** the mission only starts with that character. **Solo only:** can't be done as a duo.\n- **No gold medals and no replay**: what matters is your manual save (see [[perdiveis-saves]]).\n- **Sources:** Prologue to Ch. 2 from GTABase and PowerPyx; Ch. 3 and Strangers & Freaks from PowerPyx. Chapters 4 and 5 don't have published walkthroughs yet (checked again on Nov 19 on both sites): for now, only GTABase's short description.",
+   "kw": [
+    "missions",
+    "walkthrough",
+    "mission list",
+    "step by step",
+    "hourglass",
+    "time limit"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "missoes-objetivos",
+  "sec": "missoes",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "cap1",
+   "cap2"
+  ],
+  "title": "O objetivo no mapa de cada missão (Caps. 1 e 2)",
+  "sum": "Como cada missão aparece no mapa antes de começar.",
+  "body": "- Missão travada? {↓} mostra o objetivo atual. Entre missões, saia da área original.",
+  "table": {
+   "cols": [
+    "Missão",
+    "Objetivo no mapa"
+   ],
+   "rows": [
+    [
+     "Gear Up",
+     "Pegar uma arma longa na Chuck's Tackle & Shot"
+    ],
+    [
+     "Just a Scratch",
+     "Consertar o carro (Fix Your Car) na oficina do Joey antes da soltura da Lucia"
+    ],
+    [
+     "Lab Fees",
+     "Cobrar o aluguel do Brian na Moonstone Boutique"
+    ],
+    [
+     "Pipework",
+     "Cobrar o aluguel da Mandy"
+    ],
+    [
+     "Unwanted Attention",
+     "Ir falar com o Cal"
+    ],
+    [
+     "Hey Arnold!",
+     "Encontrar o Brian no Crastenburg Hotel"
+    ],
+    [
+     "Island Dreams",
+     "Trabalhar para o Kenton em Key Lento"
+    ],
+    [
+     "Feng Shui",
+     "Encontrar o Cal"
+    ],
+    [
+     "Coming Home",
+     "Buscar a Lucia na Hamlet Correctional"
+    ],
+    [
+     "Clean Up After Donnie",
+     "Achar o pacote do Donnie (sinal perto de um pesqueiro em Hamlet)"
+    ],
+    [
+     "Buck Me",
+     "Abrir conta no Fleeca"
+    ],
+    [
+     "Down to Earth",
+     "Encontrar o Brian na marina"
+    ],
+    [
+     "Clear Skies",
+     "Ajudar o Donnie num serviço em Southwind"
+    ],
+    [
+     "Building a Life",
+     "Montar os móveis"
+    ],
+    [
+     "Day Release",
+     "Encontrar Mattia e Kat no Rusty Anchor"
+    ],
+    [
+     "Swamped",
+     "Encontrar o Brian"
+    ],
+    [
+     "Don Gone",
+     "Ir ao trailer do Donnie"
+    ],
+    [
+     "Recalibration",
+     "Falar com a Lucia (apoiar o Cal)"
+    ],
+    [
+     "Tourist Trap",
+     "Aceitar a proposta do Mattia"
+    ],
+    [
+     "Home Sweet Home",
+     "Pegar as coisas do Jason antes que sumam"
+    ],
+    [
+     "What's in the Bag?",
+     "Descobrir o que tem na bolsa"
+    ],
+    [
+     "Overnight Charges",
+     "Perguntar na recepção quanto deve"
+    ],
+    [
+     "Just Moved In",
+     "Comprar suprimentos na Alpha perto do motel"
+    ],
+    [
+     "Got Pills?",
+     "Perguntar por analgésicos no motel"
+    ],
+    [
+     "Girls' Trip",
+     "Ajudar a Vicki"
+    ],
+    [
+     "Moses",
+     "Levar um carro discreto à oficina do Moses"
+    ],
+    [
+     "Ambulance Chaser",
+     "Sumir com a ambulância"
+    ],
+    [
+     "New Look",
+     "Ir ao Pearl House Hair Salon"
+    ],
+    [
+     "How Do I Look?",
+     "Comprar roupas (barato na Bargain World)"
+    ],
+    [
+     "Play Nurse",
+     "Ver como o Jason está"
+    ],
+    [
+     "Behind on Payments",
+     "Pagar o aluguel"
+    ],
+    [
+     "Daily Driver",
+     "Pegar o '82 Canis Crawler no antigo Trader's Union"
+    ],
+    [
+     "Thrillbillies",
+     "Buscar o prêmio na Mud Club"
+    ],
+    [
+     "Checking Out",
+     "Encontrar o Dre'Quan"
+    ]
+   ]
+  },
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "objetivos",
+   "missões"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Each mission's map objective (Ch. 1 and 2)",
+   "sum": "How each mission shows up on the map before it starts.",
+   "body": "- Stuck? {↓} shows the current objective. Between missions, leave the original area.",
+   "kw": [
+    "objectives"
+   ],
+   "table": {
+    "cols": [
+     "Mission",
+     "Map objective"
+    ],
+    "rows": [
+     [
+      "Gear Up",
+      "Grab a long gun at Chuck's Tackle & Shot"
+     ],
+     [
+      "Just a Scratch",
+      "Fix Your Car at Joey's garage before Lucia's release"
+     ],
+     [
+      "Lab Fees",
+      "Collect Brian's Rent at Moonstone Boutique"
+     ],
+     [
+      "Pipework",
+      "Collect Mandy's Rent"
+     ],
+     [
+      "Unwanted Attention",
+      "Go See Cal"
+     ],
+     [
+      "Hey Arnold!",
+      "Meet Brian at the Crastenburg Hotel"
+     ],
+     [
+      "Island Dreams",
+      "Work for Kenton in Key Lento"
+     ],
+     [
+      "Feng Shui",
+      "Meet Cal"
+     ],
+     [
+      "Coming Home",
+      "Pick Up Lucia at Hamlet Correctional"
+     ],
+     [
+      "Clean Up After Donnie",
+      "Find Donnie's Package (signal near a fishing spot in Hamlet)"
+     ],
+     [
+      "Buck Me",
+      "Set Up Bank Account at Fleeca"
+     ],
+     [
+      "Down to Earth",
+      "Meet Brian at the marina"
+     ],
+     [
+      "Clear Skies",
+      "Join Donnie on a Job in Southwind"
+     ],
+     [
+      "Building a Life",
+      "Assemble the furniture"
+     ],
+     [
+      "Day Release",
+      "Meet Mattia & Kat at the Rusty Anchor"
+     ],
+     [
+      "Swamped",
+      "Meet Brian"
+     ],
+     [
+      "Don Gone",
+      "Head to Donnie's Trailer"
+     ],
+     [
+      "Recalibration",
+      "Talk to Lucia (back Cal)"
+     ],
+     [
+      "Tourist Trap",
+      "Take Up Mattia's Offer"
+     ],
+     [
+      "Home Sweet Home",
+      "Grab Jason's things before they're gone"
+     ],
+     [
+      "What's in the Bag?",
+      "Find out what's in the bag"
+     ],
+     [
+      "Overnight Charges",
+      "Ask reception what you owe"
+     ],
+     [
+      "Just Moved In",
+      "Buy supplies at the Alpha near the motel"
+     ],
+     [
+      "Got Pills?",
+      "Ask around the motel for painkillers"
+     ],
+     [
+      "Girls' Trip",
+      "Help Vicki"
+     ],
+     [
+      "Moses",
+      "Bring a low-key car to Moses' garage"
+     ],
+     [
+      "Ambulance Chaser",
+      "Get rid of the ambulance"
+     ],
+     [
+      "New Look",
+      "Go to Pearl House Hair Salon"
+     ],
+     [
+      "How Do I Look?",
+      "Buy clothes (cheap at Bargain World)"
+     ],
+     [
+      "Play Nurse",
+      "Check on Jason"
+     ],
+     [
+      "Behind on Payments",
+      "Pay the rent"
+     ],
+     [
+      "Daily Driver",
+      "Get the '82 Canis Crawler at the old Trader's Union"
+     ],
+     [
+      "Thrillbillies",
+      "Collect the prize at the Mud Club"
+     ],
+     [
+      "Checking Out",
+      "Meet Dre'Quan"
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "kind": "card",
+  "id": "missoes-perdiveis",
+  "sec": "missoes",
+  "tipo": "alerta",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c3",
+   "c4"
+  ],
+  "title": "As 4 missões que podem ser perdidas",
+  "sum": "Duas no Cap. 1, uma no Cap. 3 e uma no Cap. 4. Nenhuma é necessária para troféu ou 100%.",
+  "body": "- **Cap. 1:** “Get Shirley's Rum” e “Steal the Scooter” (Shirley). Só existem no Cap. 1.\n- **Cap. 3:** “Race Against Yago” aparece com ampulheta. É a parte 3 do Yago, que conta para o troféu Strangers & Freaks: perder pode travar a linha. {{inferencia}}\n- **Cap. 4:** uma missão da Lucia com ampulheta: “This is a Free Call From…”.\n\nSegundo a PowerPyx, missões perdíveis não contam para troféus nem para o 100%.",
+  "src": [
+   "PowerPyx"
+  ],
+  "kw": [
+   "perdivel",
+   "perdiveis",
+   "missable",
+   "ampulheta",
+   "shirley",
+   "yago"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "The 4 missions you can miss",
+   "sum": "Two in Ch. 1, one in Ch. 3 and one in Ch. 4. None is needed for trophies or 100%.",
+   "body": "- **Ch. 1:** “Get Shirley's Rum” and “Steal the Scooter” (Shirley). They only exist in Ch. 1.\n- **Ch. 3:** “Race Against Yago” appears with an hourglass. It's Yago part 3, which counts for the Strangers & Freaks trophy: missing it may lock the strand. {{inferencia}}\n- **Ch. 4:** one Lucia mission with an hourglass: “This is a Free Call From…”.\n\nPer PowerPyx, missable missions don't count toward trophies or 100%.",
+   "kw": [
+    "missable",
+    "hourglass",
+    "shirley",
+    "yago"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "missoes-cap1",
+  "$big": true,
+  "sec": "missoes",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "p",
+   "c1"
+  ],
+  "title": "Prólogo e Capítulo 1: todas as missões",
+  "sum": "35 entradas, quase tudo com o Jason em Key Lento.",
+  "src": [
+   "Eurogamer",
+   "IGN",
+   "PowerPyx"
+  ],
+  "kw": [
+   "capitulo 1",
+   "prologo",
+   "key lento",
+   "missoes cap 1"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Prologue and Chapter 1: every mission",
+   "sum": "35 entries, almost all Jason in Key Lento.",
+   "kw": [
+    "chapter 1",
+    "prologue",
+    "key lento"
+   ]
+  },
+  "$info": {
+   "sizeKB": 202,
+   "checkItems": 36,
+   "checkTitles": [
+    "prologo: **Prologue** — Principal. Tutorial com a Lucia, sem save manual",
+    "gone-fishing: **Gone Fishing** — Principal. Depois dela o mundo abre e o save manual libera",
+    "gear-up: **Gear Up** — Primeira compra na Ammu-Nation. Veja [[armas-gear-up]]",
+    "lab-fees: **Lab Fees** — Cobrar o aluguel do Brian",
+    "scratch: **Just a Scratch** — Consertar o carro",
+    "unwanted: **Unwanted Attention** — Visitar o Cal",
+    "pipework: **Pipework** — Cobrar o aluguel da Mandy. Libera depois das quatro anteriores",
+    "rum: **Get Shirley's Rum** — Opcional, Strangers & Freaks. ⌛ **Perdível**",
+    "scooter: **Steal the Scooter** — Opcional, Strangers & Freaks. ⌛ **Perdível**",
+    "arnold: **Hey Arnold!** — Encontrar o Brian",
+    "island: **Island Dreams** — Trabalhar para o Kenton (mergulhos)",
+    "feng: **Feng Shui** — Encontrar o Cal",
+    "mercado: **Pick Up & Drop Off Groceries** — Opcional, compras de casa",
+    "flores: **Buy Flowers** — Opcional"
+   ],
+   "bodyStart": "**Strangers & Freaks do capítulo:** Kirk — procurar o Skunk Ape (só à noite), as efígies de árvore e “Help Kirk Find Mr. Mangrove” (Lucia, só à noite). Veja [[missoes-strangers]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "missoes-cap2",
+  "$big": true,
+  "sec": "missoes",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c2"
+  ],
+  "title": "Capítulo 2: todas as missões",
+  "sum": "27 entradas. Venda de carros, troca livre e as primeiras linhas de estranhos.",
+  "src": [
+   "Eurogamer",
+   "IGN",
+   "PowerPyx"
+  ],
+  "kw": [
+   "capitulo 2",
+   "moses",
+   "coffee break",
+   "billy",
+   "kyle",
+   "bret"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Chapter 2: every mission",
+   "sum": "27 entries. Car sales, free switching and the first stranger strands.",
+   "kw": [
+    "chapter 2",
+    "moses",
+    "coffee break",
+    "billy",
+    "kyle",
+    "bret"
+   ]
+  },
+  "$info": {
+   "sizeKB": 114,
+   "checkItems": 27,
+   "checkTitles": [
+    "bag: **What's in the Bag?** — Principal",
+    "care: **Take Care of Jason** — Principal",
+    "overnight: **Overnight Charges** — Falar com a Linda, a gerente",
+    "moved: **Just Moved In** — Principal",
+    "girls: **Girl's Trip** — Principal",
+    "gun: **Pick Up A Gun** — Opcional: voltar a se armar",
+    "moses: **Moses** — Levar um veículo ao Moses: Slim Jim, venda e registro de carros",
+    "newlook: **New Look** — Principal, troca de visual",
+    "howlook: **How Do I Look?** — Principal",
+    "supplier: **Painkiller Supplier** — Principal",
+    "ambulance: **Ambulance Chaser** — Mover a ambulância",
+    "farm: **Check Out McKittrick Farm** — Kyle, parte 1 (Strangers & Freaks)",
+    "payments: **Behind on Payments** — Principal",
+    "slam: **Slam Dunk** — Principal"
+   ],
+   "bodyStart": "**Strangers & Freaks que abrem aqui:** roubos de carro para o Moses, baralhos de caça do Bret (troféu “Fair Game”), Billy (Mall Rats, The Impaler e Hometown Heroes, troféu “The Lone Rider”)."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "missoes-cap3",
+  "$big": true,
+  "sec": "missoes",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c3"
+  ],
+  "title": "Capítulo 3: todas as missões",
+  "sum": "39 entradas. Vice City, o golpe do cartel e a virada da renda.",
+  "src": [
+   "Eurogamer",
+   "IGN",
+   "PowerPyx"
+  ],
+  "kw": [
+   "capitulo 3",
+   "vice city",
+   "cartel",
+   "yasmani",
+   "yago",
+   "randy",
+   "raul"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Chapter 3: every mission",
+   "sum": "39 entries. Vice City, the Cartel Heist and the income jump.",
+   "kw": [
+    "chapter 3",
+    "vice city",
+    "cartel",
+    "yasmani",
+    "yago",
+    "randy",
+    "raul"
+   ]
+  },
+  "$info": {
+   "sizeKB": 114,
+   "checkItems": 39,
+   "checkTitles": [
+    "welcome: **Welcome to Vice City** — Principal",
+    "dealer: **Dealer's Choice** — Visitar o Dre'Quan. Só Jason",
+    "dubious: **Dubious Provenance** — Visitar o antiquário",
+    "mami: **Mami Knows Best** — Encontrar a Mia. Só Lucia",
+    "wheels: **Get Your Wheels** — Opcional",
+    "streetrace: **Join a Street Race** — Yago, parte 1 (Strangers & Freaks)",
+    "tyrone: **Tyrone** — Principal",
+    "kitty: **Here, Kitty Kitty** — Falar com o Tyrone. Só Jason",
+    "lorena1: **Send Money to Lorena** — Principal, exige dinheiro",
+    "drive: **Encrypted Hard Drive** — Principal",
+    "boobie: **Boobie Time** — Falar com o Boobie. Só Jason",
+    "buddy: **Buddy?** — Kyle, parte 3: fecha a linha do Kyle",
+    "heders: **Meet the Heders** — Encontrar Brian e Lori",
+    "joias: **Yasmani's Jewelry Jobs** — Richardson Jewelry, Donovan Banks & Co e Casa de Empeño; vend"
+   ],
+   "bodyStart": "**Strangers & Freaks que abrem aqui:** Andy (cadeia Cellerichain, só Lucia), Yasmani (caixas eletrônicos, Payday Loans e seguir o carro-forte), lista do Randy (troféu “Supply & Demand”), Tyrone (laboratórios e “Spin On This”) e dicas de roubo do Dunk."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "missoes-cap4",
+  "$big": true,
+  "sec": "missoes",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c4"
+  ],
+  "title": "Capítulo 4: todas as missões",
+  "sum": "39 entradas, com o golpe do VCIA no meio. Passo a passo ainda não publicado (conferido em 19/11).",
+  "src": [
+   "PowerPyx"
+  ],
+  "kw": [
+   "capitulo 4",
+   "vcia",
+   "aeroporto",
+   "pete",
+   "cofres"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Chapter 4: every mission",
+   "sum": "39 entries, with the VCIA takedown in the middle. Walkthrough not published yet (checked Nov 19).",
+   "kw": [
+    "chapter 4",
+    "vcia",
+    "airport",
+    "pete",
+    "vaults"
+   ]
+  },
+  "$info": {
+   "sizeKB": 23,
+   "checkItems": 39,
+   "checkTitles": [
+    "ocean: **Ocean Beach** — Principal",
+    "another: **Another Life** — Principal",
+    "pool: **Pool Day** — Principal",
+    "cars: **Company Cars** — Falar com o concierge",
+    "lawyer: **Lawyer Up** — Principal",
+    "date: **It's A Date!** — Principal",
+    "party: **Party Hard** — Trabalhar como segurança",
+    "heavy: **Heavy Lifting** — Principal",
+    "abefee: **Pay Abe's Fee** — Principal, exige dinheiro",
+    "photo: **Photo/Shoot** — Gravar uma promo",
+    "felipe: **Bad Driver!** — Opcional: achar o Felipe",
+    "eddie: **Attend Eddie Acosta's Party** — Strangers & Freaks. Só solo",
+    "gainz: **Making Gainz** — Golpe do VCIA: encontrar o Raul. Só Lucia",
+    "gear: **Blood Sweat and Gear** — Golpe do VCIA: academia. Só Lucia"
+   ],
+   "bodyStart": "**Strangers & Freaks que abrem aqui:** Pilot Pete (The Last Mile e as entregas do Pete, só Jason) e a festa do Eddie Acosta."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "missoes-cap5",
+  "sec": "missoes",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c4"
+  ],
+  "title": "Capítulo 5: todas as missões",
+  "sum": "10 missões até o fim da história. Passo a passo ainda não publicado (conferido em 19/11).",
+  "body": "Depois da última, liberam os cheats e o mundo aberto completo. Veja [[roteiro-pos]].",
+  "check": [
+   {
+    "id": "bird",
+    "t": "**Bird in the Hand** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/bird-in-the-hand)",
+    "d": "Jason e Lucia roubam um carro novo.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+   },
+   {
+    "id": "liberties",
+    "t": "**Taking Liberties** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/taking-liberties)",
+    "d": "Um novo plano toma forma.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+   },
+   {
+    "id": "doggie",
+    "t": "**Doggie Bag** — Encontrar o Vinny · [GTABase](https://www.gtabase.com/gta-6/missions/doggie-bag)",
+    "d": "Encontre o Vinny e procure contrabando.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+   },
+   {
+    "id": "vcbaby",
+    "t": "**VC Baby** — Conversar com o Mattia · [GTABase](https://www.gtabase.com/gta-6/missions/vc-baby)",
+    "d": "O Mattia pede ajuda.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+   },
+   {
+    "id": "savage",
+    "t": "**Operation Savage Glory** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/operation-savage-glory)",
+    "d": "Recupere uma carga valiosa.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+   },
+   {
+    "id": "honest",
+    "t": "**Honest Abe** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/honest-abe)",
+    "d": "Negocie um acordo com o Abe.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+   },
+   {
+    "id": "unfinished",
+    "t": "**Unfinished Business** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/unfinished-business)",
+    "d": "Assuntos pendentes.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+   },
+   {
+    "id": "abefee2",
+    "t": "**Pay Abe's Fee** — Principal, exige dinheiro · [GTABase](https://www.gtabase.com/gta-6/missions/pay-abes-fee-chapter-5)",
+    "d": "A ajuda do Abe tem preço de novo (exige dinheiro).\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+   },
+   {
+    "id": "custody",
+    "t": "**Protective Custody** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/protective-custody)",
+    "d": "Jason e Lucia trabalham juntos e encontram o Abe.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+   },
+   {
+    "id": "end",
+    "t": "**The End of the Road** — Missão final · [GTABase](https://www.gtabase.com/gta-6/missions/the-end-of-the-road)",
+    "d": "A última missão da história.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+   }
+  ],
+  "src": [
+   "PowerPyx"
+  ],
+  "kw": [
+   "capitulo 5",
+   "final",
+   "ultima missao",
+   "fim da historia"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "check": [
+    {
+     "id": "bird",
+     "t": "**Bird in the Hand** — Main · [GTABase](https://www.gtabase.com/gta-6/missions/bird-in-the-hand)",
+     "d": "Jason and Lucia boost a new ride.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+    },
+    {
+     "id": "liberties",
+     "t": "**Taking Liberties** — Main · [GTABase](https://www.gtabase.com/gta-6/missions/taking-liberties)",
+     "d": "A new plan comes together.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+    },
+    {
+     "id": "doggie",
+     "t": "**Doggie Bag** — Meet Vinny · [GTABase](https://www.gtabase.com/gta-6/missions/doggie-bag)",
+     "d": "Meet Vinny and hunt for contraband.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+    },
+    {
+     "id": "vcbaby",
+     "t": "**VC Baby** — Talk to Mattia · [GTABase](https://www.gtabase.com/gta-6/missions/vc-baby)",
+     "d": "Mattia asks for help.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+    },
+    {
+     "id": "savage",
+     "t": "**Operation Savage Glory** — Main · [GTABase](https://www.gtabase.com/gta-6/missions/operation-savage-glory)",
+     "d": "Recover a valuable shipment.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+    },
+    {
+     "id": "honest",
+     "t": "**Honest Abe** — Negotiate a deal with Abe · [GTABase](https://www.gtabase.com/gta-6/missions/honest-abe)",
+     "d": "Negotiate a deal with Abe.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+    },
+    {
+     "id": "unfinished",
+     "t": "**Unfinished Business** — Main · [GTABase](https://www.gtabase.com/gta-6/missions/unfinished-business)",
+     "d": "Unfinished business.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+    },
+    {
+     "id": "abefee2",
+     "t": "**Pay Abe's Fee** — Main, needs cash · [GTABase](https://www.gtabase.com/gta-6/missions/pay-abes-fee-chapter-5)",
+     "d": "Abe's help comes at a price again (requires cash).\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+    },
+    {
+     "id": "custody",
+     "t": "**Protective Custody** — Meet with Abe · [GTABase](https://www.gtabase.com/gta-6/missions/protective-custody)",
+     "d": "Jason and Lucia work together and meet Abe.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+    },
+    {
+     "id": "end",
+     "t": "**The End of the Road** — Final mission · [GTABase](https://www.gtabase.com/gta-6/missions/the-end-of-the-road)",
+     "d": "The final mission of the story.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+    }
+   ],
+   "title": "Chapter 5: every mission",
+   "sum": "10 missions to the end of the story. Walkthrough not published yet (checked Nov 19).",
+   "body": "After the last one, cheats and full free roam unlock. See [[roteiro-pos]].",
+   "kw": [
+    "chapter 5",
+    "final",
+    "last mission",
+    "ending"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "missoes-strangers",
+  "$big": true,
+  "sec": "missoes",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2",
+   "c3",
+   "c4",
+   "pos"
+  ],
+  "title": "Strangers & Freaks: as 14 linhas",
+  "sum": "Quem dá, quando abre e se conta para o troféu de 8 linhas.",
+  "src": [
+   "Eurogamer",
+   "IGN",
+   "PowerPyx"
+  ],
+  "kw": [
+   "strangers and freaks",
+   "strangers & freaks",
+   "side quests",
+   "missoes secundarias",
+   "estranhos",
+   "trofeu"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Strangers & Freaks: the 14 strands",
+   "sum": "Who gives them, when they open and whether they count toward the 8-strand trophy.",
+   "kw": [
+    "strangers and freaks",
+    "side quests",
+    "strangers",
+    "trophy"
+   ]
+  },
+  "$info": {
+   "sizeKB": 51,
+   "checkItems": 15,
+   "checkTitles": [
+    "kirk1: **Search for the Skunk Ape** — Kirk 1/3",
+    "kirk2: **Search for Tree Effigies** — Kirk 2/3",
+    "kirk3: **Help Kirk Find Mr. Mangrove** — Kirk 3/3",
+    "impaler: **The Impaler** — Billy 4/5",
+    "hometown: **Hometown Heroes** — Billy 5/5",
+    "andy1: **Climbing the Cellerichain (1–3)** — Andy 1/5",
+    "andy2: **Pay the Cellerica Fee** — Andy 2/5",
+    "andy3: **Peach!** — Andy 3/5",
+    "andy4: **Read the Label** — Andy 4/5",
+    "andy5: **Puff Puff Pass** — Andy 5/5",
+    "labs: **Kitty Litter Labs (14)** — Tyrone",
+    "spin: **Spin On This** — Tyrone",
+    "pete1: **The Last Mile: Passing the Torch** — Pilot Pete 1",
+    "pete2: **The Last Mile: Backseat Pilot** — Pilot Pete 2"
+   ],
+   "bodyStart": "- O troféu **Strangers & Freaks** (prata) pede 8 linhas completas.\n- A próxima parte de uma linha pode demorar dias no jogo, ou só chegar num capítulo seguinte: o personagem liga quando estiver pronta.\n- Todas as que não são perdíveis continuam disponíveis depois da história.\n- O Kenton tem troféu próprio, mas a PowerPyx não o lista entre os Strangers & Freaks.\n- As partes que já estão nas listas dos capítulos (Shirley, Kyle, Bret 1, Billy 1–3, Yago, Eddie) têm o passo a passo lá. Abaixo, o passo a passo das outras.",
+   "tableCols": [
+    "Quem",
+    "Cap.",
+    "Personagem",
+    "Partes",
+    "Conta?",
+    "Observação"
+   ],
+   "tableRows": 14
+  }
+ }
+]

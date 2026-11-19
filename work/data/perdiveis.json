@@ -1,0 +1,912 @@
+[
+ {
+  "kind": "card",
+  "id": "perdiveis-lista",
+  "sec": "perdiveis",
+  "tipo": "perdivel",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c3",
+   "c4"
+  ],
+  "title": "Perdíveis do começo",
+  "sum": "O que some de vez. Marque conforme for fazendo.",
+  "body": "A meditação pode não ser obrigatória para o troféu: a PowerPyx ainda estava confirmando. Fazer é o caminho seguro.\n\nA IGN lista **11 perdíveis no Cap. 1**: 6 roupas e acessórios, 1 arma, os charutos e 3 missões opcionais (Get Shirley's Rum, Find the Lost Drugs e Ring the Bell!). Óculos e chapéus achados no chão somem se você morrer ou sair do jogo sem guardá-los no guarda-roupa (até 11 de cada).",
+  "check": [
+   {
+    "id": "medita",
+    "t": "Meditação com a Lucia: depois de “Down to Earth”, de manhã, fale com ela na cozinha, siga até a varanda e escolha “Accept” (troféu Positive Mental Attitude)"
+   },
+   {
+    "id": "shirley",
+    "t": "“Get Shirley's Rum” (Cap. 1): concluir as tarefas da vizinha dá acesso ao carro da Shirley"
+   },
+   {
+    "id": "scooter",
+    "t": "“Steal the Scooter” (Cap. 1)"
+   },
+   {
+    "id": "ultimate",
+    "t": "Ultimate: usar a Dinka Enduro, o caiaque e o Ganado retrô enquanto existem (só no Cap. 1)"
+   },
+   {
+    "id": "ampulheta",
+    "t": "Missões com ampulheta assim que aparecem (no Cap. 3, “Race Against Yago”; no Cap. 4, uma só da Lucia)"
+   },
+   {
+    "id": "save",
+    "t": "Save manual antes de “Tourist Trap”"
+   },
+   {
+    "id": "perfil",
+    "t": "Não deixar o Perfil Criminal de nenhum dos dois quebrar"
+   },
+   {
+    "id": "charutos",
+    "t": "Charutos Macizo: em Pipework, pegue a caixa que a Mandy joga no chão (fumar dá Focus e tira saúde)"
+   },
+   {
+    "id": "colar",
+    "t": "Colar Tomás para a Lucia: US$ 475 na The Siren's Chest, sudoeste de Key Lento, depois de Feng Shui"
+   },
+   {
+    "id": "oculos-lucia",
+    "t": "Óculos da Lucia: em Day Release, no nível do meio do iate, fale com o casal junto à grade da escada"
+   },
+   {
+    "id": "aviador",
+    "t": "Óculos aviador do Donnie: em Don Gone, prateleira do banheiro do trailer (resgate no guarda-roupa)"
+   },
+   {
+    "id": "revolver",
+    "t": "Revólver H&L .38 do Donnie: em Don Gone, depois da briga, no porta-malas do carro do Donnie"
+   },
+   {
+    "id": "andy",
+    "t": "Jaqueta do Andy: em Home Sweet Home, ligue para a Lucia buscar e chegue ao carro sem ser visto"
+   },
+   {
+    "id": "ringbell",
+    "t": "“Ring the Bell!”: só no começo de Swamped; dar carona ao Cal libera camiseta e boné do Rusty Anchor"
+   },
+   {
+    "id": "lostdrugs",
+    "t": "“Find the Lost Drugs”: só no Cap. 1, depois de Buck Me (4 pacotes)"
+   }
+  ],
+  "src": [
+   "17173 (CN)",
+   "GTABase",
+   "IGN",
+   "PlayStationInfo",
+   "PowerPyx"
+  ],
+  "kw": [
+   "perdivel",
+   "missable",
+   "perder",
+   "meditacao",
+   "shirley",
+   "ampulheta",
+   "positive mental attitude"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Early missables",
+   "sum": "What's gone for good. Tick as you go.",
+   "body": "The meditation may not be required for the trophy: PowerPyx was still confirming. Doing it is the safe path.\n\nIGN lists **11 Chapter 1 missables**: 6 clothing items and accessories, 1 weapon, the cigars and 3 optional missions (Get Shirley's Rum, Find the Lost Drugs and Ring the Bell!). Glasses and hats picked up off the ground are lost if you die or quit before saving them to your wardrobe (up to 11 of each).",
+   "check": [
+    {
+     "id": "medita",
+     "t": "Meditation with Lucia: after “Down to Earth”, in the morning, talk to her in the kitchen, follow her to the porch and choose “Accept” (trophy Positive Mental Attitude)"
+    },
+    {
+     "id": "shirley",
+     "t": "“Get Shirley's Rum” (Ch. 1): finishing the neighbor's tasks gives access to Shirley's car"
+    },
+    {
+     "id": "scooter",
+     "t": "“Steal the Scooter” (Ch. 1)"
+    },
+    {
+     "id": "ultimate",
+     "t": "Ultimate: use the Dinka Enduro, the kayak and the retro Ganado while you have them (Ch. 1 only)"
+    },
+    {
+     "id": "ampulheta",
+     "t": "Hourglass missions as soon as they appear (Ch. 3: “Race Against Yago”; Ch. 4: one for Lucia)"
+    },
+    {
+     "id": "save",
+     "t": "Manual save before “Tourist Trap”"
+    },
+    {
+     "id": "perfil",
+     "t": "Don't let either character's Criminal Profile break"
+    },
+    {
+     "id": "charutos",
+     "t": "Macizo Cigars: in Pipework, grab the box Mandy throws on the ground (smoking gives Focus, costs health)"
+    },
+    {
+     "id": "colar",
+     "t": "Tomas Necklace for Lucia: $475 at The Siren's Chest, southwest Key Lento, after Feng Shui"
+    },
+    {
+     "id": "oculos-lucia",
+     "t": "Lucia's sunglasses: in Day Release, on the yacht's middle level, talk to the couple by the stair railing"
+    },
+    {
+     "id": "aviador",
+     "t": "Donnie's aviator sunglasses: in Don Gone, the trailer's bathroom shelf (claim them at your wardrobe)"
+    },
+    {
+     "id": "revolver",
+     "t": "Donnie's H&L .38 Revolver: in Don Gone, after the fight, in the trunk of Donnie's car"
+    },
+    {
+     "id": "andy",
+     "t": "Andy's Jacket: in Home Sweet Home, call Lucia for a pickup and reach her car undetected"
+    },
+    {
+     "id": "ringbell",
+     "t": "“Ring the Bell!”: only at the start of Swamped; giving Cal a ride unlocks the Rusty Anchor T-Shirt and Cap"
+    },
+    {
+     "id": "lostdrugs",
+     "t": "“Find the Lost Drugs”: Chapter 1 only, after Buck Me (4 packages)"
+    }
+   ],
+   "kw": [
+    "missable",
+    "lose",
+    "meditation",
+    "shirley",
+    "hourglass",
+    "positive mental attitude"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-cap1",
+  "sec": "perdiveis",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "c1"
+  ],
+  "title": "Vale fazer no Cap. 1, mesmo sem ser perdível",
+  "sum": "Diálogos únicos, roupas baratas e atributos.",
+  "check": [
+   {
+    "id": "compras",
+    "t": "Compras para a volta da Lucia: mercado, flores, colar, “Get The Chop” e roupas"
+   },
+   {
+    "id": "casa",
+    "t": "Consertar a casa e o carro do Jason: destrava diálogos únicos"
+   },
+   {
+    "id": "sharleen",
+    "t": "Bazar da Ms Sharleen: roupas mais baratas que os brechós"
+   },
+   {
+    "id": "mandy",
+    "t": "Visita à Mandy: fique na conversa até ela se trancar no banheiro (abre diálogos e um convite para voltar)"
+   },
+   {
+    "id": "fotos",
+    "t": "Achar as fotos escondidas sob o piso do quarto do Jason"
+   },
+   {
+    "id": "casa-treino",
+    "t": "Academia, sono e shake de proteína em casa"
+   },
+   {
+    "id": "kenton",
+    "t": "Linha do Kenton (some depois do Cap. 1 e volta entre os Caps. 2 e 3)"
+   },
+   {
+    "id": "kirk",
+    "t": "Kirk / Skunk Ape (Strangers & Freaks): começa no Cap. 1, só à noite"
+   }
+  ],
+  "src": [
+   "Gamer Social Club",
+   "PowerPyx",
+   "GameSpot"
+  ],
+  "kw": [
+   "capitulo 1",
+   "extras",
+   "segredos",
+   "mandy",
+   "sharleen",
+   "fotos",
+   "kirk",
+   "skunk ape"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Worth doing in Ch. 1, even if not missable",
+   "sum": "Unique dialogue, cheap clothes and stats.",
+   "check": [
+    {
+     "id": "compras",
+     "t": "Shopping for Lucia's return: groceries, flowers, necklace, “Get The Chop” and clothes"
+    },
+    {
+     "id": "casa",
+     "t": "Fix Jason's house and car: unlocks unique dialogue"
+    },
+    {
+     "id": "sharleen",
+     "t": "Ms Sharleen's yard sale: clothes cheaper than thrift stores"
+    },
+    {
+     "id": "mandy",
+     "t": "Visit Mandy: stay in the conversation until she locks herself in the bathroom (opens dialogue and an invite to come back)"
+    },
+    {
+     "id": "fotos",
+     "t": "Find the photos hidden under the floor of Jason's bedroom"
+    },
+    {
+     "id": "casa-treino",
+     "t": "Gym, sleep and protein shake at home"
+    },
+    {
+     "id": "kenton",
+     "t": "Kenton's questline (gone after Ch. 1, back between Ch. 2 and 3)"
+    },
+    {
+     "id": "kirk",
+     "t": "Kirk / Skunk Ape (Strangers & Freaks): starts in Ch. 1, night only"
+    }
+   ],
+   "kw": [
+    "chapter 1",
+    "extras",
+    "secrets",
+    "mandy",
+    "sharleen",
+    "photos",
+    "kirk",
+    "skunk ape"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-tranquilo",
+  "sec": "perdiveis",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "O que não precisa preocupar",
+  "sum": "Nada do checklist de 100% é perdível.",
+  "body": "- **100%:** tudo pode ser feito no mundo aberto depois da história.\n- **Strangers & Freaks:** as que contam para troféu continuam disponíveis depois da história.\n- **Kenton:** some depois do Cap. 1 e volta entre os Caps. 2 e 3.\n- **Revistas** em prédios da história que fecham também aparecem em outros lugares. **Receptadores** que somem não têm missões nem contam para nada.",
+  "src": [
+   "PowerPyx",
+   "PlayStationInfo"
+  ],
+  "kw": [
+   "100%",
+   "perdivel",
+   "strangers",
+   "revistas"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "What you don't need to worry about",
+   "sum": "Nothing on the 100% checklist is missable.",
+   "body": "- **100%:** everything can be done in free roam after the story.\n- **Strangers & Freaks:** the ones that count for the trophy stay available after the story.\n- **Kenton:** gone after Ch. 1, back between Ch. 2 and 3.\n- **Magazines** in story buildings that close also appear elsewhere. **Fences** that disappear have no missions and count for nothing.",
+   "kw": [
+    "100%",
+    "missable",
+    "strangers",
+    "magazines"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-saves",
+  "sec": "perdiveis",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Plano de saves",
+  "sum": "15 espaços de save manual e 1 save automático. Não dá para rejogar missões.",
+  "body": "Salve pelo menu ({Options} → Game → Save Game). Não dá para salvar no Prólogo nem durante missões. Use 10 espaços de save para o início e o fim de cada capítulo e faça rodízio nos outros 5.",
+  "check": [
+   {
+    "id": "c1i",
+    "t": "Espaço 1: “Início Cap. 1”, logo depois de Gone Fishing"
+   },
+   {
+    "id": "tourist",
+    "t": "“Antes de Tourist Trap”, com o dinheiro depositado"
+   },
+   {
+    "id": "c2i",
+    "t": "“Início Cap. 2”"
+   },
+   {
+    "id": "c2f",
+    "t": "“Fim Cap. 2”"
+   },
+   {
+    "id": "c3i",
+    "t": "“Início Cap. 3”"
+   },
+   {
+    "id": "c3f",
+    "t": "“Fim Cap. 3”"
+   },
+   {
+    "id": "c4i",
+    "t": "“Início Cap. 4”"
+   },
+   {
+    "id": "c4f",
+    "t": "“Fim Cap. 4”"
+   },
+   {
+    "id": "c5i",
+    "t": "“Início Cap. 5”"
+   },
+   {
+    "id": "limpo",
+    "t": "Save separado, sem códigos, antes de testar cheats"
+   }
+  ],
+  "div": "As fontes divergem sobre o save automático ocupar ou não um dos 15 espaços.",
+  "src": [
+   "PowerPyx",
+   "GameSpot"
+  ],
+  "kw": [
+   "save",
+   "salvar",
+   "slots",
+   "autosave",
+   "replay",
+   "carregar"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Save plan",
+   "sum": "15 manual slots and 1 autosave. No mission replay.",
+   "body": "Save from the menu ({Options} → Game → Save Game). You can't save in the Prologue or during missions. Use 10 slots for the start and end of each chapter and rotate the other 5.",
+   "check": [
+    {
+     "id": "c1i",
+     "t": "Slot 1: “Start Ch. 1”, right after Gone Fishing"
+    },
+    {
+     "id": "tourist",
+     "t": "“Before Tourist Trap”, with money deposited"
+    },
+    {
+     "id": "c2i",
+     "t": "“Start Ch. 2”"
+    },
+    {
+     "id": "c2f",
+     "t": "“End Ch. 2”"
+    },
+    {
+     "id": "c3i",
+     "t": "“Start Ch. 3”"
+    },
+    {
+     "id": "c3f",
+     "t": "“End Ch. 3”"
+    },
+    {
+     "id": "c4i",
+     "t": "“Start Ch. 4”"
+    },
+    {
+     "id": "c4f",
+     "t": "“End Ch. 4”"
+    },
+    {
+     "id": "c5i",
+     "t": "“Start Ch. 5”"
+    },
+    {
+     "id": "limpo",
+     "t": "“Clean save” before trying cheats"
+    }
+   ],
+   "div": "Sources disagree on whether the autosave takes one of the 15 slots.",
+   "kw": [
+    "save",
+    "slots",
+    "autosave",
+    "replay",
+    "load"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-trofeus-faceis",
+  "sec": "perdiveis",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "Troféus fáceis do começo",
+  "sum": "Saem naturalmente nas primeiras horas.",
+  "body": "Comece o Master of None por pesca e sinuca em Key Lento: elas também sobem o Focus.",
+  "check": [
+   {
+    "id": "paradise",
+    "t": "Just Like Paradise: concluir Gone Fishing"
+   },
+   {
+    "id": "lost",
+    "t": "Paradise Lost: concluir o Cap. 1"
+   },
+   {
+    "id": "trust",
+    "t": "Trust: concluir Breakfast Run (Cap. 2)"
+   },
+   {
+    "id": "pma",
+    "t": "Positive Mental Attitude: a meditação do Cap. 1"
+   },
+   {
+    "id": "master",
+    "t": "Master of None: fazer uma vez cada um dos 9 tipos de atividade (pesca, caça, golfe, estande de tiro, sinuca, basquete, videogame, corrida ou desafio, acrobacia)"
+   }
+  ],
+  "src": [
+   "PowerPyx"
+  ],
+  "kw": [
+   "trofeu",
+   "trophy",
+   "conquista",
+   "achievement",
+   "master of none",
+   "facil"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Easy early trophies",
+   "sum": "They come naturally in the first hours.",
+   "body": "Start Master of None with fishing and pool in Key Lento: they also raise Focus.",
+   "check": [
+    {
+     "id": "paradise",
+     "t": "Just Like Paradise: finish Gone Fishing"
+    },
+    {
+     "id": "lost",
+     "t": "Paradise Lost: finish Ch. 1"
+    },
+    {
+     "id": "trust",
+     "t": "Trust: finish Breakfast Run (Ch. 2)"
+    },
+    {
+     "id": "pma",
+     "t": "Positive Mental Attitude: the Ch. 1 meditation"
+    },
+    {
+     "id": "master",
+     "t": "Master of None: do each of the 9 activity types once (fishing, hunting, golf, shooting range, pool, basketball, video game, race or challenge, stunt)"
+    }
+   ],
+   "kw": [
+    "trophy",
+    "achievement",
+    "master of none",
+    "easy"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-trofeus-planejar",
+  "sec": "perdiveis",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Troféus para planejar desde cedo",
+  "sum": "Sem spoiler. Nomes tirados de listas de sites de guia.",
+  "body": "- **Cunning Stunts:** 250 saltos e manobras de dublê.\n- **Strangers & Freaks:** as 8 linhas de missões de estranhos.\n- **The Shootist:** ouro em todos os desafios do estande de tiro.\n- **Top Fun:** vencer a corrida de drone em todos os locais.\n- **Earn Cash, Not Kudos:** vencer 20 corridas diferentes.\n- Há ainda um troféu do WAiNKar em 100 locais e conjuntos de cartas colecionáveis.",
+  "src": [
+   "PowerPyx",
+   "PC Gamer",
+   "Insider Gaming"
+  ],
+  "kw": [
+   "trofeus",
+   "platina",
+   "cunning stunts",
+   "shootist",
+   "drone",
+   "corridas"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Trophies to plan for early",
+   "sum": "Spoiler-free. Names taken from guide sites' lists.",
+   "body": "- **Cunning Stunts:** 250 stunt jumps and stunts.\n- **Strangers & Freaks:** the 8 stranger mission strands.\n- **The Shootist:** gold in every shooting range challenge.\n- **Top Fun:** win the drone race at every location.\n- **Earn Cash, Not Kudos:** win 20 different races.\n- There's also a WAiNKar trophy for 100 locations and collectible card sets.",
+   "kw": [
+    "trophies",
+    "platinum",
+    "cunning stunts",
+    "shootist",
+    "drone",
+    "races"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-100",
+  "sec": "perdiveis",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "pos"
+  ],
+  "title": "Platina e 100%",
+  "sum": "55 troféus offline, dificuldade 4 de 10, cerca de 200 horas.",
+  "body": "Contagens do checklist de 100% da PowerPyx. Nenhum troféu é online, e nada do 100% é perdível.\n\nPesos de cada categoria e checklists: [[colecao-100]].",
+  "table": {
+   "cols": [
+    "Item do checklist",
+    "Quantidade"
+   ],
+   "rows": [
+    [
+     "Veículos escaneados (Waink)",
+     "200 de 277 modelos-base"
+    ],
+    [
+     "Animais estudados (binóculos)",
+     "100 de 255"
+    ],
+    [
+     "Armas “Standard Issue”",
+     "50 de 66"
+    ],
+    [
+     "Missões opcionais",
+     "100"
+    ],
+    [
+     "Kenton",
+     "5 de 7 conjuntos e 33 Underwater Discoveries"
+    ],
+    [
+     "Flamingos de cocaína",
+     "125"
+    ],
+    [
+     "Stick-ups rastreados",
+     "91"
+    ],
+    [
+     "Smash 'n' Grab",
+     "35"
+    ],
+    [
+     "Payday Loans",
+     "7"
+    ],
+    [
+     "Bancos",
+     "22 (14 pequenos e 8 grandes)"
+    ],
+    [
+     "Illegal Operations",
+     "39"
+    ],
+    [
+     "Vendas",
+     "US$ 100 mil em narcóticos, 100 mil em joias, 250 mil em notas marcadas e 200 mil em veículos"
+    ]
+   ],
+   "sort": true
+  },
+  "src": [
+   "PowerPyx",
+   "Press Start"
+  ],
+  "kw": [
+   "100%",
+   "platina",
+   "completar",
+   "checklist",
+   "colecionaveis"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Platinum and 100%",
+   "sum": "55 offline trophies, difficulty 4/10, about 200 hours.",
+   "body": "Counts from PowerPyx's 100% checklist. No trophy is online, and nothing in the 100% is missable.\n\nCategory weights and checklists: [[colecao-100]].",
+   "table": {
+    "cols": [
+     "Checklist item",
+     "Amount"
+    ],
+    "rows": [
+     [
+      "Vehicles scanned (WAiNK)",
+      "200 of 277 base models"
+     ],
+     [
+      "Animals studied (binoculars)",
+      "100 of 255"
+     ],
+     [
+      "“Standard Issue” weapons",
+      "50 of 66"
+     ],
+     [
+      "Optional missions",
+      "100"
+     ],
+     [
+      "Kenton",
+      "5 of 7 sets and 33 Underwater Discoveries"
+     ],
+     [
+      "Cocaine flamingos",
+      "125"
+     ],
+     [
+      "Tracked stick-ups",
+      "91"
+     ],
+     [
+      "Smash 'n' Grab",
+      "35"
+     ],
+     [
+      "Payday Loans",
+      "7"
+     ],
+     [
+      "Banks",
+      "22 (14 small and 8 big)"
+     ],
+     [
+      "Illegal Operations",
+      "39"
+     ],
+     [
+      "Sales",
+      "$100k in narcotics, $100k in jewelry, $250k in marked bills and $200k in vehicles"
+     ]
+    ],
+    "sort": true
+   },
+   "kw": [
+    "100%",
+    "platinum",
+    "completion",
+    "checklist",
+    "collectibles"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-cheats",
+  "sec": "perdiveis",
+  "tipo": "alerta",
+  "conf": "jogo",
+  "ch": [
+   "pos"
+  ],
+  "title": "Cheats (códigos de trapaça)",
+  "sum": "61 códigos. Só depois de zerar a história, cada um com sua condição, e bloqueiam save e troféus.",
+  "body": "- **Liberam depois de concluir a história:** aparece a opção **Cheats** no fim do menu Progress. Cada código tem uma condição; cumprida, o menu revela os botões (Eurogamer).\n- **Como digitar:** abra o celular ({↑}) e **segure {L1} + {R2}** enquanto aperta a sequência.\n- **Usar cheat desliga o salvamento e os troféus.** Guarde um save separado, sem nenhum código, antes de testar.\n- **61 cheats** em 5 grupos: jogador (10), combate (11), veículos (21), ambiente (3) e filtros de tela (16).\n\n**Códigos já conhecidos (Eurogamer):**\n- US$ 250.000: {↑} {→} {↓} {←} {↑} {←} {↓} {→}\n- Aumentar o heat: {←} {↓} {→} {↓} {↑} {↓} {↑}\n- Focus infinito: {↓} {↑} {↑} {↓} {↑} {↓} {↑} {↓} {↑} {→}\n- Attack Force (tiros e golpes arremessam): {↓} {↑} {←} {←} {→} {↓} {↓} {↑} {↓}\n- Bolas que explodem: {↓} {↑} {←} {←} {→} {↓} {↓} {↑} {→}\n- Filtro Dollhouse: {↓} {↓} {↑} {→} {→} {↑} {←} {←} {↓} {→}",
+  "src": [
+   "Eurogamer",
+   "Insider Gaming",
+   "PC Gamer",
+   "PowerPyx"
+  ],
+  "kw": [
+   "cheat",
+   "codigo",
+   "trapaca",
+   "dinheiro infinito",
+   "municao infinita"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Cheats",
+   "sum": "61 cheats. Only after you finish the story, each with its own unlock, and they disable saving and trophies.",
+   "body": "- **Unlocked after you finish the story:** a **Cheats** option appears at the end of the Progress menu. Each code has a requirement; meet it and the menu reveals the buttons (Eurogamer).\n- **How to enter:** open your phone ({↑}) and **hold {L1} + {R2}** while you input the sequence.\n- **Using a cheat disables saving and trophies.** Keep a separate clean save before testing.\n- **61 cheats** in 5 categories: Player (10), Combat (11), Spawn Vehicle (21), Environment (3) and Screen Filters (16).\n\n**Known codes (Eurogamer):**\n- $250,000: {↑} {→} {↓} {←} {↑} {←} {↓} {→}\n- Raise Heat Level: {←} {↓} {→} {↓} {↑} {↓} {↑}\n- Unlimited Focus: {↓} {↑} {↑} {↓} {↑} {↓} {↑} {↓} {↑} {→}\n- Attack Force: {↓} {↑} {←} {←} {→} {↓} {↓} {↑} {↓}\n- Exploding Balls: {↓} {↑} {←} {←} {→} {↓} {↓} {↑} {→}\n- Dollhouse filter: {↓} {↓} {↑} {→} {→} {↑} {←} {←} {↓} {→}",
+   "kw": [
+    "cheat",
+    "code",
+    "infinite money",
+    "infinite ammo"
+   ],
+   "table": {
+    "cols": [
+     "Cheat",
+     "Unlock"
+    ],
+    "rows": [
+     [
+      "Drunk (you and partner)",
+      "Spend $2,500 on alcohol"
+     ],
+     [
+      "Raise Wanted Level",
+      "Lose a 3-star Wanted Level 50 times"
+     ],
+     [
+      "No Fall Damage",
+      "Survive a 40-foot freefall 20 times"
+     ],
+     [
+      "Parachute",
+      "50 skydives or BASE jumps from 300 feet or higher"
+     ],
+     [
+      "Body Armor",
+      "100 workouts"
+     ],
+     [
+      "Repair Vehicle",
+      "1st place in 10 races at Gellhorn Raceway, Thrillbilly Mud Club or Boone Speedway"
+     ],
+     [
+      "Unlimited Nitrous",
+      "50 stunt jumps"
+     ],
+     [
+      "Max Ammo / Infinite Ammo / No Reload",
+      "25 bronze / silver / gold medals at shooting ranges"
+     ],
+     [
+      "All Explosive Weapons",
+      "Throw 100 grenades"
+     ],
+     [
+      "Incendiary Ammo",
+      "Burn 100 enemies"
+     ],
+     [
+      "Exploding Bottles",
+      "Throw 100 Molotovs"
+     ],
+     [
+      "Explosive Shotgun",
+      "Hit 100 enemies with explosive damage"
+     ],
+     [
+      "Hauners H-AT",
+      "Blow up 100 vehicles"
+     ],
+     [
+      "Vehicle Force",
+      "Kill 25 enemies with a vehicle"
+     ],
+     [
+      "Vehicles (21)",
+      "Discover the vehicle in Progress, or complete 5 or all challenges in a category. Rhino: all survival challenges; Lazer: all challenges; Inflatable Flamingo: destroy 50 cocaine flamingos"
+     ],
+     [
+      "Move Time Forward / Pause Time",
+      "Find 10 / 20 collectible watches"
+     ],
+     [
+      "Cycle Weather",
+      "Reveal the entire map"
+     ],
+     [
+      "Screen Filters (16)",
+      "Examples: 4 hours holding hands, 100 fish, 50 meditations, all 24 Vice City Flamingos cards, $500,000 selling vehicles, survive 6 minutes at 6 stars"
+     ]
+    ],
+    "sort": false
+   }
+  },
+  "table": {
+   "cols": [
+    "Cheat",
+    "Como liberar"
+   ],
+   "rows": [
+    [
+     "Bêbado (você e o parceiro)",
+     "Gastar US$ 2.500 em bebida"
+    ],
+    [
+     "Aumentar procurado",
+     "Escapar de 3 estrelas 50 vezes"
+    ],
+    [
+     "Sem dano de queda",
+     "Sobreviver a 20 quedas livres de 40 pés"
+    ],
+    [
+     "Paraquedas",
+     "50 saltos de 300 pés ou mais"
+    ],
+    [
+     "Colete",
+     "100 treinos"
+    ],
+    [
+     "Consertar veículo",
+     "1º lugar em 10 corridas no Gellhorn Raceway, Thrillbilly Mud Club ou Boone Speedway"
+    ],
+    [
+     "Nitro infinito",
+     "50 stunt jumps"
+    ],
+    [
+     "Munição cheia / infinita / sem recarregar",
+     "25 medalhas de bronze / prata / ouro nos estandes de tiro"
+    ],
+    [
+     "Todos os explosivos",
+     "Lançar 100 granadas"
+    ],
+    [
+     "Munição incendiária",
+     "Queimar 100 inimigos"
+    ],
+    [
+     "Garrafas explosivas",
+     "Lançar 100 molotovs"
+    ],
+    [
+     "Escopeta explosiva",
+     "Acertar 100 inimigos com explosão"
+    ],
+    [
+     "Hauners H-AT",
+     "Explodir 100 veículos"
+    ],
+    [
+     "Vehicle Force",
+     "Matar 25 inimigos com veículo"
+    ],
+    [
+     "Veículos (21)",
+     "Descobrir o veículo no Progress, ou fazer 5 ou todos os desafios de uma categoria. Rhino: todos os desafios de sobrevivência; Lazer: todos os desafios; flamingo inflável: destruir 50 flamingos de cocaína"
+    ],
+    [
+     "Avançar / pausar o horário",
+     "Achar 10 / 20 relógios colecionáveis"
+    ],
+    [
+     "Mudar o clima",
+     "Revelar o mapa inteiro"
+    ],
+    [
+     "Filtros de tela (16)",
+     "Exemplos: 4 h de mãos dadas, 100 peixes, 50 meditações, 24 cartas Vice City Flamingos, US$ 500 mil vendendo veículos, sobreviver 6 min com 6 estrelas"
+    ]
+   ],
+   "sort": false
+  }
+ }
+]

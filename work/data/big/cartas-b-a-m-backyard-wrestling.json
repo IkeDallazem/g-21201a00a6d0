@@ -1,0 +1,154 @@
+{
+ "kind": "card",
+ "id": "cartas-b-a-m-backyard-wrestling",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: B.A.M. Backyard Wrestling",
+ "sum": "12 cartas de novidade, com o local de cada uma.",
+ "body": "- Novidade, 12 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-b-a-m-backyard-wrestling-axel-hughes-standard",
+   "t": "**Axel Hughes - Standard**",
+   "d": "Num sofá preto no quintal de um trailer verde e branco, oeste de Ambrosia"
+  },
+  {
+   "id": "cc-b-a-m-backyard-wrestling-blood-smith-standard",
+   "t": "**Blood Smith - Standard**",
+   "d": "Dentro de uma casa na árvore coberta com lona vermelha, no chão junto a revistas, sul de Manifest Canyon"
+  },
+  {
+   "id": "cc-b-a-m-backyard-wrestling-cherry-o-glade-standard",
+   "t": "**Cherry O'Glade - Standard**",
+   "d": "Dentro de um vagão abandonado nos trilhos, canto sul da Breakwater Quarry"
+  },
+  {
+   "id": "cc-b-a-m-backyard-wrestling-chico-bonez-standard",
+   "t": "**Chico Bonez - Standard**",
+   "d": "Na arquibancada de madeira do ringue Backyard American Mania atrás de uma casa branca e verde na Grisette Ave, Hamlet"
+  },
+  {
+   "id": "cc-b-a-m-backyard-wrestling-chrissy-deangelo-standard",
+   "t": "**Chrissy Deangelo - Standard**",
+   "d": "Na varanda da Boulder Cabin, ao lado da porta e de uma mochila, leste do Mount Kalaga National Park perto de um rio"
+  },
+  {
+   "id": "cc-b-a-m-backyard-wrestling-danny-mclean-standard",
+   "t": "**Danny McLean - Standard**",
+   "d": "Embaixo de um saco de pancada, ao lado de uma revista, numa área de treino sob uma casa vermelha no leste da ilha norte de Watson Bay"
+  },
+  {
+   "id": "cc-b-a-m-backyard-wrestling-j-d-wild-standard",
+   "t": "**J.D. Wild - Standard**",
+   "d": "Na boca de um jacaré sem corpo dentro de um barraco destruído perto da Aminita Rd, leste de Pelican Valley"
+  },
+  {
+   "id": "cc-b-a-m-backyard-wrestling-judas-sterling-standard",
+   "t": "**Judas Sterling - Standard**",
+   "d": "Na marquise de pedra, ao lado de um gnomo, sobre a arquibancada de frente para a baía, Gloriana Key"
+  },
+  {
+   "id": "cc-b-a-m-backyard-wrestling-katie-k-standard",
+   "t": "**Katie K - Standard**",
+   "d": "No canto de uma borda do telhado sobre a entrada do Harper Simmons Legal Services, Rockridge"
+  },
+  {
+   "id": "cc-b-a-m-backyard-wrestling-l-heavy-standard",
+   "t": "**L.Heavy - Standard**",
+   "d": "Numa borda sob um guindaste, perto de uma escada, sobre a água, noroeste de Watson Bay"
+  },
+  {
+   "id": "cc-b-a-m-backyard-wrestling-luke-x-standard",
+   "t": "**Luke X - Standard**",
+   "d": "Numa cômoda ao lado da cama de um trailer vermelho e cinza perto da SR-73, South West Lummox"
+  },
+  {
+   "id": "cc-b-a-m-backyard-wrestling-shovel-standard",
+   "t": "**Shovel - Standard**",
+   "d": "Numa mesinha entre duas poltronas na sala de um trailer na praia, no fim de Wild Hog Point"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "B.A.M. Backyard Wrestling"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: B.A.M. Backyard Wrestling",
+  "sum": "12 novelty cards, with every location.",
+  "body": "- Novelty, 12 cards. Locations from IGN's list; tick each one as you grab it.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "B.A.M. Backyard Wrestling"
+  ],
+  "check": [
+   {
+    "id": "cc-b-a-m-backyard-wrestling-axel-hughes-standard",
+    "t": "**Axel Hughes - Standard**",
+    "d": "On top of a black couch in the backyard of a green and white mobile home in western Ambrosia"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling-blood-smith-standard",
+    "t": "**Blood Smith - Standard**",
+    "d": "Inside a treehouse covered in a red tarp on the ground next to a pile of magazines in southern Manifest Canyon"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling-cherry-o-glade-standard",
+    "t": "**Cherry O'Glade - Standard**",
+    "d": "Inside an abandoned train car on the train tracks on the southern corner of the Breakwater Quarry"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling-chico-bonez-standard",
+    "t": "**Chico Bonez - Standard**",
+    "d": "On the wooden stands of the Backyard American Mania wrestling ring behind a white and green house on Grisette Ave in Hamlet"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling-chrissy-deangelo-standard",
+    "t": "**Chrissy Deangelo - Standard**",
+    "d": "On the front porch of the Boulder Cabin next to the door and a backpack in eastern Mount Kalaga National Park near a river"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling-danny-mclean-standard",
+    "t": "**Danny McLean - Standard**",
+    "d": "Underneath a punching bag next to a magazine in a small workout area under a red house on the east part of the northern island in Watson Bay"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling-j-d-wild-standard",
+    "t": "**J.D. Wild - Standard**",
+    "d": "In the mouth of a decapitated alligator inside a broken down shack off of Aminita Rd in eastern Pelican Valley"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling-judas-sterling-standard",
+    "t": "**Judas Sterling - Standard**",
+    "d": "On top of the stone awning on a ledge next to a gnome over the bleachers overlooking the bay in the Gloriana Key"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling-katie-k-standard",
+    "t": "**Katie K - Standard**",
+    "d": "On the corner of a ledge on the roof over the entrance to the Harper Simmons Legal Services building in Rockridge"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling-l-heavy-standard",
+    "t": "**L.Heavy - Standard**",
+    "d": "On a ledge underneath a crane near a ladder over the water in northwestern Watson Bay"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling-luke-x-standard",
+    "t": "**Luke X - Standard**",
+    "d": "On top of a dresser next to a bed inside a red and gray mobile home near SR-73 in South West Lummox County"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling-shovel-standard",
+    "t": "**Shovel - Standard**",
+    "d": "On top of a side table between two chairs in the living room of a mobile home on the beach at the end of Wild Hog Point"
+   }
+  ]
+ }
+}

@@ -1,0 +1,274 @@
+{
+ "kind": "card",
+ "id": "cartas-los-santos-panic",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Los Santos Panic",
+ "sum": "24 cartas de basquete, com o local de cada uma.",
+ "body": "- Basquete, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 3 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-los-santos-panic-carl-camp-standard",
+   "t": "**Carl Camp - Standard**",
+   "d": "No último degrau da arquibancada mais ao norte, ao lado das quadras atrás do Colonel Crystal Recreation Center, Willow Ave, norte de Ambrosia"
+  },
+  {
+   "id": "cc-los-santos-panic-chibuike-bello-bronze",
+   "t": "**Chibuike Bello - Bronze**",
+   "d": "Na lateral da geladeira de um trailer azul na Meadowlark Rd, oeste de Ambrosia"
+  },
+  {
+   "id": "cc-los-santos-panic-chibuike-bello-gold",
+   "t": "**Chibuike Bello - Gold**",
+   "d": "No balcão da garagem separada de uma villa bege à beira-mar na Flamingo Pkwy, nordeste de Waning Sands"
+  },
+  {
+   "id": "cc-los-santos-panic-chibuike-bello-silver",
+   "t": "**Chibuike Bello - Silver**",
+   "d": "Na beira do telhado ao lado de uma escada, sobre o Little Cuba Payday Loans Store, NW 4th Ave, norte de Little Cuba"
+  },
+  {
+   "id": "cc-los-santos-panic-damarion-carter-purple",
+   "t": "**Damarion Carter - Purple**",
+   "d": "No parapeito da sacada do 2º andar, lado direito do prédio amarelo e verde-água na Grape St, Ocean Beach"
+  },
+  {
+   "id": "cc-los-santos-panic-damarion-carter-silver",
+   "t": "**Damarion Carter - Silver**",
+   "d": "Dentro de uma pasta num armário do pátio da cobertura do Avast Apartment, Atlantic Ave, Washington Beach"
+  },
+  {
+   "id": "cc-los-santos-panic-damarion-carter-yellow",
+   "t": "**Damarion Carter - Yellow**",
+   "d": "No canto da passarela do outdoor sobre a I-97 em Waning Sands"
+  },
+  {
+   "id": "cc-los-santos-panic-jackson-belton-standard",
+   "t": "**Jackson Belton - Standard**",
+   "d": "No gradil da sacada do 2º andar de uma casa de tijolo branco na NW 3rd Ave, Little Cuba"
+  },
+  {
+   "id": "cc-los-santos-panic-jakob-markic-purple",
+   "t": "**Jakob Markic - Purple**",
+   "d": "Na ponta do banco norte dentro da estação de Tequesta, sobre a South Vice Ave"
+  },
+  {
+   "id": "cc-los-santos-panic-jakob-markic-silver",
+   "t": "**Jakob Markic - Silver**",
+   "d": "Em cima de uma máquina de lavar suja sob a escada entre as duas metades do prédio vermelho e branco na Northbrook Dr, norte de Little Cuba"
+  },
+  {
+   "id": "cc-los-santos-panic-jakob-markic-yellow",
+   "t": "**Jakob Markic - Yellow**",
+   "d": "Na base da tabela de basquete no jardim de uma casa cinza no lado leste do Lake Tallaloko, East Lummox"
+  },
+  {
+   "id": "cc-los-santos-panic-lloyd-robinson-standard",
+   "t": "**Lloyd Robinson - Standard**",
+   "d": "Numa mesa dentro da torre de controle da ponte da Catalan Blvd sobre o canal entre Tequesta e Downtown"
+  },
+  {
+   "id": "cc-los-santos-panic-marquise-bernard-standard",
+   "t": "**Marquise Bernard - Standard**",
+   "d": "Num barril encostado no prédio Island Dreams Boat Charters, no fim do píer, nordeste de Key Lento"
+  },
+  {
+   "id": "cc-los-santos-panic-nikkander-orlov-purple",
+   "t": "**Nikkander Orlov - Purple**",
+   "d": "No balcão ao lado de uma revista na garagem de uma villa branca grande na Mamey Cir, sul de Waning Sands"
+  },
+  {
+   "id": "cc-los-santos-panic-nikkander-orlov-silver",
+   "t": "**Nikkander Orlov - Silver**",
+   "d": "Na segunda prateleira de baixo de um armário sob o toldo da casa verde perto da Seabell Ave, leste de Watson Bay"
+  },
+  {
+   "id": "cc-los-santos-panic-nikkander-orlov-yellow",
+   "t": "**Nikkander Orlov - Yellow**",
+   "d": "No parapeito de madeira do pátio dos fundos da casa rosa na SW 12th St, Southside"
+  },
+  {
+   "id": "cc-los-santos-panic-oluwa-mohammed-standard",
+   "t": "**Oluwa Mohammed - Standard**",
+   "d": "Numa mesa de um quartinho do apartamento do meio, térreo do prédio amarelo na NW 5th St, Rockridge"
+  },
+  {
+   "id": "cc-los-santos-panic-quinton-allen-bronze",
+   "t": "**Quinton Allen - Bronze**",
+   "d": "No cofre em cima do frigobar de um trailer vermelho e bege na margem do rio perto da I-297, noroeste de East Lummox"
+  },
+  {
+   "id": "cc-los-santos-panic-quinton-allen-gold",
+   "t": "**Quinton Allen - Gold**",
+   "d": "No cofre em cima de um caixote no canto da casa do pântano perto da Emerald Springs Dr, sul de Emerald Springs"
+  },
+  {
+   "id": "cc-los-santos-panic-quinton-allen-silver",
+   "t": "**Quinton Allen - Silver**",
+   "d": "No cofre do armário no fundo do quarto 115 do Big Day Motel, US-35, norte de Ambrosia"
+  },
+  {
+   "id": "cc-los-santos-panic-santiago-lopez-standard",
+   "t": "**Santiago Lopez - Standard**",
+   "d": "Num criado-mudo do quarto de um trailer amarelo e branco na Peach Palm Dr, norte de Key Lento"
+  },
+  {
+   "id": "cc-los-santos-panic-terrance-ericks-bronze",
+   "t": "**Terrance Ericks - Bronze**",
+   "d": "Numa prateleira nos fundos do depósito atrás do brechó Tropical Thrift, Del Rio Blvd, La Perle"
+  },
+  {
+   "id": "cc-los-santos-panic-terrance-ericks-gold",
+   "t": "**Terrance Ericks - Gold**",
+   "d": "Na borda do telhado alto da torre leste do Aguilar Apartments, SW 6th Ave, Salton"
+  },
+  {
+   "id": "cc-los-santos-panic-terrance-ericks-silver",
+   "t": "**Terrance Ericks - Silver**",
+   "d": "Pendurada numa prancheta na sala de funcionários do Brock's Antiques, NE 19th St x Crockett Ter, Decor District"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Los Santos Panic"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Los Santos Panic",
+  "sum": "24 basketball cards, with every location.",
+  "body": "- Basketball, 24 cards. Locations from IGN's list; tick each one as you grab it.\n- 3 card(s) sit in a **safe**: open it with the code from robbing that place, or a sticky bomb.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Los Santos Panic"
+  ],
+  "check": [
+   {
+    "id": "cc-los-santos-panic-carl-camp-standard",
+    "t": "**Carl Camp - Standard**",
+    "d": "On the top seat of the northernmost bleachers next to the two tennis courts and the basketball court behind the Colonel Crystal Recreation Center on Willow Ave in northern Ambrosia"
+   },
+   {
+    "id": "cc-los-santos-panic-chibuike-bello-bronze",
+    "t": "**Chibuike Bello - Bronze**",
+    "d": "On the side of a fridge in the kitchen of a blue mobile home on Meadowlark Rd in western Ambrosia"
+   },
+   {
+    "id": "cc-los-santos-panic-chibuike-bello-gold",
+    "t": "**Chibuike Bello - Gold**",
+    "d": "Inside the detached garage of a large, beige, waterfront villa on the counter on Flamingo Pkwy in northeastern Waning Sands"
+   },
+   {
+    "id": "cc-los-santos-panic-chibuike-bello-silver",
+    "t": "**Chibuike Bello - Silver**",
+    "d": "On the edge of the roof next to a ladder above the Little Cuba Payday Loans Store on NW 4th Ave in northern Little Cuba"
+   },
+   {
+    "id": "cc-los-santos-panic-damarion-carter-purple",
+    "t": "**Damarion Carter - Purple**",
+    "d": "On top of the railing of the second floor balcony on the right side of the yellow and teal apartment building on Grape St in Ocean Beach"
+   },
+   {
+    "id": "cc-los-santos-panic-damarion-carter-silver",
+    "t": "**Damarion Carter - Silver**",
+    "d": "Inside of a folder on top of a cabinet on the roof courtyard of the Avast Apartment building on Atlantic Ave in Washington Beach"
+   },
+   {
+    "id": "cc-los-santos-panic-damarion-carter-yellow",
+    "t": "**Damarion Carter - Yellow**",
+    "d": "On the corner of the catwalk surrounding the billboard over I-97 in the Waning Sands"
+   },
+   {
+    "id": "cc-los-santos-panic-jackson-belton-standard",
+    "t": "**Jackson Belton - Standard**",
+    "d": "On top of the metal railing on the second floor balcony of the white brick house on NW 3rd Ave in Little Cuba"
+   },
+   {
+    "id": "cc-los-santos-panic-jakob-markic-purple",
+    "t": "**Jakob Markic - Purple**",
+    "d": "On the end of northern bench inside the Tequesta train station over South Vice Ave in Tequesta"
+   },
+   {
+    "id": "cc-los-santos-panic-jakob-markic-silver",
+    "t": "**Jakob Markic - Silver**",
+    "d": "On top of a dirty washing machine underneath a staircase between the two halves of the red and white apartment complex on Northbrook Dr in northern Little Cuba"
+   },
+   {
+    "id": "cc-los-santos-panic-jakob-markic-yellow",
+    "t": "**Jakob Markic - Yellow**",
+    "d": "Resting on the base of the basketball hoop in the front yard of a gray house on the east side of Lake Tallaloko in East Lummox County"
+   },
+   {
+    "id": "cc-los-santos-panic-lloyd-robinson-standard",
+    "t": "**Lloyd Robinson - Standard**",
+    "d": "On top of a desk inside the bridge control tower for the Catalan Blvd bridge over the canal between Tequesta and Downtown"
+   },
+   {
+    "id": "cc-los-santos-panic-marquise-bernard-standard",
+    "t": "**Marquise Bernard - Standard**",
+    "d": "On top of a barrel against the side of the Island Dreams Boat Charters building at the end of the dock in northeastern Key Lento"
+   },
+   {
+    "id": "cc-los-santos-panic-nikkander-orlov-purple",
+    "t": "**Nikkander Orlov - Purple**",
+    "d": "On top of the counter next to a magazine in the garage of a large, white villa on mamey Cir in southern Waning Sands"
+   },
+   {
+    "id": "cc-los-santos-panic-nikkander-orlov-silver",
+    "t": "**Nikkander Orlov - Silver**",
+    "d": "On the second shelf from the bottom of a storage cabinet underneath the overhang attached to the green house off of Seabell Ave in eastern Watson Bay"
+   },
+   {
+    "id": "cc-los-santos-panic-nikkander-orlov-yellow",
+    "t": "**Nikkander Orlov - Yellow**",
+    "d": "On top of the wood railing surrounding the back patio of the pink house on SW 12th St in Southside"
+   },
+   {
+    "id": "cc-los-santos-panic-oluwa-mohammed-standard",
+    "t": "**Oluwa Mohammed - Standard**",
+    "d": "On top of a desk in a small room inside the middle apartment on the first floor of the yellow apartment complex on NW 5th St in Rockridge"
+   },
+   {
+    "id": "cc-los-santos-panic-quinton-allen-bronze",
+    "t": "**Quinton Allen - Bronze**",
+    "d": "Inside the safe on top of the minifridge in the red and beige camper on the coast of the river off of I-297 in northwestern East Lummox County"
+   },
+   {
+    "id": "cc-los-santos-panic-quinton-allen-gold",
+    "t": "**Quinton Allen - Gold**",
+    "d": "Inside the safe on top of the crate in the corner of the swamp house off of Emerald Springs Dr in southern Emerald Springs"
+   },
+   {
+    "id": "cc-los-santos-panic-quinton-allen-silver",
+    "t": "**Quinton Allen - Silver**",
+    "d": "Inside the safe on the cabinet in the back of room 115 of the Big Day Motel on US-35 in northern Ambrosia"
+   },
+   {
+    "id": "cc-los-santos-panic-santiago-lopez-standard",
+    "t": "**Santiago Lopez - Standard**",
+    "d": "On top of a bedside table in the bedroom of a yellow and white mobile home on Peach Palm Dr in northern Key Lento"
+   },
+   {
+    "id": "cc-los-santos-panic-terrance-ericks-bronze",
+    "t": "**Terrance Ericks - Bronze**",
+    "d": "On a shelf in the back of the lockup behind the Tropical Thrift shop on Del Rio Blvd in La Perle"
+   },
+   {
+    "id": "cc-los-santos-panic-terrance-ericks-gold",
+    "t": "**Terrance Ericks - Gold**",
+    "d": "On the ledge around the high roof on the eastern tower of Aguilar Apartments building on SW 6th Ave in Salton"
+   },
+   {
+    "id": "cc-los-santos-panic-terrance-ericks-silver",
+    "t": "**Terrance Ericks - Silver**",
+    "d": "Inside the staff only room of Brock's Antiques hanging from a clipboard on the wall on the corner of NE 19th St and Crockett Ter in the Decor District"
+   }
+  ]
+ }
+}

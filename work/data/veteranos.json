@@ -1,0 +1,324 @@
+[
+ {
+  "kind": "card",
+  "id": "veteranos-comparacao",
+  "sec": "veteranos",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Do GTA V para o GTA VI",
+  "sum": "Como era e como ficou.",
+  "table": {
+   "cols": [
+    "Tema",
+    "GTA V",
+    "GTA VI"
+   ],
+   "rows": [
+    [
+     "Estrelas",
+     "5",
+     "6 (volta o sexto nível do IV)"
+    ],
+    [
+     "Gatilho do procurado",
+     "Crime quase sempre detectado",
+     "Testemunha, denúncia, alarme, câmera ou rastreador"
+    ],
+    [
+     "Polícia no minimapa",
+     "Sim, com cones de visão",
+     "Não; use o Focus, a luz na borda e o rádio"
+    ],
+    [
+     "Memória da polícia",
+     "Esquece quando as estrelas somem",
+     "Lembra roupa, rosto, carro, arma, dupla e câmera"
+    ],
+    [
+     "Trocar de personagem na fuga",
+     "Zerava o procurado",
+     "Separar a dupla reduz uma estrela"
+    ],
+    [
+     "Armas",
+     "Arsenal invisível",
+     "2 pistolas e 2 longas; o resto no porta-malas"
+    ],
+    [
+     "Morrer",
+     "Taxa de hospital",
+     "Perde todo o dinheiro vivo"
+    ],
+    [
+     "Dinheiro",
+     "Bolsa de valores e missões do Lester",
+     "Crime ativo e receptadores; sem bolsa nem negócios"
+    ],
+    [
+     "Roubo de carro",
+     "Um botão em qualquer carro",
+     "Vidro, Slim Jim e Key Cloner; rastreadores"
+    ],
+    [
+     "Missões",
+     "Rejogar missões e medalhas",
+     "Nenhum dos dois"
+    ],
+    [
+     "Primeira pessoa",
+     "Modo completo",
+     "Só em veículos e lunetas"
+    ],
+    [
+     "Deslocamento",
+     "Táxi com pulo",
+     "RydeMe (US$ 100 para pular), ônibus, trem e troca de personagem"
+    ],
+    [
+     "Combustível",
+     "Não havia",
+     "Existe"
+    ],
+    [
+     "Corpo",
+     "Atributos simples",
+     "Treino no estilo San Andreas, com cara de RDR2"
+    ],
+    [
+     "Reputação",
+     "Não havia",
+     "Perfil Criminal"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "Kotaku",
+   "GamesRadar+",
+   "PowerPyx",
+   "Wccftech",
+   "Rockstar"
+  ],
+  "kw": [
+   "gta 5",
+   "gta v",
+   "diferencas",
+   "mudou",
+   "comparacao",
+   "veterano"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "From GTA V to GTA VI",
+   "sum": "How it was and how it is now.",
+   "table": {
+    "cols": [
+     "Topic",
+     "GTA V",
+     "GTA VI"
+    ],
+    "rows": [
+     [
+      "Stars",
+      "5",
+      "6 (IV's sixth level is back)"
+     ],
+     [
+      "Wanted trigger",
+      "Crime almost always detected",
+      "Witness, phone report, alarm, camera or tracker"
+     ],
+     [
+      "Police on the minimap",
+      "Yes, with vision cones",
+      "No; use Focus, the edge glow and the radio"
+     ],
+     [
+      "Police memory",
+      "Forgets when the stars clear",
+      "Remembers outfit, face, car, weapon, duo and camera"
+     ],
+     [
+      "Switching character mid-chase",
+      "Cleared the wanted level",
+      "Splitting the duo drops one star"
+     ],
+     [
+      "Weapons",
+      "Invisible arsenal",
+      "2 pistols and 2 longarms; the rest in the trunk"
+     ],
+     [
+      "Dying",
+      "Hospital fee",
+      "Lose all pocket cash"
+     ],
+     [
+      "Money",
+      "Stock market and Lester's missions",
+      "Active crime and fences; no stocks or businesses"
+     ],
+     [
+      "Car theft",
+      "One button on any car",
+      "Window, Slim Jim and Key Cloner; trackers"
+     ],
+     [
+      "Missions",
+      "Replay and medals",
+      "Neither"
+     ],
+     [
+      "First person",
+      "Full mode",
+      "Only in vehicles and scopes"
+     ],
+     [
+      "Getting around",
+      "Taxi with skip",
+      "RydeMe ($100 to skip), buses, trains and character switching"
+     ],
+     [
+      "Fuel",
+      "None",
+      "Yes"
+     ],
+     [
+      "Body",
+      "Simple stats",
+      "San Andreas-style training with an RDR2 feel"
+     ],
+     [
+      "Reputation",
+      "None",
+      "Criminal Profile"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "gta 5",
+    "gta v",
+    "differences",
+    "what changed",
+    "comparison",
+    "veteran"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veteranos-habitos",
+  "sec": "veteranos",
+  "tipo": "alerta",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Hábitos do GTA V que não funcionam mais",
+  "sum": "11 reflexos antigos que agora custam caro.",
+  "body": "1. **“Pego qualquer carro parado.”** No começo, só carro barato. Os caros exigem ferramenta, e alguns têm rastreador. Use o scanner.\n2. **“Ando com o arsenal no bolso.”** São 2 pistolas e 2 longas; o resto fica no porta-malas. Arma longa à mostra chama atenção.\n3. **“Fujo, as estrelas somem e acabou.”** A polícia guarda roupa, rosto e carro. Troque tudo antes de voltar.\n4. **“Atiro na cabeça de todo mundo.”** O Perfil Criminal piora e a polícia passa a vir para matar. Mire nos membros com o Focus.\n5. **“Troco de personagem para zerar o procurado.”** O que funciona agora é separar a dupla.\n6. **“Fico rico na bolsa e com imóveis.”** Não existem. O dinheiro vem de roubo e receptador.\n7. **“Repito a missão para tirar ouro.”** Não dá para rejogar missões e não há medalhas. Use saves manuais.\n8. **“Atravesso o mapa num pulo.”** Pular a corrida do RydeMe custa US$ 100. Planeje a rota e use a troca de personagem.\n9. **“Ignoro as ligações.”** O relacionamento pesa no final.\n10. **“Superesportivo roubado na fuga.”** Pode estar com o tanque vazio e com rastreador. Prefira um carro discreto e abastecido.\n11. **“Aperto X sem parar para correr.”** Correr é no {L3}.",
+  "src": [
+   "Kotaku",
+   "nettoge (JP)",
+   "Rockstar",
+   "Wccftech"
+  ],
+  "kw": [
+   "habitos",
+   "erros de veterano",
+   "gta 5",
+   "dicas para veteranos"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "GTA V habits that no longer work",
+   "sum": "11 old reflexes that now cost you.",
+   "body": "1. **“I'll take any parked car.”** Early on, only cheap ones. Expensive cars need tools, and some have trackers. Use the scanner.\n2. **“I carry the whole arsenal.”** It's 2 pistols and 2 longarms; the rest stays in the trunk. A visible longarm draws attention.\n3. **“I run, the stars clear, done.”** Police keep your outfit, face and car. Change everything before going back.\n4. **“Headshot everyone.”** Your Criminal Profile worsens and police start coming to kill. Aim for limbs with Focus.\n5. **“Switch characters to clear the wanted level.”** What works now is splitting the duo.\n6. **“Get rich on stocks and property.”** They don't exist. Money comes from robbery and fences.\n7. **“Replay the mission for gold.”** No replay, no medals. Use manual saves.\n8. **“Cross the map in one skip.”** Skipping a RydeMe trip costs $100. Plan routes and use character switching.\n9. **“Ignore calls.”** The relationship matters at the end.\n10. **“Stolen supercar for the getaway.”** It may be on empty and tracked. Pick a low-key car with fuel.\n11. **“Mash X to sprint.”** Sprint is {L3}.",
+   "kw": [
+    "habits",
+    "veteran mistakes",
+    "gta 5",
+    "tips for veterans"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veteranos-dicas",
+  "sec": "veteranos",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Dicas rápidas para veteranos",
+  "sum": "O resumo para quem já zerou tudo.",
+  "body": "- **Antes de qualquer roubo:** máscara, entrada pelos fundos, câmeras apagadas, alarme desligado, carro longe e uma muda de roupa no porta-malas.\n- **Mire na estrela vazada:** se ninguém identificou você, não há perseguição.\n- **Sempre em dupla nos roubos médios e grandes:** o parceiro controla a multidão, leva sacola extra e atira na fuga.\n- **Perfil “Profissional” desde o começo:** é muito mais difícil consertar depois.\n- **Treine um personagem principal** no horário que o celular sugere e medite em todo ponto que achar.\n- **Primeiro gasto grande: uma garagem.** Ela é cofre, arsenal e depósito. Como carro pessoal, uma SUV.\n- **Save manual antes de cada missão importante.**\n- **Minimapa Clássico e câmeras cinematográficas desligadas** antes de sair das Keys.\n- **Explore devagar:** Illegal Operations, pontos de meditação e eventos só aparecem para quem anda pelo mapa.",
+  "src": [
+   "Rockstar",
+   "Kotaku",
+   "Inven (KR)",
+   "PowerPyx"
+  ],
+  "kw": [
+   "dicas",
+   "veterano",
+   "resumo"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Quick tips for veterans",
+   "sum": "The summary for people who've beaten them all.",
+   "body": "- **Before any robbery:** mask, back-door entry, cameras wiped, alarm off, car parked away and a spare outfit in the trunk.\n- **Aim for hollow stars:** if nobody identified you, there's no chase.\n- **Always go as a duo on medium and big jobs:** your partner controls the crowd, carries an extra bag and shoots during the getaway.\n- **“Professional” profile from the start:** it's much harder to fix later.\n- **Train one main character** at the time the phone suggests, and meditate at every spot you find.\n- **First big purchase: a garage.** It's a safe, an arsenal and storage. For a personal vehicle, an SUV.\n- **Manual save before every important mission.**\n- **Classic minimap and cinematic cameras off** before leaving the Keys.\n- **Explore slowly:** Illegal Operations, meditation spots and events only show up for those who roam the map.",
+   "kw": [
+    "tips",
+    "veteran",
+    "summary"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veteranos-easter",
+  "sec": "veteranos",
+  "tipo": "dado",
+  "conf": "oficial",
+  "ch": [
+   "geral"
+  ],
+  "title": "Referências para quem joga desde 2002",
+  "sum": "Easter eggs sem spoiler. O que pode estragar alguma surpresa fica escondido.",
+  "body": "- O **Ocean View Hotel**, primeiro esconderijo do Tommy no Vice City, aparece no material oficial.\n- O **Vercetti Estate** é citado oficialmente: os revólveres Morgan da Ultimate vêm “do Vercetti Estate”, com coronha gravada com palmeiras. ||Tommy Vercetti não aparece no jogo.||\n- A **camisa azul florida do Tommy** aparece numa iguana pintada no trailer 2 e num visual do Jason.\n- O **Grotti Cheetah**, clássico da era Vice City, está na arte de capa.\n- Um **podcast de true crime** tem um episódio sobre o serial killer do GTA IV.\n- NPCs citam **Liberty City**: um fotógrafo, ao levar um soco, grita que quer voltar para lá.\n- A **NOOSE**, tropa tática do GTA IV, é referenciada.",
+  "src": [
+   "Rockstar",
+   "Kotaku",
+   "Wccftech"
+  ],
+  "kw": [
+   "easter egg",
+   "referencias",
+   "tommy",
+   "vercetti",
+   "vice city 2002",
+   "liberty city"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Callbacks for those playing since 2002",
+   "sum": "Spoiler-free easter eggs. Anything that could spoil a surprise stays hidden.",
+   "body": "- The **Ocean View Hotel**, Tommy's first safehouse in Vice City, appears in official material.\n- The **Vercetti Estate** is referenced officially: the Ultimate's Morgan revolvers come “from the Vercetti Estate”, with palm-tree engraved grips. ||Tommy Vercetti doesn't appear in the game.||\n- **Tommy's blue floral shirt** shows up on a painted iguana in trailer 2 and in one of Jason's looks.\n- The **Grotti Cheetah**, a Vice City-era classic, is on the cover art.\n- A **true-crime podcast** has an episode about GTA IV's serial killer.\n- NPCs mention **Liberty City**: a photographer, when punched, yells that he wants to go back there.\n- **NOOSE**, GTA IV's tactical unit, is referenced.",
+   "kw": [
+    "easter egg",
+    "references",
+    "tommy",
+    "vercetti",
+    "vice city 2002",
+    "liberty city"
+   ]
+  }
+ }
+]

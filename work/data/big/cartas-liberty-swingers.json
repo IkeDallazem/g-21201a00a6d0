@@ -1,0 +1,274 @@
+{
+ "kind": "card",
+ "id": "cartas-liberty-swingers",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Liberty Swingers",
+ "sum": "24 cartas de beisebol, com o local de cada uma.",
+ "body": "- Beisebol, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-liberty-swingers-blake-balls-bronze",
+   "t": "**Blake Balls - Bronze**",
+   "d": "Em cima de uma sapateira na entrada dos fundos de uma casa cinza no lado leste do Lake Tallaloko, East Lummox"
+  },
+  {
+   "id": "cc-liberty-swingers-blake-balls-gold",
+   "t": "**Blake Balls - Gold**",
+   "d": "No canto de uma cômoda ao lado de uma mala no quarto de uma casa branca e azul pró-Krever, Maple Ln, oeste de Ambrosia"
+  },
+  {
+   "id": "cc-liberty-swingers-blake-balls-silver",
+   "t": "**Blake Balls - Silver**",
+   "d": "Na segunda prateleira de um armário na parede da garagem de uma casa rosa na Clovis Way, noroeste de Capri"
+  },
+  {
+   "id": "cc-liberty-swingers-christian-delgado-standard",
+   "t": "**Christian Delgado - Standard**",
+   "d": "Em cima de uma pilha de armários numa área de lazer ao lado das docas no litoral das Shoeless Keys"
+  },
+  {
+   "id": "cc-liberty-swingers-christian-freeman-deep-red",
+   "t": "**Christian Freeman - Deep Red**",
+   "d": "Na ponta de um banco no lado sul da estação de trem Vice Civic Center, oeste de Downtown"
+  },
+  {
+   "id": "cc-liberty-swingers-christian-freeman-navy-blue",
+   "t": "**Christian Freeman - Navy Blue**",
+   "d": "Numa borda sob o muro de privacidade atrás do prédio azul na Longship Dr, sudoeste de Watson Bay"
+  },
+  {
+   "id": "cc-liberty-swingers-christian-freeman-silver",
+   "t": "**Christian Freeman - Silver**",
+   "d": "Na passarela mais alta subindo a lateral da placa do Gellhorn Drive-In, I-404 x Gellhorn Ave, Port Gellhorn"
+  },
+  {
+   "id": "cc-liberty-swingers-duke-king-deep-red",
+   "t": "**Duke King - Deep Red**",
+   "d": "No balcão na parede da garagem de uma casa de tijolo de motoqueiros na Lakewood Way, Ambrosia"
+  },
+  {
+   "id": "cc-liberty-swingers-duke-king-navy-blue",
+   "t": "**Duke King - Navy Blue**",
+   "d": "Numa caixa elétrica no telhado do prédio Pollo Diablo, perto da Palmetto Ave, leste de Hamlet"
+  },
+  {
+   "id": "cc-liberty-swingers-duke-king-silver",
+   "t": "**Duke King - Silver**",
+   "d": "Em cima de um arquivo num prédio modular no centro da Breakwater Quarry, North Mariana"
+  },
+  {
+   "id": "cc-liberty-swingers-garth-buxton-standard",
+   "t": "**Garth Buxton - Standard**",
+   "d": "Embaixo de uma cadeira na varanda de um trailer vermelho e branco à beira d'água perto da Seabell Ave, Watson Bay"
+  },
+  {
+   "id": "cc-liberty-swingers-ichiro-yamada-bronze",
+   "t": "**Ichiro Yamada - Bronze**",
+   "d": "Em cima de um gaveteiro de plástico na garagem bagunçada de uma villa creme grande na beira-mar sul da Neptune Cir, Vespucci Beach"
+  },
+  {
+   "id": "cc-liberty-swingers-ichiro-yamada-gold",
+   "t": "**Ichiro Yamada - Gold**",
+   "d": "Num sofá na garagem de uma casa grande na esquina da Mamey Cir, sul de Waning Sands"
+  },
+  {
+   "id": "cc-liberty-swingers-ichiro-yamada-silver",
+   "t": "**Ichiro Yamada - Silver**",
+   "d": "Numa mesa central na sala de bagagens do Terminal E do Port Vice City, ponta noroeste da ilha"
+  },
+  {
+   "id": "cc-liberty-swingers-juan-carlos-garcia-standard",
+   "t": "**Juan Carlos Garcia - Standard**",
+   "d": "No chão ao lado do banco do ponto de ônibus North Vice Ave - A, Downtown"
+  },
+  {
+   "id": "cc-liberty-swingers-lalo-velasco-bronze",
+   "t": "**Lalo Velasco - Bronze**",
+   "d": "Numa pasta em cima da cômoda que segura a TV na sala de um trailer vermelho e branco na Spruce Ln, oeste de Ambrosia"
+  },
+  {
+   "id": "cc-liberty-swingers-lalo-velasco-gold",
+   "t": "**Lalo Velasco - Gold**",
+   "d": "Na segunda prateleira de um armário na parede do fundo da garagem de uma villa grande à beira-mar na Ravella Dr, sul de Capri"
+  },
+  {
+   "id": "cc-liberty-swingers-lalo-velasco-silver",
+   "t": "**Lalo Velasco - Silver**",
+   "d": "No canto de uma meia-parede no corredor externo do 2º andar do Atlantis Hotel, Shore Dr, Ocean Beach"
+  },
+  {
+   "id": "cc-liberty-swingers-mario-rugama-deep-red",
+   "t": "**Mario Rugama - Deep Red**",
+   "d": "No telhado do meio, embaixo de uma cadeira ao lado da porta de acesso, atrás da loja Sole Bros Discount Footwear, Vineyard Dr, noroeste de Oldby Island"
+  },
+  {
+   "id": "cc-liberty-swingers-mario-rugama-navy-blue",
+   "t": "**Mario Rugama - Navy Blue**",
+   "d": "No balcão no canto da garagem de uma villa branca no fim da Caravel Ct, leste de Belville"
+  },
+  {
+   "id": "cc-liberty-swingers-mario-rugama-silver",
+   "t": "**Mario Rugama - Silver**",
+   "d": "Em cima de um banco no lado norte do posto Xero da US-628, Millport"
+  },
+  {
+   "id": "cc-liberty-swingers-ricardo-zamudio-standard",
+   "t": "**Ricardo Zamudio - Standard**",
+   "d": "Numa mesa de madeira encostada na parede, extremo leste da Tisha-Wocka Flea Market, sudoeste de Balsero"
+  },
+  {
+   "id": "cc-liberty-swingers-seo-jun-kim-standard",
+   "t": "**Seo-Jun Kim - Standard**",
+   "d": "Dentro de uma revista embaixo de uma cadeira na passarela sobre a arquibancada do estádio de beisebol do Hummingbird Park, canto noroeste do parque, Ocean Beach"
+  },
+  {
+   "id": "cc-liberty-swingers-steven-kendricks-standard",
+   "t": "**Steven Kendricks - Standard**",
+   "d": "No parapeito da janela da torre-mirante mais alta do Wheeler Apartments, Atlantic Ave, Ocean Beach"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Liberty Swingers"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Liberty Swingers",
+  "sum": "24 baseball cards, with every location.",
+  "body": "- Baseball, 24 cards. Locations from IGN's list; tick each one as you grab it.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Liberty Swingers"
+  ],
+  "check": [
+   {
+    "id": "cc-liberty-swingers-blake-balls-bronze",
+    "t": "**Blake Balls - Bronze**",
+    "d": "On top of a shoe rack in the back entrance of a gray house on the east side of Lake Tallaloko in East Lummox County"
+   },
+   {
+    "id": "cc-liberty-swingers-blake-balls-gold",
+    "t": "**Blake Balls - Gold**",
+    "d": "On the corner of a dresser next to a suitcase in the bedroom of a white and blue, pro-Krever house on Maple Ln in western Ambrosia"
+   },
+   {
+    "id": "cc-liberty-swingers-blake-balls-silver",
+    "t": "**Blake Balls - Silver**",
+    "d": "On the second shelf of a storage cabinet on the wall of the garage in a pink house on Clovis Way in northwestern Capri"
+   },
+   {
+    "id": "cc-liberty-swingers-christian-delgado-standard",
+    "t": "**Christian Delgado - Standard**",
+    "d": "On the top of a stack of lockers in a small recreation area next to the docks on the coast of the Shoeless Keys"
+   },
+   {
+    "id": "cc-liberty-swingers-christian-freeman-deep-red",
+    "t": "**Christian Freeman - Deep Red**",
+    "d": "On the edge of a bench on the southern side of the Vice Civic Center train station in western Downtown"
+   },
+   {
+    "id": "cc-liberty-swingers-christian-freeman-navy-blue",
+    "t": "**Christian Freeman - Navy Blue**",
+    "d": "On top of a ledge underneath the privacy wall behind the blue apartment building on Longship Dr in southwestern Watson Bay"
+   },
+   {
+    "id": "cc-liberty-swingers-christian-freeman-silver",
+    "t": "**Christian Freeman - Silver**",
+    "d": "On top of the top-most catwalk going up the side of the Gellhorn Drive-In sign on the corner of I-404 and Gellhorn Ave in Port Gellhorn"
+   },
+   {
+    "id": "cc-liberty-swingers-duke-king-deep-red",
+    "t": "**Duke King - Deep Red**",
+    "d": "On top of the counter on the wall of the garage of a brick biker house on Lakewood Way in Ambrosia"
+   },
+   {
+    "id": "cc-liberty-swingers-duke-king-navy-blue",
+    "t": "**Duke King - Navy Blue**",
+    "d": "On top of an electrical box on the roof of the Pollo Diablo building off of Palmetto Ave in eastern Hamlet"
+   },
+   {
+    "id": "cc-liberty-swingers-duke-king-silver",
+    "t": "**Duke King - Silver**",
+    "d": "On top of a filing cabinet in a modular building in the center of the Breakwater Quarry in North Mariana County"
+   },
+   {
+    "id": "cc-liberty-swingers-garth-buxton-standard",
+    "t": "**Garth Buxton - Standard**",
+    "d": "Underneath a chair on the porch of a red and white waterfront mobile home off of Seabell Ave in Watson Bay"
+   },
+   {
+    "id": "cc-liberty-swingers-ichiro-yamada-bronze",
+    "t": "**Ichiro Yamada - Bronze**",
+    "d": "On top of a plastic drawer system in the messy garage of a large, creme-colored villa on the southern waterfront of Neptune Cir in Vespucci Beach"
+   },
+   {
+    "id": "cc-liberty-swingers-ichiro-yamada-gold",
+    "t": "**Ichiro Yamada - Gold**",
+    "d": "On top of a couch in the garage of a large house on the corner of Mamey Cir in southern Waning Sands"
+   },
+   {
+    "id": "cc-liberty-swingers-ichiro-yamada-silver",
+    "t": "**Ichiro Yamada - Silver**",
+    "d": "On top of a central table in the baggage room inside Terminal E of the Port Vice City on the northwestern end of the island"
+   },
+   {
+    "id": "cc-liberty-swingers-juan-carlos-garcia-standard",
+    "t": "**Juan Carlos Garcia - Standard**",
+    "d": "On the ground next to the bench at the North Vice Ave - A bus stop in Downtown"
+   },
+   {
+    "id": "cc-liberty-swingers-lalo-velasco-bronze",
+    "t": "**Lalo Velasco - Bronze**",
+    "d": "In a folder on top of the dresser holding up the TV in the living room of a red and white mobile home on Spruce Ln in western Ambrosia"
+   },
+   {
+    "id": "cc-liberty-swingers-lalo-velasco-gold",
+    "t": "**Lalo Velasco - Gold**",
+    "d": "On the second shelf of a storage cabinet on the back wall of the garage in a large, waterfront villa on Ravella Dr in southern Capri"
+   },
+   {
+    "id": "cc-liberty-swingers-lalo-velasco-silver",
+    "t": "**Lalo Velasco - Silver**",
+    "d": "On the corner of a half wall in the outdoor hallway between rooms on the second floor of the Atlantis Hotel on Shore Dr in Ocean Beach"
+   },
+   {
+    "id": "cc-liberty-swingers-mario-rugama-deep-red",
+    "t": "**Mario Rugama - Deep Red**",
+    "d": "On the middle roof underneath a chair next to the roof access door behind the Sole Bros Discount Footwear store on Vineyard Dr in the northwestern corner of Oldby Island"
+   },
+   {
+    "id": "cc-liberty-swingers-mario-rugama-navy-blue",
+    "t": "**Mario Rugama - Navy Blue**",
+    "d": "On the counter in the corner of the garage of a white villa at the cul-de-sac at the end of the Caravel Ct in eastern Belville"
+   },
+   {
+    "id": "cc-liberty-swingers-mario-rugama-silver",
+    "t": "**Mario Rugama - Silver**",
+    "d": "On top of a bench on the northern side of the Xero gas station on US-628 in Millport"
+   },
+   {
+    "id": "cc-liberty-swingers-ricardo-zamudio-standard",
+    "t": "**Ricardo Zamudio - Standard**",
+    "d": "On top of a wooden table against the wall in the eastern end of the Tisha-Wocka Flea Market in southwestern Balsero"
+   },
+   {
+    "id": "cc-liberty-swingers-seo-jun-kim-standard",
+    "t": "**Seo-Jun Kim - Standard**",
+    "d": "Inside a magazine underneath a chair on the catwalk above the bleachers for the Hummingbird Park Baseball Stadium in the northwestern corner of Hummingbird Park in Ocean Beach"
+   },
+   {
+    "id": "cc-liberty-swingers-steven-kendricks-standard",
+    "t": "**Steven Kendricks - Standard**",
+    "d": "Inside the highest overlook tower on a windowsill of the Wheeler Apartments on Atlantic Ave in Ocean Beach"
+   }
+  ]
+ }
+}

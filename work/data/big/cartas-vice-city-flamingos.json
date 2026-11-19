@@ -1,0 +1,274 @@
+{
+ "kind": "card",
+ "id": "cartas-vice-city-flamingos",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Vice City Flamingos",
+ "sum": "24 cartas de beisebol, com o local de cada uma.",
+ "body": "- Beisebol, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-vice-city-flamingos-angel-cienfuegos-light-blue",
+   "t": "**Angel Cienfuegos - Light Blue**",
+   "d": "Em cima do micro-ondas da copa nos fundos do posto Xero da Omega Pkwy, Buckskin Swamp"
+  },
+  {
+   "id": "cc-vice-city-flamingos-angel-cienfuegos-pink",
+   "t": "**Angel Cienfuegos - Pink**",
+   "d": "Num poste da cerca dos fundos do deque dos banheiros de praia, costa sul de Abismo Key"
+  },
+  {
+   "id": "cc-vice-city-flamingos-angel-cienfuegos-silver",
+   "t": "**Angel Cienfuegos - Silver**",
+   "d": "Num arquivo pequeno na garagem de uma casa branca com bandeira da Cellerica na Grace Ave, centro de Belville"
+  },
+  {
+   "id": "cc-vice-city-flamingos-bill-norton-standard",
+   "t": "**Bill Norton - Standard**",
+   "d": "Na borda de um arco no fim da sacada do 2º andar sobre o E-Z Kwik, SW 3rd Ave, Southside"
+  },
+  {
+   "id": "cc-vice-city-flamingos-charlie-spears-standard",
+   "t": "**Charlie Spears - Standard**",
+   "d": "Na porta da geladeira de uma casa azul na Northbrook Dr, Little Cuba"
+  },
+  {
+   "id": "cc-vice-city-flamingos-elias-delgado-light-blue",
+   "t": "**Elias Delgado - Light Blue**",
+   "d": "No parapeito de uma cabaninha no fim de uma ponte sobre o Emerald River, Emerald Springs"
+  },
+  {
+   "id": "cc-vice-city-flamingos-elias-delgado-pink",
+   "t": "**Elias Delgado - Pink**",
+   "d": "No chão ao lado de um sofá sob um toldo, na lateral de um prédio amarelo no fundo do condomínio da Spirea Ln, Ocean Beach"
+  },
+  {
+   "id": "cc-vice-city-flamingos-elias-delgado-silver",
+   "t": "**Elias Delgado - Silver**",
+   "d": "Na prateleira de baixo da bancada da garagem separada do galpão JDs Fabrication, Beaumont Ave, Watson Bay"
+  },
+  {
+   "id": "cc-vice-city-flamingos-harold-toye-light-blue",
+   "t": "**Harold Toye - Light Blue**",
+   "d": "No chão sob uma cadeira dobrável atrás do prédio Open Door Immigration Services, SW 8th St, Peacock Bay"
+  },
+  {
+   "id": "cc-vice-city-flamingos-harold-toye-pink",
+   "t": "**Harold Toye - Pink**",
+   "d": "Numa prateleira da parede do fundo da garagem da mansão rosa grande na Flamingo Pkwy, sudeste de Waning Sands"
+  },
+  {
+   "id": "cc-vice-city-flamingos-harold-toye-silver",
+   "t": "**Harold Toye - Silver**",
+   "d": "No chão ao lado de uma cadeira de balanço, sob uma bandeira, numa casa de madeira perto da SR-45, Grayson"
+  },
+  {
+   "id": "cc-vice-city-flamingos-jude-flores-standard",
+   "t": "**Jude Flores - Standard**",
+   "d": "No chão do pátio do apartamento 13, térreo do Bugners Getaways, Sunset Dr, Key Lento"
+  },
+  {
+   "id": "cc-vice-city-flamingos-julian-cruz-bronze",
+   "t": "**Julian Cruz - Bronze**",
+   "d": "Na prateleira de cima de uma estante num trailer vermelho e branco perto da Gellhorn Ave, oeste de Port Gellhorn"
+  },
+  {
+   "id": "cc-vice-city-flamingos-julian-cruz-gold",
+   "t": "**Julian Cruz - Gold**",
+   "d": "No canto do mural de cortiça do escritório nos fundos do Spire Theater, Northbrook Dr, Little Cuba"
+  },
+  {
+   "id": "cc-vice-city-flamingos-julian-cruz-silver",
+   "t": "**Julian Cruz - Silver**",
+   "d": "Na sacada esquerda do último andar de um apartamento nos fundos do prédio de lojas da Sweetbay Rd, sul de Watson Bay"
+  },
+  {
+   "id": "cc-vice-city-flamingos-julian-hall-standard",
+   "t": "**Julian Hall - Standard**",
+   "d": "Em cima do micro-ondas da copa nos fundos do posto RON da Omega Pkwy, oeste de Balsero"
+  },
+  {
+   "id": "cc-vice-city-flamingos-mateo-caballero-bronze",
+   "t": "**Mateo Caballero - Bronze**",
+   "d": "No canto da gaiola de rebatida nº 2 do minigolfe Dino Golf Challenge, Frogswater"
+  },
+  {
+   "id": "cc-vice-city-flamingos-mateo-caballero-gold",
+   "t": "**Mateo Caballero - Gold**",
+   "d": "Dentro de um ninho grande no alto da caixa-d'água do centro de Watson Bay"
+  },
+  {
+   "id": "cc-vice-city-flamingos-mateo-caballero-silver",
+   "t": "**Mateo Caballero - Silver**",
+   "d": "No parapeito da janela do quarto de uma casa verde e branca na NW 11th Pl, La Perle"
+  },
+  {
+   "id": "cc-vice-city-flamingos-sammy-woodsworth-standard",
+   "t": "**Sammy Woodsworth - Standard**",
+   "d": "Na prateleira de baixo de um armário no canto da garagem separada de uma casa branca na Glenwood Ave, Port Gellhorn"
+  },
+  {
+   "id": "cc-vice-city-flamingos-thunder-lee-standard",
+   "t": "**Thunder Lee - Standard**",
+   "d": "Na ponta de um banco do banco de reservas do campo de beisebol na esquina da Grace Ave com a Harmony Dr, sul de Belville"
+  },
+  {
+   "id": "cc-vice-city-flamingos-ulysses-whitlock-bronze",
+   "t": "**Ulysses Whitlock - Bronze**",
+   "d": "Na lateral de um mural de cortiça num depósito entre a loja Nola e o Oscar's Seafood, Beacon Cir, centro de Capri"
+  },
+  {
+   "id": "cc-vice-city-flamingos-ulysses-whitlock-gold",
+   "t": "**Ulysses Whitlock - Gold**",
+   "d": "No alto de uma torre de rádio num cercadinho perto do Crystal Baseball Field, oeste de Ambrosia"
+  },
+  {
+   "id": "cc-vice-city-flamingos-ulysses-whitlock-silver",
+   "t": "**Ulysses Whitlock - Silver**",
+   "d": "Embaixo de uma cadeira no topo de uma escada caracol no telhado do prédio Penny Haus"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Vice City Flamingos"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Vice City Flamingos",
+  "sum": "24 baseball cards, with every location.",
+  "body": "- Baseball, 24 cards. Locations from IGN's list; tick each one as you grab it.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Vice City Flamingos"
+  ],
+  "check": [
+   {
+    "id": "cc-vice-city-flamingos-angel-cienfuegos-light-blue",
+    "t": "**Angel Cienfuegos - Light Blue**",
+    "d": "On top of a microwave in the employee breakroom in the back of the Xero gas station on Omega Pkwy in Buckskin Swamp"
+   },
+   {
+    "id": "cc-vice-city-flamingos-angel-cienfuegos-pink",
+    "t": "**Angel Cienfuegos - Pink**",
+    "d": "On top of a post on the back fence surrounding the deck around the beach bathrooms on the southern coast of Abismo Key"
+   },
+   {
+    "id": "cc-vice-city-flamingos-angel-cienfuegos-silver",
+    "t": "**Angel Cienfuegos - Silver**",
+    "d": "On top of a small file cabinet in the garage of a white house on Grace Ave with a Cellerica flag in front in central Belville"
+   },
+   {
+    "id": "cc-vice-city-flamingos-bill-norton-standard",
+    "t": "**Bill Norton - Standard**",
+    "d": "On top of a ledge on an arched opening at the end of the second floor balcony above the E-Z Kwik on SW 3rd Ave in Southside"
+   },
+   {
+    "id": "cc-vice-city-flamingos-charlie-spears-standard",
+    "t": "**Charlie Spears - Standard**",
+    "d": "On the front of a fridge in the kitchen of a blue house on Northbrook Dr in Little Cuba"
+   },
+   {
+    "id": "cc-vice-city-flamingos-elias-delgado-light-blue",
+    "t": "**Elias Delgado - Light Blue**",
+    "d": "On top of the railing of a small hut at the end of a bridge over the Emerald River in Emerald Springs"
+   },
+   {
+    "id": "cc-vice-city-flamingos-elias-delgado-pink",
+    "t": "**Elias Delgado - Pink**",
+    "d": "On the ground next to a couch under an awning on the side of a yellow condo building in the back of the condo complex on Spirea Ln in Ocean Beach"
+   },
+   {
+    "id": "cc-vice-city-flamingos-elias-delgado-silver",
+    "t": "**Elias Delgado - Silver**",
+    "d": "On the lower shelf of a workbench in the detached garage of the JDs Fabrication warehouse on Beaumont Ave in Watson Bay"
+   },
+   {
+    "id": "cc-vice-city-flamingos-harold-toye-light-blue",
+    "t": "**Harold Toye - Light Blue**",
+    "d": "On the ground under a folding chair in the back behind the Open Door Immigration Services building on SW 8th St in Peacock Bay"
+   },
+   {
+    "id": "cc-vice-city-flamingos-harold-toye-pink",
+    "t": "**Harold Toye - Pink**",
+    "d": "On top of a shelf against the back wall in the detached garage of the large pink mansion on Flamingo Pkwy in southeastern Waning Sands"
+   },
+   {
+    "id": "cc-vice-city-flamingos-harold-toye-silver",
+    "t": "**Harold Toye - Silver**",
+    "d": "On the ground next to a rocking chair under a flag hanging from the side of a wooden house near SR-45 in Grayson"
+   },
+   {
+    "id": "cc-vice-city-flamingos-jude-flores-standard",
+    "t": "**Jude Flores - Standard**",
+    "d": "On the ground on a small patio for apartment 13 in the first floor of Bugners Getaways on Sunset Dr in Key Lento"
+   },
+   {
+    "id": "cc-vice-city-flamingos-julian-cruz-bronze",
+    "t": "**Julian Cruz - Bronze**",
+    "d": "On the top shelf of a bookshelf in a red and white mobile home near Gellhorn Ave in western Port Gellhorn"
+   },
+   {
+    "id": "cc-vice-city-flamingos-julian-cruz-gold",
+    "t": "**Julian Cruz - Gold**",
+    "d": "On the corner of the corkboard in the office in the back of the Spire Theater on Northbrook Dr in Little Cuba"
+   },
+   {
+    "id": "cc-vice-city-flamingos-julian-cruz-silver",
+    "t": "**Julian Cruz - Silver**",
+    "d": "On the top-level, left balcony of an apartment in the back of the large building full of stores on Sweetbay Rd in southern Watson Bay"
+   },
+   {
+    "id": "cc-vice-city-flamingos-julian-hall-standard",
+    "t": "**Julian Hall - Standard**",
+    "d": "On top of the microwave in the employee break room in the back of the RON gas station on Omega Pkwy in western Balsero"
+   },
+   {
+    "id": "cc-vice-city-flamingos-mateo-caballero-bronze",
+    "t": "**Mateo Caballero - Bronze**",
+    "d": "In the corner of the #2 batting cage on the edge of the Dino Golf Challenge mini-golf course in Frogswater"
+   },
+   {
+    "id": "cc-vice-city-flamingos-mateo-caballero-gold",
+    "t": "**Mateo Caballero - Gold**",
+    "d": "Inside a large bird's nest on top of the Watson Bay water tower in central Watson Bay"
+   },
+   {
+    "id": "cc-vice-city-flamingos-mateo-caballero-silver",
+    "t": "**Mateo Caballero - Silver**",
+    "d": "On top of a windowsill in the bedroom of a green and white house on NW 11th Pl in La Perle"
+   },
+   {
+    "id": "cc-vice-city-flamingos-sammy-woodsworth-standard",
+    "t": "**Sammy Woodsworth - Standard**",
+    "d": "On the bottom shelf of a storage cabinet in the corner of the detached garage of a white house on Glenwood Ave in Port Gellhorn"
+   },
+   {
+    "id": "cc-vice-city-flamingos-thunder-lee-standard",
+    "t": "**Thunder Lee - Standard**",
+    "d": "On the edge of a bench in a dugout of a baseball field on the corner of Grace Ave and Harmony Dr in southern Belville"
+   },
+   {
+    "id": "cc-vice-city-flamingos-ulysses-whitlock-bronze",
+    "t": "**Ulysses Whitlock - Bronze**",
+    "d": "On the side of a corkboard in a small storage room between the Nola store and Oscar's Seafood on Beacon Cir in central Capri"
+   },
+   {
+    "id": "cc-vice-city-flamingos-ulysses-whitlock-gold",
+    "t": "**Ulysses Whitlock - Gold**",
+    "d": "On top of a radio tower in a small fenced in area near the Crystal Baseball Field in western Ambrosia"
+   },
+   {
+    "id": "cc-vice-city-flamingos-ulysses-whitlock-silver",
+    "t": "**Ulysses Whitlock - Silver**",
+    "d": "Under a chair on a ledge at the top of a spiral staircase on the roof of the Penny Haus building"
+   }
+  ]
+ }
+}

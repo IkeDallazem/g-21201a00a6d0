@@ -1,0 +1,842 @@
+[
+ {
+  "kind": "card",
+  "id": "roteiro-desbloqueios",
+  "sec": "roteiro",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Quando cada coisa libera",
+  "sum": "Tabela de desbloqueios. Filtre digitando o nome ou o capítulo.",
+  "table": {
+   "cols": [
+    "O quê",
+    "Como libera",
+    "Capítulo"
+   ],
+   "rows": [
+    [
+     "Waink (scanner de carros)",
+     "Automático",
+     "Cap. 1"
+    ],
+    [
+     "Compras na Ammu-Nation",
+     "Missão Gear Up",
+     "Cap. 1"
+    ],
+    [
+     "Conta BuckMe e app RydeMe",
+     "Missão Buck Me",
+     "Cap. 1"
+    ],
+    [
+     "Táxi Paradise",
+     "Contatos do celular",
+     "Cap. 1"
+    ],
+    [
+     "Mergulhos do Kenton",
+     "Missão Island Dreams (some depois do Cap. 1 e volta entre os Caps. 2 e 3)",
+     "Cap. 1"
+    ],
+    [
+     "Meditação com a Lucia (perdível)",
+     "Depois de Down to Earth, de manhã",
+     "Cap. 1"
+    ],
+    [
+     "Slim Jim, venda ao Moses e app Scooter Bros",
+     "Missão Moses",
+     "Cap. 2"
+    ],
+    [
+     "Registro de veículos",
+     "Missão Moses (na Pay 'n' Spray a partir do Cap. 3)",
+     "Cap. 2"
+    ],
+    [
+     "Garagem grátis e compra de garagens",
+     "Missão Daily Driver",
+     "Cap. 2"
+    ],
+    [
+     "Troca livre entre Jason e Lucia",
+     "Missão Coffee Break (~30% da história)",
+     "Cap. 2"
+    ],
+    [
+     "Casas de penhor / pawn shops (Smash 'n' Grab)",
+     "Missão Coffee Break",
+     "Cap. 2"
+    ],
+    [
+     "Escopeta Gutterball Moreland 850",
+     "Opcional Hit Kingpin Bowling",
+     "Cap. 2"
+    ],
+    [
+     "Joalherias e Snap Gun",
+     "Yasmani's Jewelry Jobs",
+     "Cap. 3"
+    ],
+    [
+     "Dye Pack Jammer: Payday Loans e bancos pequenos",
+     "Credit Check (Meet Raul's Crew)",
+     "Cap. 3"
+    ],
+    [
+     "Key Cloner e lista do Randy",
+     "Clonin' Keys, Makin' GS",
+     "Cap. 3"
+    ],
+    [
+     "Venda de carro com rastreador padrão na Pay 'n' Spray",
+     "Início do capítulo",
+     "Cap. 3"
+    ],
+    [
+     "Venda de carro com rastreador avançado",
+     "Depois de entregar o Mamba ao Randy",
+     "Cap. 3"
+    ],
+    [
+     "Cofres dos bancos grandes",
+     "That's Where The Money Is… (opcional)",
+     "Cap. 4"
+    ],
+    [
+     "Dicas de carro-forte do Yasmani (US$ 10.000)",
+     "Depois de fazer 2 Payday Loans para ele",
+     "Cap. 4"
+    ],
+    [
+     "Cheats (códigos de trapaça)",
+     "Concluir a história",
+     "Pós-história"
+    ]
+   ],
+   "sort": true
+  },
+  "src": [
+   "PowerPyx",
+   "GameSpot",
+   "Gamersky",
+   "nettoge",
+   "Cultured Vultures"
+  ],
+  "kw": [
+   "desbloqueio",
+   "unlock",
+   "quando libera",
+   "liberar",
+   "progressao"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "When each thing unlocks",
+   "sum": "Unlock table. Filter by typing a name or chapter.",
+   "table": {
+    "cols": [
+     "What",
+     "How it unlocks",
+     "Chapter"
+    ],
+    "rows": [
+     [
+      "WAiNK (car scanner)",
+      "Automatic",
+      "Ch. 1"
+     ],
+     [
+      "Ammu-Nation purchases",
+      "Gear Up mission",
+      "Ch. 1"
+     ],
+     [
+      "BuckMe account and RydeMe app",
+      "Buck Me mission",
+      "Ch. 1"
+     ],
+     [
+      "Paradise Taxi",
+      "Phone contacts",
+      "Ch. 1"
+     ],
+     [
+      "Kenton's dives",
+      "Island Dreams mission (gone after Ch. 1, back between Ch. 2 and 3)",
+      "Ch. 1"
+     ],
+     [
+      "Meditation with Lucia (missable)",
+      "After Down to Earth, in the morning",
+      "Ch. 1"
+     ],
+     [
+      "Slim Jim, selling to Moses and Scooter Bros app",
+      "Moses mission",
+      "Ch. 2"
+     ],
+     [
+      "Vehicle registration",
+      "Moses mission (at Pay 'n' Spray from Ch. 3)",
+      "Ch. 2"
+     ],
+     [
+      "Free garage and buying garages",
+      "Daily Driver mission",
+      "Ch. 2"
+     ],
+     [
+      "Free switching between Jason and Lucia",
+      "Coffee Break mission (~30% of the story)",
+      "Ch. 2"
+     ],
+     [
+      "Pawn shops (Smash 'n' Grab)",
+      "Coffee Break mission",
+      "Ch. 2"
+     ],
+     [
+      "Gutterball Moreland 850 shotgun",
+      "Optional Hit Kingpin Bowling",
+      "Ch. 2"
+     ],
+     [
+      "Jewelry stores and Snap Gun",
+      "Yasmani's Jewelry Jobs",
+      "Ch. 3"
+     ],
+     [
+      "Dye Pack Jammer: Payday Loans and small banks",
+      "Credit Check (Meet Raul's Crew)",
+      "Ch. 3"
+     ],
+     [
+      "Key Cloner and Randy's Wish List",
+      "Clonin' Keys, Makin' GS",
+      "Ch. 3"
+     ],
+     [
+      "Selling standard-tracker cars at Pay 'n' Spray",
+      "Start of the chapter",
+      "Ch. 3"
+     ],
+     [
+      "Selling advanced-tracker cars",
+      "After delivering the Mamba to Randy",
+      "Ch. 3"
+     ],
+     [
+      "Big-bank vaults",
+      "That's Where The Money Is… (optional)",
+      "Ch. 4"
+     ],
+     [
+      "Yasmani's armored-truck tips ($10,000)",
+      "After doing 2 Payday Loans for him",
+      "Ch. 4"
+     ],
+     [
+      "Cheats",
+      "Finish the story",
+      "Post-story"
+     ]
+    ],
+    "sort": true
+   },
+   "kw": [
+    "unlock",
+    "when",
+    "progression"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "roteiro-prologo",
+  "sec": "roteiro",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "p"
+  ],
+  "title": "Prólogo",
+  "sum": "Tutorial guiado com a Lucia. Não dá para salvar.",
+  "body": "- Ensina a interação social ({L2}), a ameaça ({L2} + {□}), a pegar o dinheiro ({△}), um comando na hora certa (apertar o botão que aparece na tela) para se soltar e a leitura do círculo de busca da polícia no minimapa.\n- **A fuga da polícia é roteirizada.** Não perca tempo tentando escapar: o jogo segue sozinho.\n- **Não dá para salvar manualmente** durante o Prólogo.",
+  "src": [
+   "PowerPyx",
+   "Sportskeeda"
+  ],
+  "kw": [
+   "prologo",
+   "tutorial",
+   "inicio do jogo"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Prologue",
+   "sum": "Guided tutorial as Lucia. No saving.",
+   "body": "- Teaches social interaction ({L2}), threatening ({L2} + {□}), grabbing cash ({△}), a QTE to break free and reading the police search circle on the minimap.\n- **The police chase is scripted.** Don't waste time trying to escape: the game moves on by itself.\n- **No manual saves** during the Prologue.",
+   "kw": [
+    "prologue",
+    "tutorial",
+    "start of the game"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "roteiro-cap1",
+  "sec": "roteiro",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c1"
+  ],
+  "title": "Capítulo 1",
+  "sum": "Quase tudo com o Jason, em Key Lento. As missões que importam para o seu progresso.",
+  "body": "A ordem pode variar um pouco, porque as missões chegam por mensagem no celular. A PowerPyx lista 34 entradas (com opcionais e tarefas); a Beebom conta 21 missões principais.\n\nLista completa para marcar: [[missoes-cap1]].",
+  "table": {
+   "cols": [
+    "Missão",
+    "O que libera ou exige"
+   ],
+   "rows": [
+    [
+     "Gone Fishing",
+     "Barco, Focus ({L3} + {R3}), furtividade e cura com Zombix. Troféu “Just Like Paradise”. Depois dela o mapa fica acessível"
+    ],
+    [
+     "Gear Up",
+     "Primeira compra na Ammu-Nation: escolha a escopeta. Veja [[armas-gear-up]]"
+    ],
+    [
+     "Lab Fees, Just a Scratch, Unwanted Attention",
+     "Podem ser feitas em qualquer ordem junto com Gear Up. Pipework só libera depois das quatro"
+    ],
+    [
+     "Get Shirley's Rum e Steal the Scooter",
+     "**Perdíveis**, exclusivas do Cap. 1"
+    ],
+    [
+     "Island Dreams",
+     "Abre a linha do Kenton (mergulhos de tesouro)"
+    ],
+    [
+     "Opcionais de casa",
+     "Mercado, flores, colar, “Get The Chop” e roupas da Lucia"
+    ],
+    [
+     "Buck Me",
+     "Conta BuckMe e app RydeMe"
+    ],
+    [
+     "Down to Earth",
+     "Depois dela vem a meditação perdível com a Lucia"
+    ],
+    [
+     "Deposit Cash Into BuckMe e Save for the Future",
+     "Etapas obrigatórias com dinheiro: não zere a conta antes"
+    ],
+    [
+     "Day Release",
+     "A Lucia fica jogável ao lado do Jason por um tempo"
+    ],
+    [
+     "Tourist Trap",
+     "**Ponto sem volta do capítulo**: faça um save manual antes"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "PowerPyx",
+   "Beebom",
+   "GameSpot"
+  ],
+  "kw": [
+   "capitulo 1",
+   "missoes",
+   "lista de missoes",
+   "key lento"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Chapter 1",
+   "sum": "Almost all Jason, in Key Lento. The missions that matter for your progress.",
+   "body": "The order can shift a bit, since missions arrive as phone messages. PowerPyx lists 34 entries (including optionals and tasks); Beebom counts 21 main missions.\n\nFull list to tick: [[missoes-cap1]].",
+   "table": {
+    "cols": [
+     "Mission",
+     "What it unlocks or requires"
+    ],
+    "rows": [
+     [
+      "Gone Fishing",
+      "Boat, Focus ({L3} + {R3}), stealth and healing with Zombix. Trophy “Just Like Paradise”. The map opens after it"
+     ],
+     [
+      "Gear Up",
+      "First Ammu-Nation purchase: pick the shotgun. See [[armas-gear-up]]"
+     ],
+     [
+      "Lab Fees, Just a Scratch, Unwanted Attention",
+      "Any order alongside Gear Up. Pipework unlocks only after all four"
+     ],
+     [
+      "Get Shirley's Rum and Steal the Scooter",
+      "**Missable**, Ch. 1 only"
+     ],
+     [
+      "Island Dreams",
+      "Opens Kenton's questline (treasure dives)"
+     ],
+     [
+      "Home optionals",
+      "Groceries, flowers, necklace, “Get The Chop” and Lucia's clothes"
+     ],
+     [
+      "Buck Me",
+      "BuckMe account and RydeMe app"
+     ],
+     [
+      "Down to Earth",
+      "The missable meditation with Lucia comes after it"
+     ],
+     [
+      "Deposit Cash Into BuckMe and Save for the Future",
+      "Required money steps: don't empty your account before them"
+     ],
+     [
+      "Day Release",
+      "Lucia is playable alongside Jason for a while"
+     ],
+     [
+      "Tourist Trap",
+      "**The chapter's point of no return**: manual save first"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "chapter 1",
+    "missions",
+    "mission list",
+    "key lento"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "roteiro-virada",
+  "sec": "roteiro",
+  "tipo": "alerta",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "A virada do Cap. 1 para o 2",
+  "sum": "Por volta de 30% da história o casal fica sem dinheiro. Prepare-se antes.",
+  "body": "Sem entrar na história: na passagem do Capítulo 1 para o 2 existe um momento em que vocês ficam sem dinheiro e precisam juntar alguns milhares de dólares para a história seguir. O jogo não dá aviso.\n\nO plano completo está em [[dinheiro-reset]].",
+  "src": [
+   "GameSpot",
+   "PowerPyx",
+   "Gamersky"
+  ],
+  "kw": [
+   "reset",
+   "zerar",
+   "zerado",
+   "perder dinheiro",
+   "30%",
+   "virada",
+   "tourist trap"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "The Ch. 1 to Ch. 2 turn",
+   "sum": "Around 30% into the story the couple ends up broke. Prepare beforehand.",
+   "body": "Without story details: in the move from Chapter 1 to 2 there's a point where you lose your money and need a few thousand dollars for the story to continue. The game gives no warning.\n\nThe full plan is in [[dinheiro-reset]].",
+   "kw": [
+    "reset",
+    "lose money",
+    "broke",
+    "30%",
+    "turn",
+    "tourist trap"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "roteiro-cap2",
+  "sec": "roteiro",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c2"
+  ],
+  "title": "Capítulo 2",
+  "sum": "A Lucia ganha espaço, a venda de carros abre e chega a troca livre.",
+  "body": "O troféu “Paradise Lost” sai ao concluir o Cap. 1, já no começo do Cap. 2.\n\nLista completa para marcar: [[missoes-cap2]].",
+  "table": {
+   "cols": [
+    "Missão ou momento",
+    "O que libera ou exige"
+   ],
+   "rows": [
+    [
+     "Começo do capítulo",
+     "Juntar alguns milhares: lojas de ícone verde, pedestres e, quando abrir, venda de carros"
+    ],
+    [
+     "Pick Up A Gun (opcional)",
+     "Voltar a se armar"
+    ],
+    [
+     "Moses",
+     "Slim Jim, venda de carros ao Moses, registro de veículos e app Scooter Bros"
+    ],
+    [
+     "Daily Driver",
+     "Garagem grátis em Port Gellhorn e compra de garagens pelo app"
+    ],
+    [
+     "New Look e How Do I Look?",
+     "Troca de visual (as missões dão roupa)"
+    ],
+    [
+     "Breakfast Run",
+     "Troféu “Trust”"
+    ],
+    [
+     "Coffee Break",
+     "**Troca livre entre Jason e Lucia** e casas de penhor (pawn shops)"
+    ],
+    [
+     "Hit Kingpin Bowling (opcional)",
+     "Escopeta única Gutterball Moreland 850"
+    ],
+    [
+     "Thrillbillies e Mud Club com o Wyman",
+     "Ultimate: Dominator Buggy e Paradise Garage"
+    ],
+    [
+     "Ao longo do capítulo",
+     "O Kirk (Skunk Ape) termina aqui; o Kenton volta entre os Caps. 2 e 3"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "PowerPyx",
+   "GameSpot",
+   "17173"
+  ],
+  "kw": [
+   "capitulo 2",
+   "moses",
+   "coffee break",
+   "troca"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Chapter 2",
+   "sum": "Lucia takes center stage, car selling opens and free switching arrives.",
+   "body": "The “Paradise Lost” trophy pops on finishing Ch. 1, right at the start of Ch. 2.\n\nFull list to tick: [[missoes-cap2]].",
+   "table": {
+    "cols": [
+     "Mission or moment",
+     "What it unlocks or requires"
+    ],
+    "rows": [
+     [
+      "Start of the chapter",
+      "Build up a few thousand: green-icon stores, pedestrians and, once it opens, car sales"
+     ],
+     [
+      "Pick Up A Gun (optional)",
+      "Get armed again"
+     ],
+     [
+      "Moses",
+      "Slim Jim, selling cars to Moses, vehicle registration and the Scooter Bros app"
+     ],
+     [
+      "Daily Driver",
+      "Free Port Gellhorn garage and buying garages through the app"
+     ],
+     [
+      "New Look and How Do I Look?",
+      "Change of look (the missions give clothes)"
+     ],
+     [
+      "Breakfast Run",
+      "Trophy “Trust”"
+     ],
+     [
+      "Coffee Break",
+      "**Free switching between Jason and Lucia** and pawn shops"
+     ],
+     [
+      "Hit Kingpin Bowling (optional)",
+      "Unique Gutterball Moreland 850 shotgun"
+     ],
+     [
+      "Thrillbillies and the Mud Club with Wyman",
+      "Ultimate: Dominator Buggy and Paradise Garage"
+     ],
+     [
+      "Throughout the chapter",
+      "Kirk (Skunk Ape) wraps up here; Kenton returns between Ch. 2 and 3"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "chapter 2",
+    "moses",
+    "coffee break",
+    "switch"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "roteiro-cap3",
+  "sec": "roteiro",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c3"
+  ],
+  "title": "Capítulo 3",
+  "sum": "O salto de renda: Yasmani, Dye Pack Jammer, Key Cloner e Randy.",
+  "body": "Não adie o Cap. 3: roubar lojas repetidamente antes dele rende pouco. Segundo o Gamersky, o jogo credita US$ 120.000 no fim do capítulo.\n\nLista completa para marcar: [[missoes-cap3]].",
+  "table": {
+   "cols": [
+    "Missão ou momento",
+    "O que libera ou exige"
+   ],
+   "rows": [
+    [
+     "Yasmani's Jewelry Jobs",
+     "US$ 20.000 de recompensa, joalherias e Snap Gun"
+    ],
+    [
+     "Credit Check (Meet Raul's Crew)",
+     "Dye Pack Jammer: Payday Loans e bancos pequenos"
+    ],
+    [
+     "Clonin' Keys, Makin' GS",
+     "Key Cloner e a lista de desejos do Randy (o primeiro carro sai na própria missão)"
+    ],
+    [
+     "Início do capítulo",
+     "A Pay 'n' Spray passa a comprar carros com rastreador padrão"
+    ],
+    [
+     "Car Services (Lucia)",
+     "Roubos de carro por encomenda"
+    ],
+    [
+     "Race Against Yago",
+     "Missão com ampulheta: faça logo"
+    ],
+    [
+     "2 Payday Loans para o Yasmani",
+     "Pré-requisito das dicas de carro-forte do Cap. 4"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "PowerPyx",
+   "GameSpot",
+   "Gamersky",
+   "playstationinfo.de"
+  ],
+  "kw": [
+   "capitulo 3",
+   "yasmani",
+   "randy",
+   "key cloner",
+   "dye pack"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Chapter 3",
+   "sum": "The income jump: Yasmani, Dye Pack Jammer, Key Cloner and Randy.",
+   "body": "Don't put Ch. 3 off: grinding stores before it pays little. Per Gamersky, the game credits $120,000 at the end of the chapter.\n\nFull list to tick: [[missoes-cap3]].",
+   "table": {
+    "cols": [
+     "Mission or moment",
+     "What it unlocks or requires"
+    ],
+    "rows": [
+     [
+      "Yasmani's Jewelry Jobs",
+      "$20,000 reward, jewelry stores and the Snap Gun"
+     ],
+     [
+      "Credit Check (Meet Raul's Crew)",
+      "Dye Pack Jammer: Payday Loans and small banks"
+     ],
+     [
+      "Clonin' Keys, Makin' GS",
+      "Key Cloner and Randy's Wish List (the first car comes in the mission itself)"
+     ],
+     [
+      "Start of the chapter",
+      "Pay 'n' Spray starts buying cars with standard trackers"
+     ],
+     [
+      "Car Services (Lucia)",
+      "Car thefts to order"
+     ],
+     [
+      "Race Against Yago",
+      "Hourglass mission: do it right away"
+     ],
+     [
+      "2 Payday Loans for Yasmani",
+      "Prerequisite for the Ch. 4 armored-truck tips"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "chapter 3",
+    "yasmani",
+    "randy",
+    "key cloner",
+    "dye pack"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "roteiro-cap4",
+  "sec": "roteiro",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c4"
+  ],
+  "title": "Capítulos 4 e 5",
+  "sum": "A mina de ouro: os cofres dos bancos grandes.",
+  "body": "A rotina dos cofres está em [[dinheiro-cofres]].\n\nLista completa para marcar: [[missoes-cap4]]. Cap. 5: [[missoes-cap5]].",
+  "table": {
+   "cols": [
+    "Missão ou momento",
+    "O que libera ou exige"
+   ],
+   "rows": [
+    [
+     "That's Where The Money Is… (Wait at the Cafe)",
+     "Opcional. Libera os cofres dos 8 bancos grandes, até US$ 205.000 cada"
+    ],
+    [
+     "Dicas de carro-forte do Yasmani",
+     "US$ 10.000; marcam os carros-fortes em roxo"
+    ],
+    [
+     "Missão com ampulheta da Lucia",
+     "Só no Cap. 4: faça quando aparecer"
+    ],
+    [
+     "Ultimate",
+     "Lancha Shitzu Squalo (Cap. 4) e Grotti Cheetah ’95 (Cap. 5)"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "PowerPyx",
+   "17173"
+  ],
+  "kw": [
+   "capitulo 4",
+   "capitulo 5",
+   "cofre",
+   "banco grande"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Chapters 4 and 5",
+   "sum": "The gold mine: the big-bank vaults.",
+   "body": "The vault routine is in [[dinheiro-cofres]].\n\nFull list to tick: [[missoes-cap4]]. Ch. 5: [[missoes-cap5]].",
+   "table": {
+    "cols": [
+     "Mission or moment",
+     "What it unlocks or requires"
+    ],
+    "rows": [
+     [
+      "That's Where The Money Is… (Wait at the Cafe)",
+      "Optional. Unlocks the vaults of the 8 big banks, up to $205,000 each"
+     ],
+     [
+      "Yasmani's armored-truck tips",
+      "$10,000; mark armored trucks in purple"
+     ],
+     [
+      "Lucia's hourglass mission",
+      "Ch. 4 only: do it when it shows up"
+     ],
+     [
+      "Ultimate",
+      "Shitzu Squalo speedboat (Ch. 4) and Grotti Cheetah ’95 (Ch. 5)"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "chapter 4",
+    "chapter 5",
+    "vault",
+    "big bank"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "roteiro-pos",
+  "sec": "roteiro",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "pos"
+  ],
+  "title": "Depois da história",
+  "sum": "Cheats, 100% e o que continua disponível.",
+  "body": "- **Cheats** só liberam depois da história e bloqueiam salvamento e troféus. Veja [[perdiveis-cheats]].\n- **Nada do checklist de 100% é perdível:** dá para fazer tudo no mundo aberto, depois da história.\n- **Strangers & Freaks** que contam para troféu continuam disponíveis.\n- Bancos e esconderijos voltam a ficar disponíveis com o tempo, mas demora até eles reaparecerem.",
+  "src": [
+   "PowerPyx",
+   "PlayStationInfo"
+  ],
+  "kw": [
+   "pos jogo",
+   "endgame",
+   "depois de zerar",
+   "free roam"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "After the story",
+   "sum": "Cheats, 100% and what stays available.",
+   "body": "- **Cheats** only unlock after the story and block saving and trophies. See [[perdiveis-cheats]].\n- **Nothing on the 100% checklist is missable:** you can do it all in free roam.\n- **Strangers & Freaks** that count for the trophy stay available.\n- Banks and hideouts become available again over time, but the respawn is slow.",
+   "kw": [
+    "post game",
+    "endgame",
+    "after beating",
+    "free roam"
+   ]
+  }
+ }
+]

@@ -1,0 +1,274 @@
+{
+ "kind": "card",
+ "id": "cartas-america-s-next-top-hooker",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: America's Next Top Hooker",
+ "sum": "24 cartas de novidade, com o local de cada uma.",
+ "body": "- Novidade, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-america-s-next-top-hooker-angel-bronze",
+   "t": "**Angel - Bronze**",
+   "d": "Na borda em frente ao quiosque do bar de ostras Blue Shell Oyster Farms, ilha mais ao norte dos Sandbars"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-angel-gold",
+   "t": "**Angel - Gold**",
+   "d": "No parapeito do telhado de uma mansão grande no centro de Catalan Island"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-angel-silver",
+   "t": "**Angel - Silver**",
+   "d": "No chão sob uma cadeira numa área elétrica murada na beira da estrada atrás das estruturas da Dome Depot, Big Pine"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-bambi-standard",
+   "t": "**Bambi - Standard**",
+   "d": "Numa borda no alto de uma escada no beco atrás do restaurante Ciao Mangione!, Harborside Ave, oeste de Ocean Beach"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-boris-bronze",
+   "t": "**Boris - Bronze**",
+   "d": "Num colchão sujo na copa nos fundos do mercado 247 e posto Xero da Atlantic Ave, norte de Washington Beach"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-boris-gold",
+   "t": "**Boris - Gold**",
+   "d": "Numa borda na entrada de um prédio pequeno num terreno abandonado perto da NW 3rd Ave, sudeste de North Mariana"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-boris-silver",
+   "t": "**Boris - Silver**",
+   "d": "Numa trava de metal dentro de um tanque grande vazio na Chestnut Dr, sul de Millport"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-beverly-bronze",
+   "t": "**Beverly - Bronze**",
+   "d": "No alto de uma torre de celular ao lado de uma cadeira caída, sobre os campos queimados, oeste de Belville"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-beverly-gold",
+   "t": "**Beverly - Gold**",
+   "d": "Na areia ao lado da cadeira solitária numa ilhota no norte das Riquezas Keys"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-beverly-silver",
+   "t": "**Beverly - Silver**",
+   "d": "Na segunda prateleira de um armário na garagem em forma de celeiro atrás de uma casa abandonada na Farmers Walk, noroeste de Bluegrass"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-chastity-standard",
+   "t": "**Chastity - Standard**",
+   "d": "Embaixo da mão de um manequim numa lixeira vermelha em frente ao clube Lusting Sensations, Westbrook Dr, leste de Salton"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-crystal-standard",
+   "t": "**Crystal - Standard**",
+   "d": "No chão do banheiro dentro do celeiro vermelho grande num terreno perto da SR-27, North Kelly"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-diego-standard",
+   "t": "**Diego - Standard**",
+   "d": "No térreo da torre de controle da ponte junto ao rio, dentro de uma revista, South Vice Ave, norte de Tequesta"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-drake-bronze",
+   "t": "**Drake - Bronze**",
+   "d": "No banheiro masculino da Three Needles Recreational Area perto da Moonstone Hwy, leste de Manifest Canyon"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-drake-gold",
+   "t": "**Drake - Gold**",
+   "d": "Numa bancada de madeira dentro de uma casa caindo aos pedaços na MacAlister Gold Mine, Moreau"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-drake-silver",
+   "t": "**Drake - Silver**",
+   "d": "Enterrada na areia ao lado de uma cadeira e de uma barraca numa ilha a sudeste de Key Lento"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-kalisha-bronze",
+   "t": "**Kalisha - Bronze**",
+   "d": "Num saco de dormir num acampamento na mata perto da Forest Mill Rd, leste do Mount Kalaga National Park"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-kalisha-gold",
+   "t": "**Kalisha - Gold**",
+   "d": "No alto da caixa-d'água de Capri, sudeste de Capri"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-kalisha-silver",
+   "t": "**Kalisha - Silver**",
+   "d": "Num gancho de âncora no fim de um píer de concreto na costa oeste de Bonanza"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-kalvyn-standard",
+   "t": "**Kalvyn - Standard**",
+   "d": "No telhado mais baixo do centro do prédio Harmony Plaza, Atlantic Ave, sul de Ocean Beach"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-sapphire-bronze",
+   "t": "**Sapphire - Bronze**",
+   "d": "Numa mesinha ao lado da cama no quarto do porão de uma casa de fazenda vermelha grande na Sycamore Ave, oeste de Ambrosia"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-sapphire-gold",
+   "t": "**Sapphire - Gold**",
+   "d": "No alto da torre de pedra a oeste da estrada, numa bordinha, centro de Grassrivers"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-sapphire-silver",
+   "t": "**Sapphire - Silver**",
+   "d": "No porta-malas de um carro esmagado por um deslizamento na MacAlister Gold Mine, Moreau"
+  },
+  {
+   "id": "cc-america-s-next-top-hooker-skyla-standard",
+   "t": "**Skyla - Standard**",
+   "d": "Embaixo de uma cadeira rosa na entrada da recepção do Velvet Palm Executive Motel, SW 4th Ave, Tequesta"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "America's Next Top Hooker"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: America's Next Top Hooker",
+  "sum": "24 novelty cards, with every location.",
+  "body": "- Novelty, 24 cards. Locations from IGN's list; tick each one as you grab it.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "America's Next Top Hooker"
+  ],
+  "check": [
+   {
+    "id": "cc-america-s-next-top-hooker-angel-bronze",
+    "t": "**Angel - Bronze**",
+    "d": "On top of the ledge in front of the kiosk for the Blue Shell Oyster Farms oyster bar on the northernmost island of the Sandbars"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-angel-gold",
+    "t": "**Angel - Gold**",
+    "d": "On top of the railing on the roof of a large mansion in the center of Catalan Island"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-angel-silver",
+    "t": "**Angel - Silver**",
+    "d": "On the ground under a chair in a small, walled-off electrical area on the side of the road behind the Dome Depot structures in Big Pine"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-bambi-standard",
+    "t": "**Bambi - Standard**",
+    "d": "On a ledge at the top of a staircase in the alley behind the Ciao Mangione! restaurant on Harborside Ave in western Ocean Beach"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-boris-bronze",
+    "t": "**Boris - Bronze**",
+    "d": "On top of a dirty mattress in the employee breakroom in the back of the 247 market and Xero gas station on Atlantic Ave in northern Washington Beach"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-boris-gold",
+    "t": "**Boris - Gold**",
+    "d": "On a ledge at the entrance of a small building in an abandoned lot off of NW 3rd Ave in southeastern North Mariana County"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-boris-silver",
+    "t": "**Boris - Silver**",
+    "d": "On top of a metal latch inside of a big empty tank on Chestnut Dr in southern Millport"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-beverly-bronze",
+    "t": "**Beverly - Bronze**",
+    "d": "On top of a cell tower next to a fallen chair above the burning fields in western Belville"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-beverly-gold",
+    "t": "**Beverly - Gold**",
+    "d": "On the sand next to the lonesome chair on a small island in northern Riquezas Keys"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-beverly-silver",
+    "t": "**Beverly - Silver**",
+    "d": "In the barn-shaped detached garage behind an abandoned house on the second shelf of a storage cabinet against the wall on Farmers Walk in northwestern Bluegrass"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-chastity-standard",
+    "t": "**Chastity - Standard**",
+    "d": "Underneath a mannequin's hand on a red trash can in front of the Lusting Sensations club on Westbrook Dr in eastern Salton"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-crystal-standard",
+    "t": "**Crystal - Standard**",
+    "d": "On the ground in the bathroom inside the large red barn building in the lot near SR-27 in North Kelly County"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-diego-standard",
+    "t": "**Diego - Standard**",
+    "d": "On the bottom floor of the bridge control tower next to the river slipped inside a magazine on South Vice Ave in northern Tequesta"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-drake-bronze",
+    "t": "**Drake - Bronze**",
+    "d": "Inside the men's bathroom at the Three Needles Recreational Area near the Moonstone Hwy in eastern Manifest Canyon"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-drake-gold",
+    "t": "**Drake - Gold**",
+    "d": "On top of a wooden workbench inside a rundown house in the MacAlister Gold Mine in Moreau"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-drake-silver",
+    "t": "**Drake - Silver**",
+    "d": "Embedded in the sand next to a chair and a tent on an island southeast of Key Lento"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-kalisha-bronze",
+    "t": "**Kalisha - Bronze**",
+    "d": "On top of a sleeping bag in a small camp in the woods near Forest Mill Rd in eastern Mount Kalaga National Park"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-kalisha-gold",
+    "t": "**Kalisha - Gold**",
+    "d": "On top of the Capri water tower in southeastern Capri"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-kalisha-silver",
+    "t": "**Kalisha - Silver**",
+    "d": "On top of a metal anchor hitch at the end of a concrete dock off the western coast of Bonanza"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-kalvyn-standard",
+    "t": "**Kalvyn - Standard**",
+    "d": "On top of the center, lower roof of the Harmony Plaza building on Atlantic Ave in southern Ocean Beach"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-sapphire-bronze",
+    "t": "**Sapphire - Bronze**",
+    "d": "On top of an end table next to the bed in the basement bedroom of a large red farmhouse on Sycamore Ave in western Ambrosia"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-sapphire-gold",
+    "t": "**Sapphire - Gold**",
+    "d": "On top of the stone tower on the west side of the road on a small ledge in central Grassrivers"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-sapphire-silver",
+    "t": "**Sapphire - Silver**",
+    "d": "In the trunk of a car crushed under a landslide in the MacAlister Gold Mine in Moreau"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker-skyla-standard",
+    "t": "**Skyla - Standard**",
+    "d": "Under a pink chair at the entrance to the reception area of the Velvet Palm Executive Motel on SW 4th Ave in Tequesta"
+   }
+  ]
+ }
+}

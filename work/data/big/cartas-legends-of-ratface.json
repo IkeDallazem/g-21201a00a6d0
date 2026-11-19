@@ -1,0 +1,394 @@
+{
+ "kind": "card",
+ "id": "cartas-legends-of-ratface",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Legends of Ratface",
+ "sum": "36 cartas de hq, com o local de cada uma.",
+ "body": "- HQ, 36 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-legends-of-ratface-captain-krueks-blue",
+   "t": "**Captain Krueks - Blue**",
+   "d": "No canto nordeste da mureta do telhado do estacionamento abandonado na Del Rio Blvd, La Perle"
+  },
+  {
+   "id": "cc-legends-of-ratface-captain-krueks-maroon",
+   "t": "**Captain Krueks - Maroon**",
+   "d": "Em cima do porta-sabonete do banheiro feminino no litoral entre a rampa de barcos e a Ocean Sound Rd, centro de Corsair Key"
+  },
+  {
+   "id": "cc-legends-of-ratface-captain-krueks-purple",
+   "t": "**Captain Krueks - Purple**",
+   "d": "No degrau da porta dos fundos da casa azul e verde-água na NW 11th Pl, sudoeste de La Perle"
+  },
+  {
+   "id": "cc-legends-of-ratface-death-of-swallow-blue",
+   "t": "**Death of Swallow - Blue**",
+   "d": "No chão sob uma estante bagunçada na lateral da cozinha de uma casa amarela isolada como cena de crime, Surfside Dr, sudeste de Key Lento"
+  },
+  {
+   "id": "cc-legends-of-ratface-death-of-swallow-maroon",
+   "t": "**Death of Swallow - Maroon**",
+   "d": "Numa pasta em cima de um armário na sala de uma casa verde isolada como cena de crime, SW 9th Ave, norte de Southside"
+  },
+  {
+   "id": "cc-legends-of-ratface-death-of-swallow-purple",
+   "t": "**Death of Swallow - Purple**",
+   "d": "Em cima de um armário no patamar mais alto de uma escada nos fundos do hotel abandonado Marbelle, NW 8th St, sul de Crosstown"
+  },
+  {
+   "id": "cc-legends-of-ratface-diddler-blue",
+   "t": "**Diddler - Blue**",
+   "d": "No chão em frente a um armário sob a arquibancada de frente para a baía, Gloriana Key"
+  },
+  {
+   "id": "cc-legends-of-ratface-diddler-maroon",
+   "t": "**Diddler - Maroon**",
+   "d": "No canto do gradil no alto da torre de vigia sobre o labirinto de milho perto da Terrapin Rd, leste de Capri"
+  },
+  {
+   "id": "cc-legends-of-ratface-diddler-purple",
+   "t": "**Diddler - Purple**",
+   "d": "No canto da passarela do outdoor da NE 2nd Ave x NE 9th St, Crosstown"
+  },
+  {
+   "id": "cc-legends-of-ratface-disastrous-duo-blue",
+   "t": "**Disastrous Duo - Blue**",
+   "d": "Numa borda ao lado da esfera do módulo de pouso no topo da Spaceship House, Cedar St, oeste de Ambrosia"
+  },
+  {
+   "id": "cc-legends-of-ratface-disastrous-duo-maroon",
+   "t": "**Disastrous Duo - Maroon**",
+   "d": "Na areia ao lado de um caixote e de um sofá solitário na praia do extremo oeste de South Kelly"
+  },
+  {
+   "id": "cc-legends-of-ratface-disastrous-duo-purple",
+   "t": "**Disastrous Duo - Purple**",
+   "d": "No gradil do pátio dos fundos do prédio nº 2 do camping perto da Terrapin Rd, canto noroeste de North Mariana"
+  },
+  {
+   "id": "cc-legends-of-ratface-ifred-blue",
+   "t": "**iFred - Blue**",
+   "d": "Na beira do telhado do prédio de manutenção ao lado do Tamarro Spritz e do Dock Ring, docas do leste de Downtown"
+  },
+  {
+   "id": "cc-legends-of-ratface-ifred-maroon",
+   "t": "**iFred - Maroon**",
+   "d": "No parapeito da janela de um castelinho de coelho no quintal da casa branca com o Unidentified Animal Pen (UAP), Kingston Rd, norte de Watson Bay"
+  },
+  {
+   "id": "cc-legends-of-ratface-ifred-purple",
+   "t": "**iFred - Purple**",
+   "d": "Na prateleira do meio de uma estantezinha no canto do quarto de um trailer vermelho na NW 21st Pl, sudoeste de Balsero"
+  },
+  {
+   "id": "cc-legends-of-ratface-illuminaughty-blue",
+   "t": "**Illuminaughty - Blue**",
+   "d": "Na lateral da geladeira do 2º apartamento da esquerda, 2º andar, no bloco vermelho mais a oeste da Formosa Ave, centro de Hamlet"
+  },
+  {
+   "id": "cc-legends-of-ratface-illuminaughty-maroon",
+   "t": "**Illuminaughty - Maroon**",
+   "d": "Numa borda no telhado de um prédio de esquina sob o mural \"What is... out there!?\", ao lado de um gnomo, NE 5th Ave x Coral Ave, Stockyard"
+  },
+  {
+   "id": "cc-legends-of-ratface-illuminaughty-purple",
+   "t": "**Illuminaughty - Purple**",
+   "d": "Na lateral de um mural de cortiça na garagem de um conspiracionista, casa creme à venda na Grace Ave, Belville"
+  },
+  {
+   "id": "cc-legends-of-ratface-ratface-blue",
+   "t": "**Ratface - Blue**",
+   "d": "Numa borda atrás de uma máquina de ração ao lado da exposição da píton-birmanesa, centro do Marshland Animal Park, norte de Gullet Marsh"
+  },
+  {
+   "id": "cc-legends-of-ratface-ratface-maroon",
+   "t": "**Ratface - Maroon**",
+   "d": "Numa caminha de cachorro no teto de uma casinha de cachorro no quintal de uma villa amarela grande, Coconut Cove Ct, oeste de Capri"
+  },
+  {
+   "id": "cc-legends-of-ratface-ratface-purple",
+   "t": "**Ratface - Purple**",
+   "d": "Numa plataforma de gato subindo uma árvore, no quintal de uma casa azul patriótica, Tidewater Dr x Tallaloko Lake Rd, sul de East Lummox"
+  },
+  {
+   "id": "cc-legends-of-ratface-silver-age-betrayal-blue",
+   "t": "**Silver Age Betrayal - Blue**",
+   "d": "Em cima do micro-ondas da copa nos fundos do posto LTD da Seaview Blvd, Ocean Beach"
+  },
+  {
+   "id": "cc-legends-of-ratface-silver-age-betrayal-maroon",
+   "t": "**Silver Age Betrayal - Maroon**",
+   "d": "No banheiro feminino de um estacionamentozinho à beira-mar no fim de uma rua perto da Loggerhead Rd, ao lado de Bobcat Bight, norte de Bobcat Key"
+  },
+  {
+   "id": "cc-legends-of-ratface-silver-age-betrayal-purple",
+   "t": "**Silver Age Betrayal - Purple**",
+   "d": "Em cima de um freezer horizontal no cômodo embaixo da casa azul perto da Buckeye Rd, Watson Bay"
+  },
+  {
+   "id": "cc-legends-of-ratface-swallow-blue",
+   "t": "**Swallow - Blue**",
+   "d": "Numa mesa de piquenique no pátio da frente do Juliet Terrance Apartments, lado sul do prédio, SW 6th St, sul de Salton"
+  },
+  {
+   "id": "cc-legends-of-ratface-swallow-maroon",
+   "t": "**Swallow - Maroon**",
+   "d": "Escondida atrás de um alarme de incêndio ao lado do elevador na estação de trem Vice City Airport Village, oeste de Salton"
+  },
+  {
+   "id": "cc-legends-of-ratface-swallow-purple",
+   "t": "**Swallow - Purple**",
+   "d": "Em cima de uma prateleira de fitas cassete na sala de um trailer vermelho à beira-rio perto da Gellhorn Ave, oeste de Port Gellhorn"
+  },
+  {
+   "id": "cc-legends-of-ratface-the-ratster-blue",
+   "t": "**The Ratster - Blue**",
+   "d": "Em cima do micro-ondas da copa nos fundos do posto LTD da Vela Rota Dr, norte de Capri"
+  },
+  {
+   "id": "cc-legends-of-ratface-the-ratster-maroon",
+   "t": "**The Ratster - Maroon**",
+   "d": "Embaixo de uma cadeira azul ao lado de um prédio de manutenção sobre o acesso ao esgoto, sul de East Lummox"
+  },
+  {
+   "id": "cc-legends-of-ratface-the-ratster-purple",
+   "t": "**The Ratster - Purple**",
+   "d": "No gradil no alto da torre de observação sobre o pântano, ao lado de uma estátua de jacaré, norte de Buckskin Swamp"
+  },
+  {
+   "id": "cc-legends-of-ratface-todd-blue",
+   "t": "**Todd - Blue**",
+   "d": "Em cima de um banquinho no armário de manutenção nos fundos do posto Xero da Bayside Dr, noroeste de Tequesta"
+  },
+  {
+   "id": "cc-legends-of-ratface-todd-maroon",
+   "t": "**Todd - Maroon**",
+   "d": "Embaixo de uma mesinha na varanda telada com piscina nos fundos de uma villa branca grande na Fairview Dr, Waning Sands"
+  },
+  {
+   "id": "cc-legends-of-ratface-todd-purple",
+   "t": "**Todd - Purple**",
+   "d": "No chão no alto da torre de observação, embaixo de um banco, praia sul do Richard Barebone State Park"
+  },
+  {
+   "id": "cc-legends-of-ratface-wokester-blue",
+   "t": "**Wokester - Blue**",
+   "d": "Na ponta de um banco branco encostado na loja de souvenirs Wonder Whale, Sunbelt Hwy, sul de Key Lento"
+  },
+  {
+   "id": "cc-legends-of-ratface-wokester-maroon",
+   "t": "**Wokester - Maroon**",
+   "d": "Dentro de um arquivo num corredor da área só para funcionários nos fundos do Randy's Big Gas Mart, Seabell Ave, sul de Watson Bay"
+  },
+  {
+   "id": "cc-legends-of-ratface-wokester-purple",
+   "t": "**Wokester - Purple**",
+   "d": "Embaixo de uma estante, sobre um palete, no depósito atrás do Ruth & Tamar's Market, Del Rio Blvd, La Perle"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Legends of Ratface"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Legends of Ratface",
+  "sum": "36 comic cards, with every location.",
+  "body": "- Comic, 36 cards. Locations from IGN's list; tick each one as you grab it.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Legends of Ratface"
+  ],
+  "check": [
+   {
+    "id": "cc-legends-of-ratface-captain-krueks-blue",
+    "t": "**Captain Krueks - Blue**",
+    "d": "In the northeastern corner of the ledge on the roof of the abandoned parking garage on Del Rio Blvd in La Perle"
+   },
+   {
+    "id": "cc-legends-of-ratface-captain-krueks-maroon",
+    "t": "**Captain Krueks - Maroon**",
+    "d": "On top of the soap dispenser inside the women's bathroom on the coast between the boat launch and Ocean Sound Rd in central Corsair Key"
+   },
+   {
+    "id": "cc-legends-of-ratface-captain-krueks-purple",
+    "t": "**Captain Krueks - Purple**",
+    "d": "On the step up the back door of the blue and teal house on NW 11th Pl in southwestern La Perle"
+   },
+   {
+    "id": "cc-legends-of-ratface-death-of-swallow-blue",
+    "t": "**Death of Swallow - Blue**",
+    "d": "On the ground underneath a disheveled bookshelf on the side of the kitchen inside a yellow house on the coast, wardened off as a crime scene, on Surfside Dr in southeastern Key Lento"
+   },
+   {
+    "id": "cc-legends-of-ratface-death-of-swallow-maroon",
+    "t": "**Death of Swallow - Maroon**",
+    "d": "Inside a folder on a cabinet in the living room of a green house on SW 9th Ave, wardened off as a crime scene, in northern Southside"
+   },
+   {
+    "id": "cc-legends-of-ratface-death-of-swallow-purple",
+    "t": "**Death of Swallow - Purple**",
+    "d": "On top of a cabinet on the highest level of a staircase in the back of the abandoned Marbelle Hotel on NW 8th St in southern Crosstown"
+   },
+   {
+    "id": "cc-legends-of-ratface-diddler-blue",
+    "t": "**Diddler - Blue**",
+    "d": "On the ground in front of a storage locker underneath the bleachers overlooking the bay in the Gloriana Key"
+   },
+   {
+    "id": "cc-legends-of-ratface-diddler-maroon",
+    "t": "**Diddler - Maroon**",
+    "d": "On the corner of the railing at the top of the watchtower over the corn maze off of Terrapin Rd east of Capri"
+   },
+   {
+    "id": "cc-legends-of-ratface-diddler-purple",
+    "t": "**Diddler - Purple**",
+    "d": "On the corner of the catwalk surrounding the billboard on the corner of NE 2nd Ave and NE 9th St in Crosstown"
+   },
+   {
+    "id": "cc-legends-of-ratface-disastrous-duo-blue",
+    "t": "**Disastrous Duo - Blue**",
+    "d": "On top of a ledge next to the orb on the lander positioned on the top of the Spaceship House on Cedar St in western Ambrosia"
+   },
+   {
+    "id": "cc-legends-of-ratface-disastrous-duo-maroon",
+    "t": "**Disastrous Duo - Maroon**",
+    "d": "In the sand next to a crate and a lone couch on the beach on the far western edge of South Kelly County"
+   },
+   {
+    "id": "cc-legends-of-ratface-disastrous-duo-purple",
+    "t": "**Disastrous Duo - Purple**",
+    "d": "On top of the railing of the back patio behind the #2 building in the campgrounds off of Terrapin Rd in the northwestern corner of North Mariana County"
+   },
+   {
+    "id": "cc-legends-of-ratface-ifred-blue",
+    "t": "**iFred - Blue**",
+    "d": "On the ledge at the edge of the roof of the maintenance building next to Tamarro Spritz and the Dock Ring at the docks in eastern Downtown"
+   },
+   {
+    "id": "cc-legends-of-ratface-ifred-maroon",
+    "t": "**iFred - Maroon**",
+    "d": "On the windowsill of a small, rabbit castle in the backyard of the white house containing the Unidentified Animal Pen (UAP) on Kingston Rd in northern Watson Bay"
+   },
+   {
+    "id": "cc-legends-of-ratface-ifred-purple",
+    "t": "**iFred - Purple**",
+    "d": "On the middle shelf of a small bookshelf in the corner of the bedroom in a red mobile home on NW 21st Pl in southwestern Balsero"
+   },
+   {
+    "id": "cc-legends-of-ratface-illuminaughty-blue",
+    "t": "**Illuminaughty - Blue**",
+    "d": "On the side of a fridge in the kitchen of the second apartment from the left on the second floor inside the western most block of red apartments on Formosa Ave in central Hamlet"
+   },
+   {
+    "id": "cc-legends-of-ratface-illuminaughty-maroon",
+    "t": "**Illuminaughty - Maroon**",
+    "d": "On a ledge on top of the roof of a corner building under a \"What is... out there!?\" mural next to a gnome on the corner of NE 5th Ave and Coral Ave in Stockyard"
+   },
+   {
+    "id": "cc-legends-of-ratface-illuminaughty-purple",
+    "t": "**Illuminaughty - Purple**",
+    "d": "On the side of a corkboard in a conspiracy theorist's garage of a creme colored house for sale on Grace Ave in Belville"
+   },
+   {
+    "id": "cc-legends-of-ratface-ratface-blue",
+    "t": "**Ratface - Blue**",
+    "d": "On top of a ledge behind an animal feed coin machine next to the Burmese Python exhibit in the center of the Marshland Animal Park in northern Gullet Marsh"
+   },
+   {
+    "id": "cc-legends-of-ratface-ratface-maroon",
+    "t": "**Ratface - Maroon**",
+    "d": "On top of a dog bed on the roof of a dog house in the backyard of a large, yellow villa in the cul-de-sac of Coconut Cove Ct in western Capri"
+   },
+   {
+    "id": "cc-legends-of-ratface-ratface-purple",
+    "t": "**Ratface - Purple**",
+    "d": "On top of a ledge going up a tree, used for cats, in the backyard of a blue, patriotic house on the corner of Tidewater Dr and Tallaloko Lake Rd in southern East Lummox County"
+   },
+   {
+    "id": "cc-legends-of-ratface-silver-age-betrayal-blue",
+    "t": "**Silver Age Betrayal - Blue**",
+    "d": "On top of the microwave in the employee break room in the back of the LTD gas station on Seaview Blvd in Ocean Beach"
+   },
+   {
+    "id": "cc-legends-of-ratface-silver-age-betrayal-maroon",
+    "t": "**Silver Age Betrayal - Maroon**",
+    "d": "Inside the women's bathroom in a small seaside parking lot on the end of a side road off of Loggerhead Rd next to Bobcat Bight in the northern edge of Bobcat Key"
+   },
+   {
+    "id": "cc-legends-of-ratface-silver-age-betrayal-purple",
+    "t": "**Silver Age Betrayal - Purple**",
+    "d": "On top of a chest freezer in the room below the blue house off of Buckeye Rd in Watson Bay"
+   },
+   {
+    "id": "cc-legends-of-ratface-swallow-blue",
+    "t": "**Swallow - Blue**",
+    "d": "On top of a picnic table on the front patio of the Juliet Terrance Apartments on the south side of the building on SW 6th St in southern Salton"
+   },
+   {
+    "id": "cc-legends-of-ratface-swallow-maroon",
+    "t": "**Swallow - Maroon**",
+    "d": "Tucked behind a fire alarm next to the elevator in the Vice City Airport Village train station in western Salton"
+   },
+   {
+    "id": "cc-legends-of-ratface-swallow-purple",
+    "t": "**Swallow - Purple**",
+    "d": "On top of a cassette tape display shelf in the living room of a red mobile home on the river off of Gellhorn Ave in western Port Gellhorn"
+   },
+   {
+    "id": "cc-legends-of-ratface-the-ratster-blue",
+    "t": "**The Ratster - Blue**",
+    "d": "On top of the microwave in the employee break room in the back of the LTD gas station on Vela Rota Dr in northern Capri"
+   },
+   {
+    "id": "cc-legends-of-ratface-the-ratster-maroon",
+    "t": "**The Ratster - Maroon**",
+    "d": "Underneath a blue chair next to a maintenance building over the sewer access door in southern East Lummox County"
+   },
+   {
+    "id": "cc-legends-of-ratface-the-ratster-purple",
+    "t": "**The Ratster - Purple**",
+    "d": "On the railing at the top of the observation tower over the swamp next to an alligator statue in northern Buckskin Swamp"
+   },
+   {
+    "id": "cc-legends-of-ratface-todd-blue",
+    "t": "**Todd - Blue**",
+    "d": "On top of a stool in the maintenance closet in the back of the Xero gas station on Bayside Dr in northwestern Tequesta"
+   },
+   {
+    "id": "cc-legends-of-ratface-todd-maroon",
+    "t": "**Todd - Maroon**",
+    "d": "Underneath a side table in the screened-in porch containing a pool in the back of a large, white villa on Fairview Dr in Waning Sands"
+   },
+   {
+    "id": "cc-legends-of-ratface-todd-purple",
+    "t": "**Todd - Purple**",
+    "d": "On the ground at the top of the observation tower under a bench on the southern beach of the Richard Barebone State Park"
+   },
+   {
+    "id": "cc-legends-of-ratface-wokester-blue",
+    "t": "**Wokester - Blue**",
+    "d": "On the end of a white bench against the side of the Wonder Whale souvenir shop on the Sunbelt Hwy in southern Key Lento"
+   },
+   {
+    "id": "cc-legends-of-ratface-wokester-maroon",
+    "t": "**Wokester - Maroon**",
+    "d": "Inside a filing cabinet in a hallway through the employee-only section in the back of Randy's Big Gas Mart on Seabell Ave in southern Watson Bay"
+   },
+   {
+    "id": "cc-legends-of-ratface-wokester-purple",
+    "t": "**Wokester - Purple**",
+    "d": "Underneath a storage shelf on top of a wood pallet in the storage room behind Ruth & Tamar's Market on Del Rio Blvd in La Perle"
+   }
+  ]
+ }
+}
