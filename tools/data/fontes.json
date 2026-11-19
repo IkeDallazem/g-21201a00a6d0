@@ -9,8 +9,8 @@
   "ch": [
    "geral"
   ],
-  "title": "Como ler os selos",
-  "sum": "Cada card mostra de onde vem a informação.",
+  "title": "Selos de confiança: como ler",
+  "sum": "Oficial, Jogo real, Prévia, Rumor, Recomendação e Inferência: o quanto confiar em cada card.",
   "table": {
    "cols": [
     "Selo",
@@ -23,7 +23,7 @@
     ],
     [
      "Jogo real",
-     "Análises e guias publicados com o jogo em mãos (17 e 18/11): PowerPyx, GameSpot, Press Start, GTABase, Famitsu, Gamersky e outros"
+     "Análises e guias publicados com o jogo em mãos (17 a 19/11): IGN, Eurogamer, PowerPyx, GameSpot, Press Start, GTABase, Famitsu, Gamersky e outros"
     ],
     [
      "Prévia",
@@ -38,8 +38,12 @@
      "Opinião deste guia a partir das fontes"
     ],
     [
+     "Inferência",
+     "Conclusão deste guia, não dita por nenhuma fonte"
+    ],
+    [
      "Divergência",
-     "As fontes discordam; o card mostra as versões"
+     "Não é um nível de confiança: as fontes discordam e o card mostra as versões. Índice em [[fontes-divergencias]]"
     ]
    ],
    "sort": false
@@ -51,12 +55,13 @@
    "selo",
    "confianca",
    "legenda",
-   "fonte"
+   "fonte",
+   "inferencia"
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "How to read the badges",
-   "sum": "Each card shows where its information comes from.",
+   "title": "Reliability badges: how to read them",
+   "sum": "Official, From the game, Preview, Rumor, Recommendation and Inference: how much to trust each card.",
    "table": {
     "cols": [
      "Badge",
@@ -69,7 +74,7 @@
      ],
      [
       "From the game",
-      "Reviews and guides published with the game in hand (Nov 17–18): PowerPyx, GameSpot, Press Start, GTABase, Famitsu, Gamersky and others"
+      "Reviews and guides published with the game in hand (Nov 17–19): IGN, Eurogamer, PowerPyx, GameSpot, Press Start, GTABase, Famitsu, Gamersky and others"
      ],
      [
       "Preview",
@@ -84,8 +89,12 @@
       "This guide's opinion based on the sources"
      ],
      [
+      "Inference",
+      "This guide's own conclusion, not stated by any source"
+     ],
+     [
       "Disagreement",
-      "Sources disagree; the card shows the versions"
+      "Not a trust level: sources disagree and the card shows the versions. Index in [[fontes-divergencias]]"
      ]
     ],
     "sort": false
@@ -94,7 +103,8 @@
     "badge",
     "reliability",
     "legend",
-    "source"
+    "source",
+    "inference"
    ]
   }
  },
@@ -108,174 +118,201 @@
   "ch": [
    "geral"
   ],
-  "title": "Onde as fontes discordam",
-  "sum": "Todas as divergências do guia num lugar só.",
+  "title": "Quando as fontes discordam: o que fazer",
+  "sum": "As divergências do guia, com a ação recomendada e o card de origem. As já resolvidas ficam no fim.",
   "table": {
    "cols": [
     "Tema",
     "Versões",
-    "Como agir"
+    "Como agir",
+    "Card"
    ],
    "rows": [
     [
-     "Botão de troca de personagem",
-     "Direcional para a direita (VGC) ou {L1} (GameSpot)",
-     "Siga a legenda na tela"
-    ],
-    [
      "Mira padrão",
      "Mira livre (fontes ocidentais) ou assistência parcial 4 (nettoge)",
-     "Confira no menu"
+     "Confira no menu",
+     "[[config-recomendada]]"
     ],
     [
      "Primeira pessoa",
      "Disponível (um guia) ou inexistente a pé (VGC)",
-     "Conte que não há a pé"
-    ],
-    [
-     "Viagem rápida",
-     "Inexistente (análise inicial) ou pulo pago de US$ 100 (Screen Rant, PowerPyx)",
-     "Existe o pulo pago"
+     "Conte que não há a pé",
+     "[[dinheiro-nao-existe]]"
     ],
     [
      "RydeMe",
      "Cap. 1, em Buck Me (PowerPyx), ou Cap. 2 (Gamersky)",
-     "Se não aparecer, use o táxi Paradise"
+     "Se não aparecer, use o táxi Paradise",
+     "[[mundo-deslocamento]]"
     ],
     [
      "Poupança antes da virada",
      "Não usar (Press Start) ou usar como proteção (nettoge)",
-     "Save antes de Tourist Trap e poupança só com o excedente"
-    ],
-    [
-     "Pagamento do Randy",
-     "Mais de US$ 10 mil (nettoge), 30 mil (Gamersky) ou ~35 mil (PowerPyx)",
-     "Conte com pelo menos US$ 10 mil por carro"
-    ],
-    [
-     "Pagamento da Pay 'n' Spray",
-     "~US$ 2.500+ (PowerPyx) ou mais de 4.000 (Gamersky)",
-     "Veja o valor no Waink"
-    ],
-    [
-     "Tamanho da lista do Randy",
-     "16 (PowerPyx, GTABase) ou 18 (Gamersky)",
-     "—"
-    ],
-    [
-     "Total das garagens",
-     "US$ 160 mil (PowerPyx); os preços listados somam 167.900",
-     "Confira no app"
-    ],
-    [
-     "Prazo do bônus de pré-venda",
-     "Até 20/11 ou antes de 20/11",
-     "Compre até 19/11"
-    ],
-    [
-     "Meta de narcóticos no 100%",
-     "US$ 100 mil ou 200 mil",
-     "—"
-    ],
-    [
-     "Missões principais",
-     "91 (PC Gamer, Sportskeeda) ou 93 (Press Start, Insider Gaming)",
-     "—"
-    ],
-    [
-     "Save automático",
-     "Ocupa ou não um dos 15 espaços",
-     "—"
-    ],
-    [
-     "Onde se reaparece",
-     "Hospital e delegacia, ou nas proximidades",
-     "—"
-    ],
-    [
-     "Nomes do Perfil Criminal",
-     "Em inglês, Hardened ou Aggressive e Psycho ou Psychopath; a GTABase em português usa Profissional, Agressivo, Violento, Psicopata e Estilhaçado",
-     "Confira no menu do seu jogo"
-    ],
-    [
-     "Regiões",
-     "6 (Rockstar) ou 5 (PowerPyx)",
-     "Só classificação"
-    ],
-    [
-     "Vagas no começo",
-     "3 (Rob Nelson, 17173) ou 1 (Gamersky)",
-     "—"
-    ],
-    [
-     "Focus permanente",
-     "Ganho permanente (GameSpot) ou só via meditação",
-     "Medite sempre que achar um ponto"
-    ],
-    [
-     "Ritmo do Cap. 1",
-     "Explorar bem Key Lento (GameSpot) ou não se demorar (GNN)",
-     "Faça o que aparece, sem ficar repetindo atividades só por dinheiro"
-    ],
-    [
-     "Quando a troca de personagem libera",
-     "Coffee Break (Eurogamer, PowerPyx) ou Breakfast Run (IGN)",
-     "Conte com o meio do Cap. 2; o jogo avisa"
-    ],
-    [
-     "Botão da troca",
-     "Segurar {→} + {R1} (Eurogamer)",
-     "Use esse; os outros guias citavam só {→} ou {L1}"
-    ],
-    [
-     "Preço do colar da Lucia",
-     "~US$ 425 (guias anteriores) ou US$ 475 (IGN)",
-     "Leve US$ 500"
-    ],
-    [
-     "Quando a Shirley pede o rum",
-     "Depois de Pipework (PowerPyx) ou de Unwanted Attention (IGN)",
-     "Passe em casa depois das duas"
-    ],
-    [
-     "Scooter Bros Premium",
-     "US$ 12.500 (outros guias) ou US$ 12.000 (Eurogamer); 3 ou 5 entregas grátis com GTA+",
-     "Separe uns US$ 12.500"
+     "Save antes de Tourist Trap e poupança só com o excedente",
+     "[[dinheiro-reset]]"
     ],
     [
      "Morrer ou ser preso",
      "Só o dinheiro vivo (prévias) ou dinheiro vivo e um pouco da conta corrente (IGN)",
-     "Deposite sempre"
+     "Deposite sempre",
+     "[[policia-preso]]"
+    ],
+    [
+     "Pagamento do Randy",
+     "Mais de US$ 10 mil (nettoge), 30 mil (Gamersky) ou ~35 mil (PowerPyx)",
+     "Conte com pelo menos US$ 10 mil por carro",
+     "[[veiculos-randy]]"
+    ],
+    [
+     "Pagamento da Pay 'n' Spray",
+     "~US$ 2.500+ (PowerPyx) ou mais de 4.000 (Gamersky)",
+     "Veja o valor no Waink",
+     "[[veiculos-venda]]"
+    ],
+    [
+     "Total das garagens",
+     "US$ 160 mil (PowerPyx); os preços listados somam 167.900",
+     "Confira no app",
+     "[[compras-garagens]]"
+    ],
+    [
+     "Scooter Bros Premium",
+     "US$ 12.500 (outros guias) ou US$ 12.000 (Eurogamer); 3 ou 5 entregas grátis com GTA+",
+     "Separe uns US$ 12.500",
+     "[[compras-scooter]]"
+    ],
+    [
+     "Preço do colar da Lucia",
+     "~US$ 425 (guias anteriores) ou US$ 475 (IGN)",
+     "Leve US$ 500",
+     "[[perdiveis-lista]]"
+    ],
+    [
+     "Prazo do bônus de pré-venda",
+     "Até 20/11 ou antes de 20/11",
+     "Compre até 19/11",
+     "[[compras-edicoes]]"
+    ],
+    [
+     "Quando a Shirley pede o rum",
+     "Depois de Pipework (PowerPyx) ou de Unwanted Attention (IGN)",
+     "Passe em casa depois das duas",
+     "[[missoes-cap1]]"
     ],
     [
      "Arnold poupado",
      "Nunca mais aparece (PowerPyx) ou volta e paga US$ 10.000 (Eurogamer)",
-     "Poupe: não há desvantagem"
+     "Poupe: não há desvantagem",
+     "[[missoes-cap1]]"
+    ],
+    [
+     "Ritmo do Cap. 1",
+     "Explorar bem Key Lento (GameSpot) ou não se demorar (GNN)",
+     "Faça o que aparece, sem ficar repetindo atividades só por dinheiro",
+     "[[inicio-ritmo]]"
+    ],
+    [
+     "Focus permanente",
+     "Ganho permanente (GameSpot) ou só via meditação",
+     "Medite sempre que achar um ponto",
+     "[[personagens-atributos]]"
     ],
     [
      "Estados das estrelas",
      "IGN: 5 estados. Eurogamer: 6, incluindo “piscando”",
-     "Leia a cor e o contorno; o significado bate nas duas"
+     "Leia a cor e o contorno; o significado bate nas duas",
+     "[[policia-estrelas]]"
+    ],
+    [
+     "Nomes do Perfil Criminal",
+     "Em inglês, Hardened ou Aggressive e Psycho ou Psychopath; a GTABase em português usa Profissional, Agressivo, Violento, Psicopata e Estilhaçado",
+     "Confira no menu do seu jogo",
+     "[[policia-perfil]]"
     ],
     [
      "Armas únicas",
      "IGN (lista): 127 + 2 da Ultimate. IGN (coleções): 130",
-     "Conte pelo menu Collections do seu jogo"
-    ],
-    [
-     "Under the Bridge",
-     "IGN corrigiu para 202",
-     "Resolvido: são 202"
+     "Conte pelo menu Collections do seu jogo",
+     "[[armas-unicas]]"
     ],
     [
      "Veículos vendidos para os 100%",
      "IGN: US$ 200 mil na tabela, US$ 100 mil no texto",
-     "Mire em US$ 200 mil"
+     "Mire em US$ 200 mil",
+     "[[colecao-100]]"
+    ],
+    [
+     "Lojas Ammu-Nation",
+     "24 (contagem de [[mundo-leonida]]) ou 26 (lista de armas à venda)",
+     "Não muda nada: procure o ícone no mapa",
+     "[[armas-personalizar]]"
+    ],
+    [
+     "Regiões",
+     "6 (Rockstar) ou 5 (PowerPyx)",
+     "Só classificação",
+     "[[mundo-leonida]]"
+    ],
+    [
+     "Tamanho da lista do Randy",
+     "16 (PowerPyx, GTABase) ou 18 (Gamersky)",
+     "—",
+     "[[veiculos-randy]]"
+    ],
+    [
+     "Meta de narcóticos no 100%",
+     "US$ 100 mil ou 200 mil",
+     "—",
+     "[[colecao-100]]"
+    ],
+    [
+     "Missões principais",
+     "91 (PC Gamer, Sportskeeda) ou 93 (Press Start, Insider Gaming)",
+     "—",
+     "[[inicio-status]]"
+    ],
+    [
+     "Save automático",
+     "Ocupa ou não um dos 15 espaços",
+     "—",
+     "[[perdiveis-saves]]"
+    ],
+    [
+     "Onde se reaparece",
+     "Hospital e delegacia, ou nas proximidades",
+     "—",
+     "[[policia-preso]]"
+    ],
+    [
+     "Vagas no começo",
+     "3 (Rob Nelson, 17173) ou 1 (Gamersky)",
+     "—",
+     "[[compras-garagens]]"
+    ],
+    [
+     "Troca de personagem: botão e quando libera",
+     "Botão: guias antigos citavam só {→} (VGC) ou {L1} (GameSpot); a Eurogamer, já com o jogo, confirma segurar {→} + {R1}. Liberação: Coffee Break (Eurogamer, PowerPyx) ou Breakfast Run (IGN)",
+     "Resolvido: segure {→} e aperte {R1}. Libera no meio do Cap. 2; o jogo avisa",
+     "[[personagens-troca]]"
+    ],
+    [
+     "Viagem rápida",
+     "Inexistente (análise inicial) ou pulo pago de US$ 100 (Screen Rant, PowerPyx)",
+     "Resolvido: existe o pulo pago",
+     "[[mundo-deslocamento]]"
+    ],
+    [
+     "Under the Bridge",
+     "IGN corrigiu para 202",
+     "Resolvido: são 202",
+     "[[colecao-stunts]]"
     ],
     [
      "Ouro nos estandes para os 100%",
      "IGN: 42, em todos os níveis e classes",
-     "Resolvido: mire nos 42"
+     "Resolvido: mire nos 42",
+     "[[colecao-100]]"
     ]
    ],
    "sort": true
@@ -289,178 +326,206 @@
    "divergencia",
    "conflito",
    "discordam",
-   "contradicao"
+   "contradicao",
+   "resolvido"
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Where sources disagree",
-   "sum": "Every disagreement in the guide in one place.",
+   "title": "When sources disagree: what to do",
+   "sum": "The guide's disagreements, with the recommended action and the source card. Settled ones are at the end.",
    "table": {
     "cols": [
      "Topic",
      "Versions",
-     "What to do"
+     "What to do",
+     "Card"
     ],
     "rows": [
      [
-      "Character switch button",
-      "D-pad right (VGC) or {L1} (GameSpot)",
-      "Follow the on-screen prompt"
-     ],
-     [
       "Default aim",
       "Free aim (Western sources) or partial assist 4 (nettoge)",
-      "Check the menu"
+      "Check the menu",
+      "[[config-recomendada]]"
      ],
      [
       "First person",
       "Available (one guide) or not on foot (VGC)",
-      "Assume there's none on foot"
-     ],
-     [
-      "Fast travel",
-      "None (early review) or $100 paid skip (Screen Rant, PowerPyx)",
-      "The paid skip exists"
+      "Assume there's none on foot",
+      "[[dinheiro-nao-existe]]"
      ],
      [
       "RydeMe",
       "Ch. 1, in Buck Me (PowerPyx), or Ch. 2 (Gamersky)",
-      "If it's missing, use Paradise Taxi"
+      "If it's missing, use Paradise Taxi",
+      "[[mundo-deslocamento]]"
      ],
      [
       "Savings before the turn",
       "Don't use (Press Start) or use as protection (nettoge)",
-      "Save before Tourist Trap and only put surplus in savings"
-     ],
-     [
-      "Randy's payout",
-      "Over $10k (nettoge), $30k (Gamersky) or ~$35k (PowerPyx)",
-      "Treat $10k as the floor"
-     ],
-     [
-      "Pay 'n' Spray payout",
-      "~$2,500+ (PowerPyx) or over $4,000 (Gamersky)",
-      "Check the value in WAiNK"
-     ],
-     [
-      "Randy's list size",
-      "16 (PowerPyx, GTABase) or 18 (Gamersky)",
-      "—"
-     ],
-     [
-      "Garage total",
-      "$160k (PowerPyx); listed prices add up to $167,900",
-      "Check the app"
-     ],
-     [
-      "Pre-order bonus deadline",
-      "By 11/20 or before 11/20",
-      "Buy by 11/19"
-     ],
-     [
-      "100% narcotics goal",
-      "$100k or $200k",
-      "—"
-     ],
-     [
-      "Main missions",
-      "91 (PC Gamer, Sportskeeda) or 93 (Press Start, Insider Gaming)",
-      "—"
-     ],
-     [
-      "Autosave",
-      "Takes one of the 15 slots or not",
-      "—"
-     ],
-     [
-      "Where you respawn",
-      "Hospital and police station, or nearby",
-      "—"
-     ],
-     [
-      "Criminal Profile names",
-      "Hardened or Aggressive; Psycho or Psychopath",
-      "—"
-     ],
-     [
-      "Regions",
-      "6 (Rockstar) or 5 (PowerPyx)",
-      "Just classification"
-     ],
-     [
-      "Starting slots",
-      "3 (Rob Nelson, 17173) or 1 (Gamersky)",
-      "—"
-     ],
-     [
-      "Permanent Focus",
-      "Permanent gain (GameSpot) or only via meditation",
-      "Meditate whenever you find a spot"
-     ],
-     [
-      "Ch. 1 pacing",
-      "Explore Key Lento thoroughly (GameSpot) or don't linger (GNN)",
-      "Do what shows up, no grinding"
-     ],
-     [
-      "When character switching unlocks",
-      "Coffee Break (Eurogamer, PowerPyx) or Breakfast Run (IGN)",
-      "Expect mid-Chapter 2; the game tells you"
-     ],
-     [
-      "Switch button",
-      "Hold {→} + {R1} (Eurogamer)",
-      "Use that; earlier guides only mentioned {→} or {L1}"
-     ],
-     [
-      "Lucia's necklace price",
-      "~$425 (earlier guides) or $475 (IGN)",
-      "Bring $500"
-     ],
-     [
-      "When Shirley asks for rum",
-      "After Pipework (PowerPyx) or after Unwanted Attention (IGN)",
-      "Swing by home after both"
-     ],
-     [
-      "Scooter Bros Premium",
-      "$12,500 (other guides) or $12,000 (Eurogamer); 3 or 5 free deliveries with GTA+",
-      "Set aside about $12,500"
+      "Save before Tourist Trap and only put surplus in savings",
+      "[[dinheiro-reset]]"
      ],
      [
       "Wasted or Busted",
       "Pocket cash only (previews) or pocket cash plus a little from checking (IGN)",
-      "Deposit often"
+      "Deposit often",
+      "[[policia-preso]]"
+     ],
+     [
+      "Randy's payout",
+      "Over $10k (nettoge), $30k (Gamersky) or ~$35k (PowerPyx)",
+      "Treat $10k as the floor",
+      "[[veiculos-randy]]"
+     ],
+     [
+      "Pay 'n' Spray payout",
+      "~$2,500+ (PowerPyx) or over $4,000 (Gamersky)",
+      "Check the value in WAiNK",
+      "[[veiculos-venda]]"
+     ],
+     [
+      "Garage total",
+      "$160k (PowerPyx); listed prices add up to $167,900",
+      "Check the app",
+      "[[compras-garagens]]"
+     ],
+     [
+      "Scooter Bros Premium",
+      "$12,500 (other guides) or $12,000 (Eurogamer); 3 or 5 free deliveries with GTA+",
+      "Set aside about $12,500",
+      "[[compras-scooter]]"
+     ],
+     [
+      "Lucia's necklace price",
+      "~$425 (earlier guides) or $475 (IGN)",
+      "Bring $500",
+      "[[perdiveis-lista]]"
+     ],
+     [
+      "Pre-order bonus deadline",
+      "By 11/20 or before 11/20",
+      "Buy by 11/19",
+      "[[compras-edicoes]]"
+     ],
+     [
+      "When Shirley asks for rum",
+      "After Pipework (PowerPyx) or after Unwanted Attention (IGN)",
+      "Swing by home after both",
+      "[[missoes-cap1]]"
      ],
      [
       "Sparing Arnold",
       "Never returns (PowerPyx) or comes back with $10,000 (Eurogamer)",
-      "Spare him: no downside"
+      "Spare him: no downside",
+      "[[missoes-cap1]]"
+     ],
+     [
+      "Ch. 1 pacing",
+      "Explore Key Lento thoroughly (GameSpot) or don't linger (GNN)",
+      "Do what shows up, no grinding",
+      "[[inicio-ritmo]]"
+     ],
+     [
+      "Permanent Focus",
+      "Permanent gain (GameSpot) or only via meditation",
+      "Meditate whenever you find a spot",
+      "[[personagens-atributos]]"
      ],
      [
       "Star states",
       "IGN: 5 states. Eurogamer: 6, including 'flashing'",
-      "Read the color and outline; the meaning matches in both"
+      "Read the color and outline; the meaning matches in both",
+      "[[policia-estrelas]]"
+     ],
+     [
+      "Criminal Profile names",
+      "In English, Hardened or Aggressive and Psycho or Psychopath; GTABase in Portuguese uses Profissional, Agressivo, Violento, Psicopata and Estilhaçado",
+      "Check your game's menu",
+      "[[policia-perfil]]"
      ],
      [
       "Unique weapons",
       "IGN (list): 127 + 2 Ultimate. IGN (collections): 130",
-      "Count by your game's Collections menu"
-     ],
-     [
-      "Under the Bridge",
-      "IGN corrected it to 202",
-      "Settled: 202"
+      "Count by your game's Collections menu",
+      "[[armas-unicas]]"
      ],
      [
       "Vehicles fenced for 100%",
       "IGN: $200k in the table, $100k in the text",
-      "Aim for $200k"
+      "Aim for $200k",
+      "[[colecao-100]]"
+     ],
+     [
+      "Ammu-Nation stores",
+      "24 (the count in [[mundo-leonida]]) or 26 (the weapons-for-sale list)",
+      "Changes nothing: look for the map icon",
+      "[[armas-personalizar]]"
+     ],
+     [
+      "Regions",
+      "6 (Rockstar) or 5 (PowerPyx)",
+      "Just classification",
+      "[[mundo-leonida]]"
+     ],
+     [
+      "Randy's list size",
+      "16 (PowerPyx, GTABase) or 18 (Gamersky)",
+      "—",
+      "[[veiculos-randy]]"
+     ],
+     [
+      "100% narcotics goal",
+      "$100k or $200k",
+      "—",
+      "[[colecao-100]]"
+     ],
+     [
+      "Main missions",
+      "91 (PC Gamer, Sportskeeda) or 93 (Press Start, Insider Gaming)",
+      "—",
+      "[[inicio-status]]"
+     ],
+     [
+      "Autosave",
+      "Takes one of the 15 slots or not",
+      "—",
+      "[[perdiveis-saves]]"
+     ],
+     [
+      "Where you respawn",
+      "Hospital and police station, or nearby",
+      "—",
+      "[[policia-preso]]"
+     ],
+     [
+      "Starting slots",
+      "3 (Rob Nelson, 17173) or 1 (Gamersky)",
+      "—",
+      "[[compras-garagens]]"
+     ],
+     [
+      "Character switch: button and unlock",
+      "Button: earlier guides only mentioned {→} (VGC) or {L1} (GameSpot); Eurogamer, with the game in hand, confirms hold {→} + {R1}. Unlock: Coffee Break (Eurogamer, PowerPyx) or Breakfast Run (IGN)",
+      "Settled: hold {→} and press {R1}. Unlocks mid-Chapter 2; the game tells you",
+      "[[personagens-troca]]"
+     ],
+     [
+      "Fast travel",
+      "None (early review) or $100 paid skip (Screen Rant, PowerPyx)",
+      "Settled: the paid skip exists",
+      "[[mundo-deslocamento]]"
+     ],
+     [
+      "Under the Bridge",
+      "IGN corrected it to 202",
+      "Settled: 202",
+      "[[colecao-stunts]]"
      ],
      [
       "Range gold medals for 100%",
       "IGN: 42, across every level and class",
-      "Settled: aim for 42"
+      "Settled: aim for 42",
+      "[[colecao-100]]"
      ]
     ],
     "sort": true
@@ -468,7 +533,9 @@
    "kw": [
     "disagreement",
     "conflict",
-    "contradiction"
+    "contradiction",
+    "settled",
+    "disagree"
    ]
   }
  },
@@ -482,9 +549,9 @@
   "ch": [
    "geral"
   ],
-  "title": "Ainda em aberto",
-  "sum": "O que nenhuma fonte confirmou até 18/11/2026. Confira no jogo.",
-  "body": "- Como funciona a virada de dinheiro do fim do Cap. 1 e o que sobrevive a ela.\n- Preços de colete, silenciador, armas, registro de carro e melhorias de oficina.\n- Se a meditação do Cap. 1 é obrigatória para o troféu.\n- O que a opcional “Pick Up A Gun” dá.\n- Rendição formal, fiança e conta de hospital.\n- Se vídeos de civis aumentam o procurado.\n- Furacões jogáveis.\n- Compra de carro em concessionária.\n- Limite de dinheiro vivo (um guia fala em US$ 20 mil).\n- Duração do dia no jogo (um site fraco fala em ~2h30 reais).",
+  "title": "Ainda sem confirmação",
+  "sum": "O que nenhuma fonte confirmou até 19/11/2026. Confira no seu jogo.",
+  "body": "- Como funciona a virada de dinheiro do fim do Cap. 1 e o que sobrevive a ela ([[dinheiro-reset]]).\n- Preços de colete, silenciador e melhorias de oficina. De armas e de registro de carro só há exemplos soltos.\n- Se a meditação do Cap. 1 é obrigatória para o troféu ([[perdiveis-lista]]).\n- Fiança e conta de hospital ([[policia-preso]]). Render-se já tem resposta lá.\n- Se vídeos de civis aumentam o procurado ([[policia-evitar]]).\n- Furacões jogáveis ([[mundo-fauna]]).\n- Compra de carro em concessionária ([[veiculos-gratis]]).\n- Limite de dinheiro vivo: um guia fala em US$ 20 mil ([[dinheiro-bolsos]]).\n- Duração do dia no jogo (um site fraco fala em ~2h30 reais).\n\nJá respondido: o que a opcional “Pick Up A Gun” dá está em [[missoes-cap2]].",
   "src": [
    "Pesquisas do projeto"
   ],
@@ -496,9 +563,9 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Still open",
-   "sum": "What no source had confirmed as of 11/18/2026. Check in-game.",
-   "body": "- How the end-of-Ch. 1 money turn works and what survives it.\n- Prices of armor, suppressor, weapons, car registration and upgrades.\n- Whether the Ch. 1 meditation is required for the trophy.\n- What the optional “Pick Up A Gun” gives.\n- Formal surrender, bail and hospital bills.\n- Whether civilian videos raise your wanted level.\n- Playable hurricanes.\n- Buying cars at a dealership.\n- Pocket-cash cap (one guide says $20k).\n- Length of an in-game day (a weak site says ~2.5 real hours).",
+   "title": "Still unconfirmed",
+   "sum": "What no source had confirmed as of 11/19/2026. Check in your game.",
+   "body": "- How the end-of-Ch. 1 money turn works and what survives it ([[dinheiro-reset]]).\n- Prices of armor, suppressors and mod-shop upgrades. For weapons and car registration there are only scattered examples.\n- Whether the Ch. 1 meditation is required for the trophy ([[perdiveis-lista]]).\n- Bail and hospital bills ([[policia-preso]]). Surrendering is already answered there.\n- Whether civilian videos raise your wanted level ([[policia-evitar]]).\n- Playable hurricanes ([[mundo-fauna]]).\n- Buying cars at a dealership ([[veiculos-gratis]]).\n- Pocket-cash cap: one guide says $20k ([[dinheiro-bolsos]]).\n- Length of an in-game day (a weak site says ~2.5 real hours).\n\nAlready answered: what the optional “Pick Up A Gun” gives is in [[missoes-cap2]].",
    "kw": [
     "unconfirmed",
     "questions",
@@ -519,7 +586,7 @@
   ],
   "title": "PC e online: o que é rumor",
   "sum": "Nada anunciado. Não adianta juntar dinheiro no GTA Online pensando no VI.",
-  "body": "- **PC:** não anunciado. A GamesBeat reportou, com quatro fontes anônimas, lançamento no 1º trimestre de 2027. {{rumor}}\n- **Online do VI:** o CEO da Twitch falou em 2027. A Rockstar não confirmou. {{rumor}}\n- **Transferência de progresso** do GTA Online antigo: não anunciada. Não vale juntar dinheiro lá pensando no VI.\n- **Venda de “dinheiro de GTA 6”:** golpe. O modo história não tem microtransações.",
+  "body": "- **PC:** não anunciado. A GamesBeat reportou, com quatro fontes anônimas, lançamento no 1º trimestre de 2027. {{rumor}}\n- **Online do VI:** o CEO da Twitch falou em 2027. A Rockstar não confirmou. {{rumor}}\n- **Transferência de progresso** do GTA Online antigo: não anunciada. Não vale juntar dinheiro lá pensando no VI.\n- **Venda de “dinheiro de GTA 6”:** golpe. O modo história não tem microtransações. Mais em [[fontes-evitar]].",
   "src": [
    "GamesBeat",
    "Bloomberg",
@@ -536,7 +603,7 @@
   "en": {
    "title": "PC and online: what's rumor",
    "sum": "Nothing announced. Don't grind GTA Online thinking of VI.",
-   "body": "- **PC:** not announced. GamesBeat reported, citing four anonymous sources, a Q1 2027 release. {{rumor}}\n- **VI's online:** Twitch's CEO mentioned 2027. Rockstar hasn't confirmed. {{rumor}}\n- **Progress transfer** from the old GTA Online: not announced. Not worth grinding there for VI.\n- **Selling “GTA 6 money”:** a scam. Story mode has no microtransactions.",
+   "body": "- **PC:** not announced. GamesBeat reported, citing four anonymous sources, a Q1 2027 release. {{rumor}}\n- **VI's online:** Twitch's CEO mentioned 2027. Rockstar hasn't confirmed. {{rumor}}\n- **Progress transfer** from the old GTA Online: not announced. Not worth grinding there for VI.\n- **Selling “GTA 6 money”:** a scam. Story mode has no microtransactions. More in [[fontes-evitar]].",
    "kw": [
     "online",
     "multiplayer",
@@ -556,68 +623,46 @@
   "ch": [
    "geral"
   ],
-  "title": "Principais fontes",
-  "sum": "Os guias e análises que mais sustentam este guia.",
-  "body": "- [PowerPyx: walkthrough de todas as missões](https://www.powerpyx.com/gta-6-full-walkthrough-all-missions)\n- [PowerPyx: guia de troféus](https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/)\n- [PowerPyx: checklist de 100%](https://www.powerpyx.com/gta-6-100-completion-checklist-guide/)\n- [GameSpot: dicas para começar](https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/)\n- [GameSpot: como ganhar dinheiro](https://www.gamespot.com/articles/best-ways-to-make-money-fast-in-gta-6/)\n- [GameSpot: cofres e roubos](https://www.gamespot.com/articles/gta-6-safe-codes-and-robberies-guide/)\n- [Press Start: dinheiro](https://press-start.com.au/news/2026/11/18/tips-for-managing-your-money-in-grand-theft-auto-6/)\n- [GTABase: roubo e venda de carros](https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles)\n- [Vice: análise](https://www.vice.com/en/article/gta-6-review/)\n- [Famitsu: entrevista com a Rockstar](https://www.famitsu.com/article/202608/85753)\n- [Famitsu: análise de 85 horas](https://www.famitsu.com/article/202611/94319)\n- [Gamersky: dinheiro por capítulo](https://www.gamersky.com/handbook/202611/2248984.shtml)\n- [Gamersky: Perfil Criminal](https://www.gamersky.com/handbook/202611/2248976.shtml)\n- [GameWith: polícia](https://gamewith.jp/gta6/583339)\n- [nettoge: BuckMe e poupança](https://nettoge.com/gta6-mission-buck-me/)\n- [nettoge: venda de carros](https://nettoge.com/gta6-sell-cars/)\n- [Inven: análise](https://www.inven.co.kr/webzine/news/?news=323392)\n- [Gamer Social Club: o que não perder no Cap. 1](https://gamersocialclub.ca/2026/11/18/grand-theft-auto-vi-10-things-not-to-miss-in-chapter-1/)\n- [Rockstar Support: edições e plataformas](https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions)\n\n**Guias completos com o jogo em mãos (19/11):**\n- [IGN: walkthrough oficial e wiki](https://www.ign.com/wikis/gta-6/Walkthrough)\n- [IGN: Illegal Operations](https://www.ign.com/wikis/gta-6/Illegal_Operations)\n- [IGN: procurado e heat](https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat)\n- [IGN: Perfil Criminal](https://www.ign.com/wikis/gta-6/Criminal_Profile_Guide_and_Consequences)\n- [IGN: perdíveis do Cap. 1](https://www.ign.com/wikis/gta-6/All_Chapter_1_Missables)\n- [Eurogamer: walkthrough e lista de guias](https://www.eurogamer.net/gta-6-walkthrough)\n- [Eurogamer: cheats](https://www.eurogamer.net/all-gta-6-cheats)\n- [Eurogamer: Ultimate Edition](https://www.eurogamer.net/gta-6-ultimate-edition-unlocks)\n\n**Coleções da IGN (19/11/2026):** stunts, drones, WAiNK, cartas, Ahol, Wyman, desafios, 100%, armas únicas, veículos e apps.",
+  "title": "Principais fontes (links)",
+  "sum": "Guias e análises externos em que o guia se apoia, por tema, e as pesquisas do projeto.",
+  "body": "#### Missões, 100% e começo de jogo\n- [IGN: walkthrough oficial e wiki (19/11)](https://www.ign.com/wikis/gta-6/Walkthrough)\n- [Eurogamer: walkthrough e lista de guias (19/11)](https://www.eurogamer.net/gta-6-walkthrough)\n- [PowerPyx: walkthrough de todas as missões](https://www.powerpyx.com/gta-6-full-walkthrough-all-missions)\n- [GTABase: lista de missões](https://www.gtabase.com/gta-6/missions/)\n- [PowerPyx: checklist de 100%](https://www.powerpyx.com/gta-6-100-completion-checklist-guide/)\n- [PowerPyx: guia de troféus](https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/)\n- [IGN: perdíveis do Cap. 1](https://www.ign.com/wikis/gta-6/All_Chapter_1_Missables)\n- [Gamer Social Club: o que não perder no Cap. 1](https://gamersocialclub.ca/2026/11/18/grand-theft-auto-vi-10-things-not-to-miss-in-chapter-1/)\n- [GameSpot: dicas para começar](https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/)\n- [Eurogamer: cheats](https://www.eurogamer.net/all-gta-6-cheats)\n- **Coleções da IGN (19/11/2026):** stunts, drones, WAiNK, cartas, Ahol, Wyman, desafios, 100%, armas únicas, veículos e apps. Ficam dentro da wiki acima.\n\n#### Dinheiro\n- [GameSpot: como ganhar dinheiro](https://www.gamespot.com/articles/best-ways-to-make-money-fast-in-gta-6/)\n- [GameSpot: cofres e roubos](https://www.gamespot.com/articles/gta-6-safe-codes-and-robberies-guide/)\n- [Press Start: dinheiro](https://press-start.com.au/news/2026/11/18/tips-for-managing-your-money-in-grand-theft-auto-6/)\n- [Gamersky: dinheiro por capítulo](https://www.gamersky.com/handbook/202611/2248984.shtml)\n- [nettoge: BuckMe e poupança](https://nettoge.com/gta6-mission-buck-me/)\n- [IGN: Illegal Operations](https://www.ign.com/wikis/gta-6/Illegal_Operations)\n\n#### Polícia e Perfil Criminal\n- [IGN: procurado e heat](https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat)\n- [IGN: Perfil Criminal](https://www.ign.com/wikis/gta-6/Criminal_Profile_Guide_and_Consequences)\n- [Gamersky: Perfil Criminal](https://www.gamersky.com/handbook/202611/2248976.shtml)\n- [GameWith: polícia](https://gamewith.jp/gta6/583339)\n\n#### Veículos\n- [GTABase: roubo e venda de carros](https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles)\n- [nettoge: venda de carros](https://nettoge.com/gta6-sell-cars/)\n\n#### Análises\n- [Vice: análise](https://www.vice.com/en/article/gta-6-review/)\n- [Famitsu: análise de 85 horas](https://www.famitsu.com/article/202611/94319)\n- [Inven: análise](https://www.inven.co.kr/webzine/news/?news=323392)\n\n#### Oficial e edições\n- [Rockstar Support: edições e plataformas](https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions)\n- [Famitsu: entrevista com a Rockstar](https://www.famitsu.com/article/202608/85753)\n- [Eurogamer: Ultimate Edition](https://www.eurogamer.net/gta-6-ultimate-edition-unlocks)\n\n#### Pesquisas do projeto\nOs documentos do projeto GTA VI que viraram este guia. É o que o selo de fonte “Pesquisas do projeto” ou “Projeto GTA VI” indica. Não têm link:\n- Guia de início de GTA VI: primeiros passos e o melhor caminho para ficar rico em Leonida\n- As contas de Jason e Lucia são zeradas por volta de 30% da história? (18/11/2026)\n- Guia de começo de jogo: do Prólogo ao fim do Capítulo 2 sem tropeços\n- GTA VI para veteranos: dinâmicas, sistemas e o que mudou desde o PS1\n- Guia de estratégia para o começo de jogo (primeiras horas e capítulos 1–2)\n- Guia de compras no começo: o que comprar e o que evitar até o fim do Capítulo 2\n- Guia de armas para o começo: Prólogo ao fim do Capítulo 2\n- Guia de veículos para o começo: o que pegar, o que guardar e quando gastar\n- Guia da polícia: como funciona o procurado e como escapar em Leonida\n- Complemento asiático ao guia de veículos (JP, CN, KR)\n- Começo de jogo segundo fontes japonesas, chinesas e coreanas\n- Complemento do guia de começo com fontes japonesas, chinesas e coreanas\n- Como proteger o dinheiro antes do reset do Capítulo 1 (sem spoiler)\n- O que pode ser perdido no começo do jogo (sem spoiler)",
   "src": [
    "Eurogamer",
    "IGN",
-   "Pesquisas do projeto"
+   "Pesquisas do projeto",
+   "Projeto GTA VI"
   ],
   "kw": [
    "links",
    "fontes",
    "referencias",
    "powerpyx",
-   "gamespot"
+   "gamespot",
+   "pesquisas",
+   "documentos",
+   "projeto",
+   "ign",
+   "eurogamer"
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Main sources",
-   "sum": "The guides and reviews this guide relies on most.",
-   "body": "- [PowerPyx: full walkthrough of all missions](https://www.powerpyx.com/gta-6-full-walkthrough-all-missions)\n- [GTABase: mission list](https://www.gtabase.com/gta-6/missions/)\n- [PowerPyx: trophy guide](https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/)\n- [PowerPyx: 100% checklist](https://www.powerpyx.com/gta-6-100-completion-checklist-guide/)\n- [GameSpot: tips before you start](https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/)\n- [GameSpot: best ways to make money](https://www.gamespot.com/articles/best-ways-to-make-money-fast-in-gta-6/)\n- [GameSpot: safe codes and robberies](https://www.gamespot.com/articles/gta-6-safe-codes-and-robberies-guide/)\n- [Press Start: managing your money](https://press-start.com.au/news/2026/11/18/tips-for-managing-your-money-in-grand-theft-auto-6/)\n- [GTABase: stealing and selling cars](https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles)\n- [Vice: review](https://www.vice.com/en/article/gta-6-review/)\n- [Famitsu: Rockstar interview](https://www.famitsu.com/article/202608/85753)\n- [Famitsu: 85-hour review](https://www.famitsu.com/article/202611/94319)\n- [Gamersky: money by chapter](https://www.gamersky.com/handbook/202611/2248984.shtml)\n- [Gamersky: Criminal Profile](https://www.gamersky.com/handbook/202611/2248976.shtml)\n- [GameWith: police](https://gamewith.jp/gta6/583339)\n- [nettoge: BuckMe and savings](https://nettoge.com/gta6-mission-buck-me/)\n- [nettoge: selling cars](https://nettoge.com/gta6-sell-cars/)\n- [Inven: review](https://www.inven.co.kr/webzine/news/?news=323392)\n- [Gamer Social Club: what not to miss in Ch. 1](https://gamersocialclub.ca/2026/11/18/grand-theft-auto-vi-10-things-not-to-miss-in-chapter-1/)\n- [Rockstar Support: editions and platforms](https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions)\n\n**Full guides written with the game (Nov 19):**\n- [IGN: official walkthrough and wiki](https://www.ign.com/wikis/gta-6/Walkthrough)\n- [IGN: Illegal Operations](https://www.ign.com/wikis/gta-6/Illegal_Operations)\n- [IGN: Wanted and Heat](https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat)\n- [IGN: Criminal Profile](https://www.ign.com/wikis/gta-6/Criminal_Profile_Guide_and_Consequences)\n- [IGN: Chapter 1 missables](https://www.ign.com/wikis/gta-6/All_Chapter_1_Missables)\n- [Eurogamer: walkthrough and guides list](https://www.eurogamer.net/gta-6-walkthrough)\n- [Eurogamer: cheats](https://www.eurogamer.net/all-gta-6-cheats)\n- [Eurogamer: Ultimate Edition](https://www.eurogamer.net/gta-6-ultimate-edition-unlocks)\n\n**IGN collections (Nov 19, 2026):** stunts, drones, WAiNK, cards, Ahol, Wyman, challenges, 100%, unique weapons, vehicles and apps.",
+   "title": "Main sources (links)",
+   "sum": "External guides and reviews this guide relies on, by topic, plus the project research.",
+   "body": "#### Missions, 100% and early game\n- [IGN: official walkthrough and wiki (Nov 19)](https://www.ign.com/wikis/gta-6/Walkthrough)\n- [Eurogamer: walkthrough and guides list (Nov 19)](https://www.eurogamer.net/gta-6-walkthrough)\n- [PowerPyx: full walkthrough of all missions](https://www.powerpyx.com/gta-6-full-walkthrough-all-missions)\n- [GTABase: mission list](https://www.gtabase.com/gta-6/missions/)\n- [PowerPyx: 100% checklist](https://www.powerpyx.com/gta-6-100-completion-checklist-guide/)\n- [PowerPyx: trophy guide](https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/)\n- [IGN: Chapter 1 missables](https://www.ign.com/wikis/gta-6/All_Chapter_1_Missables)\n- [Gamer Social Club: what not to miss in Ch. 1](https://gamersocialclub.ca/2026/11/18/grand-theft-auto-vi-10-things-not-to-miss-in-chapter-1/)\n- [GameSpot: tips before you start](https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/)\n- [Eurogamer: cheats](https://www.eurogamer.net/all-gta-6-cheats)\n- **IGN collections (Nov 19, 2026):** stunts, drones, WAiNK, cards, Ahol, Wyman, challenges, 100%, unique weapons, vehicles and apps. They live inside the wiki above.\n\n#### Money\n- [GameSpot: best ways to make money](https://www.gamespot.com/articles/best-ways-to-make-money-fast-in-gta-6/)\n- [GameSpot: safe codes and robberies](https://www.gamespot.com/articles/gta-6-safe-codes-and-robberies-guide/)\n- [Press Start: managing your money](https://press-start.com.au/news/2026/11/18/tips-for-managing-your-money-in-grand-theft-auto-6/)\n- [Gamersky: money by chapter](https://www.gamersky.com/handbook/202611/2248984.shtml)\n- [nettoge: BuckMe and savings](https://nettoge.com/gta6-mission-buck-me/)\n- [IGN: Illegal Operations](https://www.ign.com/wikis/gta-6/Illegal_Operations)\n\n#### Police and Criminal Profile\n- [IGN: Wanted and Heat](https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat)\n- [IGN: Criminal Profile](https://www.ign.com/wikis/gta-6/Criminal_Profile_Guide_and_Consequences)\n- [Gamersky: Criminal Profile](https://www.gamersky.com/handbook/202611/2248976.shtml)\n- [GameWith: police](https://gamewith.jp/gta6/583339)\n\n#### Vehicles\n- [GTABase: stealing and selling cars](https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles)\n- [nettoge: selling cars](https://nettoge.com/gta6-sell-cars/)\n\n#### Reviews\n- [Vice: review](https://www.vice.com/en/article/gta-6-review/)\n- [Famitsu: 85-hour review](https://www.famitsu.com/article/202611/94319)\n- [Inven: review](https://www.inven.co.kr/webzine/news/?news=323392)\n\n#### Official and editions\n- [Rockstar Support: editions and platforms](https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions)\n- [Famitsu: Rockstar interview](https://www.famitsu.com/article/202608/85753)\n- [Eurogamer: Ultimate Edition](https://www.eurogamer.net/gta-6-ultimate-edition-unlocks)\n\n#### Project research\nThe GTA VI project documents this guide was built from. That is what the “Pesquisas do projeto” or “Projeto GTA VI” source tag means. They have no link, and the originals are in Portuguese:\n- GTA VI starter guide: first steps and the best path to getting rich in Leonida\n- Are Jason's and Lucia's accounts wiped around 30% of the story? (11/18/2026)\n- Early-game guide: from the Prologue to the end of Chapter 2 without stumbling\n- GTA VI for veterans: dynamics, systems and what has changed since the PS1\n- Strategy guide for the early game (first hours and Chapters 1–2)\n- Early shopping guide: what to buy and what to avoid through the end of Chapter 2\n- Early weapons guide: Prologue to the end of Chapter 2\n- Early vehicles guide: what to grab, what to keep and when to spend\n- Police guide: how the wanted system works and how to escape in Leonida\n- Asian supplement to the vehicles guide (JP, CN, KR)\n- The early game according to Japanese, Chinese and Korean sources\n- Supplement to the early-game guide with Japanese, Chinese and Korean sources\n- How to protect your money before the Chapter 1 reset (spoiler-free)\n- What can be missed in the early game (spoiler-free)",
    "kw": [
     "links",
     "sources",
     "references",
     "powerpyx",
     "gamespot",
-    "gtabase"
-   ]
-  }
- },
- {
-  "kind": "card",
-  "id": "fontes-pesquisas",
-  "sec": "fontes",
-  "sub": "links",
-  "tipo": "dado",
-  "conf": "opiniao",
-  "ch": [
-   "geral"
-  ],
-  "title": "Pesquisas do projeto usadas",
-  "sum": "Os documentos do projeto GTA VI que viraram este guia.",
-  "body": "- Guia de início de GTA VI: primeiros passos e o melhor caminho para ficar rico em Leonida\n- As contas de Jason e Lucia são zeradas por volta de 30% da história? (18/11/2026)\n- Guia de começo de jogo: do Prólogo ao fim do Capítulo 2 sem tropeços\n- GTA VI para veteranos: dinâmicas, sistemas e o que mudou desde o PS1\n- Guia de estratégia para o começo de jogo (primeiras horas e capítulos 1–2)\n- Guia de compras no começo: o que comprar e o que evitar até o fim do Capítulo 2\n- Guia de armas para o começo: Prólogo ao fim do Capítulo 2\n- Guia de veículos para o começo: o que pegar, o que guardar e quando gastar\n- Guia da polícia: como funciona o procurado e como escapar em Leonida\n- Complemento asiático ao guia de veículos (JP, CN, KR)\n- Começo de jogo segundo fontes japonesas, chinesas e coreanas\n- Complemento do guia de começo com fontes japonesas, chinesas e coreanas\n- Como proteger o dinheiro antes do reset do Capítulo 1 (sem spoiler)\n- O que pode ser perdido no começo do jogo (sem spoiler)",
-  "src": [
-   "Projeto GTA VI"
-  ],
-  "kw": [
-   "pesquisas",
-   "documentos",
-   "projeto"
-  ],
-  "added": "2026-11-18",
-  "en": {
-   "title": "Project research used",
-   "sum": "The GTA VI project documents this guide was built from (titles in Portuguese).",
-   "kw": [
+    "gtabase",
     "research",
     "documents",
-    "project"
+    "project",
+    "ign",
+    "eurogamer"
    ]
-  },
-  "$mergeInto": "fontes-principais"
+  }
  },
  {
   "kind": "card",
@@ -629,8 +674,8 @@
   "ch": [
    "geral"
   ],
-  "title": "Fontes para evitar",
-  "sum": "Sites que misturam GTA V, GTA Online ou especulação.",
+  "title": "Fontes e golpes para evitar",
+  "sum": "Sites que misturam GTA V e GTA Online, especulação de pré-lançamento e venda de dinheiro.",
   "body": "- **Pokelog e lifematome (Japão):** misturam GTA Online (roleta de cassino, “Social Club dá carros grátis”) e têm cara de conteúdo gerado em massa.\n- **A wiki atwiki “GTA6”:** ainda mostra conteúdo do GTA Online.\n- **Páginas chinesas antigas com “攻略 GTA6”:** são de GTA V ou Online (ex.: “Kuruma blindado por 525.000”).\n- **Wikis de pré-lançamento**, como a coreana da Leonida Interactive: especulação.\n- **Guias com bolsa de valores, negócios ou “US$ 100 mil por hora”:** inventados antes do lançamento.\n- **Sites que vendem dinheiro ou “boosting” (alguém joga na sua conta por você):** golpe ou risco para a conta.\n- **Preços de colete e armas** que circulam (“colete US$ 200”) vêm do Vice City e do San Andreas.",
   "src": [
    "Pesquisas do projeto"
@@ -643,9 +688,9 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Sources to avoid",
-   "sum": "Sites that mix in GTA V, GTA Online or speculation.",
-   "body": "- **Pokelog and lifematome (Japan):** mix in GTA Online (casino wheel, “Social Club gives free cars”) and look mass-generated.\n- **The atwiki “GTA6” wiki:** still shows GTA Online content.\n- **Old Chinese pages with “攻略 GTA6”:** they're GTA V or Online (e.g. “armored Kuruma for 525,000”).\n- **Pre-launch wikis**, like Leonida Interactive's Korean one: speculation.\n- **Guides with a stock market, businesses or “$100k an hour”:** made up before launch.\n- **Sites selling money or boosting:** scams or a risk to your account.\n- **Armor and weapon prices** going around (“armor $200”) come from Vice City and San Andreas.",
+   "title": "Sources and scams to avoid",
+   "sum": "Sites that mix in GTA V and GTA Online, pre-launch speculation and money selling.",
+   "body": "- **Pokelog and lifematome (Japan):** mix in GTA Online (casino wheel, “Social Club gives free cars”) and look mass-generated.\n- **The atwiki “GTA6” wiki:** still shows GTA Online content.\n- **Old Chinese pages with “攻略 GTA6”:** they're GTA V or Online (e.g. “armored Kuruma for 525,000”).\n- **Pre-launch wikis**, like Leonida Interactive's Korean one: speculation.\n- **Guides with a stock market, businesses or “$100k an hour”:** made up before launch.\n- **Sites selling money or “boosting” (someone plays on your account for you):** scams or a risk to your account.\n- **Armor and weapon prices** going around (“armor $200”) come from Vice City and San Andreas.",
    "kw": [
     "bad sources",
     "avoid",

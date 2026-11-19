@@ -43,13 +43,13 @@
   "ch": [
    "c1"
   ],
-  "title": "Capítulo 1",
-  "sum": "Quase tudo com o Jason, em Key Lento. As missões que importam para o seu progresso.",
-  "body": "A ordem pode variar um pouco, porque as missões chegam por mensagem no celular. A PowerPyx lista 34 entradas (com opcionais e tarefas); a Beebom conta 21 missões principais.\n\nLista completa para marcar: [[missoes-cap1]].",
+  "title": "Cap. 1: resumo",
+  "sum": "Key Lento com o Jason. O que não perder, o dinheiro que a história cobra e o save antes de Tourist Trap.",
+  "body": "[[missoes-cap1|Lista completa para marcar]]\n\nA ordem pode variar um pouco, porque as missões chegam por mensagem no celular. O que cada missão libera está em [[roteiro-desbloqueios]].\n\n**Três coisas pedem ação neste capítulo:** as opcionais perdíveis, a meditação com a Lucia e o save manual antes de Tourist Trap.\n\n**A virada para o Cap. 2:** nessa passagem vocês ficam sem dinheiro e o jogo não avisa. O plano está em [[dinheiro-reset]].",
   "table": {
    "cols": [
     "Missão",
-    "O que libera ou exige"
+    "O que fazer ou saber"
    ],
    "rows": [
     [
@@ -65,24 +65,16 @@
      "Podem ser feitas em qualquer ordem junto com Gear Up. Pipework só libera depois das quatro"
     ],
     [
-     "Get Shirley's Rum e Steal the Scooter",
-     "**Perdíveis**, exclusivas do Cap. 1"
-    ],
-    [
-     "Island Dreams",
-     "Abre a linha do Kenton (mergulhos de tesouro)"
+     "Get Shirley's Rum, Steal the Scooter, Find the Lost Drugs e Ring the Bell!",
+     "**Opcionais perdíveis**, exclusivas do Cap. 1. Veja [[perdiveis-lista]]"
     ],
     [
      "Opcionais de casa",
      "Mercado, flores, colar, “Get The Chop” e roupas da Lucia"
     ],
     [
-     "Buck Me",
-     "Conta BuckMe e app RydeMe"
-    ],
-    [
      "Down to Earth",
-     "Depois dela vem a meditação perdível com a Lucia"
+     "Depois dela vem a meditação perdível com a Lucia. Veja [[perdiveis-lista]]"
     ],
     [
      "Deposit Cash Into BuckMe e Save for the Future",
@@ -94,7 +86,7 @@
     ],
     [
      "Tourist Trap",
-     "**Ponto sem volta do capítulo**: faça um save manual antes"
+     "**Ponto sem volta do capítulo**: faça um save manual antes e siga [[dinheiro-reset]]"
     ]
    ],
    "sort": false
@@ -112,13 +104,13 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Chapter 1",
-   "sum": "Almost all Jason, in Key Lento. The missions that matter for your progress.",
-   "body": "The order can shift a bit, since missions arrive as phone messages. PowerPyx lists 34 entries (including optionals and tasks); Beebom counts 21 main missions.\n\nFull list to tick: [[missoes-cap1]].",
+   "title": "Ch. 1: summary",
+   "sum": "Key Lento as Jason. What not to miss, the money the story asks for and the save before Tourist Trap.",
+   "body": "[[missoes-cap1|Full list to tick]]\n\nThe order can shift a bit, since missions arrive as phone messages. What each mission unlocks is in [[roteiro-desbloqueios]].\n\n**Three things need action in this chapter:** the missable optionals, the meditation with Lucia and the manual save before Tourist Trap.\n\n**The turn into Ch. 2:** at that point you end up without money and the game gives no warning. The plan is in [[dinheiro-reset]].",
    "table": {
     "cols": [
      "Mission",
-     "What it unlocks or requires"
+     "What to do or know"
     ],
     "rows": [
      [
@@ -134,24 +126,16 @@
       "Any order alongside Gear Up. Pipework unlocks only after all four"
      ],
      [
-      "Get Shirley's Rum and Steal the Scooter",
-      "**Missable**, Ch. 1 only"
-     ],
-     [
-      "Island Dreams",
-      "Opens Kenton's questline (treasure dives)"
+      "Get Shirley's Rum, Steal the Scooter, Find the Lost Drugs and Ring the Bell!",
+      "**Missable optionals**, Ch. 1 only. See [[perdiveis-lista]]"
      ],
      [
       "Home optionals",
       "Groceries, flowers, necklace, “Get The Chop” and Lucia's clothes"
      ],
      [
-      "Buck Me",
-      "BuckMe account and RydeMe app"
-     ],
-     [
       "Down to Earth",
-      "The missable meditation with Lucia comes after it"
+      "The missable meditation with Lucia comes after it. See [[perdiveis-lista]]"
      ],
      [
       "Deposit Cash Into BuckMe and Save for the Future",
@@ -163,7 +147,7 @@
      ],
      [
       "Tourist Trap",
-      "**The chapter's point of no return**: manual save first"
+      "**The chapter's point of no return**: manual save first and follow [[dinheiro-reset]]"
      ]
     ],
     "sort": false
@@ -188,8 +172,8 @@
    "p",
    "c1"
   ],
-  "title": "Prólogo e Capítulo 1: todas as missões",
-  "sum": "35 entradas, quase tudo com o Jason em Key Lento.",
+  "title": "Prólogo e Cap. 1: lista de missões",
+  "sum": "Prólogo + 35 entradas para marcar, quase tudo com o Jason em Key Lento. A Beebom conta 21 missões principais.",
   "src": [
    "Eurogamer",
    "IGN",
@@ -203,8 +187,8 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Prologue and Chapter 1: every mission",
-   "sum": "35 entries, almost all Jason in Key Lento.",
+   "title": "Prologue and Ch. 1: mission list",
+   "sum": "Prologue + 35 entries to tick, almost all Jason in Key Lento. Beebom counts 21 main missions.",
    "kw": [
     "chapter 1",
     "prologue",
@@ -243,13 +227,13 @@
   "ch": [
    "c2"
   ],
-  "title": "Capítulo 2",
-  "sum": "A Lucia ganha espaço, a venda de carros abre e chega a troca livre.",
-  "body": "O troféu “Paradise Lost” sai ao concluir o Cap. 1, já no começo do Cap. 2.\n\nLista completa para marcar: [[missoes-cap2]].",
+  "title": "Cap. 2: resumo",
+  "sum": "Juntar dinheiro de novo, Moses, garagem grátis e troca livre.",
+  "body": "[[missoes-cap2|Lista completa para marcar]]\n\nO capítulo começa sem dinheiro (veja [[dinheiro-reset]]). O troféu “Paradise Lost” sai ao concluir o Cap. 1, já no começo do Cap. 2.",
   "table": {
    "cols": [
     "Missão ou momento",
-    "O que libera ou exige"
+    "O que fazer ou saber"
    ],
    "rows": [
     [
@@ -261,12 +245,8 @@
      "Voltar a se armar"
     ],
     [
-     "Moses",
-     "Slim Jim, venda de carros ao Moses, registro de veículos e app Scooter Bros"
-    ],
-    [
-     "Daily Driver",
-     "Garagem grátis em Port Gellhorn e compra de garagens pelo app"
+     "Moses, Daily Driver e Coffee Break",
+     "As três que mais liberam: venda e registro de carros, garagem grátis e **troca livre entre Jason e Lucia**. Detalhes em [[roteiro-desbloqueios]]"
     ],
     [
      "New Look e How Do I Look?",
@@ -274,15 +254,11 @@
     ],
     [
      "Breakfast Run",
-     "Troféu “Trust”"
-    ],
-    [
-     "Coffee Break",
-     "**Troca livre entre Jason e Lucia** e casas de penhor (pawn shops)"
+     "Troféu “Trust”. A IGN põe a troca livre aqui, e não em Coffee Break: veja [[personagens-troca]]"
     ],
     [
      "Hit Kingpin Bowling (opcional)",
-     "Escopeta única Gutterball Moreland 850"
+     "Dá uma escopeta única. Veja [[roteiro-desbloqueios]]"
     ],
     [
      "Thrillbillies e Mud Club com o Wyman",
@@ -290,7 +266,7 @@
     ],
     [
      "Ao longo do capítulo",
-     "O Kirk (Skunk Ape) termina aqui; o Kenton volta entre os Caps. 2 e 3"
+     "O Kenton volta entre os Caps. 2 e 3"
     ]
    ],
    "sort": false
@@ -308,13 +284,13 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Chapter 2",
-   "sum": "Lucia takes center stage, car selling opens and free switching arrives.",
-   "body": "The “Paradise Lost” trophy pops on finishing Ch. 1, right at the start of Ch. 2.\n\nFull list to tick: [[missoes-cap2]].",
+   "title": "Ch. 2: summary",
+   "sum": "Building money back up, Moses, the free garage and free switching.",
+   "body": "[[missoes-cap2|Full list to tick]]\n\nThe chapter starts without money (see [[dinheiro-reset]]). The “Paradise Lost” trophy pops on finishing Ch. 1, right at the start of Ch. 2.",
    "table": {
     "cols": [
      "Mission or moment",
-     "What it unlocks or requires"
+     "What to do or know"
     ],
     "rows": [
      [
@@ -326,12 +302,8 @@
       "Get armed again"
      ],
      [
-      "Moses",
-      "Slim Jim, selling cars to Moses, vehicle registration and the Scooter Bros app"
-     ],
-     [
-      "Daily Driver",
-      "Free Port Gellhorn garage and buying garages through the app"
+      "Moses, Daily Driver and Coffee Break",
+      "The three big unlocks: car sales and registration, the free garage and **free switching between Jason and Lucia**. Details in [[roteiro-desbloqueios]]"
      ],
      [
       "New Look and How Do I Look?",
@@ -339,15 +311,11 @@
      ],
      [
       "Breakfast Run",
-      "Trophy “Trust”"
-     ],
-     [
-      "Coffee Break",
-      "**Free switching between Jason and Lucia** and pawn shops"
+      "Trophy “Trust”. IGN places free switching here rather than in Coffee Break: see [[personagens-troca]]"
      ],
      [
       "Hit Kingpin Bowling (optional)",
-      "Unique Gutterball Moreland 850 shotgun"
+      "Gives a unique shotgun. See [[roteiro-desbloqueios]]"
      ],
      [
       "Thrillbillies and the Mud Club with Wyman",
@@ -355,7 +323,7 @@
      ],
      [
       "Throughout the chapter",
-      "Kirk (Skunk Ape) wraps up here; Kenton returns between Ch. 2 and 3"
+      "Kenton returns between Ch. 2 and 3"
      ]
     ],
     "sort": false
@@ -379,7 +347,7 @@
   "ch": [
    "c2"
   ],
-  "title": "Capítulo 2: todas as missões",
+  "title": "Cap. 2: lista de missões",
   "sum": "27 entradas. Venda de carros, troca livre e as primeiras linhas de estranhos.",
   "src": [
    "Eurogamer",
@@ -396,7 +364,7 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Chapter 2: every mission",
+   "title": "Ch. 2: mission list",
    "sum": "27 entries. Car sales, free switching and the first stranger strands.",
    "kw": [
     "chapter 2",
@@ -439,38 +407,26 @@
   "ch": [
    "c3"
   ],
-  "title": "Capítulo 3",
+  "title": "Cap. 3: resumo",
   "sum": "O salto de renda: Yasmani, Dye Pack Jammer, Key Cloner e Randy.",
-  "body": "Não adie o Cap. 3: roubar lojas repetidamente antes dele rende pouco. Segundo o Gamersky, o jogo credita US$ 120.000 no fim do capítulo.\n\nLista completa para marcar: [[missoes-cap3]].",
+  "body": "[[missoes-cap3|Lista completa para marcar]]\n\nNão adie o Cap. 3: roubar lojas repetidamente antes dele rende pouco. Segundo o Gamersky, o jogo credita US$ 120.000 no fim do capítulo. O plano de dinheiro está em [[dinheiro-fases]].",
   "table": {
    "cols": [
     "Missão ou momento",
-    "O que libera ou exige"
+    "O que fazer ou saber"
    ],
    "rows": [
     [
-     "Yasmani's Jewelry Jobs",
-     "US$ 20.000 de recompensa, joalherias e Snap Gun"
+     "Yasmani's Jewelry Jobs, Credit Check e Clonin' Keys, Makin' GS",
+     "Faça as três logo: são o salto de renda. A primeira paga US$ 20.000 de recompensa; na última, o primeiro carro do Randy sai na própria missão. O que cada uma libera: [[roteiro-desbloqueios]]"
     ],
     [
-     "Credit Check (Meet Raul's Crew)",
-     "Dye Pack Jammer: Payday Loans e bancos pequenos"
-    ],
-    [
-     "Clonin' Keys, Makin' GS",
-     "Key Cloner e a lista de desejos do Randy (o primeiro carro sai na própria missão)"
-    ],
-    [
-     "Início do capítulo",
-     "A Pay 'n' Spray passa a comprar carros com rastreador padrão"
-    ],
-    [
-     "Car Services (Lucia)",
+     "Car Service (Lucia)",
      "Roubos de carro por encomenda"
     ],
     [
      "Race Against Yago",
-     "Missão com ampulheta: faça logo"
+     "Missão com ampulheta: faça logo. Veja [[perdiveis-lista]]"
     ],
     [
      "2 Payday Loans para o Yasmani",
@@ -494,38 +450,26 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Chapter 3",
+   "title": "Ch. 3: summary",
    "sum": "The income jump: Yasmani, Dye Pack Jammer, Key Cloner and Randy.",
-   "body": "Don't put Ch. 3 off: grinding stores before it pays little. Per Gamersky, the game credits $120,000 at the end of the chapter.\n\nFull list to tick: [[missoes-cap3]].",
+   "body": "[[missoes-cap3|Full list to tick]]\n\nDon't put Ch. 3 off: grinding stores before it pays little. Per Gamersky, the game credits $120,000 at the end of the chapter. The money plan is in [[dinheiro-fases]].",
    "table": {
     "cols": [
      "Mission or moment",
-     "What it unlocks or requires"
+     "What to do or know"
     ],
     "rows": [
      [
-      "Yasmani's Jewelry Jobs",
-      "$20,000 reward, jewelry stores and the Snap Gun"
+      "Yasmani's Jewelry Jobs, Credit Check and Clonin' Keys, Makin' GS",
+      "Do all three early: they are the income jump. The first pays a $20,000 reward; in the last, Randy's first car comes in the mission itself. What each one unlocks: [[roteiro-desbloqueios]]"
      ],
      [
-      "Credit Check (Meet Raul's Crew)",
-      "Dye Pack Jammer: Payday Loans and small banks"
-     ],
-     [
-      "Clonin' Keys, Makin' GS",
-      "Key Cloner and Randy's Wish List (the first car comes in the mission itself)"
-     ],
-     [
-      "Start of the chapter",
-      "Pay 'n' Spray starts buying cars with standard trackers"
-     ],
-     [
-      "Car Services (Lucia)",
+      "Car Service (Lucia)",
       "Car thefts to order"
      ],
      [
       "Race Against Yago",
-      "Hourglass mission: do it right away"
+      "Hourglass mission: do it right away. See [[perdiveis-lista]]"
      ],
      [
       "2 Payday Loans for Yasmani",
@@ -554,7 +498,7 @@
   "ch": [
    "c3"
   ],
-  "title": "Capítulo 3: todas as missões",
+  "title": "Cap. 3: lista de missões",
   "sum": "39 entradas. Vice City, o golpe do cartel e a virada da renda.",
   "src": [
    "Eurogamer",
@@ -572,7 +516,7 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Chapter 3: every mission",
+   "title": "Ch. 3: mission list",
    "sum": "39 entries. Vice City, the Cartel Heist and the income jump.",
    "kw": [
     "chapter 3",
@@ -616,13 +560,13 @@
   "ch": [
    "c4"
   ],
-  "title": "Capítulos 4 e 5",
-  "sum": "A mina de ouro: os cofres dos bancos grandes.",
-  "body": "A rotina dos cofres está em [[dinheiro-cofres]].\n\nLista completa para marcar: [[missoes-cap4]]. Cap. 5: [[missoes-cap5]].",
+  "title": "Caps. 4 e 5: resumo",
+  "sum": "Cofres dos bancos grandes e as dicas de carro-forte.",
+  "body": "[[missoes-cap4|Lista completa para marcar]] · [[missoes-cap5|Lista do Cap. 5]]\n\nA rotina dos cofres está em [[dinheiro-cofres]].",
   "table": {
    "cols": [
     "Missão ou momento",
-    "O que libera ou exige"
+    "O que fazer ou saber"
    ],
    "rows": [
     [
@@ -634,8 +578,8 @@
      "US$ 10.000; marcam os carros-fortes em roxo"
     ],
     [
-     "Missão com ampulheta da Lucia",
-     "Só no Cap. 4: faça quando aparecer"
+     "“This is a Free Call From…” (Lucia)",
+     "Missão com ampulheta, só no Cap. 4: faça quando aparecer. Veja [[perdiveis-lista]]"
     ],
     [
      "Ultimate",
@@ -656,13 +600,13 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Chapters 4 and 5",
-   "sum": "The gold mine: the big-bank vaults.",
-   "body": "The vault routine is in [[dinheiro-cofres]].\n\nFull list to tick: [[missoes-cap4]]. Ch. 5: [[missoes-cap5]].",
+   "title": "Ch. 4 and 5: summary",
+   "sum": "Big-bank vaults and the armored-truck tips.",
+   "body": "[[missoes-cap4|Full list to tick]] · [[missoes-cap5|Ch. 5 list]]\n\nThe vault routine is in [[dinheiro-cofres]].",
    "table": {
     "cols": [
      "Mission or moment",
-     "What it unlocks or requires"
+     "What to do or know"
     ],
     "rows": [
      [
@@ -674,8 +618,8 @@
       "$10,000; mark armored trucks in purple"
      ],
      [
-      "Lucia's hourglass mission",
-      "Ch. 4 only: do it when it shows up"
+      "“This is a Free Call From…” (Lucia)",
+      "Hourglass mission, Ch. 4 only: do it when it shows up. See [[perdiveis-lista]]"
      ],
      [
       "Ultimate",
@@ -703,7 +647,7 @@
   "ch": [
    "c4"
   ],
-  "title": "Capítulo 4: todas as missões",
+  "title": "Cap. 4: lista de missões",
   "sum": "39 entradas, com o golpe do VCIA no meio. Passo a passo ainda não publicado (conferido em 19/11).",
   "src": [
    "PowerPyx"
@@ -717,7 +661,7 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Chapter 4: every mission",
+   "title": "Ch. 4: mission list",
    "sum": "39 entries, with the VCIA takedown in the middle. Walkthrough not published yet (checked Nov 19).",
    "kw": [
     "chapter 4",
@@ -759,9 +703,9 @@
   "ch": [
    "c4"
   ],
-  "title": "Capítulo 5: todas as missões",
+  "title": "Cap. 5: lista de missões",
   "sum": "10 missões até o fim da história. Passo a passo ainda não publicado (conferido em 19/11).",
-  "body": "Depois da última, liberam os cheats e o mundo aberto completo. Veja [[roteiro-pos]].",
+  "body": "Resumo do capítulo: [[roteiro-cap4]].\n\nDepois da última, liberam os cheats e o mundo aberto completo. Veja [[roteiro-pos]].",
   "check": [
    {
     "id": "bird",
@@ -877,9 +821,9 @@
      "d": "The final mission of the story.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
     }
    ],
-   "title": "Chapter 5: every mission",
+   "title": "Ch. 5: mission list",
    "sum": "10 missions to the end of the story. Walkthrough not published yet (checked Nov 19).",
-   "body": "After the last one, cheats and full free roam unlock. See [[roteiro-pos]].",
+   "body": "Chapter summary: [[roteiro-cap4]].\n\nAfter the last one, cheats and full free roam unlock. See [[roteiro-pos]].",
    "kw": [
     "chapter 5",
     "final",
@@ -900,7 +844,7 @@
   ],
   "title": "Depois da história",
   "sum": "Cheats, 100% e o que continua disponível.",
-  "body": "- **Cheats** só liberam depois da história e bloqueiam salvamento e troféus. Veja [[perdiveis-cheats]].\n- **Nada do checklist de 100% é perdível:** dá para fazer tudo no mundo aberto, depois da história.\n- **Strangers & Freaks** que contam para troféu continuam disponíveis.\n- Bancos e esconderijos voltam a ficar disponíveis com o tempo, mas demora até eles reaparecerem.",
+  "body": "- **Cheats** só liberam depois da história e bloqueiam salvamento e troféus. Veja [[perdiveis-cheats]].\n- **Nada do checklist de 100% é perdível** e os Strangers & Freaks que contam para troféu continuam disponíveis. Veja [[perdiveis-tranquilo]].\n- Bancos e esconderijos voltam a ficar disponíveis com o tempo, mas demora até eles reaparecerem.",
   "src": [
    "PowerPyx",
    "PlayStationInfo"
@@ -915,7 +859,7 @@
   "en": {
    "title": "After the story",
    "sum": "Cheats, 100% and what stays available.",
-   "body": "- **Cheats** only unlock after the story and block saving and trophies. See [[perdiveis-cheats]].\n- **Nothing on the 100% checklist is missable:** you can do it all in free roam.\n- **Strangers & Freaks** that count for the trophy stay available.\n- Banks and hideouts become available again over time, but the respawn is slow.",
+   "body": "- **Cheats** only unlock after the story and block saving and trophies. See [[perdiveis-cheats]].\n- **Nothing on the 100% checklist is missable** and the Strangers & Freaks that count for the trophy stay available. See [[perdiveis-tranquilo]].\n- Banks and hideouts become available again over time, but the respawn is slow.",
    "kw": [
     "post game",
     "endgame",
@@ -1141,7 +1085,7 @@
    "pos"
   ],
   "title": "Strangers & Freaks: as 14 linhas",
-  "sum": "Quem dá, quando abre e se conta para o troféu de 8 linhas.",
+  "sum": "Quem dá, quando abre e se conta para o troféu de 8 linhas. Parte se marca aqui, parte nas listas dos capítulos.",
   "src": [
    "Eurogamer",
    "IGN",
@@ -1158,7 +1102,7 @@
   "added": "2026-11-18",
   "en": {
    "title": "Strangers & Freaks: the 14 strands",
-   "sum": "Who gives them, when they open and whether they count toward the 8-strand trophy.",
+   "sum": "Who gives them, when they open and whether they count toward the 8-strand trophy. Some parts are ticked here, some in the chapter lists.",
    "kw": [
     "strangers and freaks",
     "side quests",
@@ -1209,7 +1153,7 @@
   ],
   "title": "Como usar a lista de missões",
   "sum": "Todas as missões em ordem, para marcar, com o passo a passo completo em português ou inglês.",
-  "body": "- **Toque em “Como fazer”** embaixo de qualquer missão para abrir o passo a passo: onde começa, quem passa, personagem, recompensa, todos os objetivos, escolhas, códigos e perdíveis. O seletor **PT | EN** troca o idioma do guia inteiro.\n- **Imagens:** no fim de cada passo a passo há os links das imagens do walkthrough original, embaixo do objetivo em que cada uma aparece.\n- **5 capítulos, 60 a 80 horas** de história. A ordem dentro do capítulo pode variar, porque as missões chegam por mensagem no celular.\n- **⌛ Ampulheta no mapa = missão com prazo.** Some se você avançar a história. Faça assim que aparecer.\n- **Só Jason / Só Lucia:** a missão só começa com aquele personagem. **Só solo:** não dá para fazer em dupla.\n- **Sem medalha de ouro e sem replay**: o que importa é o save manual (veja [[perdiveis-saves]]).\n- **Fontes:** Prólogo ao Cap. 2 pela GTABase e pela PowerPyx; Cap. 3 e Strangers & Freaks pela PowerPyx. Os Caps. 4 e 5 ainda não têm passo a passo publicado (conferido de novo em 19/11 nas duas fontes): por enquanto, só a descrição curta da GTABase.",
+  "body": "- **Toque em “Como fazer”** embaixo de qualquer missão para abrir o passo a passo: onde começa, quem passa, personagem, recompensa, todos os objetivos, escolhas, códigos e perdíveis. O seletor **PT | EN** troca o idioma do guia inteiro.\n- **Imagens:** no fim de cada passo a passo há os links das imagens do walkthrough original, embaixo do objetivo em que cada uma aparece.\n- **5 capítulos, 60 a 80 horas** de história. A ordem dentro do capítulo pode variar, porque as missões chegam por mensagem no celular.\n- **⌛ Ampulheta no mapa = missão com prazo.** Some se você avançar a história. Faça assim que aparecer. A lista do que some de vez está em [[perdiveis-lista]].\n- **Só Jason / Só Lucia:** a missão só começa com aquele personagem. **Só solo:** não dá para fazer em dupla.\n- **Sem medalha de ouro e sem replay**: o que importa é o save manual (veja [[perdiveis-saves]]).\n- **Fontes:** Prólogo ao Cap. 2 pela GTABase e pela PowerPyx; Cap. 3 e Strangers & Freaks pela PowerPyx. Os Caps. 4 e 5 ainda não têm passo a passo publicado (conferido de novo em 19/11 nas duas fontes): por enquanto, só a descrição curta da GTABase.",
   "src": [
    "PowerPyx"
   ],
@@ -1226,7 +1170,7 @@
   "en": {
    "title": "How to use the mission list",
    "sum": "Every mission in order, to tick off, with a full walkthrough in English or Portuguese.",
-   "body": "- **Tap “Walkthrough”** under any mission to open it: where it starts, who gives it, character, reward, every objective, choices, codes and missables. The **PT | EN** switch changes the language of the whole guide.\n- **Images:** at the end of each walkthrough there are links to the original walkthrough's screenshots, under the objective where each one appears.\n- **5 chapters, 60–80 hours** of story. The order within a chapter can vary, since missions arrive as phone messages.\n- **⌛ Hourglass on the map = time-limited mission.** It disappears if you advance the story. Do it as soon as it appears.\n- **Jason only / Lucia only:** the mission only starts with that character. **Solo only:** can't be done as a duo.\n- **No gold medals and no replay**: what matters is your manual save (see [[perdiveis-saves]]).\n- **Sources:** Prologue to Ch. 2 from GTABase and PowerPyx; Ch. 3 and Strangers & Freaks from PowerPyx. Chapters 4 and 5 don't have published walkthroughs yet (checked again on Nov 19 on both sites): for now, only GTABase's short description.",
+   "body": "- **Tap “Walkthrough”** under any mission to open it: where it starts, who gives it, character, reward, every objective, choices, codes and missables. The **PT | EN** switch changes the language of the whole guide.\n- **Images:** at the end of each walkthrough there are links to the original walkthrough's screenshots, under the objective where each one appears.\n- **5 chapters, 60–80 hours** of story. The order within a chapter can vary, since missions arrive as phone messages.\n- **⌛ Hourglass on the map = time-limited mission.** It disappears if you advance the story. Do it as soon as it appears. Everything that can be lost for good is in [[perdiveis-lista]].\n- **Jason only / Lucia only:** the mission only starts with that character. **Solo only:** can't be done as a duo.\n- **No gold medals and no replay**: what matters is your manual save (see [[perdiveis-saves]]).\n- **Sources:** Prologue to Ch. 2 from GTABase and PowerPyx; Ch. 3 and Strangers & Freaks from PowerPyx. Chapters 4 and 5 don't have published walkthroughs yet (checked again on Nov 19 on both sites): for now, only GTABase's short description.",
    "kw": [
     "missions",
     "walkthrough",
@@ -1248,9 +1192,9 @@
    "c1",
    "c2"
   ],
-  "title": "O objetivo no mapa de cada missão (Caps. 1 e 2)",
-  "sum": "Como cada missão aparece no mapa antes de começar.",
-  "body": "- Missão travada? {↓} mostra o objetivo atual. Entre missões, saia da área original.",
+  "title": "Como cada missão aparece no mapa (Caps. 1 e 2)",
+  "sum": "O texto do objetivo no mapa antes de a missão começar. Para achar a missão que falta.",
+  "body": "- Missão travada? {↓} mostra o objetivo atual. Entre missões, saia da área original.\n- O passo a passo de cada uma está em [[missoes-cap1]] e [[missoes-cap2]].",
   "table": {
    "cols": [
     "Missão",
@@ -1259,7 +1203,7 @@
    "rows": [
     [
      "Gear Up",
-     "Pegar uma arma longa na Chuck's Tackle & Shot"
+     "Pegar uma arma longa na Chuck's Tackle & Shot (nome dado pela IGN; os outros guias chamam a loja de Ammu-Nation)"
     ],
     [
      "Just a Scratch",
@@ -1354,7 +1298,7 @@
      "Perguntar por analgésicos no motel"
     ],
     [
-     "Girls' Trip",
+     "Girl's Trip",
      "Ajudar a Vicki"
     ],
     [
@@ -1404,9 +1348,9 @@
   ],
   "added": "2026-11-19",
   "en": {
-   "title": "Each mission's map objective (Ch. 1 and 2)",
-   "sum": "How each mission shows up on the map before it starts.",
-   "body": "- Stuck? {↓} shows the current objective. Between missions, leave the original area.",
+   "title": "How each mission shows on the map (Ch. 1 and 2)",
+   "sum": "The objective text on the map before the mission starts. For finding the mission you are missing.",
+   "body": "- Stuck? {↓} shows the current objective. Between missions, leave the original area.\n- The walkthrough for each one is in [[missoes-cap1]] and [[missoes-cap2]].",
    "kw": [
     "objectives"
    ],
@@ -1418,7 +1362,7 @@
     "rows": [
      [
       "Gear Up",
-      "Grab a long gun at Chuck's Tackle & Shot"
+      "Grab a long gun at Chuck's Tackle & Shot (IGN's name; the other guides call the store Ammu-Nation)"
      ],
      [
       "Just a Scratch",
@@ -1513,7 +1457,7 @@
       "Ask around the motel for painkillers"
      ],
      [
-      "Girls' Trip",
+      "Girl's Trip",
       "Help Vicki"
      ],
      [
@@ -1566,8 +1510,8 @@
   "ch": [
    "geral"
   ],
-  "title": "Quando cada coisa libera",
-  "sum": "Tabela de desbloqueios. Filtre digitando o nome ou o capítulo.",
+  "title": "Tabela: quando cada coisa libera",
+  "sum": "Consulta rápida. Filtre pelo nome ou pelo capítulo.",
   "table": {
    "cols": [
     "O quê",
@@ -1587,7 +1531,7 @@
     ],
     [
      "Conta BuckMe e app RydeMe",
-     "Missão Buck Me",
+     "Missão Buck Me (o Gamersky põe o RydeMe no Cap. 2: veja [[mundo-deslocamento]])",
      "Cap. 1"
     ],
     [
@@ -1616,13 +1560,13 @@
      "Cap. 2"
     ],
     [
-     "Garagem grátis e compra de garagens",
+     "Garagem grátis em Port Gellhorn e compra de garagens pelo app",
      "Missão Daily Driver",
      "Cap. 2"
     ],
     [
      "Troca livre entre Jason e Lucia",
-     "Missão Coffee Break (~30% da história)",
+     "Missão Coffee Break (a IGN diz Breakfast Run: veja [[personagens-troca]])",
      "Cap. 2"
     ],
     [
@@ -1631,13 +1575,13 @@
      "Cap. 2"
     ],
     [
-     "Escopeta Gutterball Moreland 850",
+     "Escopeta única Gutterball Moreland 850",
      "Opcional Hit Kingpin Bowling",
      "Cap. 2"
     ],
     [
      "Joalherias e Snap Gun",
-     "Yasmani's Jewelry Jobs",
+     "Yasmani's Jewelry Jobs (recompensa de US$ 20.000)",
      "Cap. 3"
     ],
     [
@@ -1657,11 +1601,11 @@
     ],
     [
      "Venda de carro com rastreador avançado",
-     "Depois de entregar o Mamba ao Randy",
+     "Depois de 5 a 7 carros da lista, o Randy pede o carro especial (Mamba): entregue-o",
      "Cap. 3"
     ],
     [
-     "Cofres dos bancos grandes",
+     "Cofres dos 8 bancos grandes (até US$ 205.000 cada)",
      "That's Where The Money Is… (opcional)",
      "Cap. 4"
     ],
@@ -1694,8 +1638,8 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "When each thing unlocks",
-   "sum": "Unlock table. Filter by typing a name or chapter.",
+   "title": "Table: when each thing unlocks",
+   "sum": "Quick reference. Filter by name or chapter.",
    "table": {
     "cols": [
      "What",
@@ -1715,7 +1659,7 @@
      ],
      [
       "BuckMe account and RydeMe app",
-      "Buck Me mission",
+      "Buck Me mission (Gamersky places RydeMe in Ch. 2: see [[mundo-deslocamento]])",
       "Ch. 1"
      ],
      [
@@ -1744,13 +1688,13 @@
       "Ch. 2"
      ],
      [
-      "Free garage and buying garages",
+      "Free Port Gellhorn garage and buying garages through the app",
       "Daily Driver mission",
       "Ch. 2"
      ],
      [
       "Free switching between Jason and Lucia",
-      "Coffee Break mission (~30% of the story)",
+      "Coffee Break mission (IGN says Breakfast Run: see [[personagens-troca]])",
       "Ch. 2"
      ],
      [
@@ -1759,13 +1703,13 @@
       "Ch. 2"
      ],
      [
-      "Gutterball Moreland 850 shotgun",
+      "Unique Gutterball Moreland 850 shotgun",
       "Optional Hit Kingpin Bowling",
       "Ch. 2"
      ],
      [
       "Jewelry stores and Snap Gun",
-      "Yasmani's Jewelry Jobs",
+      "Yasmani's Jewelry Jobs ($20,000 reward)",
       "Ch. 3"
      ],
      [
@@ -1785,11 +1729,11 @@
      ],
      [
       "Selling advanced-tracker cars",
-      "After delivering the Mamba to Randy",
+      "After 5 to 7 Wish List cars, Randy asks for the special car (Mamba): deliver it",
       "Ch. 3"
      ],
      [
-      "Big-bank vaults",
+      "Vaults of the 8 big banks (up to $205,000 each)",
       "That's Where The Money Is… (optional)",
       "Ch. 4"
      ],

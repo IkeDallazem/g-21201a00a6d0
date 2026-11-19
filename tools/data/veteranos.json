@@ -10,69 +10,40 @@
    "geral"
   ],
   "title": "Hábitos do GTA V que não funcionam mais",
-  "sum": "11 reflexos antigos que agora custam caro.",
-  "body": "1. **“Pego qualquer carro parado.”** No começo, só carro barato. Os caros exigem ferramenta, e alguns têm rastreador. Use o scanner.\n2. **“Ando com o arsenal no bolso.”** São 2 pistolas e 2 longas; o resto fica no porta-malas. Arma longa à mostra chama atenção.\n3. **“Fujo, as estrelas somem e acabou.”** A polícia guarda roupa, rosto e carro. Troque tudo antes de voltar.\n4. **“Atiro na cabeça de todo mundo.”** O Perfil Criminal piora e a polícia passa a vir para matar. Mire nos membros com o Focus.\n5. **“Troco de personagem para zerar o procurado.”** O que funciona agora é separar a dupla.\n6. **“Fico rico na bolsa e com imóveis.”** Não existem. O dinheiro vem de roubo e receptador.\n7. **“Repito a missão para tirar ouro.”** Não dá para rejogar missões e não há medalhas. Use saves manuais.\n8. **“Atravesso o mapa num pulo.”** Pular a corrida do RydeMe custa US$ 100. Planeje a rota e use a troca de personagem.\n9. **“Ignoro as ligações.”** O relacionamento pesa no final.\n10. **“Superesportivo roubado na fuga.”** Pode estar com o tanque vazio e com rastreador. Prefira um carro discreto e abastecido.\n11. **“Aperto X sem parar para correr.”** Correr é no {L3}.",
+  "sum": "11 reflexos antigos que agora custam caro, e o que fazer no lugar.",
+  "body": "1. **“Pego qualquer carro parado.”** No começo, só carro barato. Os caros exigem ferramenta, e alguns têm rastreador. Use o scanner: [[veiculos-roubo]] e [[veiculos-waink]].\n2. **“Ando com o arsenal no bolso.”** São 2 pistolas e 2 longas; o resto fica no porta-malas. Arma longa à mostra chama atenção. Veja [[armas-porte]].\n3. **“Fujo, as estrelas somem e acabou.”** A polícia guarda roupa, rosto e carro. Troque tudo antes de voltar ([[policia-heat]]). **Mire na estrela vazada:** se ninguém identificou você, não há perseguição ([[policia-estrelas]]).\n4. **“Atiro na cabeça de todo mundo.”** O Perfil Criminal piora e a polícia passa a vir para matar. Mire nos membros com o Focus. **Perfil “Profissional” desde o começo:** é muito mais difícil consertar depois ([[policia-perfil]]).\n5. **“Troco de personagem para zerar o procurado.”** O que funciona agora é separar a dupla. **Sempre em dupla nos roubos médios e grandes:** o parceiro controla a multidão, leva sacola extra e atira na fuga ([[personagens-dupla]]).\n6. **“Fico rico na bolsa e com imóveis.”** Não existem ([[dinheiro-nao-existe]]). O dinheiro vem de roubo e receptador. **Primeiro gasto grande:** o Scooter Bros Premium. Use a garagem grátis e compre **uma garagem** só quando faltar vaga; ela é cofre, arsenal e depósito ([[compras-prioridade]], [[compras-garagens]]).\n7. **“Repito a missão para tirar ouro.”** Não dá para rejogar missões e não há medalhas. **Save manual antes de cada missão importante** ([[perdiveis-saves]]).\n8. **“Atravesso o mapa num pulo.”** Pular a corrida do RydeMe custa US$ 100. Planeje a rota e use a troca de personagem ([[mundo-deslocamento]]).\n9. **“Ignoro as ligações.”** O relacionamento pesa no final ([[personagens-relacao]]).\n10. **“Superesportivo roubado na fuga.”** Pode estar com o tanque vazio e com rastreador. Prefira um carro discreto e abastecido ([[veiculos-combustivel]]). Como carro pessoal, uma SUV.\n11. **“Aperto X sem parar para correr.”** Correr é no {L3} ([[controles-cola]]).\n\n#### Hábitos novos para criar desde o começo\n- **Antes de qualquer roubo:** máscara, entrada pelos fundos, câmeras apagadas, alarme desligado, carro longe e uma muda de roupa no porta-malas. O checklist completo está em [[dinheiro-rotina-roubo]].\n- **Treine um personagem principal** no horário que o celular sugere e medite em todo ponto que achar ([[personagens-treino]]).\n- **Minimapa Clássico e câmeras cinematográficas desligadas** antes de sair das Keys. O guia de ajustes aceita “Sempre ligado” ou “Clássico” para o minimapa: [[config-recomendada]].\n- **Explore devagar:** Illegal Operations, pontos de meditação e eventos só aparecem para quem anda pelo mapa ([[dinheiro-illegal-ops]], [[mundo-eventos]]).",
   "src": [
    "Kotaku",
    "nettoge (JP)",
    "Rockstar",
-   "Wccftech"
+   "Wccftech",
+   "Inven (KR)",
+   "PowerPyx"
   ],
   "kw": [
    "habitos",
    "erros de veterano",
    "gta 5",
-   "dicas para veteranos"
-  ],
-  "added": "2026-11-18",
-  "en": {
-   "title": "GTA V habits that no longer work",
-   "sum": "11 old reflexes that now cost you.",
-   "body": "1. **“I'll take any parked car.”** Early on, only cheap ones. Expensive cars need tools, and some have trackers. Use the scanner.\n2. **“I carry the whole arsenal.”** It's 2 pistols and 2 longarms; the rest stays in the trunk. A visible longarm draws attention.\n3. **“I run, the stars clear, done.”** Police keep your outfit, face and car. Change everything before going back.\n4. **“Headshot everyone.”** Your Criminal Profile worsens and police start coming to kill. Aim for limbs with Focus.\n5. **“Switch characters to clear the wanted level.”** What works now is splitting the duo.\n6. **“Get rich on stocks and property.”** They don't exist. Money comes from robbery and fences.\n7. **“Replay the mission for gold.”** No replay, no medals. Use manual saves.\n8. **“Cross the map in one skip.”** Skipping a RydeMe trip costs $100. Plan routes and use character switching.\n9. **“Ignore calls.”** The relationship matters at the end.\n10. **“Stolen supercar for the getaway.”** It may be on empty and tracked. Pick a low-key car with fuel.\n11. **“Mash X to sprint.”** Sprint is {L3}.",
-   "kw": [
-    "habits",
-    "veteran mistakes",
-    "gta 5",
-    "tips for veterans"
-   ]
-  }
- },
- {
-  "kind": "card",
-  "id": "veteranos-dicas",
-  "sec": "veteranos",
-  "sub": "mudou",
-  "tipo": "dica",
-  "conf": "jogo",
-  "ch": [
-   "geral"
-  ],
-  "title": "Dicas rápidas para veteranos",
-  "sum": "O resumo para quem já zerou tudo.",
-  "body": "- **Antes de qualquer roubo:** máscara, entrada pelos fundos, câmeras apagadas, alarme desligado, carro longe e uma muda de roupa no porta-malas.\n- **Mire na estrela vazada:** se ninguém identificou você, não há perseguição.\n- **Sempre em dupla nos roubos médios e grandes:** o parceiro controla a multidão, leva sacola extra e atira na fuga.\n- **Perfil “Profissional” desde o começo:** é muito mais difícil consertar depois.\n- **Treine um personagem principal** no horário que o celular sugere e medite em todo ponto que achar.\n- **Primeiro gasto grande: uma garagem.** Ela é cofre, arsenal e depósito. Como carro pessoal, uma SUV.\n- **Save manual antes de cada missão importante.**\n- **Minimapa Clássico e câmeras cinematográficas desligadas** antes de sair das Keys.\n- **Explore devagar:** Illegal Operations, pontos de meditação e eventos só aparecem para quem anda pelo mapa.",
-  "src": [
-   "Rockstar",
-   "Kotaku",
-   "Inven (KR)",
-   "PowerPyx"
-  ],
-  "kw": [
+   "dicas para veteranos",
    "dicas",
    "veterano",
    "resumo"
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Quick tips for veterans",
-   "sum": "The summary for people who've beaten them all.",
-   "body": "- **Before any robbery:** mask, back-door entry, cameras wiped, alarm off, car parked away and a spare outfit in the trunk.\n- **Aim for hollow stars:** if nobody identified you, there's no chase.\n- **Always go as a duo on medium and big jobs:** your partner controls the crowd, carries an extra bag and shoots during the getaway.\n- **“Professional” profile from the start:** it's much harder to fix later.\n- **Train one main character** at the time the phone suggests, and meditate at every spot you find.\n- **First big purchase: a garage.** It's a safe, an arsenal and storage. For a personal vehicle, an SUV.\n- **Manual save before every important mission.**\n- **Classic minimap and cinematic cameras off** before leaving the Keys.\n- **Explore slowly:** Illegal Operations, meditation spots and events only show up for those who roam the map.",
+   "title": "GTA V habits that no longer work",
+   "sum": "11 old reflexes that now cost you, and what to do instead.",
+   "body": "1. **“I'll take any parked car.”** Early on, only cheap ones. Expensive cars need tools, and some have trackers. Use the scanner: [[veiculos-roubo]] and [[veiculos-waink]].\n2. **“I carry the whole arsenal.”** It's 2 pistols and 2 longarms; the rest stays in the trunk. A visible longarm draws attention. See [[armas-porte]].\n3. **“I run, the stars clear, done.”** Police keep your outfit, face and car. Change everything before going back ([[policia-heat]]). **Aim for hollow stars:** if nobody identified you, there's no chase ([[policia-estrelas]]).\n4. **“Headshot everyone.”** Your Criminal Profile worsens and police start coming to kill. Aim for limbs with Focus. **“Professional” profile from the start:** it's much harder to fix later ([[policia-perfil]]).\n5. **“Switch characters to clear the wanted level.”** What works now is splitting the duo. **Always go as a duo on medium and big jobs:** your partner controls the crowd, carries an extra bag and shoots during the getaway ([[personagens-dupla]]).\n6. **“Get rich on stocks and property.”** They don't exist ([[dinheiro-nao-existe]]). Money comes from robbery and fences. **First big purchase:** Scooter Bros Premium. Use the free garage and buy **a garage** only when you run out of slots; it's a safe, an arsenal and storage ([[compras-prioridade]], [[compras-garagens]]).\n7. **“Replay the mission for gold.”** No replay, no medals. **Manual save before every important mission** ([[perdiveis-saves]]).\n8. **“Cross the map in one skip.”** Skipping a RydeMe trip costs $100. Plan routes and use character switching ([[mundo-deslocamento]]).\n9. **“Ignore calls.”** The relationship matters at the end ([[personagens-relacao]]).\n10. **“Stolen supercar for the getaway.”** It may be on empty and tracked. Pick a low-key car with fuel ([[veiculos-combustivel]]). For a personal vehicle, an SUV.\n11. **“Mash X to sprint.”** Sprint is {L3} ([[controles-cola]]).\n\n#### New habits to build from the start\n- **Before any robbery:** mask, back-door entry, cameras wiped, alarm off, car parked away and a spare outfit in the trunk. The full checklist is in [[dinheiro-rotina-roubo]].\n- **Train one main character** at the time the phone suggests, and meditate at every spot you find ([[personagens-treino]]).\n- **Classic minimap and cinematic cameras off** before leaving the Keys. The settings guide accepts “Always on” or “Classic” for the minimap: [[config-recomendada]].\n- **Explore slowly:** Illegal Operations, meditation spots and events only show up for those who roam the map ([[dinheiro-illegal-ops]], [[mundo-eventos]]).",
    "kw": [
+    "habits",
+    "veteran mistakes",
+    "gta 5",
+    "tips for veterans",
     "tips",
     "veteran",
     "summary"
    ]
-  },
-  "$mergeInto": "veteranos-habitos"
+  }
  },
  {
   "kind": "card",
@@ -84,8 +55,8 @@
   "ch": [
    "geral"
   ],
-  "title": "Do GTA V para o GTA VI",
-  "sum": "Como era e como ficou.",
+  "title": "GTA V × GTA VI: tabela de mudanças",
+  "sum": "15 sistemas lado a lado: polícia, armas, dinheiro, carros e deslocamento.",
   "table": {
    "cols": [
     "Tema",
@@ -101,7 +72,7 @@
     [
      "Gatilho do procurado",
      "Crime quase sempre detectado",
-     "Testemunha, denúncia, alarme, câmera ou rastreador"
+     "Testemunha, denúncia, alarme, câmera ou rastreador ([[policia-evitar]])"
     ],
     [
      "Polícia no minimapa",
@@ -111,62 +82,62 @@
     [
      "Memória da polícia",
      "Esquece quando as estrelas somem",
-     "Lembra roupa, rosto, carro, arma, dupla e câmera"
+     "Lembra roupa, rosto, carro, arma, dupla e câmera ([[policia-heat]])"
     ],
     [
      "Trocar de personagem na fuga",
      "Zerava o procurado",
-     "Separar a dupla reduz uma estrela"
+     "Separar a dupla reduz uma estrela, segundo a GTABase ([[personagens-dupla]])"
     ],
     [
      "Armas",
      "Arsenal invisível",
-     "2 pistolas e 2 longas; o resto no porta-malas"
+     "2 pistolas e 2 longas; o resto no porta-malas ([[armas-porte]])"
     ],
     [
      "Morrer",
      "Taxa de hospital",
-     "Perde todo o dinheiro vivo"
+     "Perde todo o dinheiro vivo e, segundo a IGN, um pouco da conta corrente ([[policia-preso]])"
     ],
     [
      "Dinheiro",
      "Bolsa de valores e missões do Lester",
-     "Crime ativo e receptadores; sem bolsa nem negócios"
+     "Crime ativo e receptadores; sem bolsa nem negócios ([[dinheiro-nao-existe]])"
     ],
     [
      "Roubo de carro",
      "Um botão em qualquer carro",
-     "Vidro, Slim Jim e Key Cloner; rastreadores"
+     "Vidro, Slim Jim e Key Cloner; rastreadores ([[veiculos-roubo]])"
     ],
     [
      "Missões",
      "Rejogar missões e medalhas",
-     "Nenhum dos dois"
+     "Nenhum dos dois ([[dinheiro-nao-existe]])"
     ],
     [
      "Primeira pessoa",
      "Modo completo",
-     "Só em veículos e lunetas"
+     "Só em veículos e lunetas ([[dinheiro-nao-existe]])"
     ],
     [
      "Deslocamento",
      "Táxi com pulo",
-     "RydeMe (US$ 100 para pular), ônibus, trem e troca de personagem"
+     "RydeMe (US$ 100 para pular), ônibus, trem e troca de personagem ([[mundo-deslocamento]])"
     ],
     [
      "Combustível",
      "Não havia",
-     "Existe"
+     "Existe ([[veiculos-combustivel]])"
     ],
     [
      "Corpo",
      "Atributos simples",
-     "Treino no estilo San Andreas, com cara de RDR2"
+     "Treino no estilo San Andreas, com cara de RDR2 ([[personagens-treino]])"
     ],
     [
      "Reputação",
      "Não havia",
-     "Perfil Criminal"
+     "Perfil Criminal ([[policia-perfil]])"
     ]
    ],
    "sort": false
@@ -188,8 +159,8 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "From GTA V to GTA VI",
-   "sum": "How it was and how it is now.",
+   "title": "GTA V × GTA VI: table of changes",
+   "sum": "15 systems side by side: police, weapons, money, cars and getting around.",
    "table": {
     "cols": [
      "Topic",
@@ -205,7 +176,7 @@
      [
       "Wanted trigger",
       "Crime almost always detected",
-      "Witness, phone report, alarm, camera or tracker"
+      "Witness, phone report, alarm, camera or tracker ([[policia-evitar]])"
      ],
      [
       "Police on the minimap",
@@ -215,62 +186,62 @@
      [
       "Police memory",
       "Forgets when the stars clear",
-      "Remembers outfit, face, car, weapon, duo and camera"
+      "Remembers outfit, face, car, weapon, duo and camera ([[policia-heat]])"
      ],
      [
       "Switching character mid-chase",
       "Cleared the wanted level",
-      "Splitting the duo drops one star"
+      "Splitting the duo drops one star, per GTABase ([[personagens-dupla]])"
      ],
      [
       "Weapons",
       "Invisible arsenal",
-      "2 pistols and 2 longarms; the rest in the trunk"
+      "2 pistols and 2 longarms; the rest in the trunk ([[armas-porte]])"
      ],
      [
       "Dying",
       "Hospital fee",
-      "Lose all pocket cash"
+      "Lose all pocket cash and, per IGN, a little from checking ([[policia-preso]])"
      ],
      [
       "Money",
       "Stock market and Lester's missions",
-      "Active crime and fences; no stocks or businesses"
+      "Active crime and fences; no stocks or businesses ([[dinheiro-nao-existe]])"
      ],
      [
       "Car theft",
       "One button on any car",
-      "Window, Slim Jim and Key Cloner; trackers"
+      "Window, Slim Jim and Key Cloner; trackers ([[veiculos-roubo]])"
      ],
      [
       "Missions",
       "Replay and medals",
-      "Neither"
+      "Neither ([[dinheiro-nao-existe]])"
      ],
      [
       "First person",
       "Full mode",
-      "Only in vehicles and scopes"
+      "Only in vehicles and scopes ([[dinheiro-nao-existe]])"
      ],
      [
       "Getting around",
       "Taxi with skip",
-      "RydeMe ($100 to skip), buses, trains and character switching"
+      "RydeMe ($100 to skip), buses, trains and character switching ([[mundo-deslocamento]])"
      ],
      [
       "Fuel",
       "None",
-      "Yes"
+      "Yes ([[veiculos-combustivel]])"
      ],
      [
       "Body",
       "Simple stats",
-      "San Andreas-style training with an RDR2 feel"
+      "San Andreas-style training with an RDR2 feel ([[personagens-treino]])"
      ],
      [
       "Reputation",
       "None",
-      "Criminal Profile"
+      "Criminal Profile ([[policia-perfil]])"
      ]
     ],
     "sort": false
@@ -295,14 +266,15 @@
   "ch": [
    "geral"
   ],
-  "title": "O que não existe na economia",
-  "sum": "Esqueça a bolsa do Lester e os negócios do Vice City clássico.",
-  "body": "- **Bolsa de valores:** nenhum guia pós-lançamento menciona. O truque do Lester no GTA V não tem equivalente.\n- **Negócios com renda passiva e compra de casas:** não existem. Os esconderijos vêm pela história; a única propriedade à venda é a garagem.\n- **Pesca como renda:** é pegar e soltar.\n- **Valores de pré-lançamento** (“US$ 80–100 mil por hora”, multiplicadores de receptador, BAWSAQ): inventados. Ignore.\n- **Cheat de dinheiro:** US$ 250.000, só depois da história, e desativa troféus e salvamento.",
+  "title": "O que não existe no GTA VI",
+  "sum": "Sem dificuldade, sem rejogar missões, sem primeira pessoa a pé, sem bolsa e sem negócios.",
+  "body": "#### No jogo e nos menus\n- **Seletor de dificuldade:** não existe; a dificuldade é uma só. O ajuste real é a mira ([[config-recomendada]]).\n- **Rejogar missões e medalhas:** não existe. Só um save manual antigo volta no tempo ([[perdiveis-saves]]).\n- **Primeira pessoa tradicional a pé:** não existe, segundo a VGC. Há visão em primeira pessoa em alguns veículos, mira pela luneta e um “olhar” em primeira pessoa parado.\n- **New Game Plus:** não existe.\n- **Suborno ou telefonema para limpar o procurado:** não existem; o serviço do Lester era do GTA Online ([[policia-evitar]]).\n\n#### Na economia\n- **Bolsa de valores:** nenhum guia pós-lançamento menciona. O truque do Lester no GTA V não tem equivalente.\n- **Negócios com renda passiva e compra de casas:** não existem. Os esconderijos vêm pela história; a única propriedade à venda é a garagem ([[compras-garagens]]).\n- **Pesca como renda:** é pegar e soltar.\n- **Valores de pré-lançamento** (“US$ 80–100 mil por hora”, multiplicadores de receptador, BAWSAQ): inventados. Ignore e veja [[fontes-evitar]].\n- **Cheat de dinheiro:** US$ 250.000, só depois da história, e desativa troféus e salvamento ([[perdiveis-cheats]]).",
   "src": [
    "PowerPyx",
    "GameSpot",
    "GrindMap",
-   "Vice"
+   "Vice",
+   "VGC"
   ],
   "kw": [
    "bolsa de valores",
@@ -312,13 +284,21 @@
    "negocios",
    "imoveis",
    "comprar casa",
-   "renda passiva"
+   "renda passiva",
+   "dificuldade",
+   "primeira pessoa",
+   "fps view",
+   "replay",
+   "medalhas",
+   "nao existe",
+   "new game plus",
+   "suborno"
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "What's not in the economy",
-   "sum": "Forget Lester's stock market and classic Vice City's businesses.",
-   "body": "- **Stock market:** no post-launch guide mentions one. GTA V's Lester trick has no equivalent.\n- **Passive-income businesses and buying houses:** don't exist. Safehouses come through the story; the only property for sale is garages.\n- **Fishing as income:** it's catch and release.\n- **Pre-launch numbers** (“$80–100k per hour”, fence multipliers, BAWSAQ): made up. Ignore them.\n- **Money cheat:** $250,000, only after the story, and it disables trophies and saving.",
+   "title": "What's not in GTA VI",
+   "sum": "No difficulty setting, no mission replay, no first person on foot, no stock market, no businesses.",
+   "body": "#### In the game and its menus\n- **Difficulty selector:** doesn't exist; there's one difficulty. The real lever is aim assist ([[config-recomendada]]).\n- **Mission replay and medals:** don't exist. Only an old manual save takes you back ([[perdiveis-saves]]).\n- **Traditional first person on foot:** doesn't exist, per VGC. There's first-person view in some vehicles, scope aiming and a standing first-person “look”.\n- **New Game Plus:** doesn't exist.\n- **Bribes or a phone call to clear the wanted level:** don't exist; Lester's service was a GTA Online thing ([[policia-evitar]]).\n\n#### In the economy\n- **Stock market:** no post-launch guide mentions one. GTA V's Lester trick has no equivalent.\n- **Passive-income businesses and buying houses:** don't exist. Safehouses come through the story; the only property for sale is garages ([[compras-garagens]]).\n- **Fishing as income:** it's catch and release.\n- **Pre-launch numbers** (“$80–100k per hour”, fence multipliers, BAWSAQ): made up. Ignore them and see [[fontes-evitar]].\n- **Money cheat:** $250,000, only after the story, and it disables trophies and saving ([[perdiveis-cheats]]).",
    "kw": [
     "stock market",
     "stocks",
@@ -327,51 +307,19 @@
     "businesses",
     "property",
     "buy house",
-    "passive income"
-   ]
-  }
- },
- {
-  "kind": "card",
-  "id": "config-nao-existe",
-  "sec": "veteranos",
-  "sub": "falta",
-  "tipo": "dado",
-  "conf": "jogo",
-  "ch": [
-   "pre"
-  ],
-  "title": "O que não existe nos menus",
-  "sum": "Sem dificuldade, sem rejogar missões, sem primeira pessoa a pé.",
-  "body": "- **Seletor de dificuldade:** não existe; a dificuldade é uma só. O ajuste real é a mira.\n- **Rejogar missões e medalhas:** não existe. Só um save manual antigo volta no tempo.\n- **Primeira pessoa tradicional a pé:** não existe, segundo a VGC. Há visão em primeira pessoa em alguns veículos, mira pela luneta e um “olhar” em primeira pessoa parado.\n- **New Game Plus:** não existe.",
-  "div": "Um guia de configurações diz que a primeira pessoa está disponível; a VGC e a análise para veteranos dizem que não há modo tradicional a pé.",
-  "src": [
-   "GameSpot",
-   "PowerPyx",
-   "VGC"
-  ],
-  "kw": [
-   "dificuldade",
-   "primeira pessoa",
-   "fps view",
-   "replay",
-   "medalhas"
-  ],
-  "added": "2026-11-18",
-  "en": {
-   "title": "What's not in the menus",
-   "sum": "No difficulty, no mission replay, no first person on foot.",
-   "body": "- **Difficulty selector:** doesn't exist; there's one difficulty. The real lever is aim assist.\n- **Mission replay and medals:** don't exist. Only an old manual save takes you back.\n- **Traditional first person on foot:** doesn't exist, per VGC. There's first-person view in some vehicles, scope aiming and a standing first-person “look”.\n- **New Game Plus:** doesn't exist.",
-   "div": "One settings guide says first person is available; VGC and the veterans' review say there's no traditional on-foot mode.",
-   "kw": [
+    "passive income",
     "difficulty",
     "first person",
     "replay",
     "medals",
-    "ng+"
-   ]
+    "ng+",
+    "doesn't exist",
+    "new game plus",
+    "bribe"
+   ],
+   "div": "One settings guide says first person is available; VGC and the veterans' review say there's no traditional on-foot mode."
   },
-  "$mergeInto": "dinheiro-nao-existe"
+  "div": "Um guia de configurações diz que a primeira pessoa está disponível; a VGC e a análise para veteranos dizem que não há modo tradicional a pé."
  },
  {
   "kind": "card",

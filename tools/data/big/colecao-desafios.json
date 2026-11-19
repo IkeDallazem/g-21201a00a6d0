@@ -9,7 +9,7 @@
  ],
  "title": "Os 80 desafios",
  "sum": "8 categorias de 10. Para os 100% bastam 70.",
- "body": "Ficam no menu Progress. Marque aqui o que já fez. * = sem morrer nem ser preso.\n- **Fáceis de fazer cedo:** Gym Member, Mugging, Vehicle Discovery, WAiNK Locations, Basketball Rookie, Alligator Kills.\n- **Planeje:** Nest Egg (US$ 1,5 milhão na conta corrente), Pro Angler, Legendary Hunter, Basketball Pro e Helipad Flyovers.",
+ "body": "Ficam no menu Progress. Marque aqui o que já fez. * = sem morrer nem ser preso.\n- **Fáceis de fazer cedo:** Gym Member, Mugging, Vehicle Discovery, WAiNK Locations, Basketball Rookie, Alligator Kills.\n- **Planeje:** Nest Egg (US$ 1,5 milhão na conta corrente), Pro Angler ([[mundo-pesca]]), Legendary Hunter, Basketball Pro ([[colecao-cestas]]) e Helipad Flyovers.\n- **Deixe para depois do Cap. 3:** Heavily Armed (mais de US$ 50 mil gastos na Ammu-Nation) e Stylishly Armed (cosméticos em 5 armas curtas e 5 longas).\n- **Vendas para os 100%** (narcóticos, joias, notas marcadas, veículos) não são desafios: as metas estão em [[colecao-100]].",
  "check": [
   {
    "id": "d-speed-kills",
@@ -333,7 +333,8 @@
   }
  ],
  "src": [
-  "IGN"
+  "IGN",
+  "PowerPyx"
  ],
  "kw": [
   "desafios",
@@ -345,7 +346,7 @@
  "en": {
   "title": "The 80 challenges",
   "sum": "8 categories of 10. You need 70 for 100%.",
-  "body": "They live in the Progress menu. Tick what you've done. * = without dying or being arrested.\n- **Easy early:** Gym Member, Mugging, Vehicle Discovery, WAiNK Locations, Basketball Rookie, Alligator Kills.\n- **Plan ahead:** Nest Egg ($1.5 million in checking), Pro Angler, Legendary Hunter, Basketball Pro and Helipad Flyovers.",
+  "body": "They live in the Progress menu. Tick what you've done. * = without dying or being arrested.\n- **Easy early:** Gym Member, Mugging, Vehicle Discovery, WAiNK Locations, Basketball Rookie, Alligator Kills.\n- **Plan ahead:** Nest Egg ($1.5 million in checking), Pro Angler ([[mundo-pesca]]), Legendary Hunter, Basketball Pro ([[colecao-cestas]]) and Helipad Flyovers.\n- **Leave until after Ch. 3:** Heavily Armed (over $50k spent at Ammu-Nation) and Stylishly Armed (cosmetics on 5 sidearms and 5 longarms).\n- **Sales for 100%** (narcotics, jewelry, marked bills, vehicles) aren't challenges: the targets are in [[colecao-100]].",
   "kw": [
    "challenges",
    "progress",
@@ -672,6 +673,8 @@
     "id": "d-train-jump",
     "t": "**Train Jump** (Vehicle) — Jump a motorcycle 75 feet or more onto a moving train twice in 20 minutes"
    }
-  ]
- }
+  ],
+  "div": "Nest Egg: the challenge text (IGN) asks for $1.5 million in the BuckMe checking account; PowerPyx says $1.5 million in savings. This guide follows the challenge text."
+ },
+ "div": "Nest Egg: o texto do desafio (IGN) pede US$ 1,5 milhão na conta corrente BuckMe; a PowerPyx fala em US$ 1,5 milhão guardado na poupança. O guia segue o texto do desafio."
 }

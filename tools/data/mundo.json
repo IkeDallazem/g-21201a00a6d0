@@ -10,8 +10,8 @@
    "geral"
   ],
   "title": "Leonida: regiões e tamanho",
-  "sum": "6 regiões, 5 condados, cerca de 2× o mapa do GTA V.",
-  "body": "- **Condados:** Mariana, Vice-Dale (onde fica Vice City), Kelly, Leonard e Lummox.\n- **Tamanho:** ~2× o GTA V e 3× o RDR2. A Kotaku levou mais de 3 horas para atravessar a pé.\n- **Densidade:** mais de 600 lojas, 121 bares, 72 lojas de conveniência, 24 Ammu-Nations, 57 postos, 19 Pay 'n' Spray, 14 oficinas e 14 garagens marcadas. Todas as lojas abrem 24 horas. Não dá para entrar em todos os prédios.\n- **Névoa:** áreas não visitadas ficam encobertas. Um avião limpa rápido (o recomendado fica no aeroporto de Vice City). Não há pontes bloqueadas depois de Gone Fishing.",
+  "sum": "Estado inspirado na Flórida: 6 regiões, 5 condados, cerca de 2× o mapa do GTA V.",
+  "body": "- **Leonida** é o estado inspirado na Flórida. As 6 regiões estão na tabela.\n- **Condados:** Mariana, Vice-Dale (onde fica Vice City), Kelly, Leonard e Lummox.\n- **Tamanho:** ~2× o GTA V e 3× o RDR2. Só Vice City tem o dobro de Los Santos. A Kotaku levou mais de 3 horas para atravessar a pé.\n- **Densidade:** mais de 600 lojas, 121 bares, 72 lojas de conveniência, 24 Ammu-Nations, 57 postos, 19 Pay 'n' Spray, 14 oficinas e 14 garagens marcadas. Todas as lojas abrem 24 horas. Não dá para entrar em todos os prédios.\n- **Névoa:** áreas não visitadas ficam encobertas. Um avião limpa rápido (o recomendado fica no aeroporto de Vice City). Não há pontes bloqueadas depois de Gone Fishing.\n- **Protagonistas:** **Jason Duval** e **Lucia Caminos**. A Lucia é a primeira protagonista mulher obrigatória da série. Cada um tem perfil criminal, atributos e pistola próprios: veja [[personagens-diferencas]] e [[personagens-troca]].",
   "table": {
    "cols": [
     "Região",
@@ -45,10 +45,11 @@
    ],
    "sort": false
   },
-  "div": "A PowerPyx conta 5 regiões principais; a Rockstar fala em 6. É só classificação.",
+  "div": "A PowerPyx conta 5 regiões principais; a Rockstar fala em 6. É só classificação. Ammu-Nations: 24 nesta contagem; [[armas-personalizar]] fala em 26 lojas.",
   "src": [
    "Rockstar",
    "Kotaku",
+   "Kotaku (Rob Nelson ao TGG)",
    "Wccftech",
    "PowerPyx"
   ],
@@ -61,13 +62,16 @@
    "port gellhorn",
    "ambrosia",
    "kalaga",
-   "tamanho do mapa"
+   "tamanho do mapa",
+   "protagonistas",
+   "florida",
+   "condados"
   ],
   "added": "2026-11-18",
   "en": {
    "title": "Leonida: regions and size",
-   "sum": "6 regions, 5 counties, about 2× GTA V's map.",
-   "body": "- **Counties:** Mariana, Vice-Dale (home of Vice City), Kelly, Leonard and Lummox.\n- **Size:** ~2× GTA V and 3× RDR2. Kotaku took over 3 hours to cross it on foot.\n- **Density:** 600+ stores, 121 bars, 72 convenience stores, 24 Ammu-Nations, 57 gas stations, 19 Pay 'n' Sprays, 14 mod shops and 14 marked garages. All stores are open 24 hours. Not every building can be entered.\n- **Fog:** unvisited areas stay covered. A plane clears it fast (the recommended one is at Vice City's airport). No bridges are blocked after Gone Fishing.",
+   "sum": "A Florida-inspired state: 6 regions, 5 counties, about 2× GTA V's map.",
+   "body": "- **Leonida** is the Florida-inspired state. Its 6 regions are in the table.\n- **Counties:** Mariana, Vice-Dale (home of Vice City), Kelly, Leonard and Lummox.\n- **Size:** ~2× GTA V and 3× RDR2. Vice City alone is twice Los Santos. Kotaku took over 3 hours to cross it on foot.\n- **Density:** 600+ stores, 121 bars, 72 convenience stores, 24 Ammu-Nations, 57 gas stations, 19 Pay 'n' Sprays, 14 mod shops and 14 marked garages. All stores are open 24 hours. Not every building can be entered.\n- **Fog:** unvisited areas stay covered. A plane clears it fast (the recommended one is at Vice City's airport). No bridges are blocked after Gone Fishing.\n- **Protagonists:** **Jason Duval** and **Lucia Caminos**. Lucia is the series' first mandatory female protagonist. Each has their own criminal profile, stats and pistol: see [[personagens-diferencas]] and [[personagens-troca]].",
    "table": {
     "cols": [
      "Region",
@@ -101,7 +105,7 @@
     ],
     "sort": false
    },
-   "div": "PowerPyx counts 5 main regions; Rockstar says 6. Just classification.",
+   "div": "PowerPyx counts 5 main regions; Rockstar says 6. Just classification. Ammu-Nations: 24 in this count; [[armas-personalizar]] says 26 stores.",
    "kw": [
     "map",
     "regions",
@@ -111,44 +115,12 @@
     "port gellhorn",
     "ambrosia",
     "kalaga",
-    "map size"
+    "map size",
+    "protagonists",
+    "florida",
+    "counties"
    ]
   }
- },
- {
-  "kind": "card",
-  "id": "inicio-leonida",
-  "sec": "mundo",
-  "sub": "mapa",
-  "tipo": "dado",
-  "conf": "oficial",
-  "ch": [
-   "geral"
-  ],
-  "title": "Jason, Lucia e Leonida em 30 segundos",
-  "sum": "Só o que a Rockstar mostrou oficialmente.",
-  "body": "- **Jason Duval** e **Lucia Caminos** são os protagonistas. A Lucia é a primeira protagonista mulher obrigatória da série. Cada um tem perfil criminal, atributos e pistola próprios.\n- **Leonida** é o estado inspirado na Flórida: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga National Park.\n- O mapa tem cerca de 2× o tamanho do GTA V e 3× o do RDR2. Só Vice City tem o dobro de Los Santos.\n- Mais em [[mundo-leonida]] e [[personagens-troca]].",
-  "src": [
-   "Rockstar",
-   "Kotaku (Rob Nelson ao TGG)"
-  ],
-  "kw": [
-   "protagonistas",
-   "mapa",
-   "tamanho"
-  ],
-  "added": "2026-11-18",
-  "en": {
-   "title": "Jason, Lucia and Leonida in 30 seconds",
-   "sum": "Only what Rockstar has officially shown.",
-   "body": "- **Jason Duval** and **Lucia Caminos** are the protagonists. Lucia is the series' first mandatory female protagonist. Each has their own criminal profile, stats and pistol.\n- **Leonida** is the Florida-inspired state: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga National Park.\n- The map is about 2× GTA V and 3× RDR2. Vice City alone is twice Los Santos.\n- More in [[mundo-leonida]] and [[personagens-troca]].",
-   "kw": [
-    "protagonists",
-    "map",
-    "size"
-   ]
-  },
-  "$mergeInto": "mundo-leonida"
  },
  {
   "kind": "card",
@@ -161,9 +133,9 @@
    "c1",
    "c2"
   ],
-  "title": "Como se deslocar",
-  "sum": "Não há teletransporte. Pular a corrida do RydeMe custa US$ 100.",
-  "body": "- **RydeMe** (app de carona): libera em “Buck Me”. Segure {L2} para falar com o motorista e segure {△} para **pular a corrida por US$ 100**, além da tarifa. Caro no começo.\n- **Táxi Paradise:** no Cap. 1, pelos contatos do celular (Gamersky).\n- **Ônibus e trens** com horário: baratos e bons para ver a paisagem.\n- **Trocar de personagem** é a viagem rápida grátis.\n- **Parceiro dirigindo:** libera o seu controle, mas não pula o trajeto.\n- Com pouco dinheiro, dirija: também ensina as estradas. Os trajetos entre missões são longos.",
+  "title": "Viagem rápida e transporte",
+  "sum": "Sem teletransporte: troque de personagem (grátis) ou pague US$ 100 para pular a corrida do RydeMe.",
+  "body": "- **RydeMe** (app de carona): libera em “Buck Me”. Segure {L2} para falar com o motorista e segure {△} para **pular a corrida por US$ 100**, além da tarifa. Caro no começo.\n- **Táxi Paradise:** no Cap. 1, pelos contatos do celular (Gamersky).\n- **Ônibus e trens** com horário: baratos e bons para ver a paisagem.\n- **Trocar de personagem** é a viagem rápida grátis. Só libera no meio do Cap. 2: veja [[personagens-troca]].\n- **Parceiro dirigindo:** libera o seu controle, mas não pula o trajeto.\n- Com pouco dinheiro, dirija: também ensina as estradas. Os trajetos entre missões são longos.",
   "div": "O Gamersky diz que o RydeMe só chega no Cap. 2 e que no Cap. 1 se usa o táxi Paradise; a PowerPyx liga o RydeMe à missão “Buck Me”, no Cap. 1. Uma análise inicial dizia que não havia viagem rápida; a Screen Rant confirmou o pulo pago.",
   "src": [
    "PowerPyx",
@@ -183,9 +155,9 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Getting around",
-   "sum": "No teleporting. Skipping a RydeMe trip costs $100.",
-   "body": "- **RydeMe** (ride app): unlocks in “Buck Me”. Hold {L2} to talk to the driver and hold {△} to **skip the trip for $100**, on top of the fare. Expensive early.\n- **Paradise Taxi:** in Ch. 1, through phone contacts (Gamersky).\n- **Buses and trains** on a schedule: cheap and good for sightseeing.\n- **Switching characters** is the free fast travel.\n- **Partner driving:** frees you up, but doesn't skip the trip.\n- Short on money, drive: it teaches you the roads too. Trips between missions are long.",
+   "title": "Fast travel and transport",
+   "sum": "No teleporting: switch characters (free) or pay $100 to skip a RydeMe trip.",
+   "body": "- **RydeMe** (ride app): unlocks in “Buck Me”. Hold {L2} to talk to the driver and hold {△} to **skip the trip for $100**, on top of the fare. Expensive early.\n- **Paradise Taxi:** in Ch. 1, through phone contacts (Gamersky).\n- **Buses and trains** on a schedule: cheap and good for sightseeing.\n- **Switching characters** is the free fast travel. It only unlocks mid-Chapter 2: see [[personagens-troca]].\n- **Partner driving:** frees you up, but doesn't skip the trip.\n- Short on money, drive: it teaches you the roads too. Trips between missions are long.",
    "div": "Gamersky says RydeMe only arrives in Ch. 2 and Ch. 1 uses Paradise Taxi; PowerPyx ties RydeMe to “Buck Me” in Ch. 1. An early review said there was no fast travel; Screen Rant confirmed the paid skip.",
    "kw": [
     "fast travel",
@@ -208,62 +180,142 @@
   "ch": [
    "geral"
   ],
-  "title": "Atividades e contagens",
-  "sum": "Rachas, drones, golfe, pesca, saltos e muito mais.",
-  "body": "Também há salto de paraquedas de prédios e penhascos (base jump), caça, mergulho atrás de naufrágios, boates, videogames e TV dentro do jogo, além de podcasts no carro ou de fone. Contagem da Wccftech; pode mudar.\n\n**Tesouros do Kenton (IGN):** 41 tesouros em 7 pontos de mergulho, a maioria em naufrágios (Nuestra Señora de la Ética Laxa, ao sul de Key Lento, de la Noche, Lujuriosa e del Ocio; Urca de Cinco Torres e de Santa Sierra). Baú enterrado: {L2} + {R2} e toque {✕} para puxar. Pawn shops compram os tesouros mesmo depois que o Kenton sai de cena.\n**Tanque Rhino já no Cap. 1 (IGN):** na base Mile Zero Air Station, no sudoeste, entrando pelo stunt jump “Mile Zero Air Station South”. Entrar dá 4 estrelas e 6 estrelas é morte certa: faça save antes. {R1} dispara o canhão.\n**Eventos:** cartazes e panfletos com WAiNK e folhetos, mapas, livros e revistas podem marcar locais e opcionais no mapa. Placas de venda de garagem e gritos altos costumam levar a encontros; o Focus mostra de onde vem o som.\n\n**Contagens completas (IGN):** 42 corridas de drone ([[colecao-drones]]), 130 stunt jumps, 200 Under the Bridge, 40 Knife Flights e 25 Base Jumps ([[colecao-stunts]]), 100 cestas ([[colecao-cestas]]), 39 corridas, 13 desafios de corrida, 12 provas de estande em 2 estandes (Rodgers Ranch e Griffin), 17 mesas de sinuca com 7 adversários, 35 espécies de peixe e 4 jogos de arcade (Bang For Your Buck, Street Trash 3: Dezombifier, Tenebrae Lux e Time Jackers: Rewind). A tabela acima é de antes do lançamento.",
+  "title": "Atividades: quantas existem de cada",
+  "sum": "Contagens do jogo real (IGN): 42 corridas de drone, 39 corridas, 17 mesas de sinuca, 35 peixes e 4 arcades. Mais a dica do tanque Rhino.",
+  "body": "As linhas “Jogo real” da tabela são da IGN. As linhas “Prévia” são da Wccftech, de antes do lançamento, e podem ter mudado: ela falava em 8 corridas de drone e 13 saltos de dublê marcados, e o jogo tem 42 e 130.\n\n#### O que mais dá para fazer\n- Salto de paraquedas de prédios e penhascos (base jump), caça, boates, videogames e TV dentro do jogo, além de podcasts no carro ou de fone.\n- **Mergulho e tesouros do Kenton:** 41 tesouros em 7 pontos de mergulho, a maioria em naufrágios (o Nuestra Señora de la Ética Laxa fica ao sul de Key Lento). Lugares, baú enterrado e venda em [[colecao-kenton]].\n- **Eventos aleatórios:** como achar em [[mundo-eventos]].\n\n#### Tanque Rhino já no Cap. 1\n- **Onde:** na base Mile Zero Air Station, no sudoeste. Entre pelo stunt jump “Mile Zero Air Station South” ([[colecao-stunts]]).\n- **Faça save antes:** entrar dá 4 estrelas, e 6 estrelas é morte certa.\n- {R1} dispara o canhão.",
   "table": {
    "cols": [
     "Atividade",
-    "Quantidade"
+    "Quantidade",
+    "Fonte",
+    "Detalhes"
    ],
    "rows": [
     [
+     "Corridas de drone",
+     "42",
+     "Jogo real",
+     "[[colecao-drones]]"
+    ],
+    [
+     "Stunt jumps",
+     "130",
+     "Jogo real",
+     "[[colecao-stunts]]"
+    ],
+    [
+     "Under the Bridge",
+     "202",
+     "Jogo real",
+     "[[colecao-stunts]]"
+    ],
+    [
+     "Knife Flights",
+     "40",
+     "Jogo real",
+     "[[colecao-stunts]]"
+    ],
+    [
+     "Base Jumps",
+     "25",
+     "Jogo real",
+     "[[colecao-stunts]]"
+    ],
+    [
+     "Cestas de basquete",
+     "100",
+     "Jogo real",
+     "[[colecao-cestas]]"
+    ],
+    [
+     "Corridas",
+     "39",
+     "Jogo real",
+     "Metas em [[colecao-100]]"
+    ],
+    [
+     "Desafios de corrida",
+     "13",
+     "Jogo real",
+     "Metas em [[colecao-100]]"
+    ],
+    [
+     "Provas de estande de tiro",
+     "12, em 2 estandes",
+     "Jogo real",
+     "Rodgers Ranch e Griffin (IGN); [[armas-personalizar]] cita os estandes como Port Gellhorn e Balsero"
+    ],
+    [
+     "Mesas de sinuca",
+     "17, com 7 adversários",
+     "Jogo real",
+     "Metas em [[colecao-100]]"
+    ],
+    [
+     "Espécies de peixe",
+     "35",
+     "Jogo real",
+     "[[mundo-pesca]]"
+    ],
+    [
+     "Jogos de arcade",
+     "4",
+     "Jogo real",
+     "Bang For Your Buck, Street Trash 3: Dezombifier, Tenebrae Lux e Time Jackers: Rewind. [[mundo-jogos]]"
+    ],
+    [
      "Pontos de racha",
-     "4"
+     "4",
+     "Prévia",
+     "—"
     ],
     [
      "Cross-country",
-     "3"
+     "3",
+     "Prévia",
+     "—"
     ],
     [
      "Provas fora de estrada (Thrillbilly Mud Club)",
-     "8"
+     "8",
+     "Prévia",
+     "—"
     ],
     [
      "Autódromos",
-     "2"
-    ],
-    [
-     "Estandes de tiro",
-     "2"
-    ],
-    [
-     "Corridas de drone",
-     "8"
+     "2",
+     "Prévia",
+     "—"
     ],
     [
      "Campos de golfe",
-     "2, mais minigolfe"
+     "2, mais minigolfe",
+     "Prévia",
+     "—"
     ],
     [
      "Pontos de pesca",
-     "6"
-    ],
-    [
-     "Saltos de dublê marcados",
-     "13"
+     "6",
+     "Prévia",
+     "—"
     ],
     [
      "Academias",
-     "9, mais as ao ar livre"
+     "9, mais as ao ar livre",
+     "Prévia",
+     "—"
     ],
     [
      "Salões e barbearias",
-     "18"
+     "18",
+     "Prévia",
+     "—"
     ],
     [
      "Estúdios de tatuagem",
-     "11"
+     "11",
+     "Prévia",
+     "—"
     ]
    ],
    "sort": true
@@ -282,66 +334,152 @@
    "drone",
    "corrida",
    "tatuagem",
-   "salao"
+   "salao",
+   "contagens",
+   "tanque",
+   "rhino",
+   "mile zero",
+   "sinuca",
+   "arcade"
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Activities and counts",
-   "sum": "Street races, drones, golf, fishing, jumps and more.",
-   "body": "There's also base jumping, hunting, wreck diving, nightclubs, in-game video games and TV, plus podcasts in the car or on headphones. Count from Wccftech; may change.\n\n**Kenton's Treasures (IGN):** 41 treasures across 7 dive sites, mostly shipwrecks (Nuestra Señora de la Ética Laxa south of Key Lento, de la Noche, Lujuriosa and del Ocio; Urca de Cinco Torres and de Santa Sierra). Buried chest: {L2} + {R2} and tap {✕} to pull it out. Pawn shops still buy treasure after Kenton is gone.\n**Rhino Tank in Chapter 1 (IGN):** at Mile Zero Air Station in the southwest, via the “Mile Zero Air Station South” stunt jump. Getting in means 4 stars and 6 stars means certain death: save first. {R1} fires the cannon.\n**Events:** WAiNK posters and flyers, plus brochures, maps, books and magazines, can add locations and optional missions to your map. Yard sale signs and loud shouting often lead to encounters; Focus shows where the sound comes from.\n\n**Full counts (IGN):** 42 drone races ([[colecao-drones]]), 130 stunt jumps, 200 Under the Bridge, 40 Knife Flights and 25 Base Jumps ([[colecao-stunts]]), 100 hoops ([[colecao-cestas]]), 39 races, 13 racing challenges, 12 range events across 2 ranges (Rodgers Ranch and Griffin), 17 pool tables with 7 opponents, 35 fish species and 4 arcade games (Bang For Your Buck, Street Trash 3: Dezombifier, Tenebrae Lux and Time Jackers: Rewind). The table above is pre-launch.",
+   "title": "Activities: how many of each",
+   "sum": "Counts from the game (IGN): 42 drone races, 39 races, 17 pool tables, 35 fish and 4 arcade games. Plus the Rhino tank tip.",
+   "body": "The “From the game” rows in the table come from IGN. The “Preview” rows are Wccftech's pre-launch count and may have changed: it listed 8 drone races and 13 marked stunt jumps, and the game has 42 and 130.\n\n#### What else you can do\n- Base jumping off buildings and cliffs, hunting, nightclubs, in-game video games and TV, plus podcasts in the car or on headphones.\n- **Diving and Kenton's Treasures:** 41 treasures across 7 dive sites, mostly shipwrecks (Nuestra Señora de la Ética Laxa is south of Key Lento). Locations, the buried chest and selling are in [[colecao-kenton]].\n- **Random events:** how to find them in [[mundo-eventos]].\n\n#### Rhino tank as early as Chapter 1\n- **Where:** Mile Zero Air Station, in the southwest. Get in via the “Mile Zero Air Station South” stunt jump ([[colecao-stunts]]).\n- **Save first:** getting in means 4 stars, and 6 stars means certain death.\n- {R1} fires the cannon.",
    "table": {
     "cols": [
      "Activity",
-     "Count"
+     "Count",
+     "Source",
+     "Details"
     ],
     "rows": [
      [
+      "Drone races",
+      "42",
+      "From the game",
+      "[[colecao-drones]]"
+     ],
+     [
+      "Stunt jumps",
+      "130",
+      "From the game",
+      "[[colecao-stunts]]"
+     ],
+     [
+      "Under the Bridge",
+      "202",
+      "From the game",
+      "[[colecao-stunts]]"
+     ],
+     [
+      "Knife Flights",
+      "40",
+      "From the game",
+      "[[colecao-stunts]]"
+     ],
+     [
+      "Base Jumps",
+      "25",
+      "From the game",
+      "[[colecao-stunts]]"
+     ],
+     [
+      "Basketball hoops",
+      "100",
+      "From the game",
+      "[[colecao-cestas]]"
+     ],
+     [
+      "Races",
+      "39",
+      "From the game",
+      "Goals in [[colecao-100]]"
+     ],
+     [
+      "Racing challenges",
+      "13",
+      "From the game",
+      "Goals in [[colecao-100]]"
+     ],
+     [
+      "Shooting range events",
+      "12, across 2 ranges",
+      "From the game",
+      "Rodgers Ranch and Griffin (IGN); [[armas-personalizar]] names the ranges as Port Gellhorn and Balsero"
+     ],
+     [
+      "Pool tables",
+      "17, with 7 opponents",
+      "From the game",
+      "Goals in [[colecao-100]]"
+     ],
+     [
+      "Fish species",
+      "35",
+      "From the game",
+      "[[mundo-pesca]]"
+     ],
+     [
+      "Arcade games",
+      "4",
+      "From the game",
+      "Bang For Your Buck, Street Trash 3: Dezombifier, Tenebrae Lux and Time Jackers: Rewind. [[mundo-jogos]]"
+     ],
+     [
       "Street race spots",
-      "4"
+      "4",
+      "Preview",
+      "—"
      ],
      [
       "Cross-country",
-      "3"
+      "3",
+      "Preview",
+      "—"
      ],
      [
       "Off-road events (Thrillbilly Mud Club)",
-      "8"
+      "8",
+      "Preview",
+      "—"
      ],
      [
       "Racetracks",
-      "2"
-     ],
-     [
-      "Shooting ranges",
-      "2"
-     ],
-     [
-      "Drone races",
-      "8"
+      "2",
+      "Preview",
+      "—"
      ],
      [
       "Golf courses",
-      "2, plus mini golf"
+      "2, plus mini golf",
+      "Preview",
+      "—"
      ],
      [
       "Fishing spots",
-      "6"
-     ],
-     [
-      "Marked stunt jumps",
-      "13"
+      "6",
+      "Preview",
+      "—"
      ],
      [
       "Gyms",
-      "9, plus outdoor ones"
+      "9, plus outdoor ones",
+      "Preview",
+      "—"
      ],
      [
       "Salons and barbershops",
-      "18"
+      "18",
+      "Preview",
+      "—"
      ],
      [
       "Tattoo parlors",
-      "11"
+      "11",
+      "Preview",
+      "—"
      ]
     ],
     "sort": true
@@ -354,7 +492,13 @@
     "drone",
     "race",
     "tattoo",
-    "salon"
+    "salon",
+    "counts",
+    "tank",
+    "rhino",
+    "mile zero",
+    "pool",
+    "arcade"
    ]
   }
  },
@@ -368,14 +512,15 @@
   "ch": [
    "geral"
   ],
-  "title": "Strangers & Freaks e eventos",
-  "sum": "Muitos eventos não têm marcador: preste atenção.",
-  "body": "- **Strangers & Freaks** voltam. O **Kirk / Skunk Ape** começa no Cap. 1, só à noite, e termina no Cap. 2.\n- **Eventos dinâmicos:** policiais plantando provas num civil durante uma abordagem (dá para intervir), brigas de trânsito, acidentes, assaltos de terceiros que você pode roubar e o “Leonida Man”.\n- **Focus em exploração** mostra um efeito circular de áudio quando há um encontro único por perto.\n- O mundo reage: eventos viram notícia, post e boletim de rádio.",
+  "title": "Eventos aleatórios: como achar",
+  "sum": "Sem marcador no mapa: siga gritos, placas de venda de garagem e o efeito de áudio do Focus.",
+  "body": "#### Como achar\n- **Focus em exploração** mostra um efeito circular de áudio quando há um encontro único por perto, e de onde vem o som.\n- Placas de venda de garagem e gritos altos costumam levar a encontros.\n- Cartazes e panfletos com WAiNK e folhetos, mapas, livros e revistas podem marcar locais e opcionais no mapa.\n\n#### O que aparece\n- **Eventos dinâmicos:** policiais plantando provas num civil durante uma abordagem (dá para intervir), brigas de trânsito, acidentes, assaltos de terceiros que você pode roubar e o “Leonida Man”.\n- O mundo reage: eventos viram notícia, post e boletim de rádio.\n- **Strangers & Freaks** voltam; todas as linhas estão em [[missoes-strangers]]. O **Kirk / Skunk Ape** começa no Cap. 1 e só aparece à noite.",
   "src": [
    "Kotaku",
    "Wccftech",
    "The Big Lead",
-   "Inven (KR)"
+   "Inven (KR)",
+   "IGN"
   ],
   "kw": [
    "strangers and freaks",
@@ -383,20 +528,27 @@
    "encontros",
    "aleatorio",
    "kirk",
-   "skunk ape"
+   "skunk ape",
+   "venda de garagem",
+   "yard sale",
+   "gritos",
+   "cartazes"
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Strangers & Freaks and events",
-   "sum": "Many events have no marker: pay attention.",
-   "body": "- **Strangers & Freaks** are back. **Kirk / Skunk Ape** starts in Ch. 1, night only, and wraps up in Ch. 2. All strands are in [[missoes-strangers]].\n- **Dynamic events:** cops planting evidence on a civilian (you can step in), road rage, accidents, third-party robberies you can rob, and the “Leonida Man”.\n- **Focus while exploring** plays a circular audio cue when a unique encounter is nearby.\n- The world reacts: events become news, posts and radio bulletins.",
+   "title": "Random events: how to find them",
+   "sum": "No map marker: follow shouting, yard sale signs and the Focus audio cue.",
+   "body": "#### How to find them\n- **Focus while exploring** plays a circular audio cue when a unique encounter is nearby, and shows where the sound comes from.\n- Yard sale signs and loud shouting often lead to encounters.\n- WAiNK posters and flyers, plus brochures, maps, books and magazines, can add locations and optional missions to your map.\n\n#### What shows up\n- **Dynamic events:** cops planting evidence on a civilian during a stop (you can step in), road rage, accidents, third-party robberies you can rob, and the “Leonida Man”.\n- The world reacts: events become news, posts and radio bulletins.\n- **Strangers & Freaks** are back; all strands are in [[missoes-strangers]]. **Kirk / Skunk Ape** starts in Ch. 1 and only shows up at night.",
    "kw": [
     "strangers and freaks",
     "events",
     "encounters",
     "random",
     "kirk",
-    "skunk ape"
+    "skunk ape",
+    "yard sale",
+    "shouting",
+    "posters"
    ]
   }
  },
@@ -410,9 +562,9 @@
   "ch": [
    "geral"
   ],
-  "title": "Fauna e clima",
-  "sum": "Diário de vida selvagem com mais de 200 animais.",
-  "body": "- Estude animais com os binóculos: **100 de 255** contam para o 100%. Há 62 tipos de aves, jacarés, cobras, ursos e garças.\n- A caça existe (só o Jason vende as carcaças). A pesca é pegar e soltar e sobe o Focus.\n- Tempestades com raios causam incêndios na mata. **Furacões jogáveis não foram confirmados.**",
+  "title": "Animais, caça e clima",
+  "sum": "Estude 100 de 255 animais com os binóculos para os 100%. Só o Jason vende caça.",
+  "body": "- Estude animais com os binóculos: **100 de 255** contam para o 100% ([[colecao-100]]). Há 62 tipos de aves, jacarés, cobras, ursos e garças.\n- A caça existe, e só o Jason vende as carcaças: o contato está em [[personagens-diferencas]].\n- A pesca é pegar e soltar e sobe o Focus. Espécies e iscas em [[mundo-pesca]].\n- Tempestades com raios causam incêndios na mata. **Furacões jogáveis não foram confirmados.**",
   "src": [
    "PowerPyx",
    "Wccftech",
@@ -430,9 +582,9 @@
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Wildlife and weather",
-   "sum": "A wildlife journal with 200+ animals.",
-   "body": "- Study animals with the binoculars: **100 of 255** count toward 100%. There are 62 bird types, alligators, snakes, bears and herons.\n- Hunting exists (only Jason sells carcasses). Fishing is catch and release and raises Focus.\n- Lightning storms start wildfires. **Playable hurricanes are unconfirmed.**",
+   "title": "Animals, hunting and weather",
+   "sum": "Study 100 of 255 animals with the binoculars for 100%. Only Jason sells game.",
+   "body": "- Study animals with the binoculars: **100 of 255** count toward 100% ([[colecao-100]]). There are 62 bird types, alligators, snakes, bears and herons.\n- Hunting exists, and only Jason sells carcasses: his contact is in [[personagens-diferencas]].\n- Fishing is catch and release and raises Focus. Species and bait in [[mundo-pesca]].\n- Lightning storms start wildfires. **Playable hurricanes are unconfirmed.**",
    "kw": [
     "animals",
     "wildlife",
@@ -457,7 +609,7 @@
   ],
   "title": "NPCs e interação",
   "sum": "Cumprimente, provoque, acalme ou intimide.",
-  "body": "- O sistema do RDR2 foi expandido: segure {L2} para cumprimentar, provocar, zombar, acalmar ou intimidar. Ameaçar sem atirar pode evitar a violência; provocar a pessoa errada termina em tiro.\n- **Empatia**, inédita na série: pedir para fazer carinho num cachorro, ajudar vítimas de acidente, defender civis de abuso policial.\n- Alguns moradores andam armados e podem começar a violência sozinhos.\n- Os NPCs percebem quando você escuta a conversa deles ou os segue por muito tempo.",
+  "body": "- O sistema do RDR2 foi expandido: segure {L2} para cumprimentar, provocar, zombar, acalmar ou intimidar (todos os botões em [[controles-cola]]). Ameaçar sem atirar pode evitar a violência; provocar a pessoa errada termina em tiro.\n- **Empatia**, inédita na série: pedir para fazer carinho num cachorro, ajudar vítimas de acidente, defender civis de abuso policial.\n- Alguns moradores andam armados e podem começar a violência sozinhos.\n- Os NPCs percebem quando você escuta a conversa deles ou os segue por muito tempo.",
   "src": [
    "Rockstar",
    "Kotaku",
@@ -474,7 +626,7 @@
   "en": {
    "title": "NPCs and interaction",
    "sum": "Greet, taunt, defuse or intimidate.",
-   "body": "- RDR2's system, expanded: hold {L2} to greet, taunt, mock, defuse or intimidate. Threatening without firing can avoid violence; taunting the wrong person ends in gunfire.\n- **Empathy**, new to the series: asking to pet a dog, helping accident victims, defending civilians from police abuse.\n- Some locals are armed and may start violence on their own.\n- NPCs notice when you eavesdrop or follow them too long.",
+   "body": "- RDR2's system, expanded: hold {L2} to greet, taunt, mock, defuse or intimidate (all buttons in [[controles-cola]]). Threatening without firing can avoid violence; taunting the wrong person ends in gunfire.\n- **Empathy**, new to the series: asking to pet a dog, helping accident victims, defending civilians from police abuse.\n- Some locals are armed and may start violence on their own.\n- NPCs notice when you eavesdrop or follow them too long.",
    "kw": [
     "npc",
     "interaction",

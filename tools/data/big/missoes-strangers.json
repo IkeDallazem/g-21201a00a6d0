@@ -13,7 +13,7 @@
  ],
  "title": "Strangers & Freaks: as 14 linhas",
  "sum": "Quem dá, quando abre e se conta para o troféu de 8 linhas.",
- "body": "- O troféu **Strangers & Freaks** (prata) pede 8 linhas completas.\n- A próxima parte de uma linha pode demorar dias no jogo, ou só chegar num capítulo seguinte: o personagem liga quando estiver pronta.\n- Todas as que não são perdíveis continuam disponíveis depois da história.\n- O Kenton tem troféu próprio, mas a PowerPyx não o lista entre os Strangers & Freaks.\n- As partes que já estão nas listas dos capítulos (Shirley, Kyle, Bret 1, Billy 1–3, Yago, Eddie) têm o passo a passo lá. Abaixo, o passo a passo das outras.",
+ "body": "- O troféu **Strangers & Freaks** (prata) pede 8 linhas completas.\n- A próxima parte de uma linha pode demorar dias no jogo, ou só chegar num capítulo seguinte: o personagem liga quando estiver pronta.\n- Todas as que não são perdíveis continuam disponíveis depois da história.\n- O Kenton tem troféu próprio, mas a PowerPyx não o lista entre os Strangers & Freaks.\n- **Onde marcar:** Shirley em [[missoes-cap1]]; Kyle 1–2, Bret 1 e Billy 1–2 em [[missoes-cap2]]; Kyle 3, Billy 3 e Yago em [[missoes-cap3]]; Eddie em [[missoes-cap4]]. O passo a passo dessas partes está lá. Abaixo, o checklist e o passo a passo das outras.",
  "table": {
   "cols": [
    "Quem",
@@ -68,7 +68,7 @@
     "Billy",
     "2",
     "Solo na 3ª",
-    "Thrillbillies, Twist Wrist, Mall Rats, The Impaler, Hometown Heroes",
+    "Thrillbillies, Twist Wrist, Join Billy on a Job (Mall Rats), The Impaler, Hometown Heroes",
     "Não",
     "Troféu “The Lone Rider”"
    ],
@@ -78,7 +78,7 @@
     "Jason em 2",
     "Street Race, Bumper to Bumper, Race Against Yago, Brother to Brother",
     "Sim",
-    "Race Against Yago tem ampulheta"
+    "Race Against Yago tem ampulheta e é perdível"
    ],
    [
     "Andy",
@@ -311,7 +311,7 @@
   ],
   "title": "Strangers & Freaks: the 14 strands",
   "sum": "Who gives them, when they open and whether they count toward the 8-strand trophy.",
-  "body": "- The **Strangers & Freaks** trophy (silver) needs 8 complete strands.\n- A strand's next part can take in-game days, or only arrive in a later chapter: the character calls when it's ready.\n- All non-missable ones stay available after the story.\n- Kenton has his own trophy, but PowerPyx doesn't list him among Strangers & Freaks.\n- Parts already in the chapter lists (Shirley, Kyle, Bret 1, Billy 1–3, Yago, Eddie) have their walkthrough there. Below, the walkthrough for the rest.",
+  "body": "- The **Strangers & Freaks** trophy (silver) needs 8 complete strands.\n- A strand's next part can take in-game days, or only arrive in a later chapter: the character calls when it's ready.\n- All non-missable ones stay available after the story.\n- Kenton has his own trophy, but PowerPyx doesn't list him among Strangers & Freaks.\n- **Where to tick:** Shirley in [[missoes-cap1]]; Kyle 1–2, Bret 1 and Billy 1–2 in [[missoes-cap2]]; Kyle 3, Billy 3 and Yago in [[missoes-cap3]]; Eddie in [[missoes-cap4]]. The walkthrough for those parts is there. Below, the checklist and walkthrough for the rest.",
   "div": "PowerPyx confirms Kirk, Kyle, Yago and Pilot Pete as counting strands, and says Shirley, Billy, Andy, Yasmani, Tyrone and Eddie Acosta don't. Moses, Bret, Randy and Dunk aren't classified in the text; since 8 are needed, it should be those four. {{inferencia}}",
   "table": {
    "cols": [
@@ -367,7 +367,7 @@
      "Billy",
      "2",
      "Solo for the 3rd",
-     "Thrillbillies, Twist Wrist, Mall Rats, The Impaler, Hometown Heroes",
+     "Thrillbillies, Twist Wrist, Join Billy on a Job (Mall Rats), The Impaler, Hometown Heroes",
      "No",
      "Trophy “The Lone Rider”"
     ],
@@ -377,7 +377,7 @@
      "Jason for 2",
      "Street Race, Bumper to Bumper, Race Against Yago, Brother to Brother",
      "Yes",
-     "Race Against Yago has an hourglass"
+     "Race Against Yago has an hourglass and is missable"
     ],
     [
      "Andy",

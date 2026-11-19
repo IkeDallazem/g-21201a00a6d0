@@ -9,116 +9,204 @@
   "ch": [
    "geral"
   ],
-  "title": "Cola de controles",
-  "sum": "Os comandos que mais pegam quem vem do GTA V.",
+  "title": "Todos os comandos (cola)",
+  "sum": "Tabela de botões por situação: a pé, combate, exploração, carro, parceiro e menus.",
   "table": {
    "cols": [
+    "Onde",
     "Ação",
     "Comando",
     "Observação"
    ],
    "rows": [
     [
+     "A pé",
      "Correr",
      "{L3}",
-     "Toque de novo para a corrida máxima. Apertar {✕} repetido não funciona"
+     "Alterna andar e correr; toque de novo para a corrida máxima. Apertar {✕} repetido não funciona"
     ],
     [
+     "A pé",
+     "Pular",
+     "{✕}",
+     ""
+    ],
+    [
+     "A pé",
      "Olhar e falar com alguém (foco social)",
      "Segurar {L2}",
      "Cumprimentar, provocar, zombar ou acalmar"
     ],
     [
+     "A pé",
+     "Gesto obsceno",
+     "{L2} na pessoa + segurar {R1}",
+     ""
+    ],
+    [
+     "A pé",
      "Ameaçar",
      "{L2} + {□}",
      "Mire sem atirar: rende menos estrelas"
     ],
     [
+     "A pé",
+     "Tapa ou empurrão",
+     "{□} fora de combate",
+     "Perto de quem está ligando para a polícia, derruba o celular"
+    ],
+    [
+     "A pé",
      "Pegar o dinheiro do caixa",
      "{△}",
      "Ensinado no Prólogo"
     ],
     [
+     "Combate",
      "Sacar ou guardar a arma",
      "Toque em {L1}",
      ""
     ],
     [
+     "Combate",
      "Roda de equipamento",
      "Segurar {L1}",
      "{R1} alterna entre Armas e Itens"
     ],
     [
+     "Combate",
      "Curar",
      "{L1} + {□}",
      "Zombix e kits"
     ],
     [
+     "Combate",
      "Focus (exploração e combate)",
      "{L3} + {R3}",
      "Mirando, vira Combat Focus (câmera lenta)"
     ],
     [
+     "Combate",
      "Adrenalina (estende o Focus)",
      "Segurar {L1} e apertar {△}",
      ""
     ],
     [
+     "Exploração",
      "Mostrar HUD e objetivo",
      "{↓}",
      "Com o minimapa dinâmico"
     ],
     [
+     "Exploração",
+     "Ver o que há por perto",
+     "Segurar {↓}",
+     "Câmera lenta mostrando atividades e lugares; {R3} marca o destino sem abrir o mapa. Também mostra o estado e a gasolina do carro"
+    ],
+    [
+     "Exploração",
      "Waink (scanner de carros)",
      "Segurar {↑} para abrir, segurar {R1} para escanear",
      ""
     ],
     [
+     "Exploração",
      "Binóculos",
      "Segurar {L1} (roda), {↑} para zoom, segurar {R1} para estudar",
+     "Para estudar animais de longe"
+    ],
+    [
+     "Exploração",
+     "Estudar animal de perto",
+     "Segurar {L2} para olhar e {R1} para estudar",
+     "Vai para Progress → Animals"
+    ],
+    [
+     "Carro",
+     "Buzina",
+     "{L3}",
      ""
     ],
     [
-     "Abastecer",
-     "Segurar {R2}",
-     "Uns 10 segundos"
+     "Carro",
+     "Setas",
+     "{←} / {→} dirigindo",
+     ""
     ],
     [
+     "Carro",
+     "Rádio e funções do carro",
+     "Segurar {←}",
+     "Dirigindo ou de fone: rádio. Analógico direito para cima: faróis, motor e porta-malas; para baixo: podcasts"
+    ],
+    [
+     "Carro",
+     "Conversar com o parceiro",
+     "Segurar {↑} com os dois no carro",
+     "Sobe o relacionamento"
+    ],
+    [
+     "Carro",
      "Atacar com a porta do carro",
      "{□} dirigindo",
      "Abre a porta em quem estiver ao lado"
     ],
     [
-     "Empurrar veículo",
-     "Ande contra ele até o comando aparecer",
-     "Desencalha barco e desvira carro"
+     "Carro",
+     "Abastecer",
+     "Segurar {R2}",
+     "Uns 10 segundos"
     ],
     [
+     "Carro",
+     "Empurrar ou desvirar veículo",
+     "Ande contra ele até o comando aparecer; segure {□} para um empurrão forte",
+     "Desvira carro e desencalha barco pequeno"
+    ],
+    [
+     "Carro",
+     "Trocar de roupa no carro",
+     "Roda de armas dentro do carro, {R1}, ícone de cabide",
+     "Antes, no guarda-roupa, aba Outfits, {□} manda a roupa para o porta-malas"
+    ],
+    [
+     "Carro",
      "Pular a corrida do RydeMe",
      "Segurar {L2} (motorista) e segurar {△}",
      "US$ 100 além da tarifa"
     ],
     [
+     "Parceiro",
+     "Menu do parceiro e do relacionamento",
+     "Segurar {→}",
+     "Chamar, mandar dirigir, separar, entregar armas e sacolas"
+    ],
+    [
+     "Parceiro",
      "Chamar o parceiro",
      "Segurar {→} + {△}",
-     "Segundo a PowerPyx"
+     "Segundo a PowerPyx. Com os dois juntos, o mesmo comando aparece como “separar” ([[policia-dupla]]): siga a legenda na tela"
     ],
     [
+     "Parceiro",
      "Trocar Jason e Lucia",
-     "{→} ou {L1}",
-     "As fontes divergem; siga o aviso na tela"
+     "Segurar {→} + {R1}",
+     "Confirmado pela Eurogamer. Antes, a VGC falava só em {→} e a GameSpot em {L1}"
     ],
     [
+     "Menus",
      "Ver o Perfil Criminal",
      "Segurar {→}, ou mapa → {L1} → aba “Jason e Lucia”",
      ""
     ],
     [
+     "Menus",
      "Ver atributos",
      "{Touchpad} → Jason & Lucia",
      ""
     ],
     [
+     "Menus",
      "Salvar",
      "{Options} → Game → Save Game",
      "Fora de missões e do Prólogo"
@@ -126,14 +214,15 @@
    ],
    "sort": false
   },
-  "div": "Troca de personagem: a VGC fala em direcional para a direita; a GameSpot, em {L1}. Use o que o jogo indicar.",
   "src": [
    "nettoge (JP)",
    "PowerPyx",
    "GameSpot",
    "VGC",
    "The Big Lead",
-   "Ruliweb"
+   "Ruliweb",
+   "IGN",
+   "Eurogamer"
   ],
   "kw": [
    "botoes",
@@ -146,120 +235,217 @@
    "focus",
    "trocar personagem",
    "salvar",
-   "controle"
+   "controle",
+   "atalho",
+   "dpad",
+   "direcional",
+   "desvirar",
+   "roupa no carro",
+   "classic",
+   "radio",
+   "buzina",
+   "parceiro"
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Controls cheat sheet",
-   "sum": "The inputs that trip up GTA V players.",
+   "title": "All the controls (cheat sheet)",
+   "sum": "Button table by situation: on foot, combat, exploring, car, partner and menus.",
    "table": {
     "cols": [
+     "Where",
      "Action",
      "Input",
      "Note"
     ],
     "rows": [
      [
-      "Sprint",
+      "On foot",
+      "Run",
       "{L3}",
-      "Tap again for max sprint. Mashing {✕} doesn't work"
+      "Toggles walk and run; tap again for max sprint. Mashing {✕} doesn't work"
      ],
      [
+      "On foot",
+      "Jump",
+      "{✕}",
+      ""
+     ],
+     [
+      "On foot",
       "Look at and talk to someone (social focus)",
       "Hold {L2}",
       "Greet, taunt, mock or defuse"
      ],
      [
+      "On foot",
+      "Flip someone off",
+      "{L2} on the person + hold {R1}",
+      ""
+     ],
+     [
+      "On foot",
       "Threaten",
       "{L2} + {□}",
       "Aim without firing: earns fewer stars"
      ],
      [
+      "On foot",
+      "Slap or shove",
+      "{□} out of combat",
+      "Next to someone calling the cops, it knocks the phone out of their hand"
+     ],
+     [
+      "On foot",
       "Grab cash from the register",
       "{△}",
       "Taught in the Prologue"
      ],
      [
+      "Combat",
       "Draw or holster weapon",
       "Tap {L1}",
       ""
      ],
      [
+      "Combat",
       "Equipment wheel",
       "Hold {L1}",
       "{R1} switches between Weapons and Items"
      ],
      [
+      "Combat",
       "Heal",
       "{L1} + {□}",
       "Zombix and kits"
      ],
      [
+      "Combat",
       "Focus (exploration and combat)",
       "{L3} + {R3}",
       "While aiming it becomes Combat Focus (slow motion)"
      ],
      [
+      "Combat",
       "Adrenaline (extends Focus)",
       "Hold {L1} and press {△}",
       ""
      ],
      [
+      "Exploring",
       "Show HUD and objective",
       "{↓}",
       "With the dynamic minimap"
      ],
      [
+      "Exploring",
+      "See what's nearby",
+      "Hold {↓}",
+      "Slow-motion view of activities and landmarks; {R3} sets a waypoint without opening the map. It also shows your car's condition and fuel"
+     ],
+     [
+      "Exploring",
       "WAiNK (car scanner)",
       "Hold {↑} to open, hold {R1} to scan",
       ""
      ],
      [
+      "Exploring",
       "Binoculars",
       "Hold {L1} (wheel), {↑} to zoom, hold {R1} to study",
+      "For studying animals from afar"
+     ],
+     [
+      "Exploring",
+      "Study an animal up close",
+      "Hold {L2} to look and {R1} to study",
+      "Logged in Progress → Animals"
+     ],
+     [
+      "Car",
+      "Horn",
+      "{L3}",
       ""
      ],
      [
-      "Refuel",
-      "Hold {R2}",
-      "About 10 seconds"
+      "Car",
+      "Turn signals",
+      "{←} / {→} while driving",
+      ""
      ],
      [
+      "Car",
+      "Radio and car functions",
+      "Hold {←}",
+      "While driving or wearing headphones: radio. Right stick up: headlights, engine and trunk; down: podcasts"
+     ],
+     [
+      "Car",
+      "Talk to your partner",
+      "Hold {↑} with both in the car",
+      "Raises your relationship"
+     ],
+     [
+      "Car",
       "Car-door attack",
       "{□} while driving",
       "Swings the door into whoever's alongside"
      ],
      [
-      "Push a vehicle",
-      "Walk into it until the prompt shows",
-      "Frees a stuck boat and flips a car back"
+      "Car",
+      "Refuel",
+      "Hold {R2}",
+      "About 10 seconds"
      ],
      [
+      "Car",
+      "Push or flip a vehicle",
+      "Walk into it until the prompt shows; hold {□} for a big shove",
+      "Flips a car back and frees a small beached boat"
+     ],
+     [
+      "Car",
+      "Change outfit in the car",
+      "Weapon wheel inside the car, {R1}, hanger icon",
+      "First, at a wardrobe, Outfits tab, {□} adds the outfit to the trunk"
+     ],
+     [
+      "Car",
       "Skip a RydeMe trip",
       "Hold {L2} (driver) and hold {△}",
       "$100 on top of the fare"
      ],
      [
+      "Partner",
+      "Partner and relationship menu",
+      "Hold {→}",
+      "Call, ask to drive, split up, hand over weapons and stash bags"
+     ],
+     [
+      "Partner",
       "Call your partner",
       "Hold {→} + {△}",
-      "Per PowerPyx"
+      "Per PowerPyx. With both together, the same input shows up as “split up” ([[policia-dupla]]): follow the on-screen prompt"
      ],
      [
+      "Partner",
       "Switch Jason and Lucia",
-      "{→} or {L1}",
-      "Sources disagree; follow the on-screen prompt"
+      "Hold {→} + {R1}",
+      "Confirmed by Eurogamer. Earlier, VGC said just {→} and GameSpot said {L1}"
      ],
      [
+      "Menus",
       "See Criminal Profile",
       "Hold {→}, or map → {L1} → “Jason & Lucia” tab",
       ""
      ],
      [
+      "Menus",
       "See stats",
       "{Touchpad} → Jason & Lucia",
       ""
      ],
      [
+      "Menus",
       "Save",
       "{Options} → Game → Save Game",
       "Outside missions and the Prologue"
@@ -267,7 +453,6 @@
     ],
     "sort": false
    },
-   "div": "Character switch: VGC says D-pad right; GameSpot says {L1}. Use whatever the game prompts.",
    "kw": [
     "buttons",
     "controls",
@@ -277,9 +462,19 @@
     "heal",
     "focus",
     "switch character",
-    "save"
-   ]
-  }
+    "save",
+    "shortcut",
+    "d-pad",
+    "flip car",
+    "outfits in car",
+    "classic",
+    "radio",
+    "horn",
+    "partner"
+   ],
+   "body": "What trips up GTA V players most: running is {L3}, not {✕}. To get the old running back, switch the scheme to **Classic** in Options → Settings ([[config-recomendada]]). The table is for the default scheme. Tricks that aren't buttons are in [[controles-atalhos]]."
+  },
+  "body": "O que mais pega quem vem do GTA V: correr é {L3}, não {✕}. Para ter o correr antigo de volta, troque o esquema para **Classic** em Opções → Settings ([[config-recomendada]]). A tabela é do esquema padrão. Truques que não são botão estão em [[controles-atalhos]]."
  },
  {
   "kind": "card",
@@ -291,40 +486,39 @@
   "ch": [
    "geral"
   ],
-  "title": "Atalhos que quase ninguém conta",
-  "sum": "Comandos úteis tirados dos guias da IGN e da Eurogamer.",
-  "body": "- **Segure {↓}:** câmera lenta mostrando atividades e lugares por perto; {R3} marca o destino sem abrir o mapa. Também mostra o estado e a gasolina do carro.\n- **Segure {←}** dirigindo ou de fone: rádio; com o analógico direito para cima, faróis, motor e porta-malas; para baixo, podcasts.\n- **Segure {→}:** menu do parceiro e do relacionamento (chamar, mandar dirigir, separar, entregar armas e sacolas). Com {R1}, troca de personagem.\n- **Segure {↑}** com os dois no carro: conversar (sobe o relacionamento).\n- **{L3}:** andar ou correr (não há botão de correr); buzina, dirigindo. **{✕}:** pular.\n- **{L2}** foca numa pessoa para interagir; com {R1} segurado, gesto obsceno.\n- **{□} fora de combate:** tapa ou empurrão; perto de quem está ligando para a polícia, derruba o celular.\n- **Pausa > Brief:** revê diálogos e dicas. No celular, as mensagens importantes ficam em **Suggested**.\n- **Mensagem com localização:** abra o anexo e vira destino no GPS. **Settings > Audio > GPS Voice** liga a voz do GPS.\n- **Roupa no carro:** no guarda-roupa, aba Outfits, {□} manda a roupa para o porta-malas; troque pela roda de armas dentro do carro, {R1}, ícone de cabide.\n- **Desvirar carro:** empurre andando contra ele e segure {□} para um empurrão forte. Funciona com barco pequeno encalhado.\n- **Setas do carro:** {←}/{→} dirigindo. **Joey** (depois de Just a Scratch) entrega seu carro na hora e reboca se a gasolina acabar (a IGN pagou US$ 557).\n- **Pedágio:** US$ 5 por passagem no seu carro; carro roubado ou de outra pessoa não paga.\n- **Prédios com interior** aparecem contornados no minimapa e em cinza escuro no mapa.",
+  "title": "Truques de menu, GPS e estrada",
+  "sum": "Brief, mensagens que viram destino no GPS, o Joey e o pedágio. O que o jogo não explica e não é botão.",
+  "body": "Os botões, inclusive o que cada seta do direcional faz ao segurar, estão em [[controles-cola]].\n#### Menu e celular\n- **Pausa > Brief:** revê diálogos e dicas.\n- No celular, as mensagens importantes ficam em **Suggested**. Os apps estão em [[mundo-celular]].\n- **Mensagem com localização:** abra o anexo e vira destino no GPS.\n- **Settings > Audio > GPS Voice** liga a voz do GPS.\n#### Na estrada\n- **Joey** (depois de Just a Scratch) entrega seu carro na hora e reboca se a gasolina acabar (a IGN pagou US$ 557).\n- **Pedágio:** US$ 5 por passagem no seu carro; carro roubado ou de outra pessoa não paga.",
   "src": [
    "IGN",
    "Eurogamer"
   ],
   "kw": [
-   "atalho",
-   "comando",
-   "dpad",
-   "direcional",
    "brief",
+   "suggested",
+   "mensagens",
    "gps",
+   "voz do gps",
    "pedagio",
-   "desvirar",
-   "roupa no carro",
-   "joey"
+   "joey",
+   "reboque",
+   "truques"
   ],
   "added": "2026-11-19",
   "en": {
-   "title": "Shortcuts nobody tells you about",
-   "sum": "Handy controls from the IGN and Eurogamer guides.",
-   "body": "- **Hold {↓}:** slow-motion view of nearby activities and landmarks; {R3} sets a waypoint without opening the map. It also shows your car's condition and fuel.\n- **Hold {←}** while driving or wearing headphones: radio; right stick up for headlights, engine and trunk; down for podcasts.\n- **Hold {→}:** partner and relationship quick-menu (call, ask to drive, split up, hand over weapons and stash bags). Add {R1} to switch characters.\n- **Hold {↑}** with both in the car: talk (raises your relationship).\n- **{L3}:** walk or run (there's no sprint button); horn while driving. **{✕}:** jump.\n- **{L2}** focuses on a person to interact; holding {R1} flips them off.\n- **{□} out of combat:** slap or shove; next to someone calling the cops, it knocks the phone out of their hand.\n- **Pause > Brief:** review dialogue and help text. On your phone, important texts sit under **Suggested**.\n- **Texted location:** open the attachment and it becomes your GPS destination. **Settings > Audio > GPS Voice** turns on spoken directions.\n- **Outfits in the car:** at a wardrobe, Outfits tab, {□} adds an outfit to the trunk; change via the weapon wheel in the car, {R1}, hanger icon.\n- **Flip a car:** push by walking into it and hold {□} for a big shove. Works on small beached boats too.\n- **Turn signals:** {←}/{→} while driving. **Joey** (after Just a Scratch) delivers your car instantly and tows it if you run out of gas (IGN paid $557).\n- **Tolls:** $5 each pass in your own car; stolen or borrowed cars don't pay.\n- **Buildings with interiors** are outlined on the minimap and dark gray on the map.",
+   "title": "Menu, GPS and road tricks",
+   "sum": "Brief, texts that become GPS destinations, Joey and tolls. What the game doesn't explain and isn't a button.",
+   "body": "The buttons, including what each D-pad direction does when held, are in [[controles-cola]].\n#### Menu and phone\n- **Pause > Brief:** review dialogue and help text.\n- On your phone, important texts sit under **Suggested**. The apps are in [[mundo-celular]].\n- **Texted location:** open the attachment and it becomes your GPS destination.\n- **Settings > Audio > GPS Voice** turns on spoken directions.\n#### On the road\n- **Joey** (after Just a Scratch) delivers your car instantly and tows it if you run out of gas (IGN paid $557).\n- **Tolls:** $5 each pass in your own car; stolen or borrowed cars don't pay.",
    "kw": [
-    "shortcut",
-    "controls",
-    "d-pad",
     "brief",
+    "suggested",
+    "texts",
     "gps",
+    "gps voice",
     "toll",
-    "flip car",
-    "outfits in car",
-    "joey"
+    "joey",
+    "tow",
+    "tricks"
    ]
   }
  },
@@ -380,7 +574,7 @@
    "geral"
   ],
   "title": "Cores e ícones do mapa",
-  "sum": "Como ler as missões e os alvos no mapa.",
+  "sum": "Como ler missões, alvos, carros e prédios no mapa.",
   "body": "Se nenhuma missão aparecer, faça outras atividades ou durma: as missões chegam por mensagem no celular.",
   "table": {
    "cols": [
@@ -402,7 +596,7 @@
     ],
     [
      "Ampulheta",
-     "Tempo limitado: expira"
+     "Tempo limitado: expira (ex.: as roupas do Andy antes de Coming Home)"
     ],
     [
      "Livro rosa",
@@ -419,6 +613,10 @@
     [
      "Carro cinza no minimapa",
      "Roubado e não registrado: some quando você sai do jogo"
+    ],
+    [
+     "Prédio contornado no minimapa e cinza escuro no mapa",
+     "Tem interior para entrar"
     ]
    ],
    "sort": false
@@ -426,7 +624,8 @@
   "src": [
    "PowerPyx",
    "GameSpot",
-   "Famitsu"
+   "Famitsu",
+   "IGN"
   ],
   "kw": [
    "icones",
@@ -434,12 +633,14 @@
    "missao principal",
    "opcional",
    "ampulheta",
-   "legenda do mapa"
+   "legenda do mapa",
+   "interior",
+   "predios"
   ],
   "added": "2026-11-18",
   "en": {
    "title": "Map colors and icons",
-   "sum": "How to read missions and targets on the map.",
+   "sum": "How to read missions, targets, cars and buildings on the map.",
    "body": "If no mission shows up, do other activities or sleep: missions arrive as phone messages.",
    "table": {
     "cols": [
@@ -461,7 +662,7 @@
      ],
      [
       "Hourglass",
-      "Limited time: expires"
+      "Limited time: expires (e.g. Andy's clothes before Coming Home)"
      ],
      [
       "Pink book",
@@ -478,6 +679,10 @@
      [
       "Grey car on the minimap",
       "Stolen and unregistered: gone when you quit the game"
+     ],
+     [
+      "Building outlined on the minimap and dark gray on the map",
+      "Has an interior you can enter"
      ]
     ],
     "sort": false
@@ -488,7 +693,9 @@
     "main mission",
     "optional",
     "hourglass",
-    "map legend"
+    "map legend",
+    "interiors",
+    "buildings"
    ]
   }
  },
@@ -502,9 +709,9 @@
   "ch": [
    "geral"
   ],
-  "title": "Celular e apps",
-  "sum": "Os apps que você vai usar.",
-  "body": "O celular também tem mensagens e ligações do parceiro e dos amigos de cada um.\n\n**Apps (IGN):** Contatos, Câmera, Galeria, Notícias (Leonida Journal, Weazel News, Vice City Horn) e Tempo (previsão de 2 dias e pôr do sol). **Reminders** junta mensagens, notícias, posts e chamadas perdidas: vale abrir todo dia. Na **WhatUp**, fotos e coordenadas enviadas marcam o mapa sozinhas. **Scooter Bros** cobra taxa fixa mais distância. **Vice City Real Estate** vende garagens. Em **Settings** entram plugins liberados pela história: Cop Scanner e Key Cloner.\n- **Fitness:** também mostra o nível de Focus (meditação, pesca, basquete).\n- **BuckMe:** depósito só em caixa eletrônico; use o ATM Finder.",
+  "title": "Celular: todos os apps",
+  "sum": "Para que serve cada app. Abra o Reminders todo dia.",
+  "body": "O celular também tem mensagens e ligações do parceiro e dos amigos de cada um. Truques de mensagem e GPS: [[controles-atalhos]].",
   "table": {
    "cols": [
     "App",
@@ -512,12 +719,20 @@
    ],
    "rows": [
     [
+     "Reminders",
+     "Junta mensagens, notícias, posts e chamadas perdidas: vale abrir todo dia"
+    ],
+    [
+     "WhatUp",
+     "Mensagens (o Wyman chama por ele). Fotos e coordenadas enviadas marcam o mapa sozinhas"
+    ],
+    [
      "Waink / WAiNKar",
      "Scanner de carros e pedidos"
     ],
     [
      "BuckMe",
-     "Banco e poupança"
+     "Banco e poupança. Depósito só em caixa eletrônico; use o ATM Finder"
     ],
     [
      "RydeMe",
@@ -525,7 +740,7 @@
     ],
     [
      "Scooter Bros",
-     "Entrega e recuperação do carro"
+     "Entrega e recuperação do carro. Cobra taxa fixa mais distância"
     ],
     [
      "Vice City Real Estate",
@@ -533,11 +748,23 @@
     ],
     [
      "Fitness",
-     "Treino do dia e horário sugerido"
+     "Treino do dia e horário sugerido. Também mostra o nível de Focus (meditação, pesca, basquete)"
     ],
     [
-     "WhatUp",
-     "Mensagens (o Wyman chama por ele)"
+     "Notícias",
+     "Leonida Journal, Weazel News e Vice City Horn"
+    ],
+    [
+     "Tempo",
+     "Previsão de 2 dias e pôr do sol"
+    ],
+    [
+     "Contatos, Câmera e Galeria",
+     "O básico"
+    ],
+    [
+     "Settings",
+     "Recebe plugins liberados pela história: Cop Scanner e Key Cloner"
     ],
     [
      "Rede social",
@@ -557,13 +784,17 @@
    "apps",
    "telefone",
    "aplicativos",
-   "snapmatic"
+   "snapmatic",
+   "reminders",
+   "whatup",
+   "fitness",
+   "atm finder"
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Phone and apps",
-   "sum": "The apps you'll use.",
-   "body": "The phone also has messages and calls from your partner and each character's friends.\n\n**Apps (IGN):** Contacts, Camera, Gallery, News (Leonida Journal, Weazel News, Vice City Horn) and Weather (2-day forecast and sunset). **Reminders** gathers messages, news, posts and missed calls: worth opening daily. In **WhatUp**, photos and coordinates people send mark your map automatically. **Scooter Bros** charges a flat fee plus distance. **Vice City Real Estate** sells garages. **Settings** gets story-unlocked plugins: Cop Scanner and Key Cloner.\n- **Fitness:** also shows your Focus level (meditation, fishing, basketball).\n- **BuckMe:** deposits only at ATMs; use ATM Finder.",
+   "title": "Phone: every app",
+   "sum": "What each app is for. Open Reminders daily.",
+   "body": "The phone also has messages and calls from your partner and each character's friends. Message and GPS tricks: [[controles-atalhos]].",
    "table": {
     "cols": [
      "App",
@@ -571,12 +802,20 @@
     ],
     "rows": [
      [
+      "Reminders",
+      "Gathers messages, news, posts and missed calls: worth opening daily"
+     ],
+     [
+      "WhatUp",
+      "Messages (Wyman reaches you there). Photos and coordinates people send mark your map automatically"
+     ],
+     [
       "WAiNK / WAiNKar",
       "Car scanner and requests"
      ],
      [
       "BuckMe",
-      "Bank and savings"
+      "Bank and savings. Deposits only at ATMs; use ATM Finder"
      ],
      [
       "RydeMe",
@@ -584,7 +823,7 @@
      ],
      [
       "Scooter Bros",
-      "Car delivery and recovery"
+      "Car delivery and recovery. Charges a flat fee plus distance"
      ],
      [
       "Vice City Real Estate",
@@ -592,11 +831,23 @@
      ],
      [
       "Fitness",
-      "Daily workout and suggested time"
+      "Daily workout and suggested time. Also shows your Focus level (meditation, fishing, basketball)"
      ],
      [
-      "WhatUp",
-      "Messages (Wyman reaches you there)"
+      "News",
+      "Leonida Journal, Weazel News and Vice City Horn"
+     ],
+     [
+      "Weather",
+      "2-day forecast and sunset"
+     ],
+     [
+      "Contacts, Camera and Gallery",
+      "The basics"
+     ],
+     [
+      "Settings",
+      "Gets story-unlocked plugins: Cop Scanner and Key Cloner"
      ],
      [
       "Social network",
@@ -609,7 +860,11 @@
     "phone",
     "apps",
     "cellphone",
-    "snapmatic"
+    "snapmatic",
+    "reminders",
+    "whatup",
+    "fitness",
+    "atm finder"
    ]
   }
  },
@@ -624,8 +879,8 @@
    "geral"
   ],
   "title": "Modo foto e controles clássicos",
-  "sum": "Photo Studio fica no menu de opções. O esquema “Classic” traz de volta o correr do GTA V.",
-  "body": "- **Photo Studio:** abra o menu de opções (não o mapa) e escolha Photo Studio, logo acima de Settings.\n- **Abas:** Camera (velocidade, grade, giro, proporção, campo de visão, profundidade de campo e foco), Effects (exposição, contraste, saturação, granulação, temperatura, lens flare, bloom etc.), Lighting (até 5 luzes), Vehicle (faróis, luz de freio, setas e neblina) e Overlays (17 filtros, vinheta e isolamento de cor).\n- **Controles do GTA V:** Opções → Settings → esquema **Classic**. Aí correr volta a ser tocar {✕} em vez de {L3}.",
+  "sum": "Photo Studio fica no menu de opções, acima de Settings. O esquema “Classic” traz de volta o correr do GTA V.",
+  "body": "- **Photo Studio:** abra o menu de opções (não o mapa) e escolha Photo Studio, logo acima de Settings.\n- **Abas:** Camera (velocidade, grade, giro, proporção, campo de visão, profundidade de campo e foco), Effects (exposição, contraste, saturação, granulação, temperatura, lens flare, bloom etc.), Lighting (até 5 luzes), Vehicle (faróis, luz de freio, setas e neblina) e Overlays (17 filtros, vinheta e isolamento de cor).\n- **Controles do GTA V:** Opções → Settings → esquema **Classic**. Aí correr volta a ser tocar {✕} em vez de {L3}. Os comandos do esquema padrão estão em [[controles-cola]].",
   "src": [
    "Eurogamer"
   ],
@@ -640,8 +895,8 @@
   "added": "2026-11-19",
   "en": {
    "title": "Photo mode and classic controls",
-   "sum": "Photo Studio lives in the options menu. The 'Classic' scheme brings back GTA V-style running.",
-   "body": "- **Photo Studio:** open the options menu (not the map) and pick Photo Studio, just above Settings.\n- **Tabs:** Camera (speed, grid, roll, aspect ratio, field of view, depth of field and focus), Effects (exposure, contrast, saturation, grain, temperature, lens flare, bloom etc.), Lighting (up to 5 lights), Vehicle (headlights, brake lights, turn signals and fog lights) and Overlays (17 filters, vignette and color isolation).\n- **GTA V controls:** Options → Settings → **Classic** scheme. Running goes back to tapping {✕} instead of {L3}.",
+   "sum": "Photo Studio lives in the options menu, above Settings. The “Classic” scheme brings back GTA V-style running.",
+   "body": "- **Photo Studio:** open the options menu (not the map) and pick Photo Studio, just above Settings.\n- **Tabs:** Camera (speed, grid, roll, aspect ratio, field of view, depth of field and focus), Effects (exposure, contrast, saturation, grain, temperature, lens flare, bloom etc.), Lighting (up to 5 lights), Vehicle (headlights, brake lights, turn signals and fog lights) and Overlays (17 filters, vignette and color isolation).\n- **GTA V controls:** Options → Settings → **Classic** scheme. Running goes back to tapping {✕} instead of {L3}. The default-scheme inputs are in [[controles-cola]].",
    "kw": [
     "photo mode",
     "photo studio",

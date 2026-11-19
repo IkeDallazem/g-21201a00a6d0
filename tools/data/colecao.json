@@ -9,196 +9,235 @@
   "ch": [
    "geral"
   ],
-  "title": "O que conta para os 100%",
-  "sum": "A história vale metade. O resto é crime, coleção e atividade, quase sempre sem precisar de tudo.",
-  "body": "- A platina sai com o troféu **The Long Road** (100%), junto com todos os outros troféus.\n- O progresso dos 100% só aparece **depois de zerar a história**: mapa → aba Progress → Stats.\n- Quase nenhuma categoria exige tudo: 15 de 18 coleções de cartas, 90 de 100 cestas, 300 de 397 stunts, 70 de 80 desafios.\n- Veja também [[perdiveis-100]], [[colecao-desafios]] e [[colecao-stunts]].\n\n**O que libera cada parte (IGN):**\n- Bancos, Payday Loans, cofres e notas marcadas: depois de ||Credit Check|| (Cap. 3), que dá o bloqueador de tinta.\n- Kenton e Descobertas submarinas: depois de ||Island Dreams|| (Cap. 1).\n- Jogos de console e arcade: depois de ||Feng Shui|| (Cap. 1).\n- Baralhos-alvo do Bret: depois da opcional ||Veteran Hunted||; o Bret Vogel manda os pedidos de animais por mensagem.\n- **Payday Loan:** cada loja tem 1 caixa eletrônico para arrombar (US$ 5 mil a 25 mil).\n- **Notas marcadas** precisam ser processadas antes de vender.\n- **WAiNK:** só contam marcos, curiosidades, esculturas, PeeWees e NoFlusher.\n- **Corridas únicas (39):** Ambrosia Raceway 2, Gellhorn Raceway 10, Boone Speedway 2, Animal Crackers 8, Thrillbilly Mud Club 8, Hit 'N' Run VC 9.\n- **Estandes:** 42 ouros, em todos os níveis e classes.\n- **Golfe:** os campos são particulares; fuja dos seguranças. Basta jogar uma partida em cada.",
+  "title": "100%: metas e pesos",
+  "sum": "35 categorias. A história vale 50% e quase nenhuma categoria exige tudo. Cada linha leva ao card onde se faz.",
+  "body": "- O progresso dos 100% só aparece **depois de zerar a história**: mapa → aba Progress → Stats.\n- Quase nenhuma categoria exige tudo: 15 de 18 coleções de cartas, 90 de 100 cestas, 300 de 397 stunts, 70 de 80 desafios.\n- Nada do 100% é perdível ([[perdiveis-tranquilo]]).\n- A platina sai com o troféu **The Long Road** (100%), junto com todos os outros troféus: [[perdiveis-trofeus-planejar]] e [[perdiveis-trofeus-faceis]].\n- Fora da tabela, mas com lista própria: [[mundo-pesca]], [[armas-unicas]] e [[colecao-wyman]].\n- A IGN ainda está completando detalhes de algumas categorias (revistas, meditação, playlists, baralhos do Bret).\n\n#### O que libera cada parte\n- Bancos, Payday Loans, cofres e notas marcadas: depois de ||Credit Check|| (Cap. 3), que dá o bloqueador de tinta.\n- Kenton e Descobertas submarinas: depois de ||Island Dreams|| (Cap. 1).\n- Jogos de console e arcade: depois de ||Feng Shui|| (Cap. 1).\n- Baralhos-alvo do Bret: depois da opcional ||Veteran Hunted||; o Bret Vogel manda os pedidos de animais por mensagem.\n\n#### Detalhes de algumas metas\n- **Bancos:** os 22 são 14 pequenos e 8 grandes. Os 8 grandes (Big Banks) têm também o cofre que conta na linha Cofres.\n- **Payday Loan:** cada loja tem 1 caixa eletrônico para arrombar (US$ 5 mil a 25 mil).\n- **Notas marcadas** precisam ser processadas antes de vender.\n- **WAiNK:** só contam marcos, curiosidades, esculturas, PeeWees e NoFlusher.\n- **Kenton:** a meta fala em conjuntos, não em tesouros soltos. As Descobertas submarinas são outra linha.\n- **Corridas únicas (39):** Ambrosia Raceway 2, Gellhorn Raceway 10, Boone Speedway 2, Animal Crackers 8, Thrillbilly Mud Club 8, Hit 'N' Run VC 9.\n- **Estandes:** 42 ouros, em todos os níveis e classes.\n- **Golfe:** os campos são particulares; fuja dos seguranças. Basta jogar uma partida em cada.\n- **Veículos:** 200 dos 277 modelos-base, escaneados com o WAiNK.\n- **Animais:** 100 de 255, estudados com os binóculos.\n- **Armas:** 50 das 66 “Standard Issue Weapons” (53 de fogo, 9 corpo a corpo, 4 explosivos). Segurar a arma uma vez já conta.\n- **Desafios de gasto e de venda** (Nest Egg, Heavily Armed, oficina): [[colecao-desafios]].",
   "table": {
    "cols": [
     "Categoria",
     "Meta",
-    "Peso"
+    "Peso",
+    "Onde fazer"
    ],
    "rows": [
     [
      "Concluir a história",
      "100%",
-     "50%"
+     "50%",
+     "[[missoes-cap1|Missões por capítulo]]"
     ],
     [
      "Missões opcionais",
      "100%",
-     "6%"
+     "6%",
+     "[[missoes-strangers]]"
     ],
     [
      "Illegal Operations",
      "39",
-     "3%"
+     "3%",
+     "[[dinheiro-illegal-ops]]"
     ],
     [
      "Roubos a banco (caixa + cofre)",
      "22",
-     "2%"
+     "2%",
+     "[[dinheiro-alvos]]"
     ],
     [
      "Payday Loan",
      "7",
-     "2%"
+     "2%",
+     "[[dinheiro-alvos]]"
     ],
     [
      "Smash 'n' Grab",
      "34",
-     "2%"
+     "2%",
+     "[[dinheiro-fontes]]"
     ],
     [
      "Stick Ups (assaltos a loja)",
      "100",
-     "2%"
+     "2%",
+     "[[dinheiro-fontes]]"
     ],
     [
      "Narcóticos vendidos a receptador",
      "US$ 100.000",
-     "2%"
+     "2%",
+     "[[dinheiro-receptadores]]"
     ],
     [
      "Joias vendidas",
      "US$ 100.000",
-     "2%"
+     "2%",
+     "[[dinheiro-receptadores]]"
     ],
     [
      "Notas marcadas vendidas",
      "US$ 100.000",
-     "2%"
+     "2%",
+     "[[dinheiro-notas]]"
     ],
     [
      "Cofres (Big Banks)",
      "8",
-     "2%"
+     "2%",
+     "[[dinheiro-cofres]]"
     ],
     [
      "Veículos vendidos",
      "US$ 200.000",
-     "2%"
+     "2%",
+     "[[veiculos-venda]]"
     ],
     [
      "Conjuntos do Kenton",
-     "5",
-     "1%"
+     "5 de 7",
+     "1%",
+     "[[colecao-kenton]]"
     ],
     [
      "Coleções de cartas",
      "15 de 18",
-     "1%"
+     "1%",
+     "[[colecao-cartas]]"
     ],
     [
      "Locais escaneados no WAiNK",
-     "100",
-     "1%"
+     "100 de 108",
+     "1%",
+     "[[colecao-waink]]"
     ],
     [
      "Descobertas submarinas",
      "33",
-     "1%"
+     "1%",
+     "[[colecao-exploracao]]"
     ],
     [
      "Revistas",
      "30",
-     "1%"
+     "1%",
+     "[[colecao-exploracao]]"
     ],
     [
      "Pontos de meditação",
      "15 de 18",
-     "1%"
+     "1%",
+     "[[colecao-exploracao]]"
     ],
     [
      "Flamingos de cocaína destruídos",
-     "100",
-     "1%"
+     "100 de 125",
+     "1%",
+     "[[colecao-exploracao]]"
     ],
     [
      "Playlists únicas",
      "2",
-     "1%"
+     "1%",
+     "[[colecao-exploracao]]"
     ],
     [
      "Estilos descobertos",
      "70",
-     "1%"
+     "1%",
+     "[[colecao-exploracao]]"
     ],
     [
      "Corridas únicas vencidas",
      "30 de 39",
-     "1%"
+     "1%",
+     "[[mundo-atividades]]"
     ],
     [
      "Ouro em desafios de corrida",
      "10 de 13",
-     "1%"
+     "1%",
+     "[[mundo-atividades]]"
     ],
     [
      "Ouro nos estandes de tiro",
      "42",
-     "1%"
+     "1%",
+     "[[mundo-atividades]]"
     ],
     [
      "Jogos de arcade",
      "4",
-     "1%"
+     "1%",
+     "[[mundo-jogos]]"
     ],
     [
      "Adversários de sinuca",
      "5 de 7",
-     "1%"
+     "1%",
+     "[[mundo-atividades]]"
     ],
     [
      "Campos de golfe jogados",
      "2",
-     "1%"
+     "1%",
+     "[[mundo-atividades]]"
     ],
     [
      "Cestas de basquete",
      "90 de 100",
-     "1%"
+     "1%",
+     "[[colecao-cestas]]"
     ],
     [
      "Corridas de drone (Top Fun)",
      "42",
-     "1%"
+     "1%",
+     "[[colecao-drones]]"
     ],
     [
      "Stunts",
      "300 de 397",
-     "1%"
+     "1%",
+     "[[colecao-stunts]]"
     ],
     [
      "Desafios",
      "70 de 80",
-     "1%"
+     "1%",
+     "[[colecao-desafios]]"
     ],
     [
      "Baralhos-alvo do Bret",
      "15",
-     "1%"
+     "1%",
+     "[[mundo-fauna]]"
     ],
     [
      "Veículos descobertos",
-     "200",
-     "1%"
+     "200 de 277",
+     "1%",
+     "[[veiculos-categorias]]"
     ],
     [
      "Armas descobertas",
-     "50",
-     "1%"
+     "50 de 66",
+     "1%",
+     "[[armas-gratis]]"
     ],
     [
      "Animais descobertos",
-     "100",
-     "—"
+     "100 de 255",
+     "—",
+     "[[mundo-fauna]]"
     ]
    ],
    "sort": true
   },
   "src": [
-   "IGN"
+   "IGN",
+   "PowerPyx",
+   "Press Start",
+   "Insider Gaming"
   ],
   "kw": [
    "100%",
@@ -206,433 +245,254 @@
    "platina",
    "long road",
    "completar",
-   "progresso"
+   "progresso",
+   "checklist",
+   "colecionaveis",
+   "desafios",
+   "nest egg",
+   "quantas armas",
+   "metas"
   ],
   "added": "2026-11-19",
   "en": {
-   "title": "What counts toward 100%",
-   "sum": "The story is worth half. The rest is crime, collecting and activities, and you rarely need everything.",
-   "body": "- The platinum comes with **The Long Road** (100%) plus every other trophy.\n- 100% progress only shows **after you finish the story**: map → Progress tab → Stats.\n- Almost no category needs everything: 15 of 18 card sets, 90 of 100 hoops, 300 of 397 stunts, 70 of 80 challenges.\n- IGN is still filling in details for some categories (magazines, meditation, playlists, Bret's decks).\n- See also [[perdiveis-100]], [[colecao-desafios]] and [[colecao-stunts]].\n\n**What unlocks each part (IGN):**\n- Banks, Payday Loans, vaults and marked bills: after ||Credit Check|| (Ch. 3), which gives you the dye pack jammer.\n- Kenton and Underwater Discoveries: after ||Island Dreams|| (Ch. 1).\n- Console and arcade games: after ||Feng Shui|| (Ch. 1).\n- Bret's Target Decks: after the optional ||Veteran Hunted||; Bret Vogel texts you the animal requests.\n- **Payday Loan:** each store has 1 ATM to crack ($5k–25k).\n- **Marked bills** must be processed before you sell them.\n- **WAiNK:** only landmarks, curiosities, sculptures, PeeWees and NoFlusher count.\n- **Unique races (39):** Ambrosia Raceway 2, Gellhorn Raceway 10, Boone Speedway 2, Animal Crackers 8, Thrillbilly Mud Club 8, Hit 'N' Run VC 9.\n- **Shooting ranges:** 42 golds, across every level and class.\n- **Golf:** the courses are private; dodge the security. One round at each is enough.",
+   "title": "100%: targets and weights",
+   "sum": "35 categories. The story is worth 50% and almost no category needs everything. Each row links to the card where you do it.",
+   "body": "- 100% progress only shows **after you finish the story**: map → Progress tab → Stats.\n- Almost no category needs everything: 15 of 18 card sets, 90 of 100 hoops, 300 of 397 stunts, 70 of 80 challenges.\n- Nothing in the 100% is missable ([[perdiveis-tranquilo]]).\n- The platinum comes with **The Long Road** (100%) plus every other trophy: [[perdiveis-trofeus-planejar]] and [[perdiveis-trofeus-faceis]].\n- Not in the table, but with their own lists: [[mundo-pesca]], [[armas-unicas]] and [[colecao-wyman]].\n- IGN is still filling in details for some categories (magazines, meditation, playlists, Bret's decks).\n\n#### What unlocks each part\n- Banks, Payday Loans, vaults and marked bills: after ||Credit Check|| (Ch. 3), which gives you the dye pack jammer.\n- Kenton and Underwater Discoveries: after ||Island Dreams|| (Ch. 1).\n- Console and arcade games: after ||Feng Shui|| (Ch. 1).\n- Bret's Target Decks: after the optional ||Veteran Hunted||; Bret Vogel texts you the animal requests.\n\n#### Details on some targets\n- **Banks:** the 22 are 14 small and 8 big. The 8 Big Banks also have the vault that counts on the Vaults row.\n- **Payday Loan:** each store has 1 ATM to crack ($5k–25k).\n- **Marked bills** must be processed before you sell them.\n- **WAiNK:** only landmarks, curiosities, sculptures, PeeWees and NoFlusher count.\n- **Kenton:** the target is in sets, not loose treasures. Underwater Discoveries are a separate row.\n- **Unique races (39):** Ambrosia Raceway 2, Gellhorn Raceway 10, Boone Speedway 2, Animal Crackers 8, Thrillbilly Mud Club 8, Hit 'N' Run VC 9.\n- **Shooting ranges:** 42 golds, across every level and class.\n- **Golf:** the courses are private; dodge the security. One round at each is enough.\n- **Vehicles:** 200 of the 277 base models, scanned with WAiNK.\n- **Animals:** 100 of 255, studied with the binoculars.\n- **Weapons:** 50 of the 66 “Standard Issue Weapons” (53 firearms, 9 melee, 4 explosives). Holding a gun once counts.\n- **Spending and selling challenges** (Nest Egg, Heavily Armed, mod shop): [[colecao-desafios]].",
    "kw": [
     "100%",
     "platinum",
     "long road",
     "completion",
-    "progress"
+    "progress",
+    "checklist",
+    "collectibles",
+    "targets",
+    "how many weapons"
    ],
    "table": {
     "cols": [
      "Category",
      "Target",
-     "Weight"
+     "Weight",
+     "Where"
     ],
     "rows": [
      [
       "Finish the story",
       "100%",
-      "50%"
+      "50%",
+      "[[missoes-cap1|Missions by chapter]]"
      ],
      [
       "Optional missions",
       "100%",
-      "6%"
+      "6%",
+      "[[missoes-strangers]]"
      ],
      [
       "Illegal Operations",
       "39",
-      "3%"
+      "3%",
+      "[[dinheiro-illegal-ops]]"
      ],
      [
       "Bank jobs (drawer + safe)",
       "22",
-      "2%"
+      "2%",
+      "[[dinheiro-alvos]]"
      ],
      [
       "Payday Loan jobs",
       "7",
-      "2%"
+      "2%",
+      "[[dinheiro-alvos]]"
      ],
      [
       "Smash 'n' Grabs",
       "34",
-      "2%"
+      "2%",
+      "[[dinheiro-fontes]]"
      ],
      [
       "Stick Ups",
       "100",
-      "2%"
+      "2%",
+      "[[dinheiro-fontes]]"
      ],
      [
       "Narcotics fenced",
       "$100,000",
-      "2%"
+      "2%",
+      "[[dinheiro-receptadores]]"
      ],
      [
       "Jewelry fenced",
       "$100,000",
-      "2%"
+      "2%",
+      "[[dinheiro-receptadores]]"
      ],
      [
       "Marked bills fenced",
       "$100,000",
-      "2%"
+      "2%",
+      "[[dinheiro-notas]]"
      ],
      [
       "Vaults (Big Banks)",
       "8",
-      "2%"
+      "2%",
+      "[[dinheiro-cofres]]"
      ],
      [
       "Vehicles fenced",
       "$200,000",
-      "2%"
+      "2%",
+      "[[veiculos-venda]]"
      ],
      [
       "Kenton sets",
-      "5",
-      "1%"
+      "5 of 7",
+      "1%",
+      "[[colecao-kenton]]"
      ],
      [
       "Collectible card sets",
       "15 of 18",
-      "1%"
+      "1%",
+      "[[colecao-cartas]]"
      ],
      [
       "WAiNK locations scanned",
-      "100",
-      "1%"
+      "100 of 108",
+      "1%",
+      "[[colecao-waink]]"
      ],
      [
       "Underwater Discoveries",
       "33",
-      "1%"
+      "1%",
+      "[[colecao-exploracao]]"
      ],
      [
       "Magazines",
       "30",
-      "1%"
+      "1%",
+      "[[colecao-exploracao]]"
      ],
      [
       "Meditation spots",
       "15 of 18",
-      "1%"
+      "1%",
+      "[[colecao-exploracao]]"
      ],
      [
       "Cocaine Flamingos destroyed",
-      "100",
-      "1%"
+      "100 of 125",
+      "1%",
+      "[[colecao-exploracao]]"
      ],
      [
       "Unique Playlists",
       "2",
-      "1%"
+      "1%",
+      "[[colecao-exploracao]]"
      ],
      [
       "Discovered Styles",
       "70",
-      "1%"
+      "1%",
+      "[[colecao-exploracao]]"
      ],
      [
       "Unique races won",
       "30 of 39",
-      "1%"
+      "1%",
+      "[[mundo-atividades]]"
      ],
      [
       "Race Challenge gold medals",
       "10 of 13",
-      "1%"
+      "1%",
+      "[[mundo-atividades]]"
      ],
      [
       "Shooting range gold medals",
       "42",
-      "1%"
+      "1%",
+      "[[mundo-atividades]]"
      ],
      [
       "Arcade games",
       "4",
-      "1%"
+      "1%",
+      "[[mundo-jogos]]"
      ],
      [
       "Pool opponents beaten",
       "5 of 7",
-      "1%"
+      "1%",
+      "[[mundo-atividades]]"
      ],
      [
       "Golf courses played",
       "2",
-      "1%"
+      "1%",
+      "[[mundo-atividades]]"
      ],
      [
       "Basketball hoops",
       "90 of 100",
-      "1%"
+      "1%",
+      "[[colecao-cestas]]"
      ],
      [
       "Top Fun Drone races",
       "42",
-      "1%"
+      "1%",
+      "[[colecao-drones]]"
      ],
      [
       "Stunts",
       "300 of 397",
-      "1%"
+      "1%",
+      "[[colecao-stunts]]"
      ],
      [
       "Challenges",
       "70 of 80",
-      "1%"
+      "1%",
+      "[[colecao-desafios]]"
      ],
      [
       "Bret's Target Decks",
       "15",
-      "1%"
+      "1%",
+      "[[mundo-fauna]]"
      ],
      [
       "Vehicles discovered",
-      "200",
-      "1%"
+      "200 of 277",
+      "1%",
+      "[[veiculos-categorias]]"
      ],
      [
       "Weapons discovered",
-      "50",
-      "1%"
+      "50 of 66",
+      "1%",
+      "[[armas-gratis]]"
      ],
      [
       "Animals discovered",
-      "100",
-      "—"
-     ]
-    ],
-    "sort": true
-   }
-  }
- },
- {
-  "kind": "card",
-  "id": "perdiveis-100",
-  "sec": "colecao",
-  "sub": "geral",
-  "tipo": "dado",
-  "conf": "jogo",
-  "ch": [
-   "pos"
-  ],
-  "title": "Platina e 100%",
-  "sum": "55 troféus offline, dificuldade 4 de 10, cerca de 200 horas.",
-  "body": "Contagens do checklist de 100% da PowerPyx. Nenhum troféu é online, e nada do 100% é perdível.\n\nPesos de cada categoria e checklists: [[colecao-100]].",
-  "table": {
-   "cols": [
-    "Item do checklist",
-    "Quantidade"
-   ],
-   "rows": [
-    [
-     "Veículos escaneados (Waink)",
-     "200 de 277 modelos-base"
-    ],
-    [
-     "Animais estudados (binóculos)",
-     "100 de 255"
-    ],
-    [
-     "Armas “Standard Issue”",
-     "50 de 66"
-    ],
-    [
-     "Missões opcionais",
-     "100"
-    ],
-    [
-     "Kenton",
-     "5 de 7 conjuntos e 33 Underwater Discoveries"
-    ],
-    [
-     "Flamingos de cocaína",
-     "125"
-    ],
-    [
-     "Stick-ups rastreados",
-     "91"
-    ],
-    [
-     "Smash 'n' Grab",
-     "35"
-    ],
-    [
-     "Payday Loans",
-     "7"
-    ],
-    [
-     "Bancos",
-     "22 (14 pequenos e 8 grandes)"
-    ],
-    [
-     "Illegal Operations",
-     "39"
-    ],
-    [
-     "Vendas",
-     "US$ 100 mil em narcóticos, 100 mil em joias, 250 mil em notas marcadas e 200 mil em veículos"
-    ]
-   ],
-   "sort": true
-  },
-  "src": [
-   "PowerPyx",
-   "Press Start"
-  ],
-  "kw": [
-   "100%",
-   "platina",
-   "completar",
-   "checklist",
-   "colecionaveis"
-  ],
-  "added": "2026-11-18",
-  "en": {
-   "title": "Platinum and 100%",
-   "sum": "55 offline trophies, difficulty 4/10, about 200 hours.",
-   "body": "Counts from PowerPyx's 100% checklist. No trophy is online, and nothing in the 100% is missable.\n\nCategory weights and checklists: [[colecao-100]].",
-   "table": {
-    "cols": [
-     "Checklist item",
-     "Amount"
-    ],
-    "rows": [
-     [
-      "Vehicles scanned (WAiNK)",
-      "200 of 277 base models"
-     ],
-     [
-      "Animals studied (binoculars)",
-      "100 of 255"
-     ],
-     [
-      "“Standard Issue” weapons",
-      "50 of 66"
-     ],
-     [
-      "Optional missions",
-      "100"
-     ],
-     [
-      "Kenton",
-      "5 of 7 sets and 33 Underwater Discoveries"
-     ],
-     [
-      "Cocaine flamingos",
-      "125"
-     ],
-     [
-      "Tracked stick-ups",
-      "91"
-     ],
-     [
-      "Smash 'n' Grab",
-      "35"
-     ],
-     [
-      "Payday Loans",
-      "7"
-     ],
-     [
-      "Banks",
-      "22 (14 small and 8 big)"
-     ],
-     [
-      "Illegal Operations",
-      "39"
-     ],
-     [
-      "Sales",
-      "$100k in narcotics, $100k in jewelry, $250k in marked bills and $200k in vehicles"
+      "100 of 255",
+      "—",
+      "[[mundo-fauna]]"
      ]
     ],
     "sort": true
    },
-   "kw": [
-    "100%",
-    "platinum",
-    "completion",
-    "checklist",
-    "collectibles"
-   ]
+   "div": "The table follows IGN. PowerPyx gives other numbers: Stick Ups 91, Smash 'n' Grab 35, marked bills $250k, flamingos 125 (IGN counts 125 on the map with a target of 100), optional missions as 100 missions, and it cites both $100k and $200k for narcotics. Magazines: 30 in the table, 27 to 30 in IGN's list."
   },
-  "$mergeInto": "colecao-100"
- },
- {
-  "kind": "card",
-  "id": "dinheiro-metas",
-  "sec": "colecao",
-  "sub": "geral",
-  "tipo": "dado",
-  "conf": "jogo",
-  "ch": [
-   "pos"
-  ],
-  "title": "Metas de 100% e desafios de dinheiro",
-  "sum": "Mostram a escala de cada fonte de renda.",
-  "body": "- Vender US$ 100 mil em narcóticos, US$ 100 mil em joias, US$ 250 mil em notas marcadas e US$ 200 mil em veículos.\n- “Nest Egg”: US$ 1,5 milhão guardado na poupança.\n- “Heavily Armed”: gastar mais de US$ 50 mil na Ammu-Nation.\n- Oficina: gastar US$ 20 mil numa visita e US$ 125 mil no total.",
-  "div": "A PowerPyx cita tanto US$ 100 mil quanto US$ 200 mil para os narcóticos.",
-  "src": [
-   "PowerPyx",
-   "Press Start",
-   "Insider Gaming"
-  ],
-  "kw": [
-   "desafios",
-   "challenges",
-   "nest egg",
-   "100%"
-  ],
-  "added": "2026-11-18",
-  "en": {
-   "title": "100% goals and money challenges",
-   "sum": "They show the scale of each income source.",
-   "body": "- Sell $100k in narcotics, $100k in jewelry, $250k in marked bills and $200k in vehicles.\n- “Nest Egg”: $1.5 million in savings.\n- “Heavily Armed”: spend over $50k at Ammu-Nation.\n- Mod shop: spend $20k in one visit and $125k total.",
-   "div": "PowerPyx cites both $100k and $200k for narcotics.",
-   "kw": [
-    "challenges",
-    "nest egg",
-    "100%"
-   ]
-  },
-  "$mergeInto": "colecao-100"
- },
- {
-  "kind": "card",
-  "id": "armas-numeros",
-  "sec": "colecao",
-  "sub": "geral",
-  "tipo": "dado",
-  "conf": "jogo",
-  "ch": [
-   "pos"
-  ],
-  "title": "Arsenal em números",
-  "sum": "53 armas de fogo, 9 corpo a corpo, 4 explosivos e 130 variantes.",
-  "body": "- 50 das 66 “Standard Issue Weapons” contam para o 100%.\n- Desafios: “Heavily Armed” (mais de US$ 50 mil gastos na Ammu-Nation) e “Stylishly Armed” (melhorias cosméticas em 5 armas curtas e 5 longas). Deixe para depois do Cap. 3.",
-  "src": [
-   "PowerPyx",
-   "Insider Gaming"
-  ],
-  "kw": [
-   "quantas armas",
-   "colecao",
-   "100%"
-  ],
-  "added": "2026-11-18",
-  "en": {
-   "title": "The arsenal by the numbers",
-   "sum": "53 firearms, 9 melee, 4 explosives and 130 variants.",
-   "body": "- 50 of the 66 “Standard Issue Weapons” count toward 100%.\n- Challenges: “Heavily Armed” (over $50k spent at Ammu-Nation) and “Stylishly Armed” (cosmetic upgrades on 5 short and 5 long guns). Leave them until after Ch. 3.",
-   "kw": [
-    "how many weapons",
-    "collection",
-    "100%"
-   ]
-  },
-  "$mergeInto": "colecao-100"
+  "div": "A tabela segue a IGN. A PowerPyx dá outros números: Stick Ups 91, Smash 'n' Grab 35, notas marcadas US$ 250 mil, flamingos 125 (a IGN conta 125 no mapa e meta de 100), missões opcionais como 100 missões, e cita tanto US$ 100 mil quanto US$ 200 mil para os narcóticos. Revistas: 30 na tabela, 27 a 30 na lista da IGN."
  },
  {
   "kind": "card",
@@ -648,7 +508,8 @@
   "title": "Os 80 desafios",
   "sum": "8 categorias de 10. Para os 100% bastam 70.",
   "src": [
-   "IGN"
+   "IGN",
+   "PowerPyx"
   ],
   "kw": [
    "desafios",
@@ -701,7 +562,7 @@
   ],
   "title": "Troféus fáceis do começo",
   "sum": "Saem naturalmente nas primeiras horas.",
-  "body": "Comece o Master of None por pesca e sinuca em Key Lento: elas também sobem o Focus.",
+  "body": "Comece o Master of None por pesca ([[mundo-pesca]]) e sinuca em Key Lento: elas também sobem o Focus.\n\nOs troféus longos estão em [[perdiveis-trofeus-planejar]].",
   "check": [
    {
     "id": "paradise",
@@ -739,7 +600,7 @@
   "en": {
    "title": "Easy early trophies",
    "sum": "They come naturally in the first hours.",
-   "body": "Start Master of None with fishing and pool in Key Lento: they also raise Focus.",
+   "body": "Start Master of None with fishing ([[mundo-pesca]]) and pool in Key Lento: they also raise Focus.\n\nThe long trophies are in [[perdiveis-trofeus-planejar]].",
    "check": [
     {
      "id": "paradise",
@@ -780,13 +641,14 @@
   "ch": [
    "geral"
   ],
-  "title": "Troféus para planejar desde cedo",
-  "sum": "Sem spoiler. Nomes tirados de listas de sites de guia.",
-  "body": "- **Cunning Stunts:** 250 saltos e manobras de dublê.\n- **Strangers & Freaks:** as 8 linhas de missões de estranhos.\n- **The Shootist:** ouro em todos os desafios do estande de tiro.\n- **Top Fun:** vencer a corrida de drone em todos os locais.\n- **Earn Cash, Not Kudos:** vencer 20 corridas diferentes.\n- Há ainda um troféu do WAiNKar em 100 locais e conjuntos de cartas colecionáveis.",
+  "title": "Troféus longos: comece cedo",
+  "sum": "A platina tem 55 troféus, todos offline: dificuldade 4 de 10, cerca de 200 horas. Estes pedem planejamento.",
+  "body": "- Nenhum troféu é online e nada do 100% é perdível ([[perdiveis-tranquilo]]).\n- A platina exige também o 100% (**The Long Road**): metas em [[colecao-100]].\n- Os que saem sozinhos no começo estão em [[perdiveis-trofeus-faceis]].\n- Sem spoiler. Nomes tirados de listas de sites de guia.",
   "src": [
    "PowerPyx",
    "PC Gamer",
-   "Insider Gaming"
+   "Insider Gaming",
+   "Press Start"
   ],
   "kw": [
    "trofeus",
@@ -794,20 +656,116 @@
    "cunning stunts",
    "shootist",
    "drone",
-   "corridas"
+   "corridas",
+   "55 trofeus",
+   "dificuldade",
+   "horas",
+   "offline"
   ],
   "added": "2026-11-18",
   "en": {
-   "title": "Trophies to plan for early",
-   "sum": "Spoiler-free. Names taken from guide sites' lists.",
-   "body": "- **Cunning Stunts:** 250 stunt jumps and stunts.\n- **Strangers & Freaks:** the 8 stranger mission strands.\n- **The Shootist:** gold in every shooting range challenge.\n- **Top Fun:** win the drone race at every location.\n- **Earn Cash, Not Kudos:** win 20 different races.\n- There's also a WAiNKar trophy for 100 locations and collectible card sets.",
+   "title": "Long trophies: start early",
+   "sum": "The platinum has 55 trophies, all offline: difficulty 4/10, about 200 hours. These ones need planning.",
+   "body": "- No trophy is online and nothing in the 100% is missable ([[perdiveis-tranquilo]]).\n- The platinum also needs 100% (**The Long Road**): targets in [[colecao-100]].\n- The ones that pop on their own early are in [[perdiveis-trofeus-faceis]].\n- Spoiler-free. Names taken from guide sites' lists.",
    "kw": [
     "trophies",
     "platinum",
     "cunning stunts",
     "shootist",
     "drone",
-    "races"
+    "races",
+    "55 trophies",
+    "difficulty",
+    "hours",
+    "offline"
+   ],
+   "table": {
+    "cols": [
+     "Trophy",
+     "Requirement",
+     "Where to tick"
+    ],
+    "rows": [
+     [
+      "Cunning Stunts",
+      "250 stunt jumps and stunts of any kind",
+      "[[colecao-stunts]]"
+     ],
+     [
+      "Strangers & Freaks",
+      "8 stranger mission strands (the game has 14)",
+      "[[missoes-strangers]]"
+     ],
+     [
+      "The Shootist",
+      "Gold in every shooting range challenge",
+      "[[colecao-100]]"
+     ],
+     [
+      "Top Fun",
+      "Win the drone race at every location",
+      "[[colecao-drones]]"
+     ],
+     [
+      "Earn Cash, Not Kudos",
+      "Win 20 different races",
+      "[[colecao-100]]"
+     ],
+     [
+      "WAiNK trophy",
+      "Scan 100 locations",
+      "[[colecao-waink]]"
+     ],
+     [
+      "Card trophy",
+      "Collectible card sets",
+      "[[colecao-cartas]]"
+     ]
+    ]
+   }
+  },
+  "table": {
+   "cols": [
+    "Troféu",
+    "Requisito",
+    "Onde marcar"
+   ],
+   "rows": [
+    [
+     "Cunning Stunts",
+     "250 saltos e manobras de dublê, de qualquer tipo",
+     "[[colecao-stunts]]"
+    ],
+    [
+     "Strangers & Freaks",
+     "8 linhas de missões de estranhos (o jogo tem 14)",
+     "[[missoes-strangers]]"
+    ],
+    [
+     "The Shootist",
+     "Ouro em todos os desafios do estande de tiro",
+     "[[colecao-100]]"
+    ],
+    [
+     "Top Fun",
+     "Vencer a corrida de drone em todos os locais",
+     "[[colecao-drones]]"
+    ],
+    [
+     "Earn Cash, Not Kudos",
+     "Vencer 20 corridas diferentes",
+     "[[colecao-100]]"
+    ],
+    [
+     "Troféu do WAiNK",
+     "Escanear 100 locais",
+     "[[colecao-waink]]"
+    ],
+    [
+     "Troféu das cartas",
+     "Conjuntos de cartas colecionáveis",
+     "[[colecao-cartas]]"
+    ]
    ]
   }
  },
@@ -822,8 +780,8 @@
   "ch": [
    "geral"
   ],
-  "title": "Stunts: saltos, pontes, knife flights e base jumps",
-  "sum": "397 no total. 250 dão o troféu Cunning Stunts e 300 contam para os 100%.",
+  "title": "Stunts: visão geral e os 130 saltos",
+  "sum": "397 no total. 250 dão Cunning Stunts; 300 contam para os 100%. A lista tem 129 dos 130 saltos.",
   "src": [
    "IGN"
   ],
@@ -837,8 +795,8 @@
   ],
   "added": "2026-11-19",
   "en": {
-   "title": "Stunts: jumps, bridges, knife flights and base jumps",
-   "sum": "397 in total. 250 unlock Cunning Stunts and 300 count toward 100%.",
+   "title": "Stunts: overview and the 130 jumps",
+   "sum": "397 in total. 250 unlock Cunning Stunts; 300 count toward 100%. The list has 129 of the 130 jumps.",
    "kw": [
     "stunt jump",
     "ramp",
@@ -934,7 +892,7 @@
    "geral"
   ],
   "title": "Os 25 Base Jumps",
-  "sum": "Saltos de paraquedas com tempo-alvo. Checkpoint perdido = +10 s.",
+  "sum": "Saltos de paraquedas com tempo-alvo. Checkpoint perdido = +10 s. Alguns tempos ainda não foram publicados.",
   "src": [
    "IGN"
   ],
@@ -946,7 +904,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "The 25 Base Jumps",
-   "sum": "Timed parachute jumps. A missed checkpoint adds 10 s.",
+   "sum": "Timed parachute jumps. A missed checkpoint adds 10 s. Some par times aren't published yet.",
    "kw": [
     "base jump",
     "parachute"
@@ -1151,9 +1109,9 @@
   "ch": [
    "geral"
   ],
-  "title": "Coleções de exploração e do WAiNK",
-  "sum": "Arte de lixo, murais, livros, flamingos, playlists, estilos e meteoritos.",
-  "body": "![Início](img/ign-colecao-exploracao-1.jpg)\n\n- **Ahol Street Art (Geographies of Trash):** 112 peças do artista “Ahol Sniffs Glue”, só em Vice City, em 11 tipos: colchões 10, pneus 8, rodas 9, geladeiras 9, poltronas 7, TVs 8, contêineres 15, cones 13, baldes 11, paletes 13 e cadeiras 9. Escaneie com o WAiNK e os moradores recolhem como arte.\n- **Murais 1010:** desafio de um artista no Snapmatic. São 5 marcas em telhados de Vice City; pise e fotografe o marco que aparece. Os 5 liberam um **'95 Grotti Cheetah** pintado.\n- **Descobertas submarinas:** 33 (naufrágios, carros submersos e lugares curiosos).\n- **Revistas, livros e HQs:** 27 a 30, pegos do chão.\n- **Book Swaps:** 7 casinhas de troca de livros; interaja com {△} e devolva o livro para marcar.\n- **Meditação:** liberada no Cap. 1, depois do convite da Lucia; 18 pontos, alguns a dois e outros sozinho (bastam 15).\n- **Flamingos de cocaína:** flamingos de jardim de **bico branco**; quebre para achar cocaína (bastam 100).\n- **Playlists únicas:** escaneie 4 pôsteres em Vice City para liberar uma série de podcast; outro pôster libera uma rádio escondida.\n- **Estilos descobertos:** escanear capas de revista libera cortes, barbas, maquiagem e tatuagens (bastam 70).\n- **Fora das coleções:** dobrões no oceano (o Kenton paga US$ 400 cada; pawn shops, US$ 200) e **meteoritos**, centenas em terra e na água, que não contam para nada.\n- Veja [[colecao-kenton]] e [[colecao-wyman]].\n\n**Novidades da IGN:**\n- **Book Swaps, os 7 locais:** 1 Watson Bay (Beaumont Ave x Longship Dr, casa branca com bandeira) · 2 nordeste de Key Lento, Dolphin Dr (estante de tartaruga, casa azul) · 3 Southside (SW 3rd Ave x SW 12th Ave, casa vermelha) · 4 sul de Waning Sands, Mamey Cir (estante de cogumelo) · 5 Ambrosia, Reservoir St, margem sudoeste do Lake Leonida (estante de barco) · 6 Vespucci Island, Neptune Cir x Rialto Cswy (estante de farol) · 7 Capri, Fortuna St x Viola St, em frente à Halloween House (estante de caixão).\n- **Flamingos:** a IGN agora conta **125** no mapa; os 100% continuam pedindo 100.\n- **Relógios de luxo** (das Illegal Ops) contam como Estilos descobertos e viram acessório no guarda-roupa.\n- **Murais 1010:** a foto é com a **câmera do celular**, não com o WAiNK.\n\n#### Imagens\n![Book Swap 1](img/ign-colecao-exploracao-2.jpg)\n![Book Swap 1 (2)](img/ign-colecao-exploracao-3.jpg)\n![Book Swap 1 (3)](img/ign-colecao-exploracao-4.jpg)\n![Book Swap 2](img/ign-colecao-exploracao-5.jpg)\n![Book Swap 2 (2)](img/ign-colecao-exploracao-6.jpg)\n![Book Swap 2 (3)](img/ign-colecao-exploracao-7.jpg)\n![Book Swap 3](img/ign-colecao-exploracao-8.jpg)\n![Book Swap 3 (2)](img/ign-colecao-exploracao-9.jpg)\n![Book Swap 3 (3)](img/ign-colecao-exploracao-10.jpg)\n![Book Swap 4](img/ign-colecao-exploracao-11.jpg)\n![Book Swap 4 (2)](img/ign-colecao-exploracao-12.jpg)\n![Book Swap 4 (3)](img/ign-colecao-exploracao-13.jpg)\n![Book Swap 5](img/ign-colecao-exploracao-14.jpg)\n![Book Swap 5 (2)](img/ign-colecao-exploracao-15.jpg)\n![Book Swap 5 (3)](img/ign-colecao-exploracao-16.jpg)\n![Book Swap 6](img/ign-colecao-exploracao-17.jpg)\n![Book Swap 6 (2)](img/ign-colecao-exploracao-18.jpg)\n![Book Swap 6 (3)](img/ign-colecao-exploracao-19.jpg)\n![Book Swap 7](img/ign-colecao-exploracao-20.jpg)\n![Book Swap 7 (2)](img/ign-colecao-exploracao-21.jpg)\n![Book Swap 7 (3)](img/ign-colecao-exploracao-22.jpg)",
+  "title": "Outras coleções",
+  "sum": "Arte de lixo, murais 1010, Book Swaps, revistas, meditação, flamingos, playlists e estilos.",
+  "body": "![Início](img/ign-colecao-exploracao-1.jpg)\n\nMetas e pesos de cada uma: [[colecao-100]]. Os locais do WAiNK têm card próprio: [[colecao-waink]].\n\n- **Ahol Street Art (Geographies of Trash):** 112 peças do artista “Ahol Sniffs Glue”, só em Vice City, em 11 tipos: colchões 10, pneus 8, rodas 9, geladeiras 9, poltronas 7, TVs 8, contêineres 15, cones 13, baldes 11, paletes 13 e cadeiras 9. Escaneie com o WAiNK e os moradores recolhem como arte.\n- **Murais 1010:** desafio de um artista no Snapmatic. São 5 marcas em telhados de Vice City; pise e fotografe o marco que aparece com a **câmera do celular**, não com o WAiNK. Os 5 liberam um **'95 Grotti Cheetah** pintado.\n- **Descobertas submarinas:** 33 (naufrágios, carros submersos e lugares curiosos).\n- **Revistas, livros e HQs:** 27 a 30 na lista da IGN, pegos do chão (a meta dos 100% é 30).\n- **Book Swaps:** 7 casinhas de troca de livros; interaja com {△} e devolva o livro para marcar. Locais e fotos abaixo.\n- **Meditação:** liberada no Cap. 1, depois do convite da Lucia; 18 pontos, alguns a dois e outros sozinho (bastam 15).\n- **Flamingos de cocaína:** flamingos de jardim de **bico branco**; quebre para achar cocaína. A IGN conta **125** no mapa; bastam 100.\n- **Playlists únicas:** escaneie 4 pôsteres em Vice City para liberar uma série de podcast; outro pôster libera uma rádio escondida.\n- **Estilos descobertos:** escanear capas de revista libera cortes, barbas, maquiagem e tatuagens (bastam 70). Os **relógios de luxo** das Illegal Ops também contam e viram acessório no guarda-roupa ([[dinheiro-illegal-ops]]).\n- **Fora das coleções:** dobrões no oceano (o Kenton paga US$ 400 cada; pawn shops, US$ 200) e **meteoritos**, centenas em terra e na água, que não contam para nada.\n- Veja também [[colecao-kenton]] e [[colecao-wyman]].\n\n#### Book Swaps: os 7 locais\n1. Watson Bay (Beaumont Ave x Longship Dr, casa branca com bandeira).\n2. Nordeste de Key Lento, Dolphin Dr (estante de tartaruga, casa azul).\n3. Southside (SW 3rd Ave x SW 12th Ave, casa vermelha).\n4. Sul de Waning Sands, Mamey Cir (estante de cogumelo).\n5. Ambrosia, Reservoir St, margem sudoeste do Lake Leonida (estante de barco).\n6. Vespucci Island, Neptune Cir x Rialto Cswy (estante de farol).\n7. Capri, Fortuna St x Viola St, em frente à Halloween House (estante de caixão).\n\n![Book Swap 1](img/ign-colecao-exploracao-2.jpg)\n![Book Swap 1 (2)](img/ign-colecao-exploracao-3.jpg)\n![Book Swap 1 (3)](img/ign-colecao-exploracao-4.jpg)\n![Book Swap 2](img/ign-colecao-exploracao-5.jpg)\n![Book Swap 2 (2)](img/ign-colecao-exploracao-6.jpg)\n![Book Swap 2 (3)](img/ign-colecao-exploracao-7.jpg)\n![Book Swap 3](img/ign-colecao-exploracao-8.jpg)\n![Book Swap 3 (2)](img/ign-colecao-exploracao-9.jpg)\n![Book Swap 3 (3)](img/ign-colecao-exploracao-10.jpg)\n![Book Swap 4](img/ign-colecao-exploracao-11.jpg)\n![Book Swap 4 (2)](img/ign-colecao-exploracao-12.jpg)\n![Book Swap 4 (3)](img/ign-colecao-exploracao-13.jpg)\n![Book Swap 5](img/ign-colecao-exploracao-14.jpg)\n![Book Swap 5 (2)](img/ign-colecao-exploracao-15.jpg)\n![Book Swap 5 (3)](img/ign-colecao-exploracao-16.jpg)\n![Book Swap 6](img/ign-colecao-exploracao-17.jpg)\n![Book Swap 6 (2)](img/ign-colecao-exploracao-18.jpg)\n![Book Swap 6 (3)](img/ign-colecao-exploracao-19.jpg)\n![Book Swap 7](img/ign-colecao-exploracao-20.jpg)\n![Book Swap 7 (2)](img/ign-colecao-exploracao-21.jpg)\n![Book Swap 7 (3)](img/ign-colecao-exploracao-22.jpg)",
   "src": [
    "IGN"
   ],
@@ -1169,13 +1127,15 @@
    "playlist",
    "estilos",
    "meteorito",
-   "dobrao"
+   "dobrao",
+   "revistas",
+   "relogios"
   ],
   "added": "2026-11-19",
   "en": {
-   "title": "Exploration and WAiNK collections",
-   "sum": "Trash art, murals, books, flamingos, playlists, styles and meteorites.",
-   "body": "![Start](img/ign-colecao-exploracao-1.jpg)\n\n- **Ahol Street Art (Geographies of Trash):** 112 pieces by the artist “Ahol Sniffs Glue”, Vice City only, in 11 types: mattresses 10, tires 8, wheels 9, fridges 9, armchairs 7, TVs 8, containers 15, cones 13, buckets 11, pallets 13 and chairs 9. Scan them with WAiNK and residents collect them as art.\n- **1010 Murals:** an artist's challenge on Snapmatic. Five marks on Vice City rooftops; stand on one and photograph the landmark it frames. All 5 unlock a custom-painted **'95 Grotti Cheetah**.\n- **Underwater Discoveries:** 33 (wrecks, sunken cars and odd places).\n- **Magazines, books and comics:** 27 to 30, picked up off the ground.\n- **Book Swaps:** 7 book-swap sheds; interact with {△} and put the book back to complete it.\n- **Meditation:** unlocked in Ch. 1 after Lucia invites Jason; 18 spots, some as a couple and some solo (15 needed).\n- **Cocaine Flamingos:** lawn flamingos with a **white beak**; break them for cocaine (100 needed).\n- **Unique Playlists:** scan 4 posters in Vice City to unlock a podcast series; another poster unlocks a hidden radio station.\n- **Discovered Styles:** scanning magazine covers unlocks haircuts, beards, makeup and tattoos (70 needed).\n- **Outside the collections:** ocean doubloons (Kenton pays $400 each; pawn shops $200) and **meteorites**, hundreds on land and underwater, which don't count toward anything.\n- See [[colecao-kenton]] and [[colecao-wyman]].\n\n**IGN update:**\n- **Book Swaps, all 7:** 1 Watson Bay (Beaumont Ave & Longship Dr, white house with flag) · 2 northeast Key Lento, Dolphin Dr (turtle shelf, blue house) · 3 Southside (SW 3rd Ave & SW 12th Ave, red house) · 4 south Waning Sands, Mamey Cir (mushroom shelf) · 5 Ambrosia, Reservoir St, southwest shore of Lake Leonida (boat shelf) · 6 Vespucci Island, Neptune Cir & Rialto Cswy (lighthouse shelf) · 7 Capri, Fortuna St & Viola St, across from the Halloween House (coffin shelf).\n- **Flamingos:** IGN now counts **125** on the map; 100% still asks for 100.\n- **Luxury watches** (from Illegal Ops) count as Discovered Styles and become wardrobe accessories.\n- **1010 murals:** take the photo with the **phone camera**, not WAiNK.\n\n#### Images\n![Book Swap 1](img/ign-colecao-exploracao-2.jpg)\n![Book Swap 1 (2)](img/ign-colecao-exploracao-3.jpg)\n![Book Swap 1 (3)](img/ign-colecao-exploracao-4.jpg)\n![Book Swap 2](img/ign-colecao-exploracao-5.jpg)\n![Book Swap 2 (2)](img/ign-colecao-exploracao-6.jpg)\n![Book Swap 2 (3)](img/ign-colecao-exploracao-7.jpg)\n![Book Swap 3](img/ign-colecao-exploracao-8.jpg)\n![Book Swap 3 (2)](img/ign-colecao-exploracao-9.jpg)\n![Book Swap 3 (3)](img/ign-colecao-exploracao-10.jpg)\n![Book Swap 4](img/ign-colecao-exploracao-11.jpg)\n![Book Swap 4 (2)](img/ign-colecao-exploracao-12.jpg)\n![Book Swap 4 (3)](img/ign-colecao-exploracao-13.jpg)\n![Book Swap 5](img/ign-colecao-exploracao-14.jpg)\n![Book Swap 5 (2)](img/ign-colecao-exploracao-15.jpg)\n![Book Swap 5 (3)](img/ign-colecao-exploracao-16.jpg)\n![Book Swap 6](img/ign-colecao-exploracao-17.jpg)\n![Book Swap 6 (2)](img/ign-colecao-exploracao-18.jpg)\n![Book Swap 6 (3)](img/ign-colecao-exploracao-19.jpg)\n![Book Swap 7](img/ign-colecao-exploracao-20.jpg)\n![Book Swap 7 (2)](img/ign-colecao-exploracao-21.jpg)\n![Book Swap 7 (3)](img/ign-colecao-exploracao-22.jpg)",
+   "title": "Other collections",
+   "sum": "Trash art, 1010 murals, Book Swaps, magazines, meditation, flamingos, playlists and styles.",
+   "body": "![Start](img/ign-colecao-exploracao-1.jpg)\n\nTargets and weights for each: [[colecao-100]]. The WAiNK locations have their own card: [[colecao-waink]].\n\n- **Ahol Street Art (Geographies of Trash):** 112 pieces by the artist “Ahol Sniffs Glue”, Vice City only, in 11 types: mattresses 10, tires 8, wheels 9, fridges 9, armchairs 7, TVs 8, containers 15, cones 13, buckets 11, pallets 13 and chairs 9. Scan them with WAiNK and residents collect them as art.\n- **1010 Murals:** an artist's challenge on Snapmatic. Five marks on Vice City rooftops; stand on one and photograph the landmark it frames with the **phone camera**, not WAiNK. All 5 unlock a custom-painted **'95 Grotti Cheetah**.\n- **Underwater Discoveries:** 33 (wrecks, sunken cars and odd places).\n- **Magazines, books and comics:** 27 to 30 in IGN's list, picked up off the ground (the 100% target is 30).\n- **Book Swaps:** 7 book-swap sheds; interact with {△} and put the book back to complete it. Locations and photos below.\n- **Meditation:** unlocked in Ch. 1 after Lucia invites Jason; 18 spots, some as a couple and some solo (15 needed).\n- **Cocaine Flamingos:** lawn flamingos with a **white beak**; break them for cocaine. IGN counts **125** on the map; 100 needed.\n- **Unique Playlists:** scan 4 posters in Vice City to unlock a podcast series; another poster unlocks a hidden radio station.\n- **Discovered Styles:** scanning magazine covers unlocks haircuts, beards, makeup and tattoos (70 needed). **Luxury watches** from Illegal Ops also count and become wardrobe accessories ([[dinheiro-illegal-ops]]).\n- **Outside the collections:** ocean doubloons (Kenton pays $400 each; pawn shops $200) and **meteorites**, hundreds on land and underwater, which don't count toward anything.\n- See also [[colecao-kenton]] and [[colecao-wyman]].\n\n#### Book Swaps: all 7 locations\n1. Watson Bay (Beaumont Ave & Longship Dr, white house with flag).\n2. Northeast Key Lento, Dolphin Dr (turtle shelf, blue house).\n3. Southside (SW 3rd Ave & SW 12th Ave, red house).\n4. South Waning Sands, Mamey Cir (mushroom shelf).\n5. Ambrosia, Reservoir St, southwest shore of Lake Leonida (boat shelf).\n6. Vespucci Island, Neptune Cir & Rialto Cswy (lighthouse shelf).\n7. Capri, Fortuna St & Viola St, across from the Halloween House (coffin shelf).\n\n![Book Swap 1](img/ign-colecao-exploracao-2.jpg)\n![Book Swap 1 (2)](img/ign-colecao-exploracao-3.jpg)\n![Book Swap 1 (3)](img/ign-colecao-exploracao-4.jpg)\n![Book Swap 2](img/ign-colecao-exploracao-5.jpg)\n![Book Swap 2 (2)](img/ign-colecao-exploracao-6.jpg)\n![Book Swap 2 (3)](img/ign-colecao-exploracao-7.jpg)\n![Book Swap 3](img/ign-colecao-exploracao-8.jpg)\n![Book Swap 3 (2)](img/ign-colecao-exploracao-9.jpg)\n![Book Swap 3 (3)](img/ign-colecao-exploracao-10.jpg)\n![Book Swap 4](img/ign-colecao-exploracao-11.jpg)\n![Book Swap 4 (2)](img/ign-colecao-exploracao-12.jpg)\n![Book Swap 4 (3)](img/ign-colecao-exploracao-13.jpg)\n![Book Swap 5](img/ign-colecao-exploracao-14.jpg)\n![Book Swap 5 (2)](img/ign-colecao-exploracao-15.jpg)\n![Book Swap 5 (3)](img/ign-colecao-exploracao-16.jpg)\n![Book Swap 6](img/ign-colecao-exploracao-17.jpg)\n![Book Swap 6 (2)](img/ign-colecao-exploracao-18.jpg)\n![Book Swap 6 (3)](img/ign-colecao-exploracao-19.jpg)\n![Book Swap 7](img/ign-colecao-exploracao-20.jpg)\n![Book Swap 7 (2)](img/ign-colecao-exploracao-21.jpg)\n![Book Swap 7 (3)](img/ign-colecao-exploracao-22.jpg)",
    "kw": [
     "ahol",
     "street art",
@@ -1187,7 +1147,10 @@
     "playlist",
     "styles",
     "meteorite",
-    "doubloon"
+    "doubloon",
+    "magazines",
+    "watches",
+    "books"
    ]
   }
  },
@@ -1201,9 +1164,9 @@
   "ch": [
    "geral"
   ],
-  "title": "Tesouros do Kenton",
-  "sum": "IGN: 41 tesouros em 7 pontos de mergulho perto de Key Lento, com o lugar de cada um.",
-  "body": "![Início](img/ign-colecao-kenton-1.jpg)\n\n- Libera depois de Island Dreams (Cap. 1), quando o Kenton passa os pontos de mergulho.\n- Use o detector de metais ({L1} no inventário; mire com {L2}/{R2}) e cave quando o bipe acelerar.\n- Os tesouros vendem bem em pawn shops, mesmo depois que o Kenton sai de cena.\n- **Baú enterrado:** com o detector, segure {L2}+{R2} e toque {✕} para cavar.\n- **Rival:** Sir Todd Bancroft, outro caçador de tesouros, tem uma linha de história opcional.\n- A IGN conta 7 pontos com 41 tesouros; o primeiro, da história, só tem dobrões.",
+  "title": "Mergulho e tesouros do Kenton",
+  "sum": "41 tesouros em 7 pontos de mergulho perto de Key Lento. A lista tem o lugar de cada um em 6 deles.",
+  "body": "![Início](img/ign-colecao-kenton-1.jpg)\n\n#### Como funciona\n- Libera depois de Island Dreams (Cap. 1), quando o Kenton passa os pontos de mergulho. Eles aparecem no mapa como **baú roxo**; depois o Kenton manda novos.\n- O equipamento de mergulho só aparece em barcos que o carregam; o do Kenton e o do Jason (Cap. 1) têm.\n- Use o detector de metais ({L1} no inventário; mire com {L2}/{R2}) e cave quando o bipe acelerar.\n- Pegue um tesouro com {△}.\n- **Baú enterrado:** com o detector, segure {L2}+{R2} e toque {✕} para cavar.\n- Os tesouros vendem bem em pawn shops, mesmo depois que o Kenton sai de cena.\n- **Rival:** Sir Todd Bancroft, outro caçador de tesouros, tem uma linha de história opcional.\n\n#### Quanto precisa\n- A IGN conta 7 pontos com 41 tesouros; o primeiro, da história, só tem dobrões. A lista abaixo cobre 6 dos 7 pontos: o sétimo ainda não foi publicado.\n- Para os 100% bastam **5 de 7 conjuntos** ([[colecao-100]]). As fontes não dizem se “conjunto” é o mesmo que ponto de mergulho.\n- As 33 Descobertas submarinas (Underwater Discoveries) são outra categoria: [[colecao-exploracao]].",
   "check": [
    {
     "id": "kn-nuestra-se-ora-del-ocio",
@@ -1238,26 +1201,34 @@
   ],
   "src": [
    "IGN",
-   "Eurogamer"
+   "Eurogamer",
+   "PowerPyx"
   ],
   "kw": [
    "kenton",
    "naufragio",
    "tesouro",
    "mergulho",
-   "dobrao"
+   "dobrao",
+   "equipamento de mergulho",
+   "detector",
+   "sir todd"
   ],
   "added": "2026-11-19",
   "en": {
-   "title": "Kenton's treasures",
-   "sum": "IGN: 41 treasures across 7 dive sites near Key Lento, with each one's spot.",
-   "body": "![Start](img/ign-colecao-kenton-1.jpg)\n\n- Unlocks after Island Dreams (Ch. 1), when Kenton gives you the dive sites.\n- Use the metal detector ({L1} loadout; aim with {L2}/{R2}) and dig when the beep speeds up.\n- Treasures sell well at pawn shops, even after Kenton is gone.\n- **Buried chest:** with the detector, hold {L2}+{R2} and tap {✕} to dig.\n- **Rival:** Sir Todd Bancroft, another treasure hunter, has an optional storyline.\n- IGN counts 7 sites with 41 treasures; the first, story-driven one holds only doubloons.",
+   "title": "Diving and Kenton's treasures",
+   "sum": "41 treasures across 7 dive sites near Key Lento. The list has each one's spot for 6 of them.",
+   "body": "![Start](img/ign-colecao-kenton-1.jpg)\n\n#### How it works\n- Unlocks after Island Dreams (Ch. 1), when Kenton gives you the dive sites. They show on the map as a **purple chest**; later Kenton sends new ones.\n- Dive gear only appears on boats that carry it; Kenton's and Jason's (Ch. 1) both do.\n- Use the metal detector ({L1} loadout; aim with {L2}/{R2}) and dig when the beep speeds up.\n- Grab a treasure with {△}.\n- **Buried chest:** with the detector, hold {L2}+{R2} and tap {✕} to dig.\n- Treasures sell well at pawn shops, even after Kenton is gone.\n- **Rival:** Sir Todd Bancroft, another treasure hunter, has an optional storyline.\n\n#### How much you need\n- IGN counts 7 sites with 41 treasures; the first, story-driven one holds only doubloons. The list below covers 6 of the 7 sites: the seventh isn't published yet.\n- 100% only needs **5 of 7 sets** ([[colecao-100]]). The sources don't say whether a “set” is the same as a dive site.\n- The 33 Underwater Discoveries are a separate category: [[colecao-exploracao]].",
    "kw": [
     "kenton",
     "shipwreck",
     "treasure",
     "diving",
-    "doubloon"
+    "doubloon",
+    "scuba",
+    "dive gear",
+    "detector",
+    "sir todd"
    ],
    "check": [
     {
@@ -1295,38 +1266,6 @@
  },
  {
   "kind": "card",
-  "id": "mundo-mergulho",
-  "sec": "colecao",
-  "sub": "mapa",
-  "tipo": "dica",
-  "conf": "jogo",
-  "ch": [
-   "geral"
-  ],
-  "title": "Mergulho",
-  "sum": "Equipamento, pontos de mergulho e o rival do Kenton.",
-  "body": "- O equipamento de mergulho só aparece em barcos que o carregam; o do Kenton e o do Jason (Cap. 1) têm.\n- Pegue um tesouro com {△}.\n- Pontos de mergulho aparecem no mapa como **baú roxo**; depois o Kenton manda novos.\n- O rival **Sir Todd Bancroft** tem uma linha de história opcional.\n- Veja [[colecao-kenton]].",
-  "src": [
-   "IGN"
-  ],
-  "kw": [
-   "mergulho",
-   "tesouro"
-  ],
-  "added": "2026-11-19",
-  "en": {
-   "title": "Diving",
-   "sum": "Gear, dive sites and Kenton's rival.",
-   "body": "- Dive gear only appears on boats that carry it; Kenton's and Jason's (Ch. 1) both do.\n- Grab a treasure with {△}.\n- Dive sites show on the map as a **purple chest**; later Kenton sends new ones.\n- Rival **Sir Todd Bancroft** has an optional storyline.\n- See [[colecao-kenton]].",
-   "kw": [
-    "diving",
-    "scuba"
-   ]
-  },
-  "$mergeInto": "colecao-kenton"
- },
- {
-  "kind": "card",
   "id": "mundo-pesca",
   "sec": "colecao",
   "sub": "mapa",
@@ -1337,7 +1276,7 @@
   ],
   "title": "Pesca: as 35 espécies",
   "sum": "Isca certa e melhor lugar de cada peixe.",
-  "body": "- Veja em Progress → aba Fishing. Os peixes em vermelho são das **Fishing Rivalries** do Cal.\n- **Iscas:** só em algumas Ammu-Nations (ícone de peixe em Features). Média de água doce US$ 40, média de água salgada US$ 50, grande de água salgada US$ 112. A isca **Candy Cane** fica na garagem de uma casa em Ambrosia.\n- Ao pescar, o ponto fica marcado no mapa com um peixe roxo.",
+  "body": "- Veja em Progress → aba Fishing. Os peixes em vermelho são das **Fishing Rivalries** do Cal.\n- **Iscas:** só em algumas Ammu-Nations (ícone de peixe em Features). Média de água doce US$ 40, média de água salgada US$ 50, grande de água salgada US$ 112. A isca **Candy Cane** fica na garagem de uma casa em Ambrosia.\n- Pescar todas dá o desafio Pro Angler ([[colecao-desafios]]).\n- Ao pescar, o ponto fica marcado no mapa com um peixe roxo.",
   "table": {
    "cols": [
     "Espécie",
@@ -1535,7 +1474,7 @@
   "en": {
    "title": "Fishing: all 35 species",
    "sum": "The right lure and best spot for each fish.",
-   "body": "- Check Progress → Fishing tab. Fish in red belong to Cal's **Fishing Rivalries**.\n- **Lures:** only at some Ammu-Nations (fish icon under Features). Medium freshwater $40, medium saltwater $50, large saltwater $112. The **Candy Cane** lure is in a house garage in Ambrosia.\n- Once you catch one, the spot is marked on the map with a purple fish.",
+   "body": "- Check Progress → Fishing tab. Fish in red belong to Cal's **Fishing Rivalries**.\n- **Lures:** only at some Ammu-Nations (fish icon under Features). Medium freshwater $40, medium saltwater $50, large saltwater $112. The **Candy Cane** lure is in a house garage in Ambrosia.\n- Catching them all completes the Pro Angler challenge ([[colecao-desafios]]).\n- Once you catch one, the spot is marked on the map with a purple fish.",
    "kw": [
     "fishing",
     "lures"
@@ -1737,8 +1676,8 @@
   "ch": [
    "geral"
   ],
-  "title": "Os 4 jogos de console e arcade",
-  "sum": "Contam para os 100%; cada um tem seus desafios.",
+  "title": "Arcade e console: os 4 jogos e seus desafios",
+  "sum": "Liberam no Cap. 1. 26 desafios para marcar; os 4 jogos contam para os 100%.",
   "body": "- Ficam jogáveis no console de casa depois de ||Feng Shui|| (Cap. 1). Bang For Your Buck e Street Trash 3 também estão nos arcades.\n- **Bang For Your Buck:** Tiro em primeira pessoa de caça contra o relógio; cada abate dá dinheiro e as caixas aumentam o total.\n- **Street Trash 3: Dezombifier:** Visão de cima contra zumbis em Freedom City; junte 6 engrenagens para a extração e use Perk Cards.\n- **Tenebrae Lux:** Exploração com quebra-cabeças numa ilha, até o farol.\n- **Time Jackers: Rewind:** Twin-stick em 2084 contra a DominiCorp, com tempo limitado.",
   "check": [
    {
@@ -1857,8 +1796,8 @@
   ],
   "added": "2026-11-19",
   "en": {
-   "title": "The 4 console and arcade games",
-   "sum": "They count toward 100%; each has its own challenges.",
+   "title": "Arcade and console: the 4 games and their challenges",
+   "sum": "They unlock in Ch. 1. 26 challenges to tick; the 4 games count toward 100%.",
    "body": "- Playable on the home console after ||Feng Shui|| (Ch. 1). Bang For Your Buck and Street Trash 3 are also in arcades.\n- **Bang For Your Buck:** First-person hunting shooter against the clock; every kill pays and crates raise your total.\n- **Street Trash 3: Dezombifier:** Top-down zombie shooter in Freedom City; collect 6 gears to extract, with Perk Cards.\n- **Tenebrae Lux:** Walking sim with puzzles on an island, all the way to the lighthouse.\n- **Time Jackers: Rewind:** Twin-stick shooter set in 2084 against DominiCorp, on a time limit.",
    "kw": [
     "arcade",
@@ -1984,8 +1923,8 @@
    "geral"
   ],
   "title": "As 18 coleções de cartas",
-  "sum": "480 cartas. Para os 100% bastam 15 coleções completas.",
-  "body": "- Ficam em lugares variados: garagens, casas, prateleiras de lojas de penhores, até no banheiro da recepção do motel e na geladeira do restaurante do motel (Cap. 2).\n- Cada jogador tem variantes: Standard, Bronze, Silver e Gold, ou cores (Deep Red, Navy Blue, Light Blue, Pink).\n- Guarde numa caixa em casa e venda quando quiser em qualquer **pawn shop**: cor e raridade definem o preço.\n- Desafio Collectible Cards: 3 cartas em cada um dos 5 condados.\n- **Cofres:** algumas cartas ficam em cofres. O código sai do assalto ao lugar (na Uncle Jack's Liquor é 7869); sem ele, use sticky bomb.\n- Cada coleção agora tem a sua lista com os locais da IGN (link em cada item abaixo).",
+  "sum": "480 cartas em 18 coleções. Para os 100% bastam 15 completas. Cada item abre a lista de locais da coleção.",
+  "body": "- Ficam em lugares variados: garagens, casas, prateleiras de lojas de penhores, até no banheiro da recepção do motel e na geladeira do restaurante do motel (Cap. 2).\n- Cada jogador tem variantes: Standard, Bronze, Silver e Gold, ou cores (Deep Red, Navy Blue, Light Blue, Pink).\n- Guarde numa caixa em casa e venda quando quiser em qualquer **pawn shop**: cor e raridade definem o preço.\n- Desafio Collectible Cards: 3 cartas em cada um dos 5 condados ([[colecao-desafios]]).\n- **Cofres:** algumas cartas ficam em cofres. O código sai do assalto ao lugar (na Uncle Jack's Liquor é 7869); sem ele, use sticky bomb.\n- Cada coleção tem a sua lista com os locais da IGN: o link está em cada item abaixo. Marque o item aqui quando fechar a coleção lá.",
   "check": [
    {
     "id": "cc-los-santos-corkers",
@@ -2091,8 +2030,8 @@
   "added": "2026-11-19",
   "en": {
    "title": "The 18 card sets",
-   "sum": "480 cards. You need 15 complete sets for 100%.",
-   "body": "- They turn up everywhere: garages, homes, pawn shop shelves, even the motel reception bathroom and the motel diner fridge (Ch. 2).\n- Each player has variants: Standard, Bronze, Silver and Gold, or colors (Deep Red, Navy Blue, Light Blue, Pink).\n- Keep them in a box at home and sell whenever you like at any **pawn shop**: color and rarity set the price.\n- Collectible Cards challenge: 3 cards in each of the 5 counties.\n- **Safes:** some cards are in safes. The code comes from robbing that place (Uncle Jack's Liquor is 7869); otherwise use a sticky bomb.\n- Every set now has its own list with IGN's locations (link on each item below).",
+   "sum": "480 cards in 18 sets. You need 15 complete sets for 100%. Each item opens that set's location list.",
+   "body": "- They turn up everywhere: garages, homes, pawn shop shelves, even the motel reception bathroom and the motel diner fridge (Ch. 2).\n- Each player has variants: Standard, Bronze, Silver and Gold, or colors (Deep Red, Navy Blue, Light Blue, Pink).\n- Keep them in a box at home and sell whenever you like at any **pawn shop**: color and rarity set the price.\n- Collectible Cards challenge: 3 cards in each of the 5 counties ([[colecao-desafios]]).\n- **Safes:** some cards are in safes. The code comes from robbing that place (Uncle Jack's Liquor is 7869); otherwise use a sticky bomb.\n- Every set has its own list with IGN's locations: the link is on each item below. Tick the item here once you finish the set there.",
    "kw": [
     "cards",
     "collectible cards",
@@ -2204,7 +2143,7 @@
    "geral"
   ],
   "title": "Cartas: Los Santos Corkers",
-  "sum": "24 cartas de beisebol, com o local de cada uma.",
+  "sum": "Beisebol · 24 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2215,7 +2154,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Los Santos Corkers",
-   "sum": "24 baseball cards, with every location.",
+   "sum": "Baseball · 24 cards, with each one's location.",
    "kw": [
     "cards",
     "Los Santos Corkers"
@@ -2255,7 +2194,7 @@
    "geral"
   ],
   "title": "Cartas: Vice City Flamingos",
-  "sum": "24 cartas de beisebol, com o local de cada uma.",
+  "sum": "Beisebol · 24 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2266,7 +2205,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Vice City Flamingos",
-   "sum": "24 baseball cards, with every location.",
+   "sum": "Baseball · 24 cards, with each one's location.",
    "kw": [
     "cards",
     "Vice City Flamingos"
@@ -2306,7 +2245,7 @@
    "geral"
   ],
   "title": "Cartas: Liberty Swingers",
-  "sum": "24 cartas de beisebol, com o local de cada uma.",
+  "sum": "Beisebol · 24 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2317,7 +2256,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Liberty Swingers",
-   "sum": "24 baseball cards, with every location.",
+   "sum": "Baseball · 24 cards, with each one's location.",
    "kw": [
     "cards",
     "Liberty Swingers"
@@ -2357,7 +2296,7 @@
    "geral"
   ],
   "title": "Cartas: Los Santos Panic",
-  "sum": "24 cartas de basquete, com o local de cada uma.",
+  "sum": "Basquete · 24 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2368,7 +2307,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Los Santos Panic",
-   "sum": "24 basketball cards, with every location.",
+   "sum": "Basketball · 24 cards, with each one's location.",
    "kw": [
     "cards",
     "Los Santos Panic"
@@ -2408,7 +2347,7 @@
    "geral"
   ],
   "title": "Cartas: Liberty City Penetrators",
-  "sum": "24 cartas de basquete, com o local de cada uma.",
+  "sum": "Basquete · 24 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2419,7 +2358,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Liberty City Penetrators",
-   "sum": "24 basketball cards, with every location.",
+   "sum": "Basketball · 24 cards, with each one's location.",
    "kw": [
     "cards",
     "Liberty City Penetrators"
@@ -2459,7 +2398,7 @@
    "geral"
   ],
   "title": "Cartas: Vice City Narcos",
-  "sum": "24 cartas de basquete, com o local de cada uma.",
+  "sum": "Basquete · 24 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2470,7 +2409,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Vice City Narcos",
-   "sum": "24 basketball cards, with every location.",
+   "sum": "Basketball · 24 cards, with each one's location.",
    "kw": [
     "cards",
     "Vice City Narcos"
@@ -2510,7 +2449,7 @@
    "geral"
   ],
   "title": "Cartas: Vice City Manatees",
-  "sum": "24 cartas de futebol americano, com o local de cada uma.",
+  "sum": "Futebol americano · 24 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2521,7 +2460,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Vice City Manatees",
-   "sum": "24 football cards, with every location.",
+   "sum": "Football · 24 cards, with each one's location.",
    "kw": [
     "cards",
     "Vice City Manatees"
@@ -2561,7 +2500,7 @@
    "geral"
   ],
   "title": "Cartas: Los Santos Pounders",
-  "sum": "24 cartas de futebol americano, com o local de cada uma.",
+  "sum": "Futebol americano · 24 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2572,7 +2511,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Los Santos Pounders",
-   "sum": "24 football cards, with every location.",
+   "sum": "Football · 24 cards, with each one's location.",
    "kw": [
     "cards",
     "Los Santos Pounders"
@@ -2612,7 +2551,7 @@
    "geral"
   ],
   "title": "Cartas: Liberty City Wrath",
-  "sum": "24 cartas de futebol americano, com o local de cada uma.",
+  "sum": "Futebol americano · 24 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2623,7 +2562,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Liberty City Wrath",
-   "sum": "24 football cards, with every location.",
+   "sum": "Football · 24 cards, with each one's location.",
    "kw": [
     "cards",
     "Liberty City Wrath"
@@ -2663,7 +2602,7 @@
    "geral"
   ],
   "title": "Cartas: Vice City Club de Futbol",
-  "sum": "30 cartas de futebol, com o local de cada uma.",
+  "sum": "Futebol · 30 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2674,7 +2613,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Vice City Club de Futbol",
-   "sum": "30 soccer cards, with every location.",
+   "sum": "Soccer · 30 cards, with each one's location.",
    "kw": [
     "cards",
     "Vice City Club de Futbol"
@@ -2714,7 +2653,7 @@
    "geral"
   ],
   "title": "Cartas: B.A.M. Backyard Wrestling",
-  "sum": "12 cartas de novidade, com o local de cada uma.",
+  "sum": "Novidade · 12 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2725,7 +2664,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: B.A.M. Backyard Wrestling",
-   "sum": "12 novelty cards, with every location.",
+   "sum": "Novelty · 12 cards, with each one's location.",
    "kw": [
     "cards",
     "B.A.M. Backyard Wrestling"
@@ -2763,7 +2702,7 @@
    "geral"
   ],
   "title": "Cartas: America's Next Top Hooker",
-  "sum": "24 cartas de novidade, com o local de cada uma.",
+  "sum": "Novidade · 24 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2774,7 +2713,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: America's Next Top Hooker",
-   "sum": "24 novelty cards, with every location.",
+   "sum": "Novelty · 24 cards, with each one's location.",
    "kw": [
     "cards",
     "America's Next Top Hooker"
@@ -2814,7 +2753,7 @@
    "geral"
   ],
   "title": "Cartas: Jack of Hearts",
-  "sum": "36 cartas de dançarinas, com o local de cada uma.",
+  "sum": "Dançarinas · 36 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2825,7 +2764,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Jack of Hearts",
-   "sum": "36 dancers cards, with every location.",
+   "sum": "Dancers · 36 cards, with each one's location.",
    "kw": [
     "cards",
     "Jack of Hearts"
@@ -2865,7 +2804,7 @@
    "geral"
   ],
   "title": "Cartas: Delights",
-  "sum": "18 cartas de dançarinas, com o local de cada uma.",
+  "sum": "Dançarinas · 18 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2876,7 +2815,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Delights",
-   "sum": "18 dancers cards, with every location.",
+   "sum": "Dancers · 18 cards, with each one's location.",
    "kw": [
     "cards",
     "Delights"
@@ -2916,7 +2855,7 @@
    "geral"
   ],
   "title": "Cartas: Nine1Nine",
-  "sum": "36 cartas de dançarinas, com o local de cada uma.",
+  "sum": "Dançarinas · 36 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2927,7 +2866,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Nine1Nine",
-   "sum": "36 dancers cards, with every location.",
+   "sum": "Dancers · 36 cards, with each one's location.",
    "kw": [
     "cards",
     "Nine1Nine"
@@ -2967,7 +2906,7 @@
    "geral"
   ],
   "title": "Cartas: Right Wing: America's Hero",
-  "sum": "36 cartas de hq, com o local de cada uma.",
+  "sum": "HQ · 36 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -2978,7 +2917,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Right Wing: America's Hero",
-   "sum": "36 comic cards, with every location.",
+   "sum": "Comics · 36 cards, with each one's location.",
    "kw": [
     "cards",
     "Right Wing: America's Hero"
@@ -3018,7 +2957,7 @@
    "geral"
   ],
   "title": "Cartas: Ed Universe",
-  "sum": "36 cartas de hq, com o local de cada uma.",
+  "sum": "HQ · 36 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -3029,7 +2968,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Ed Universe",
-   "sum": "36 comic cards, with every location.",
+   "sum": "Comics · 36 cards, with each one's location.",
    "kw": [
     "cards",
     "Ed Universe"
@@ -3069,7 +3008,7 @@
    "geral"
   ],
   "title": "Cartas: Legends of Ratface",
-  "sum": "36 cartas de hq, com o local de cada uma.",
+  "sum": "HQ · 36 cartas, com o local de cada uma.",
   "src": [
    "IGN"
   ],
@@ -3080,7 +3019,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Cards: Legends of Ratface",
-   "sum": "36 comic cards, with every location.",
+   "sum": "Comics · 36 cards, with each one's location.",
    "kw": [
     "cards",
     "Legends of Ratface"
@@ -3120,7 +3059,7 @@
    "geral"
   ],
   "title": "Armas únicas: onde achar",
-  "sum": "130 variantes amarelas (127 + 2 da Ultimate, pela IGN). Pegou uma, os dois personagens ficam com ela.",
+  "sum": "Cerca de 130 variantes amarelas (a IGN fala em 127 + 2 da Ultimate). Pegou uma, Jason e Lucia ficam com ela para sempre.",
   "src": [
    "IGN"
   ],
@@ -3134,7 +3073,7 @@
   "added": "2026-11-19",
   "en": {
    "title": "Unique weapons: where to find them",
-   "sum": "130 yellow variants (127 + 2 Ultimate, per IGN). Grab one once and both characters keep it.",
+   "sum": "About 130 yellow variants (IGN says 127 + 2 Ultimate). Grab one and Jason and Lucia keep it for good.",
    "kw": [
     "unique weapons",
     "variants",
@@ -3165,9 +3104,9 @@
   "ch": [
    "geral"
   ],
-  "title": "Quantos veículos existem",
-  "sum": "277 comuns e 281 de destaque (amarelos). Para os 100% bastam 200 descobertos.",
-  "body": "- **Descobrir** = escanear com o WAiNK; não precisa dirigir.\n- **Comuns (277):** 29 sedãs, 29 motos, 28 embarcações, 26 muscle, 23 SUVs, 18 cupês, 17 picapes, 16 aeronaves, 14 vans, 13 esportivos, 11 caminhões, 9 supercarros, 9 utilitários, 8 off-road, 8 militares, 7 de emergência, 6 industriais e 6 de transporte.\n- **De destaque (281, em amarelo):** pintura ou acessório exclusivo e já vêm modificados. São 25 categorias, como Leonida Man (30), Retro (20), Ultra-Luxe (19), Street Racers, All-Terrain e Fine Art (17 cada), Girlypop (16) e Blinged Up (15).\n- A ficha de cada carro mostra **valor de venda** e **custo de registro** (ex.: um '19 Buffalo vende por US$ 3.555 e custa US$ 11.250 para registrar) e o **comprador especialista** (Tuner, Donks, Hot Rods, Lowriders).",
+  "title": "Veículos para os 100%",
+  "sum": "Escaneie 200 dos 277 modelos comuns. Há mais 281 de destaque (amarelos).",
+  "body": "- **Descobrir** = escanear com o WAiNK; não precisa dirigir. Como escanear: [[veiculos-waink]]. Meta e peso: [[colecao-100]].\n- **Comuns (277):** 29 sedãs, 29 motos, 28 embarcações, 26 muscle, 23 SUVs, 18 cupês, 17 picapes, 16 aeronaves, 14 vans, 13 esportivos, 11 caminhões, 9 supercarros, 9 utilitários, 8 off-road, 8 militares, 7 de emergência, 6 industriais e 6 de transporte.\n- **De destaque (281, em amarelo):** pintura ou acessório exclusivo e já vêm modificados. São 25 categorias, como Leonida Man (30), Retro (20), Ultra-Luxe (19), Street Racers, All-Terrain e Fine Art (17 cada), Girlypop (16) e Blinged Up (15).\n- A ficha de cada carro mostra **valor de venda** e **custo de registro** (ex.: um '19 Buffalo vende por US$ 3.555 e custa US$ 11.250 para registrar) e o **comprador especialista** (Tuner, Donks, Hot Rods, Lowriders).",
   "src": [
    "IGN"
   ],
@@ -3181,9 +3120,9 @@
   ],
   "added": "2026-11-19",
   "en": {
-   "title": "How many vehicles there are",
-   "sum": "277 regular and 281 standout (yellow). You need 200 discovered for 100%.",
-   "body": "- **Discover** = scan with WAiNK; no need to drive it.\n- **Regular (277):** 29 sedans, 29 bikes, 28 watercraft, 26 muscle, 23 SUVs, 18 coupes, 17 pickups, 16 aircraft, 14 vans, 13 sports, 11 trucks, 9 supercars, 9 utility, 8 off-road, 8 military, 7 emergency, 6 industrial and 6 transport.\n- **Standout (281, in yellow):** exclusive paint or accessories and they come pre-modded. 25 categories, like Leonida Man (30), Retro (20), Ultra-Luxe (19), Street Racers, All-Terrain and Fine Art (17 each), Girlypop (16) and Blinged Up (15).\n- Each car's card shows **sell value** and **registration cost** (e.g. a '19 Buffalo sells for $3,555 and costs $11,250 to register) and its **specialist buyer** (Tuner, Donks, Hot Rods, Lowriders).",
+   "title": "Vehicles for 100%",
+   "sum": "Scan 200 of the 277 regular models. There are 281 more standout (yellow) ones.",
+   "body": "- **Discover** = scan with WAiNK; no need to drive it. How to scan: [[veiculos-waink]]. Target and weight: [[colecao-100]].\n- **Regular (277):** 29 sedans, 29 bikes, 28 watercraft, 26 muscle, 23 SUVs, 18 coupes, 17 pickups, 16 aircraft, 14 vans, 13 sports, 11 trucks, 9 supercars, 9 utility, 8 off-road, 8 military, 7 emergency, 6 industrial and 6 transport.\n- **Standout (281, in yellow):** exclusive paint or accessories and they come pre-modded. 25 categories, like Leonida Man (30), Retro (20), Ultra-Luxe (19), Street Racers, All-Terrain and Fine Art (17 each), Girlypop (16) and Blinged Up (15).\n- Each car's card shows **sell value** and **registration cost** (e.g. a '19 Buffalo sells for $3,555 and costs $11,250 to register) and its **specialist buyer** (Tuner, Donks, Hot Rods, Lowriders).",
    "kw": [
     "vehicles",
     "how many cars",
