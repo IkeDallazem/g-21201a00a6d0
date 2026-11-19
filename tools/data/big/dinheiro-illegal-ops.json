@@ -1,0 +1,442 @@
+{
+ "kind": "card",
+ "id": "dinheiro-illegal-ops",
+ "sec": "dinheiro",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "c1",
+  "c2"
+ ],
+ "title": "Illegal Operations dos Caps. 1 e 2",
+ "sum": "Os 12 esconderijos de gangue do começo: onde ficam, quanto rendem, Key Valuables e códigos de cofre.",
+ "body": "- **Illegal Operations** são esconderijos de gangue (ícone amarelo) com dinheiro, drogas para vender, **Key Valuables** e às vezes um carro standout. A maioria pode ser feita em qualquer capítulo; a IGN agrupa pelo lugar em que você está na história.\n- **Key Valuables** brilham **dourado** no Focus ({L3}+{R3}) e ficam marcados no mapa quando você os vê. Variantes únicas de arma são suas para sempre; veja [[armas-tipos]].\n- **Key Lento fica proibida no Cap. 2** (Jason e Lucia são procurados lá).\n- Depois de mexer com uma gangue, use um carro qualquer: eles mandam gente atrás de você e consertar o motor do seu carro é caro.\n- Sticky bombs só são vendidas a partir do Cap. 3; antes disso, use os códigos abaixo.\n- **Avião caído (Cap. 1):** fumaça num campo ao sul de Hamlet (dá para ver o avião cair cruzando a ponte para Hamlet). Pistola e drogas para vender; logo depois chega uma caminhonete com homens armados, e a caminhonete off-road pode ficar com você.\n\nToque em “Como fazer” em cada operação para o passo a passo.",
+ "table": {
+  "cols": [
+   "Operação",
+   "Cap.",
+   "Onde",
+   "Gangue",
+   "Segurança",
+   "Rende (IGN)",
+   "Key Valuables",
+   "Código"
+  ],
+  "rows": [
+   [
+    "Fishing Shacks",
+    "1",
+    "Wetman Bay, ilha a noroeste de Key Lento (precisa de barco ou jet ski)",
+    "Kingfishers",
+    "Alta",
+    "US$ 1.700–1.900",
+    "Kingfishers W-22 Small Game Rifle (com silenciador)",
+    "—"
+   ],
+   [
+    "Exotic Animals Front",
+    "1",
+    "Fundos da Three Sheets Liquor, Key Lento (a leste do trailer do Donnie)",
+    "—",
+    "—",
+    "US$ 1.366",
+    "—",
+    "—"
+   ],
+   [
+    "Backroom Weed Front",
+    "2",
+    "Pearl House Hair Salon, sul de Port Gellhorn",
+    "—",
+    "Baixa",
+    "US$ 2.200–2.400",
+    "cofre (US$ 1.019)",
+    "sem código"
+   ],
+   [
+    "Industrial Weed Grow",
+    "2",
+    "Noroeste de Grassrivers, nordeste de Tola Bay (Mariana County)",
+    "—",
+    "Alta",
+    "US$ 15.200–28.500",
+    "Vapid Cultivator Sandking; cofre; Chronic Vatra SMG",
+    "sem código"
+   ],
+   [
+    "Manatee Motel",
+    "2",
+    "Nordeste de Cottonmouth Lake, sul de Hamlet",
+    "Kingfishers",
+    "Alta",
+    "US$ 1.700–1.900",
+    "cofre (US$ 937); Kingfishers Laird 350 Sniper",
+    "sem código"
+   ],
+   [
+    "Sunrise RV Park",
+    "2",
+    "Norte de Cottonmouth Lake, noroeste de Key Lento (pela estrada que sai de Hamlet para sudoeste)",
+    "Kingfishers",
+    "Alta",
+    "US$ 6.500–9.300",
+    "2 cofres; Kingfishers Akulus Revolver",
+    "6769"
+   ],
+   [
+    "Brooks Boatworks",
+    "2",
+    "Norte da Pay 'n' Spray de Port Gellhorn",
+    "Kolt & Associates",
+    "Alta",
+    "US$ 5.300–7.900",
+    "2 cofres; Vapid Smuggler Caracara; Clunker 556 Assault Rifle",
+    "6823"
+   ],
+   [
+    "June Warehouse",
+    "2",
+    "Oeste do Delights Cabaret, Port Gellhorn",
+    "Kolt & Associates",
+    "Alta",
+    "US$ 9.800–12.400",
+    "Kolt & Associates Vatra SMG; cofre; Vapid Truth & Justice Caracara",
+    "sem código"
+   ],
+   [
+    "Kingpin Bowling",
+    "2",
+    "Sul da Ammu-Nation Pawn & Gun, Port Gellhorn",
+    "Kolt & Associates",
+    "Alta",
+    "US$ 21.100–29.500",
+    "cofre (US$ 3.840); Gutterball Moreland 850 Shotgun; relógio Crowex Octane 'Orca'",
+    "0300"
+   ],
+   [
+    "La Cascara Motel",
+    "2",
+    "Oeste de Port Gellhorn, nordeste de Wild Hog Point",
+    "Kolt & Associates",
+    "Alta",
+    "US$ 27.600–46.100",
+    "Vapid Firebug Dominator; cofre (US$ 2.239); Scrapper VF5C SMG",
+    "6969"
+   ],
+   [
+    "Stash House",
+    "2",
+    "Noroeste da oficina Wasteland Off-Road, Port Gellhorn",
+    "Kolt & Associates",
+    "Média",
+    "US$ 10.000–13.200",
+    "Kolt & Associates 556 Assault Rifle; cofre (US$ 1.489)",
+    "sem código"
+   ],
+   [
+    "Nova Auto Junkyard",
+    "2",
+    "Nordeste de Hamlet, a leste do Layin' Ink",
+    "M7",
+    "Alta",
+    "US$ 20.700–27.100",
+    "Marabunta Grande KZ-59; cofre (US$ 2.313); Albany Teniente Manana",
+    "7777"
+   ]
+  ],
+  "sort": false
+ },
+ "check": [
+  {
+   "id": "fishing",
+   "t": "**Fishing Shacks** — Wetman Bay, ilha a noroeste de Key Lento (precisa de barco ou jet ski)",
+   "d": "**Gangue:** Kingfishers · **Segurança:** Alta · **Rende:** US$ 1.700–1.900 · **Key Valuables:** Kingfishers W-22 Small Game Rifle (com silenciador) · **Código:** —\n\n![Início](img/ign-fishing-1.jpg)\n\n![Key Valuable Location](img/ign-fishing-7.jpg)\n![Key Valuable Location (2)](img/ign-fishing-8.jpg)\n\n![Looting](img/ign-fishing-6.jpg)\n\n![Combat](img/ign-fishing-4.jpg)\n![Combat (2)](img/ign-fishing-5.jpg)\n\n![How to Approach](img/ign-fishing-2.jpg)\n![How to Approach (2)](img/ign-fishing-3.jpg)\n\nAparece depois de Island Dreams. Leve uma arma longa. Chegue pelo **sudoeste** sem entrar no raio amarelo. Ao sul, dois Kingfishers atiram no mar e um jacaré ataca: espere ou passe por eles. Jacarés na margem piscam branco no Focus (vermelho = agressivo).\n- **Bar:** 4 ou 5 inimigos; explosivo atrás do balcão e caixa de molotovs (L1 enche).\n- **Barraco vermelho** em frente ao bar: munição e tijolos de cocaína.\n- **Casa do deque (oeste):** inimigos atrás da casa; mais cocaína (roxo no Focus) e dinheiro (verde). Key Valuable: o estojo do **W-22** na bancada esquerda da cozinha (ícone dourado no mapa).\n- Total em cocaína: ~US$ 1.920 (confira na roda de armas > itens > sacola).\n- Saída: seu barco ou o Lure Predator, o Bombora ou o hidroavião Mammoth Dodo no deque norte. Demorar traz mais Kingfishers e a polícia."
+  },
+  {
+   "id": "exotic",
+   "t": "**Exotic Animals Front** — Fundos da Three Sheets Liquor, Key Lento (a leste do trailer do Donnie)",
+   "d": "**Gangue:** — · **Segurança:** — · **Rende:** US$ 1.366 · **Key Valuables:** — · **Código:** —\n\n![Início](img/ign-exotic-1.jpg)\n\n![Exotic Animals Front Illegal Operation Walkthrough](img/ign-exotic-2.jpg)\n![Exotic Animals Front Illegal Operation Walkthrough (2)](img/ign-exotic-3.jpg)\n![Exotic Animals Front Illegal Operation Walkthrough (3)](img/ign-exotic-4.jpg)\n![Exotic Animals Front Illegal Operation Walkthrough (4)](img/ign-exotic-5.jpg)\n![Exotic Animals Front Illegal Operation Walkthrough (5)](img/ign-exotic-6.jpg)\n![Exotic Animals Front Illegal Operation Walkthrough (6)](img/ign-exotic-7.jpg)\n\nSó depois de entregar o rum da Shirley. Pule a cerca de tela à esquerda da loja e passe pela portinha de tela ao lado do grafite “No Trespassing”. São 3 capangas armados, mais 1 que chega pela esquerda. Fale com o **papagaio** (gaiola à direita de um palete de sacos) algumas vezes até ele citar o gerador. À esquerda da gaiola, no gerador preto e amarelo, abra o **respiradouro**: US$ 1.366. A polícia vem rápido."
+  },
+  {
+   "id": "backroom",
+   "t": "**Backroom Weed Front** — Pearl House Hair Salon, sul de Port Gellhorn",
+   "d": "**Gangue:** — · **Segurança:** Baixa · **Rende:** US$ 2.200–2.400 · **Key Valuables:** cofre (US$ 1.019) · **Código:** sem código\n\n![Início](img/ign-backroom-1.jpg)\n\n![Optional Items](img/ign-backroom-8.jpg)\n\n![Backroom Weed Front Key Valuable](img/ign-backroom-6.jpg)\n![Backroom Weed Front Key Valuable (2)](img/ign-backroom-7.jpg)\n\n![Backroom Weed Front Location](img/ign-backroom-2.jpg)\n![Backroom Weed Front Location (2)](img/ign-backroom-3.jpg)\n![Backroom Weed Front Location (3)](img/ign-backroom-4.jpg)\n![Backroom Weed Front Location (4)](img/ign-backroom-5.jpg)\n\nAparece ao passar perto do salão. A porta verde dentro do salão só abre com sticky bomb (chama a polícia); vá pelos **fundos, porta branca**, e arrombe com {□}. Dois capangas. Cofre sem código à esquerda ({△} e analógico direito): US$ 1.019. Na mesa ao lado: US$ 367 e 5 sacos de maconha."
+  },
+  {
+   "id": "industrial",
+   "t": "**Industrial Weed Grow** — Noroeste de Grassrivers, nordeste de Tola Bay (Mariana County)",
+   "d": "**Gangue:** — · **Segurança:** Alta · **Rende:** US$ 15.200–28.500 · **Key Valuables:** Vapid Cultivator Sandking; cofre; Chronic Vatra SMG · **Código:** sem código\n\n![Início](img/ign-industrial-1.jpg)\n\n![Optional Items](img/ign-industrial-17.jpg)\n![Optional Items (2)](img/ign-industrial-18.jpg)\n![Optional Items (3)](img/ign-industrial-19.jpg)\n![Optional Items (4)](img/ign-industrial-20.jpg)\n![Optional Items (5)](img/ign-industrial-21.jpg)\n\n![Key Valuable 3](img/ign-industrial-14.jpg)\n![Key Valuable 3 (2)](img/ign-industrial-15.jpg)\n![Key Valuable 3 (3)](img/ign-industrial-16.jpg)\n\n![Key Valuable 2](img/ign-industrial-8.jpg)\n![Key Valuable 2 (2)](img/ign-industrial-9.jpg)\n![Key Valuable 2 (3)](img/ign-industrial-10.jpg)\n![Key Valuable 2 (4)](img/ign-industrial-11.jpg)\n![Key Valuable 2 (5)](img/ign-industrial-12.jpg)\n![Key Valuable 2 (6)](img/ign-industrial-13.jpg)\n\n![Key Valuable 1](img/ign-industrial-6.jpg)\n![Key Valuable 1 (2)](img/ign-industrial-7.jpg)\n\n![Editor Meg’s Way In](img/ign-industrial-3.jpg)\n![Editor Meg’s Way In (2)](img/ign-industrial-4.jpg)\n![Editor Meg’s Way In (3)](img/ign-industrial-5.jpg)\n\n![Industrial Weed Grow Illegal Operation Location](img/ign-industrial-2.jpg)\n\nQualquer capítulo; só aparece no mapa quando você chega. Leve escopeta ou fuzil. Entrada fácil: pelo sul, siga o muro à esquerda até o buraco na cerca diante das caçambas amarelas.\n- **Sandking** no meio do galpão: destrancado, sem alarme; saia pelo lado norte. Registro US$ 6.300, venda US$ 16.170.\n- **Cofre** no escritório oeste (escada no fundo esquerdo): US$ 984. Na mesa, Zombix e US$ 353; armário de primeiros socorros; molotovs na passarela.\n- **Chronic Vatra SMG** no arsenal cercado a leste, com sticky bombs e granadas.\n- Dezenas de sacos de maconha nas mesas. Sacolas cheias? Chame o parceiro (segure {→}) e entregue as sacolas a ele."
+  },
+  {
+   "id": "manatee",
+   "t": "**Manatee Motel** — Nordeste de Cottonmouth Lake, sul de Hamlet",
+   "d": "**Gangue:** Kingfishers · **Segurança:** Alta · **Rende:** US$ 1.700–1.900 · **Key Valuables:** cofre (US$ 937); Kingfishers Laird 350 Sniper · **Código:** sem código\n\n![Início](img/ign-manatee-1.jpg)\n\n![Key Valuable 2 Location](img/ign-manatee-11.jpg)\n![Key Valuable 2 Location (2)](img/ign-manatee-12.jpg)\n![Key Valuable 2 Location (3)](img/ign-manatee-13.jpg)\n![Key Valuable 2 Location (4)](img/ign-manatee-14.jpg)\n![Key Valuable 2 Location (5)](img/ign-manatee-15.jpg)\n\n![Key Valuable 1 Location](img/ign-manatee-5.jpg)\n![Key Valuable 1 Location (2)](img/ign-manatee-6.jpg)\n![Key Valuable 1 Location (3)](img/ign-manatee-7.jpg)\n![Key Valuable 1 Location (4)](img/ign-manatee-8.jpg)\n![Key Valuable 1 Location (5)](img/ign-manatee-9.jpg)\n![Key Valuable 1 Location (6)](img/ign-manatee-10.jpg)\n\n![Kingfishers Manatee Motel Key Valuables](img/ign-manatee-4.jpg)\n\n![Kingfishers Manatee Motel Location](img/ign-manatee-2.jpg)\n![Kingfishers Manatee Motel Location (2)](img/ign-manatee-3.jpg)\n\nLiberado no Cap. 2. Os Kingfishers chamam reforços de carro; cuidado com o cachorro solto ({□} repetido para empurrar). Ache o grafite marrom **“SPEED LIVE”**: o quarto à **direita** tem o cofre (US$ 937; pode ter um tigre) e Adrenalines; o quarto à **esquerda** tem o **Laird 350 Sniper**, 2 tijolos de cocaína e US$ 342."
+  },
+  {
+   "id": "sunrise",
+   "t": "**Sunrise RV Park** — Norte de Cottonmouth Lake, noroeste de Key Lento (pela estrada que sai de Hamlet para sudoeste)",
+   "d": "**Gangue:** Kingfishers · **Segurança:** Alta · **Rende:** US$ 6.500–9.300 · **Key Valuables:** 2 cofres; Kingfishers Akulus Revolver · **Código:** 6769\n\n![Início](img/ign-sunrise-1.jpg)\n\n![Key Valuable 3 Location](img/ign-sunrise-17.jpg)\n![Key Valuable 3 Location (2)](img/ign-sunrise-18.jpg)\n![Key Valuable 3 Location (3)](img/ign-sunrise-19.jpg)\n![Key Valuable 3 Location (4)](img/ign-sunrise-20.jpg)\n![Key Valuable 3 Location (5)](img/ign-sunrise-21.jpg)\n![Key Valuable 3 Location (6)](img/ign-sunrise-22.jpg)\n![Key Valuable 3 Location (7)](img/ign-sunrise-23.jpg)\n\n![Key Valuable 2 Location](img/ign-sunrise-12.jpg)\n![Key Valuable 2 Location (2)](img/ign-sunrise-13.jpg)\n![Key Valuable 2 Location (3)](img/ign-sunrise-14.jpg)\n![Key Valuable 2 Location (4)](img/ign-sunrise-15.jpg)\n![Key Valuable 2 Location (5)](img/ign-sunrise-16.jpg)\n\n![Safe Code Location](img/ign-sunrise-10.jpg)\n![Safe Code Location (2)](img/ign-sunrise-11.jpg)\n\n![Key Valuable 1 Location](img/ign-sunrise-4.jpg)\n![Key Valuable 1 Location (2)](img/ign-sunrise-5.jpg)\n![Key Valuable 1 Location (3)](img/ign-sunrise-6.jpg)\n![Key Valuable 1 Location (4)](img/ign-sunrise-7.jpg)\n![Key Valuable 1 Location (5)](img/ign-sunrise-8.jpg)\n![Key Valuable 1 Location (6)](img/ign-sunrise-9.jpg)\n\n![Sunrise RV Park Key Valuables Locations](img/ign-sunrise-3.jpg)\n\n![Kingfishers Sunrise RV Park Location](img/ign-sunrise-2.jpg)\n\nLeve escopeta e cuidado com os cães.\n- **Cofre 1** atrás do balcão do escritório (1º prédio à esquerda do portão): US$ 1.332. Na mesa à direita, um bloco com o **código 6769**.\n- **Cofre 2** no prédio do deque, ao lado da placa “LIVE BAIT & TACKLE”: US$ 2.259, mais cocaína e US$ 228.\n- **Akulus Revolver** na cama do trailer laranja e branco ao norte do deque; no banheiro, cofrinho com US$ 1.022.\n- No Cap. 2, o Dunk paga ~US$ 2.400 pela cocaína."
+  },
+  {
+   "id": "brooks",
+   "t": "**Brooks Boatworks** — Norte da Pay 'n' Spray de Port Gellhorn",
+   "d": "**Gangue:** Kolt & Associates · **Segurança:** Alta · **Rende:** US$ 5.300–7.900 · **Key Valuables:** 2 cofres; Vapid Smuggler Caracara; Clunker 556 Assault Rifle · **Código:** 6823\n\n![Início](img/ign-brooks-1.jpg)\n\n![Key Valuable 4 Location](img/ign-brooks-24.jpg)\n\n![Key Valuable 3 Location](img/ign-brooks-22.jpg)\n![Key Valuable 3 Location (2)](img/ign-brooks-23.jpg)\n\n![Key Valuable 2 Location](img/ign-brooks-16.jpg)\n![Key Valuable 2 Location (2)](img/ign-brooks-17.jpg)\n![Key Valuable 2 Location (3)](img/ign-brooks-18.jpg)\n![Key Valuable 2 Location (4)](img/ign-brooks-19.jpg)\n![Key Valuable 2 Location (5)](img/ign-brooks-20.jpg)\n![Key Valuable 2 Location (6)](img/ign-brooks-21.jpg)\n\n![Safe Code Location](img/ign-brooks-10.jpg)\n![Safe Code Location (2)](img/ign-brooks-11.jpg)\n![Safe Code Location (3)](img/ign-brooks-12.jpg)\n![Safe Code Location (4)](img/ign-brooks-13.jpg)\n![Safe Code Location (5)](img/ign-brooks-14.jpg)\n![Safe Code Location (6)](img/ign-brooks-15.jpg)\n\n![Key Valuable 1 Location](img/ign-brooks-6.jpg)\n![Key Valuable 1 Location (2)](img/ign-brooks-7.jpg)\n![Key Valuable 1 Location (3)](img/ign-brooks-8.jpg)\n![Key Valuable 1 Location (4)](img/ign-brooks-9.jpg)\n\n![Brooks Boatworks Key Valuables](img/ign-brooks-5.jpg)\n\n![IGN Staff Tip – Meg Koepp, Editor ✨](img/ign-brooks-3.jpg)\n![IGN Staff Tip – Meg Koepp, Editor ✨ (2)](img/ign-brooks-4.jpg)\n\n![Kolt & Associates Brooks Boatworks Location](img/ign-brooks-2.jpg)\n\nAs entradas laterais estão trancadas. Entre pelo **buraco na cerca entre elas** (barcos virados); ali há um fuzil KZ-59.\n- No galpão principal, um barco tenta fugir com 3 sacos de pílulas, uma SMG e US$ 198 no baú.\n- **Cofre 1** no andar de cima do galpão: US$ 2.165 (+ US$ 418 na máquina de contar).\n- O **código 6823** está num mapa na parede do prédio à direita (leste), acima do **Clunker 556**. O mesmo mapa mostra os códigos do La Cascara e do Kingpin Bowling.\n- **Cofre 2** no prédio verde de madeira à esquerda (escada externa, porta branca): US$ 1.409, mais US$ 337 e US$ 294.\n- **Smuggler Caracara** laranja na frente desse prédio: entre nela para contar. Registro US$ 5.550, venda US$ 6.325."
+  },
+  {
+   "id": "june",
+   "t": "**June Warehouse** — Oeste do Delights Cabaret, Port Gellhorn",
+   "d": "**Gangue:** Kolt & Associates · **Segurança:** Alta · **Rende:** US$ 9.800–12.400 · **Key Valuables:** Kolt & Associates Vatra SMG; cofre; Vapid Truth & Justice Caracara · **Código:** sem código\n\n![Início](img/ign-june-1.jpg)\n\n![Key Valuable 3 Location](img/ign-june-13.jpg)\n![Key Valuable 3 Location (2)](img/ign-june-14.jpg)\n\n![Key Valuable 1 and 2 Location](img/ign-june-8.jpg)\n![Key Valuable 1 and 2 Location (2)](img/ign-june-9.jpg)\n![Key Valuable 1 and 2 Location (3)](img/ign-june-10.jpg)\n![Key Valuable 1 and 2 Location (4)](img/ign-june-11.jpg)\n![Key Valuable 1 and 2 Location (5)](img/ign-june-12.jpg)\n\n![Editor Meg’s Way In](img/ign-june-3.jpg)\n![Editor Meg’s Way In (2)](img/ign-june-4.jpg)\n![Editor Meg’s Way In (3)](img/ign-june-5.jpg)\n![Editor Meg’s Way In (4)](img/ign-june-6.jpg)\n![Editor Meg’s Way In (5)](img/ign-june-7.jpg)\n\n![Kolt & Associates June Warehouse Location](img/ign-june-2.jpg)\n\nPequeno e cheio de capangas: leve escopeta. Ao entrar, uma van azul da Brooks Boatworks foge com 3 sacos de pílulas; pare-a. No galpão: **Vatra SMG** na parede do fundo e **cofre** ao lado (US$ 1.355); US$ 222 diante da TV; o bloco à direita da TV marca o La Cascara. A **Truth & Justice Caracara** fica a leste (registro US$ 5.550, venda US$ 6.445)."
+  },
+  {
+   "id": "kingpin",
+   "t": "**Kingpin Bowling** — Sul da Ammu-Nation Pawn & Gun, Port Gellhorn",
+   "d": "**Gangue:** Kolt & Associates · **Segurança:** Alta · **Rende:** US$ 21.100–29.500 · **Key Valuables:** cofre (US$ 3.840); Gutterball Moreland 850 Shotgun; relógio Crowex Octane 'Orca' · **Código:** 0300\n\n![Início](img/ign-kingpin-1.jpg)\n\n![Optional Items](img/ign-kingpin-12.jpg)\n\n![Key Valuable 3 Location](img/ign-kingpin-8.jpg)\n![Key Valuable 3 Location (2)](img/ign-kingpin-9.jpg)\n![Key Valuable 3 Location (3)](img/ign-kingpin-10.jpg)\n![Key Valuable 3 Location (4)](img/ign-kingpin-11.jpg)\n\n![Key Valuable 2 Location](img/ign-kingpin-6.jpg)\n![Key Valuable 2 Location (2)](img/ign-kingpin-7.jpg)\n\n![Kingpin Bowling Safe Code Location](img/ign-brooks-10.jpg)\n![Kingpin Bowling Safe Code Location (2)](img/ign-brooks-11.jpg)\n![Kingpin Bowling Safe Code Location (3)](img/ign-brooks-12.jpg)\n\n![Editor Meg’s Route](img/ign-kingpin-3.jpg)\n![Editor Meg’s Route (2)](img/ign-kingpin-4.jpg)\n![Editor Meg’s Route (3)](img/ign-kingpin-5.jpg)\n\n![Kolt & Associates Kingpin Bowling Location](img/ign-kingpin-2.jpg)\n\nAparece em Coffee Break (opcional Hit Kingpin Bowling); se faltar algo, volta depois como Illegal Op.\n- **Cofre** no escritório dos fundos (leste): porta “Storage” à esquerda do balcão, depois a porta “Office”. Código **0300** ou sticky bomb. US$ 3.840.\n- **Gutterball Moreland 850** na mesa de sinuca à esquerda do escritório.\n- **Relógio Orca** na sala à esquerda das pistas (sul), com Zombix e US$ 552.\n- Sacos de pílulas nas mesas atrás das divisórias."
+  },
+  {
+   "id": "cascara",
+   "t": "**La Cascara Motel** — Oeste de Port Gellhorn, nordeste de Wild Hog Point",
+   "d": "**Gangue:** Kolt & Associates · **Segurança:** Alta · **Rende:** US$ 27.600–46.100 · **Key Valuables:** Vapid Firebug Dominator; cofre (US$ 2.239); Scrapper VF5C SMG · **Código:** 6969\n\n![Início](img/ign-cascara-1.jpg)\n\n![Optional Items](img/ign-cascara-17.jpg)\n![Optional Items (2)](img/ign-cascara-18.jpg)\n![Optional Items (3)](img/ign-cascara-19.jpg)\n![Optional Items (4)](img/ign-cascara-20.jpg)\n![Optional Items (5)](img/ign-cascara-21.jpg)\n\n![Key Valuable 3 Location](img/ign-cascara-15.jpg)\n![Key Valuable 3 Location (2)](img/ign-cascara-16.jpg)\n\n![Safe Code Location](img/ign-brooks-1.jpg)\n![Safe Code Location (2)](img/ign-brooks-10.jpg)\n![Safe Code Location (3)](img/ign-brooks-11.jpg)\n![Safe Code Location (4)](img/ign-brooks-12.jpg)\n\n![Editor Meg’s Route to the Top Floor](img/ign-cascara-8.jpg)\n![Editor Meg’s Route to the Top Floor (2)](img/ign-cascara-9.jpg)\n![Editor Meg’s Route to the Top Floor (3)](img/ign-cascara-10.jpg)\n![Editor Meg’s Route to the Top Floor (4)](img/ign-cascara-11.jpg)\n![Editor Meg’s Route to the Top Floor (5)](img/ign-cascara-12.jpg)\n![Editor Meg’s Route to the Top Floor (6)](img/ign-cascara-13.jpg)\n![Editor Meg’s Route to the Top Floor (7)](img/ign-cascara-14.jpg)\n\n![Key Valuable 2 Location](img/ign-cascara-6.jpg)\n![Key Valuable 2 Location (2)](img/ign-cascara-7.jpg)\n\n![Key Valuable 1 Location](img/ign-cascara-3.jpg)\n![Key Valuable 1 Location (2)](img/ign-cascara-4.jpg)\n![Key Valuable 1 Location (3)](img/ign-cascara-5.jpg)\n\n![Kolt & Associates La Cascara Motel Location](img/ign-cascara-2.jpg)\n\nAparece depois de ver o código na Brooks Boatworks ou o bloco na June Warehouse. Muitos capangas na frente.\n- **Firebug Dominator** vermelho estacionado à frente, a leste: trancado (quebre o vidro ou use o Slim Jim).\n- **Cofre** no último andar, numa sala gradeada, por uma rota longa pelos andares; código **6969**. US$ 2.239.\n- **Scrapper VF5C** logo depois do cofre; colete, sticky bombs e granadas ao lado; US$ 338 na mesa.\n- 8 sacos de pílulas e 8 de maconha espalhados."
+  },
+  {
+   "id": "stash",
+   "t": "**Stash House** — Noroeste da oficina Wasteland Off-Road, Port Gellhorn",
+   "d": "**Gangue:** Kolt & Associates · **Segurança:** Média · **Rende:** US$ 10.000–13.200 · **Key Valuables:** Kolt & Associates 556 Assault Rifle; cofre (US$ 1.489) · **Código:** sem código\n\n![Início](img/ign-stash-1.jpg)\n\n![Optional Items](img/ign-stash-7.jpg)\n![Optional Items (2)](img/ign-stash-8.jpg)\n![Optional Items (3)](img/ign-stash-9.jpg)\n\n![Key Valuable 2 Location](img/ign-stash-5.jpg)\n![Key Valuable 2 Location (2)](img/ign-stash-6.jpg)\n\n![Key Valuable 1 Location](img/ign-stash-3.jpg)\n![Key Valuable 1 Location (2)](img/ign-stash-4.jpg)\n\n![Kolt & Associates Stash House Location](img/ign-stash-2.jpg)\n\nMarcada em Girls' Trip. Capangas na frente ficam hostis quando você chega. **556 Assault Rifle** no balcão da cozinha (emboscada logo depois). **Cofre** na sala ao lado, à esquerda da porta: US$ 1.489. Na mesa em frente: US$ 232 e 4 sacos de pílulas; no **respiradouro** à direita da mesa: US$ 1.000; na sala, US$ 171."
+  },
+  {
+   "id": "nova",
+   "t": "**Nova Auto Junkyard** — Nordeste de Hamlet, a leste do Layin' Ink",
+   "d": "**Gangue:** M7 · **Segurança:** Alta · **Rende:** US$ 20.700–27.100 · **Key Valuables:** Marabunta Grande KZ-59; cofre (US$ 2.313); Albany Teniente Manana · **Código:** 7777\n\n![Início](img/ign-nova-1.jpg)\n\n![Other Valuables](img/ign-nova-19.jpg)\n![Other Valuables (2)](img/ign-nova-20.jpg)\n![Other Valuables (3)](img/ign-nova-21.jpg)\n![Other Valuables (4)](img/ign-nova-22.jpg)\n![Other Valuables (5)](img/ign-nova-23.jpg)\n![Other Valuables (6)](img/ign-nova-24.jpg)\n\n![Key Valuable 3 Location](img/ign-nova-16.jpg)\n![Key Valuable 3 Location (2)](img/ign-nova-17.jpg)\n![Key Valuable 3 Location (3)](img/ign-nova-18.jpg)\n\n![Safe Code Location](img/ign-nova-13.jpg)\n![Safe Code Location (2)](img/ign-nova-14.jpg)\n![Safe Code Location (3)](img/ign-nova-15.jpg)\n\n![Key Valuable 2 Location](img/ign-nova-10.jpg)\n![Key Valuable 2 Location (2)](img/ign-nova-11.jpg)\n![Key Valuable 2 Location (3)](img/ign-nova-12.jpg)\n\n![Key Valuable 1 Location](img/ign-nova-4.jpg)\n![Key Valuable 1 Location (2)](img/ign-nova-5.jpg)\n![Key Valuable 1 Location (3)](img/ign-nova-6.jpg)\n![Key Valuable 1 Location (4)](img/ign-nova-7.jpg)\n![Key Valuable 1 Location (5)](img/ign-nova-8.jpg)\n![Key Valuable 1 Location (6)](img/ign-nova-9.jpg)\n\n![Nova Auto Junkyard Key Valuables](img/ign-nova-3.jpg)\n\n![M7 Nova Auto Junkyard Location](img/ign-nova-2.jpg)\n\nLeve escopeta. **KZ-59 Marabunta** sob o toldo norte, no contêiner azul (barril explosivo ali). **Cofre** no escritório de portão branco ao lado do ônibus escolar amarelo; o código **7777** está escrito na parede atrás dele. US$ 2.313. Na garagem ao lado, depois da briga, o **Teniente Manana** (registro US$ 1.450, venda US$ 3.770); botão à esquerda abre o portão. 4 sacos de cristal na mesa e US$ 178 no porta-malas do carro na frente do galpão vermelho e prata."
+  }
+ ],
+ "src": [
+  "IGN",
+  "Eurogamer"
+ ],
+ "kw": [
+  "illegal operations",
+  "operacao ilegal",
+  "esconderijo",
+  "gangue",
+  "key valuables",
+  "codigo do cofre",
+  "kingfishers",
+  "kolt",
+  "m7",
+  "robbery opportunity",
+  "aviao caido"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Chapter 1 and 2 Illegal Operations",
+  "sum": "The 12 early gang hideouts: where they are, what they pay, Key Valuables and safe codes.",
+  "body": "- **Illegal Operations** are gang hideouts (yellow icon) with cash, drugs to fence, **Key Valuables** and sometimes a standout vehicle. Most can be done in any chapter; IGN groups them by where the story has you.\n- **Key Valuables** glow **gold** in Focus ({L3}+{R3}) and get marked on the map once spotted. Unique Weapon Variants are yours for good; see [[armas-tipos]].\n- **Key Lento is off limits in Chapter 2** (Jason and Lucia are Wanted there).\n- After hitting a gang, drive a random car: they send people after you, and engine repairs on your own car are expensive.\n- Sticky Bombs go on sale in Chapter 3; until then, use the codes below.\n- **Crashed plane (Chapter 1):** smoke in a field south of Hamlet (you can see it go down from the bridge to Hamlet). A pistol and drugs to sell; a truck of armed men shows up right after, and you can keep their off-road truck.\n\nTap “Walkthrough” on each operation for the steps.",
+  "table": {
+   "cols": [
+    "Operation",
+    "Ch.",
+    "Where",
+    "Gang",
+    "Security",
+    "Payout (IGN)",
+    "Key Valuables",
+    "Code"
+   ],
+   "rows": [
+    [
+     "Fishing Shacks",
+     "1",
+     "Wetman Bay island, northwest of Key Lento (boat or jet ski needed)",
+     "Kingfishers",
+     "High",
+     "$1,700–1,900",
+     "Kingfishers W-22 Small Game Rifle (with silencer)",
+     "—"
+    ],
+    [
+     "Exotic Animals Front",
+     "1",
+     "Behind Three Sheets liquor store, Key Lento (east of Donnie's trailer)",
+     "—",
+     "N/A",
+     "$1,366",
+     "—",
+     "—"
+    ],
+    [
+     "Backroom Weed Front",
+     "2",
+     "Pearl House Hair Salon, south Port Gellhorn",
+     "—",
+     "Low",
+     "$2,200–2,400",
+     "safe ($1,019)",
+     "no code"
+    ],
+    [
+     "Industrial Weed Grow",
+     "2",
+     "Northwest of Grassrivers, northeast of Tola Bay (Mariana County)",
+     "—",
+     "High",
+     "$15,200–28,500",
+     "Vapid Cultivator Sandking; safe; Chronic Vatra SMG",
+     "no code"
+    ],
+    [
+     "Manatee Motel",
+     "2",
+     "Northeast of Cottonmouth Lake, south of Hamlet",
+     "Kingfishers",
+     "High",
+     "$1,700–1,900",
+     "safe ($937); Kingfishers Laird 350 Sniper",
+     "no code"
+    ],
+    [
+     "Sunrise RV Park",
+     "2",
+     "North side of Cottonmouth Lake, northwest of Key Lento (take the road southwest out of Hamlet)",
+     "Kingfishers",
+     "High",
+     "$6,500–9,300",
+     "2 safes; Kingfishers Akulus Revolver",
+     "6769"
+    ],
+    [
+     "Brooks Boatworks",
+     "2",
+     "North of the Port Gellhorn Pay 'n' Spray",
+     "Kolt & Associates",
+     "High",
+     "$5,300–7,900",
+     "2 safes; Vapid Smuggler Caracara; Clunker 556 Assault Rifle",
+     "6823"
+    ],
+    [
+     "June Warehouse",
+     "2",
+     "West of Delights Cabaret, Port Gellhorn",
+     "Kolt & Associates",
+     "High",
+     "$9,800–12,400",
+     "Kolt & Associates Vatra SMG; safe; Vapid Truth & Justice Caracara",
+     "no code"
+    ],
+    [
+     "Kingpin Bowling",
+     "2",
+     "South of the Pawn & Gun Ammu-Nation, Port Gellhorn",
+     "Kolt & Associates",
+     "High",
+     "$21,100–29,500",
+     "safe ($3,840); Gutterball Moreland 850 Shotgun; watch Crowex Octane 'Orca'",
+     "0300"
+    ],
+    [
+     "La Cascara Motel",
+     "2",
+     "West Port Gellhorn, northeast of Wild Hog Point",
+     "Kolt & Associates",
+     "High",
+     "$27,600–46,100",
+     "Vapid Firebug Dominator; safe ($2,239); Scrapper VF5C SMG",
+     "6969"
+    ],
+    [
+     "Stash House",
+     "2",
+     "Northwest of the Wasteland Off-Road mod shop, Port Gellhorn",
+     "Kolt & Associates",
+     "Medium",
+     "$10,000–13,200",
+     "Kolt & Associates 556 Assault Rifle; safe ($1,489)",
+     "no code"
+    ],
+    [
+     "Nova Auto Junkyard",
+     "2",
+     "Northeast Hamlet, east of Layin' Ink",
+     "M7",
+     "High",
+     "$20,700–27,100",
+     "Marabunta Grande KZ-59; safe ($2,313); Albany Teniente Manana",
+     "7777"
+    ]
+   ],
+   "sort": false
+  },
+  "check": [
+   {
+    "id": "fishing",
+    "t": "**Fishing Shacks** — Wetman Bay island, northwest of Key Lento (boat or jet ski needed)",
+    "d": "**Gang:** Kingfishers · **Security:** High · **Payout:** $1,700–1,900 · **Key Valuables:** Kingfishers W-22 Small Game Rifle (with silencer) · **Code:** —\n\n![Start](img/ign-fishing-1.jpg)\n\n![Key Valuable Location](img/ign-fishing-7.jpg)\n![Key Valuable Location (2)](img/ign-fishing-8.jpg)\n\n![Looting](img/ign-fishing-6.jpg)\n\n![Combat](img/ign-fishing-4.jpg)\n![Combat (2)](img/ign-fishing-5.jpg)\n\n![How to Approach](img/ign-fishing-2.jpg)\n![How to Approach (2)](img/ign-fishing-3.jpg)\n\nShows up after Island Dreams. Bring a longarm. Approach from the **southwest** without entering the yellow radius. To the south, two Kingfishers shoot into the water while an alligator attacks: wait it out or slip past. Shoreline gators flash white in Focus (red = aggressive).\n- **Bar:** 4–5 enemies; explosive behind the bar and a Molotov crate (tap L1).\n- **Red shack** opposite the bar: ammo and cocaine bricks.\n- **House on the dock (west):** enemies wait behind it; more cocaine (purple in Focus) and cash (green). Key Valuable: the **W-22** case on the left kitchen counter (gold icon on the map).\n- About $1,920 in cocaine (check in weapon wheel > items > stash bag).\n- Exit with your boat or the Lure Predator, Bombora or Mammoth Dodo seaplane at the north dock. Lingering brings more Kingfishers and the cops."
+   },
+   {
+    "id": "exotic",
+    "t": "**Exotic Animals Front** — Behind Three Sheets liquor store, Key Lento (east of Donnie's trailer)",
+    "d": "**Gang:** — · **Security:** N/A · **Payout:** $1,366 · **Key Valuables:** — · **Code:** —\n\n![Start](img/ign-exotic-1.jpg)\n\n![Exotic Animals Front Illegal Operation Walkthrough](img/ign-exotic-2.jpg)\n![Exotic Animals Front Illegal Operation Walkthrough (2)](img/ign-exotic-3.jpg)\n![Exotic Animals Front Illegal Operation Walkthrough (3)](img/ign-exotic-4.jpg)\n![Exotic Animals Front Illegal Operation Walkthrough (4)](img/ign-exotic-5.jpg)\n![Exotic Animals Front Illegal Operation Walkthrough (5)](img/ign-exotic-6.jpg)\n![Exotic Animals Front Illegal Operation Walkthrough (6)](img/ign-exotic-7.jpg)\n\nOnly after delivering Shirley's rum. Hop the chain-link fence left of the store and go through the small chain-link door by the “No Trespassing” graffiti. Three armed goons, plus one from the left. Talk to the **parrot** (cage right of a pallet of sacks) a few times until it mentions the generator. Left of the cage, at the black and yellow generator, open the **vent**: $1,366. The cops arrive fast."
+   },
+   {
+    "id": "backroom",
+    "t": "**Backroom Weed Front** — Pearl House Hair Salon, south Port Gellhorn",
+    "d": "**Gang:** — · **Security:** Low · **Payout:** $2,200–2,400 · **Key Valuables:** safe ($1,019) · **Code:** no code\n\n![Start](img/ign-backroom-1.jpg)\n\n![Optional Items](img/ign-backroom-8.jpg)\n\n![Backroom Weed Front Key Valuable](img/ign-backroom-6.jpg)\n![Backroom Weed Front Key Valuable (2)](img/ign-backroom-7.jpg)\n\n![Backroom Weed Front Location](img/ign-backroom-2.jpg)\n![Backroom Weed Front Location (2)](img/ign-backroom-3.jpg)\n![Backroom Weed Front Location (3)](img/ign-backroom-4.jpg)\n![Backroom Weed Front Location (4)](img/ign-backroom-5.jpg)\n\nAppears when you drive near the salon. The green door inside needs a Sticky Bomb (cops get called); go **around back to the white door** and bust it in with {□}. Two thugs. Codeless safe on the left ({△} then right stick): $1,019. Table next to it: $367 and 5 bags of weed."
+   },
+   {
+    "id": "industrial",
+    "t": "**Industrial Weed Grow** — Northwest of Grassrivers, northeast of Tola Bay (Mariana County)",
+    "d": "**Gang:** — · **Security:** High · **Payout:** $15,200–28,500 · **Key Valuables:** Vapid Cultivator Sandking; safe; Chronic Vatra SMG · **Code:** no code\n\n![Start](img/ign-industrial-1.jpg)\n\n![Optional Items](img/ign-industrial-17.jpg)\n![Optional Items (2)](img/ign-industrial-18.jpg)\n![Optional Items (3)](img/ign-industrial-19.jpg)\n![Optional Items (4)](img/ign-industrial-20.jpg)\n![Optional Items (5)](img/ign-industrial-21.jpg)\n\n![Key Valuable 3](img/ign-industrial-14.jpg)\n![Key Valuable 3 (2)](img/ign-industrial-15.jpg)\n![Key Valuable 3 (3)](img/ign-industrial-16.jpg)\n\n![Key Valuable 2](img/ign-industrial-8.jpg)\n![Key Valuable 2 (2)](img/ign-industrial-9.jpg)\n![Key Valuable 2 (3)](img/ign-industrial-10.jpg)\n![Key Valuable 2 (4)](img/ign-industrial-11.jpg)\n![Key Valuable 2 (5)](img/ign-industrial-12.jpg)\n![Key Valuable 2 (6)](img/ign-industrial-13.jpg)\n\n![Key Valuable 1](img/ign-industrial-6.jpg)\n![Key Valuable 1 (2)](img/ign-industrial-7.jpg)\n\n![Editor Meg’s Way In](img/ign-industrial-3.jpg)\n![Editor Meg’s Way In (2)](img/ign-industrial-4.jpg)\n![Editor Meg’s Way In (3)](img/ign-industrial-5.jpg)\n\n![Industrial Weed Grow Illegal Operation Location](img/ign-industrial-2.jpg)\n\nAny chapter; it only appears once you reach the area. Bring a shotgun or rifle. Easy way in: from the south, follow the wall left to the gap in the fence by the yellow dumpsters.\n- **Sandking** in the middle of the warehouse: unlocked, no alarm; leave by the north side. Registration $6,300, sale $16,170.\n- **Safe** in the west office (stairs at the far left): $984. Desk: Zombix and $353; first aid cabinet; Molotovs on the walkway.\n- **Chronic Vatra SMG** in the caged armory to the east, with Sticky Bombs and Frag Grenades.\n- Dozens of weed bags on the tables. Bags full? Call your partner (hold {→}) and hand them your bags."
+   },
+   {
+    "id": "manatee",
+    "t": "**Manatee Motel** — Northeast of Cottonmouth Lake, south of Hamlet",
+    "d": "**Gang:** Kingfishers · **Security:** High · **Payout:** $1,700–1,900 · **Key Valuables:** safe ($937); Kingfishers Laird 350 Sniper · **Code:** no code\n\n![Start](img/ign-manatee-1.jpg)\n\n![Key Valuable 2 Location](img/ign-manatee-11.jpg)\n![Key Valuable 2 Location (2)](img/ign-manatee-12.jpg)\n![Key Valuable 2 Location (3)](img/ign-manatee-13.jpg)\n![Key Valuable 2 Location (4)](img/ign-manatee-14.jpg)\n![Key Valuable 2 Location (5)](img/ign-manatee-15.jpg)\n\n![Key Valuable 1 Location](img/ign-manatee-5.jpg)\n![Key Valuable 1 Location (2)](img/ign-manatee-6.jpg)\n![Key Valuable 1 Location (3)](img/ign-manatee-7.jpg)\n![Key Valuable 1 Location (4)](img/ign-manatee-8.jpg)\n![Key Valuable 1 Location (5)](img/ign-manatee-9.jpg)\n![Key Valuable 1 Location (6)](img/ign-manatee-10.jpg)\n\n![Kingfishers Manatee Motel Key Valuables](img/ign-manatee-4.jpg)\n\n![Kingfishers Manatee Motel Location](img/ign-manatee-2.jpg)\n![Kingfishers Manatee Motel Location (2)](img/ign-manatee-3.jpg)\n\nAvailable from Chapter 2. Kingfishers call in reinforcements by car; watch the loose dog (mash {□} to push it off). Find the brown **“SPEED LIVE”** graffiti: the room to the **right** has the safe ($937; there may be a tiger) and Adrenalines; the room to the **left** has the **Laird 350 Sniper**, 2 cocaine bricks and $342."
+   },
+   {
+    "id": "sunrise",
+    "t": "**Sunrise RV Park** — North side of Cottonmouth Lake, northwest of Key Lento (take the road southwest out of Hamlet)",
+    "d": "**Gang:** Kingfishers · **Security:** High · **Payout:** $6,500–9,300 · **Key Valuables:** 2 safes; Kingfishers Akulus Revolver · **Code:** 6769\n\n![Start](img/ign-sunrise-1.jpg)\n\n![Key Valuable 3 Location](img/ign-sunrise-17.jpg)\n![Key Valuable 3 Location (2)](img/ign-sunrise-18.jpg)\n![Key Valuable 3 Location (3)](img/ign-sunrise-19.jpg)\n![Key Valuable 3 Location (4)](img/ign-sunrise-20.jpg)\n![Key Valuable 3 Location (5)](img/ign-sunrise-21.jpg)\n![Key Valuable 3 Location (6)](img/ign-sunrise-22.jpg)\n![Key Valuable 3 Location (7)](img/ign-sunrise-23.jpg)\n\n![Key Valuable 2 Location](img/ign-sunrise-12.jpg)\n![Key Valuable 2 Location (2)](img/ign-sunrise-13.jpg)\n![Key Valuable 2 Location (3)](img/ign-sunrise-14.jpg)\n![Key Valuable 2 Location (4)](img/ign-sunrise-15.jpg)\n![Key Valuable 2 Location (5)](img/ign-sunrise-16.jpg)\n\n![Safe Code Location](img/ign-sunrise-10.jpg)\n![Safe Code Location (2)](img/ign-sunrise-11.jpg)\n\n![Key Valuable 1 Location](img/ign-sunrise-4.jpg)\n![Key Valuable 1 Location (2)](img/ign-sunrise-5.jpg)\n![Key Valuable 1 Location (3)](img/ign-sunrise-6.jpg)\n![Key Valuable 1 Location (4)](img/ign-sunrise-7.jpg)\n![Key Valuable 1 Location (5)](img/ign-sunrise-8.jpg)\n![Key Valuable 1 Location (6)](img/ign-sunrise-9.jpg)\n\n![Sunrise RV Park Key Valuables Locations](img/ign-sunrise-3.jpg)\n\n![Kingfishers Sunrise RV Park Location](img/ign-sunrise-2.jpg)\n\nBring a shotgun and watch for dogs.\n- **Safe 1** behind the office front desk (first building on the left from the gate): $1,332. On the table to the right, a notepad with **code 6769**.\n- **Safe 2** in the dock building, by the “LIVE BAIT & TACKLE” sign: $2,259, plus cocaine and $228.\n- **Akulus Revolver** on the bed of the orange and white RV north of the dock; small safe in its bathroom: $1,022.\n- In Chapter 2, Dunk pays about $2,400 for the cocaine."
+   },
+   {
+    "id": "brooks",
+    "t": "**Brooks Boatworks** — North of the Port Gellhorn Pay 'n' Spray",
+    "d": "**Gang:** Kolt & Associates · **Security:** High · **Payout:** $5,300–7,900 · **Key Valuables:** 2 safes; Vapid Smuggler Caracara; Clunker 556 Assault Rifle · **Code:** 6823\n\n![Start](img/ign-brooks-1.jpg)\n\n![Key Valuable 4 Location](img/ign-brooks-24.jpg)\n\n![Key Valuable 3 Location](img/ign-brooks-22.jpg)\n![Key Valuable 3 Location (2)](img/ign-brooks-23.jpg)\n\n![Key Valuable 2 Location](img/ign-brooks-16.jpg)\n![Key Valuable 2 Location (2)](img/ign-brooks-17.jpg)\n![Key Valuable 2 Location (3)](img/ign-brooks-18.jpg)\n![Key Valuable 2 Location (4)](img/ign-brooks-19.jpg)\n![Key Valuable 2 Location (5)](img/ign-brooks-20.jpg)\n![Key Valuable 2 Location (6)](img/ign-brooks-21.jpg)\n\n![Safe Code Location](img/ign-brooks-10.jpg)\n![Safe Code Location (2)](img/ign-brooks-11.jpg)\n![Safe Code Location (3)](img/ign-brooks-12.jpg)\n![Safe Code Location (4)](img/ign-brooks-13.jpg)\n![Safe Code Location (5)](img/ign-brooks-14.jpg)\n![Safe Code Location (6)](img/ign-brooks-15.jpg)\n\n![Key Valuable 1 Location](img/ign-brooks-6.jpg)\n![Key Valuable 1 Location (2)](img/ign-brooks-7.jpg)\n![Key Valuable 1 Location (3)](img/ign-brooks-8.jpg)\n![Key Valuable 1 Location (4)](img/ign-brooks-9.jpg)\n\n![Brooks Boatworks Key Valuables](img/ign-brooks-5.jpg)\n\n![IGN Staff Tip – Meg Koepp, Editor ✨](img/ign-brooks-3.jpg)\n![IGN Staff Tip – Meg Koepp, Editor ✨ (2)](img/ign-brooks-4.jpg)\n\n![Kolt & Associates Brooks Boatworks Location](img/ign-brooks-2.jpg)\n\nThe side gates are locked. Use the **gap in the fence between them** (upturned boats); there's a KZ-59 Assault Rifle there.\n- In the main warehouse, a boat tries to flee with 3 bags of pills, an SMG and $198 in a trunk.\n- **Safe 1** upstairs in the warehouse: $2,165 (+ $418 on the money counter).\n- **Code 6823** is on a map on the wall of the building to the right (east), above the **Clunker 556**. The same map shows the La Cascara and Kingpin Bowling codes.\n- **Safe 2** in the green wooden building to the left (outside stairs, white door): $1,409, plus $337 and $294.\n- Orange **Smuggler Caracara** out front: get in for it to count. Registration $5,550, sale $6,325."
+   },
+   {
+    "id": "june",
+    "t": "**June Warehouse** — West of Delights Cabaret, Port Gellhorn",
+    "d": "**Gang:** Kolt & Associates · **Security:** High · **Payout:** $9,800–12,400 · **Key Valuables:** Kolt & Associates Vatra SMG; safe; Vapid Truth & Justice Caracara · **Code:** no code\n\n![Start](img/ign-june-1.jpg)\n\n![Key Valuable 3 Location](img/ign-june-13.jpg)\n![Key Valuable 3 Location (2)](img/ign-june-14.jpg)\n\n![Key Valuable 1 and 2 Location](img/ign-june-8.jpg)\n![Key Valuable 1 and 2 Location (2)](img/ign-june-9.jpg)\n![Key Valuable 1 and 2 Location (3)](img/ign-june-10.jpg)\n![Key Valuable 1 and 2 Location (4)](img/ign-june-11.jpg)\n![Key Valuable 1 and 2 Location (5)](img/ign-june-12.jpg)\n\n![Editor Meg’s Way In](img/ign-june-3.jpg)\n![Editor Meg’s Way In (2)](img/ign-june-4.jpg)\n![Editor Meg’s Way In (3)](img/ign-june-5.jpg)\n![Editor Meg’s Way In (4)](img/ign-june-6.jpg)\n![Editor Meg’s Way In (5)](img/ign-june-7.jpg)\n\n![Kolt & Associates June Warehouse Location](img/ign-june-2.jpg)\n\nSmall and packed: bring a shotgun. As you enter, a blue Brooks Boatworks van flees with 3 bags of pills; stop it. In the garage: **Vatra SMG** on the back wall and the **safe** beside it ($1,355); $222 by the TV; the notepad right of the TV marks La Cascara. The **Truth & Justice Caracara** is just east (registration $5,550, sale $6,445)."
+   },
+   {
+    "id": "kingpin",
+    "t": "**Kingpin Bowling** — South of the Pawn & Gun Ammu-Nation, Port Gellhorn",
+    "d": "**Gang:** Kolt & Associates · **Security:** High · **Payout:** $21,100–29,500 · **Key Valuables:** safe ($3,840); Gutterball Moreland 850 Shotgun; watch Crowex Octane 'Orca' · **Code:** 0300\n\n![Start](img/ign-kingpin-1.jpg)\n\n![Optional Items](img/ign-kingpin-12.jpg)\n\n![Key Valuable 3 Location](img/ign-kingpin-8.jpg)\n![Key Valuable 3 Location (2)](img/ign-kingpin-9.jpg)\n![Key Valuable 3 Location (3)](img/ign-kingpin-10.jpg)\n![Key Valuable 3 Location (4)](img/ign-kingpin-11.jpg)\n\n![Key Valuable 2 Location](img/ign-kingpin-6.jpg)\n![Key Valuable 2 Location (2)](img/ign-kingpin-7.jpg)\n\n![Kingpin Bowling Safe Code Location](img/ign-brooks-10.jpg)\n![Kingpin Bowling Safe Code Location (2)](img/ign-brooks-11.jpg)\n![Kingpin Bowling Safe Code Location (3)](img/ign-brooks-12.jpg)\n\n![Editor Meg’s Route](img/ign-kingpin-3.jpg)\n![Editor Meg’s Route (2)](img/ign-kingpin-4.jpg)\n![Editor Meg’s Route (3)](img/ign-kingpin-5.jpg)\n\n![Kolt & Associates Kingpin Bowling Location](img/ign-kingpin-2.jpg)\n\nAppears in Coffee Break (Hit Kingpin Bowling optional); anything you miss stays as an Illegal Operation.\n- **Safe** in the back office (east): the “Storage” door left of the counter, then the “Office” door. Code **0300** or a Sticky Bomb. $3,840.\n- **Gutterball Moreland 850** on the pool table left of the office.\n- **Orca watch** in the room left of the lanes (south), with a Zombix and $552.\n- Pill bags on the tables behind the wooden dividers."
+   },
+   {
+    "id": "cascara",
+    "t": "**La Cascara Motel** — West Port Gellhorn, northeast of Wild Hog Point",
+    "d": "**Gang:** Kolt & Associates · **Security:** High · **Payout:** $27,600–46,100 · **Key Valuables:** Vapid Firebug Dominator; safe ($2,239); Scrapper VF5C SMG · **Code:** 6969\n\n![Start](img/ign-cascara-1.jpg)\n\n![Optional Items](img/ign-cascara-17.jpg)\n![Optional Items (2)](img/ign-cascara-18.jpg)\n![Optional Items (3)](img/ign-cascara-19.jpg)\n![Optional Items (4)](img/ign-cascara-20.jpg)\n![Optional Items (5)](img/ign-cascara-21.jpg)\n\n![Key Valuable 3 Location](img/ign-cascara-15.jpg)\n![Key Valuable 3 Location (2)](img/ign-cascara-16.jpg)\n\n![Safe Code Location](img/ign-brooks-1.jpg)\n![Safe Code Location (2)](img/ign-brooks-10.jpg)\n![Safe Code Location (3)](img/ign-brooks-11.jpg)\n![Safe Code Location (4)](img/ign-brooks-12.jpg)\n\n![Editor Meg’s Route to the Top Floor](img/ign-cascara-8.jpg)\n![Editor Meg’s Route to the Top Floor (2)](img/ign-cascara-9.jpg)\n![Editor Meg’s Route to the Top Floor (3)](img/ign-cascara-10.jpg)\n![Editor Meg’s Route to the Top Floor (4)](img/ign-cascara-11.jpg)\n![Editor Meg’s Route to the Top Floor (5)](img/ign-cascara-12.jpg)\n![Editor Meg’s Route to the Top Floor (6)](img/ign-cascara-13.jpg)\n![Editor Meg’s Route to the Top Floor (7)](img/ign-cascara-14.jpg)\n\n![Key Valuable 2 Location](img/ign-cascara-6.jpg)\n![Key Valuable 2 Location (2)](img/ign-cascara-7.jpg)\n\n![Key Valuable 1 Location](img/ign-cascara-3.jpg)\n![Key Valuable 1 Location (2)](img/ign-cascara-4.jpg)\n![Key Valuable 1 Location (3)](img/ign-cascara-5.jpg)\n\n![Kolt & Associates La Cascara Motel Location](img/ign-cascara-2.jpg)\n\nAppears once you find the code at Brooks Boatworks or the notepad at June Warehouse. Heavy gang presence out front.\n- Red **Firebug Dominator** parked out front on the east side: locked (smash a window or use the Slim Jim).\n- **Safe** in a gated room on the top floor, via a long route through the floors; code **6969**. $2,239.\n- **Scrapper VF5C** just past the safe; Body Armor, Sticky Bombs and grenades nearby; $338 on the table.\n- 8 bags of pills and 8 of weed around the building."
+   },
+   {
+    "id": "stash",
+    "t": "**Stash House** — Northwest of the Wasteland Off-Road mod shop, Port Gellhorn",
+    "d": "**Gang:** Kolt & Associates · **Security:** Medium · **Payout:** $10,000–13,200 · **Key Valuables:** Kolt & Associates 556 Assault Rifle; safe ($1,489) · **Code:** no code\n\n![Start](img/ign-stash-1.jpg)\n\n![Optional Items](img/ign-stash-7.jpg)\n![Optional Items (2)](img/ign-stash-8.jpg)\n![Optional Items (3)](img/ign-stash-9.jpg)\n\n![Key Valuable 2 Location](img/ign-stash-5.jpg)\n![Key Valuable 2 Location (2)](img/ign-stash-6.jpg)\n\n![Key Valuable 1 Location](img/ign-stash-3.jpg)\n![Key Valuable 1 Location (2)](img/ign-stash-4.jpg)\n\n![Kolt & Associates Stash House Location](img/ign-stash-2.jpg)\n\nMarked during Girls' Trip. Thugs out front turn hostile as you approach. **556 Assault Rifle** on the kitchen counter (ambush right after). **Safe** in the next room, left of the doorway: $1,489. Table opposite: $232 and 4 bags of pills; **vent** right of the table: $1,000; living room: $171."
+   },
+   {
+    "id": "nova",
+    "t": "**Nova Auto Junkyard** — Northeast Hamlet, east of Layin' Ink",
+    "d": "**Gang:** M7 · **Security:** High · **Payout:** $20,700–27,100 · **Key Valuables:** Marabunta Grande KZ-59; safe ($2,313); Albany Teniente Manana · **Code:** 7777\n\n![Start](img/ign-nova-1.jpg)\n\n![Other Valuables](img/ign-nova-19.jpg)\n![Other Valuables (2)](img/ign-nova-20.jpg)\n![Other Valuables (3)](img/ign-nova-21.jpg)\n![Other Valuables (4)](img/ign-nova-22.jpg)\n![Other Valuables (5)](img/ign-nova-23.jpg)\n![Other Valuables (6)](img/ign-nova-24.jpg)\n\n![Key Valuable 3 Location](img/ign-nova-16.jpg)\n![Key Valuable 3 Location (2)](img/ign-nova-17.jpg)\n![Key Valuable 3 Location (3)](img/ign-nova-18.jpg)\n\n![Safe Code Location](img/ign-nova-13.jpg)\n![Safe Code Location (2)](img/ign-nova-14.jpg)\n![Safe Code Location (3)](img/ign-nova-15.jpg)\n\n![Key Valuable 2 Location](img/ign-nova-10.jpg)\n![Key Valuable 2 Location (2)](img/ign-nova-11.jpg)\n![Key Valuable 2 Location (3)](img/ign-nova-12.jpg)\n\n![Key Valuable 1 Location](img/ign-nova-4.jpg)\n![Key Valuable 1 Location (2)](img/ign-nova-5.jpg)\n![Key Valuable 1 Location (3)](img/ign-nova-6.jpg)\n![Key Valuable 1 Location (4)](img/ign-nova-7.jpg)\n![Key Valuable 1 Location (5)](img/ign-nova-8.jpg)\n![Key Valuable 1 Location (6)](img/ign-nova-9.jpg)\n\n![Nova Auto Junkyard Key Valuables](img/ign-nova-3.jpg)\n\n![M7 Nova Auto Junkyard Location](img/ign-nova-2.jpg)\n\nBring a shotgun. **Marabunta KZ-59** under the north awning by the blue container (explosive barrel there). **Safe** in the office with the white shutter next to the yellow school bus; code **7777** is written on the wall behind it. $2,313. In the garage next door, after the fight, the **Teniente Manana** (registration $1,450, sale $3,770); the button on the left opens the door. 4 bags of crystal on the table and $178 in the trunk of the car outside the red and silver building."
+   }
+  ],
+  "kw": [
+   "illegal operations",
+   "gang hideout",
+   "key valuables",
+   "safe code",
+   "kingfishers",
+   "kolt",
+   "m7",
+   "robbery opportunity",
+   "crashed plane"
+  ]
+ }
+}

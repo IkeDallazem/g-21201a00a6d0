@@ -1,0 +1,274 @@
+{
+ "kind": "card",
+ "id": "cartas-los-santos-pounders",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Los Santos Pounders",
+ "sum": "24 cartas de futebol americano, com o local de cada uma.",
+ "body": "- Futebol americano, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 1 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-los-santos-pounders-benjamin-quintana-standard",
+   "t": "**Benjamin Quintana - Standard**",
+   "d": "No parapeito da janela do pavilhão de lazer ao lado do campo dos Copperheads, Reservoir St, norte de Ambrosia"
+  },
+  {
+   "id": "cc-los-santos-pounders-bingo-johnson-standard",
+   "t": "**Bingo Johnson - Standard**",
+   "d": "Na lateral da geladeira do trailer verde e branco nas estradas de terra que saem da Gellhorn Ave, oeste de Port Gellhorn"
+  },
+  {
+   "id": "cc-los-santos-pounders-dravy-mease-deep-red",
+   "t": "**Dravy Mease - Deep Red**",
+   "d": "No gradil do pátio da frente do bar Skeeter's, ao lado de uma mesa, Aminita Rd, sul de Hamlet"
+  },
+  {
+   "id": "cc-los-santos-pounders-dravy-mease-silver",
+   "t": "**Dravy Mease - Silver**",
+   "d": "No chão, no canto da sacada do 2º andar do lado sul, nos fundos do prédio amarelo e verde-água à beira-mar perto da Cubera Ln, noroeste de Washington Beach"
+  },
+  {
+   "id": "cc-los-santos-pounders-dravy-mease-yellow",
+   "t": "**Dravy Mease - Yellow**",
+   "d": "Pendurada numa abertura no alto de um armário nos fundos de um contêiner ao lado da academia na praia de Ocean Beach"
+  },
+  {
+   "id": "cc-los-santos-pounders-granian-beach-standard",
+   "t": "**Granian Beach - Standard**",
+   "d": "No chão do quarto da casa branca do acumulador, Kingston Rd, norte de Watson Bay"
+  },
+  {
+   "id": "cc-los-santos-pounders-laki-maivia-bronze",
+   "t": "**Laki Maivia - Bronze**",
+   "d": "No cofre em cima do frigobar no centro do trailer vermelho, branco e amarelo perto da Old Fort Rd, costa oeste da ilha grande do sudoeste do Cottonmouth Lake"
+  },
+  {
+   "id": "cc-los-santos-pounders-laki-maivia-gold",
+   "t": "**Laki Maivia - Gold**",
+   "d": "No rack da TV encostado na parede da academia no 2º andar da mansão branca moderna na Rialto Cswy, costa norte de Casanova Island"
+  },
+  {
+   "id": "cc-los-santos-pounders-laki-maivia-silver",
+   "t": "**Laki Maivia - Silver**",
+   "d": "Ao lado de uma bolsa de academia no pátio do telhado do prédio azul-claro na Atlantic Ave x Viola St, sul de Ocean Beach"
+  },
+  {
+   "id": "cc-los-santos-pounders-lionel-taber-standard",
+   "t": "**Lionel Taber - Standard**",
+   "d": "Em cima do vaso do banheiro da casa de festa na Dolphin Dr, norte de Key Lento"
+  },
+  {
+   "id": "cc-los-santos-pounders-maximus-goldbart-deep-red",
+   "t": "**Maximus Goldbart - Deep Red**",
+   "d": "Num porta-cartas numa mesa de xadrez em frente ao estacionamento do Vice City Parking Department, SW 7th Ave, sul de Salton"
+  },
+  {
+   "id": "cc-los-santos-pounders-maximus-goldbart-silver",
+   "t": "**Maximus Goldbart - Silver**",
+   "d": "Num rack de TV embaixo da casa, ao lado do depósito embutido, no fim da Cangrejo St sobre a água, Southwind"
+  },
+  {
+   "id": "cc-los-santos-pounders-maximus-goldbart-yellow",
+   "t": "**Maximus Goldbart - Yellow**",
+   "d": "No canto de uma prateleira pendurada na parede do fundo da garagem nordeste, em frente à mansão grande à beira-mar na Flamingo Pkwy, Waning Sands"
+  },
+  {
+   "id": "cc-los-santos-pounders-randolph-topolski-bronze",
+   "t": "**Randolph Topolski - Bronze**",
+   "d": "Embaixo de uma cadeira dobrável no canto de um galpão de manutenção ao lado de uma fazenda na Farmers Walk, sul de Bluegrass"
+  },
+  {
+   "id": "cc-los-santos-pounders-randolph-topolski-gold",
+   "t": "**Randolph Topolski - Gold**",
+   "d": "Enfiada numa revista ao lado da porta que dá para o telhado da torre Fenestra Plaza, sob o heliponto, SE 2nd Ave, Tequesta"
+  },
+  {
+   "id": "cc-los-santos-pounders-randolph-topolski-silver",
+   "t": "**Randolph Topolski - Silver**",
+   "d": "Em cima de um caixote ao lado de uma TV velha no quartinho dos fundos do Farmer Scrumpy's Red Apple Orchard, perto da SR-73, oeste de Manifest Canyon"
+  },
+  {
+   "id": "cc-los-santos-pounders-rider-butler-bronze",
+   "t": "**Rider Butler - Bronze**",
+   "d": "Na prateleira do meio de uma estante na sala de um trailer vermelho na NW 22nd Pl, sudoeste de Balsero"
+  },
+  {
+   "id": "cc-los-santos-pounders-rider-butler-gold",
+   "t": "**Rider Butler - Gold**",
+   "d": "Na base de concreto de uma palmeira ao lado da piscina do Hummingbird Park, Ocean Beach"
+  },
+  {
+   "id": "cc-los-santos-pounders-rider-butler-silver",
+   "t": "**Rider Butler - Silver**",
+   "d": "No chão entre um banco e um orelhão junto aos trilhos da estação de Millport, sudeste de Millport"
+  },
+  {
+   "id": "cc-los-santos-pounders-sione-apa-deep-red",
+   "t": "**Sione Apa - Deep Red**",
+   "d": "No canto de um banco num vestiário da academia do Vice Seven Condominiums, perto do bar do terraço, Tequesta"
+  },
+  {
+   "id": "cc-los-santos-pounders-sione-apa-silver",
+   "t": "**Sione Apa - Silver**",
+   "d": "Numa mesa no quarto dos fundos do apartamento 21, último andar do condomínio colorido na Rialto Cswy, nordeste de Rockridge"
+  },
+  {
+   "id": "cc-los-santos-pounders-sione-apa-yellow",
+   "t": "**Sione Apa - Yellow**",
+   "d": "Enfiada numa revista ao lado da porta lateral, no deque em volta do Stick's Bar, SR-45, Grayson"
+  },
+  {
+   "id": "cc-los-santos-pounders-tyson-brooks-standard",
+   "t": "**Tyson Brooks - Standard**",
+   "d": "Num balcão no canto da garagem separada de uma casa de fazenda perto da I-297, noroeste de Waning Sands"
+  },
+  {
+   "id": "cc-los-santos-pounders-zander-paton-standard",
+   "t": "**Zander Paton - Standard**",
+   "d": "No gradil de pedra atrás do pavilhão na costa norte da ilha leste de Waning Sands"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Los Santos Pounders"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Los Santos Pounders",
+  "sum": "24 football cards, with every location.",
+  "body": "- Football, 24 cards. Locations from IGN's list; tick each one as you grab it.\n- 1 card(s) sit in a **safe**: open it with the code from robbing that place, or a sticky bomb.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Los Santos Pounders"
+  ],
+  "check": [
+   {
+    "id": "cc-los-santos-pounders-benjamin-quintana-standard",
+    "t": "**Benjamin Quintana - Standard**",
+    "d": "On the windowsill of the recreation pavilion next to the Copperheads field on Reservoir St in northern Ambrosia"
+   },
+   {
+    "id": "cc-los-santos-pounders-bingo-johnson-standard",
+    "t": "**Bingo Johnson - Standard**",
+    "d": "On the side of a fridge in the kitchen of the green and white mobile home on the dirt roads coming off of Gellhorn Ave in western Port Gellhorn"
+   },
+   {
+    "id": "cc-los-santos-pounders-dravy-mease-deep-red",
+    "t": "**Dravy Mease - Deep Red**",
+    "d": "On top of the railing along the front patio of the Skeeter's bar next to a table on Aminita Rd in southern Hamlet"
+   },
+   {
+    "id": "cc-los-santos-pounders-dravy-mease-silver",
+    "t": "**Dravy Mease - Silver**",
+    "d": "On the ground on the corner of the second floor balcony on the south side in the back of the yellow and teal apartment building on the waterfront off of Cubera Ln in northwestern Washington Beach"
+   },
+   {
+    "id": "cc-los-santos-pounders-dravy-mease-yellow",
+    "t": "**Dravy Mease - Yellow**",
+    "d": "Hanging from an opening at the top of a locker in the back of a shipping container next to the gym on the beach in Ocean Beach"
+   },
+   {
+    "id": "cc-los-santos-pounders-granian-beach-standard",
+    "t": "**Granian Beach - Standard**",
+    "d": "On the floor of the bedroom inside the white hoarder's house on Kingston Rd in northern Watson Bay"
+   },
+   {
+    "id": "cc-los-santos-pounders-laki-maivia-bronze",
+    "t": "**Laki Maivia - Bronze**",
+    "d": "Inside the safe on top of the mini fridge in the center of the red, white, and yellow camper off of Old Fort Rd on the western coast of the large southwestern island in Cottonmouth Lake"
+   },
+   {
+    "id": "cc-los-santos-pounders-laki-maivia-gold",
+    "t": "**Laki Maivia - Gold**",
+    "d": "On top of the TV stand against the wall in the gym of the white, modern mansion on the second floor on Rialto Cswy on the northern coast of Casanova Island"
+   },
+   {
+    "id": "cc-los-santos-pounders-laki-maivia-silver",
+    "t": "**Laki Maivia - Silver**",
+    "d": "Next to a gym bag on the roof courtyard of the light blue apartment building on the corner of Atlantic Ave and Viola St in southern Ocean Beach"
+   },
+   {
+    "id": "cc-los-santos-pounders-lionel-taber-standard",
+    "t": "**Lionel Taber - Standard**",
+    "d": "On top of the toilet in the bathroom inside the party house on Dolphin Dr in northern Key Lento"
+   },
+   {
+    "id": "cc-los-santos-pounders-maximus-goldbart-deep-red",
+    "t": "**Maximus Goldbart - Deep Red**",
+    "d": "In a card holder in a chess table in front of the Vice City Parking Department parking garage off of SW 7th Ave in southern Salton"
+   },
+   {
+    "id": "cc-los-santos-pounders-maximus-goldbart-silver",
+    "t": "**Maximus Goldbart - Silver**",
+    "d": "On top of a TV stand on the underside of the house next to the built-in shed at the end of Cangrejo St over the water in Southwind"
+   },
+   {
+    "id": "cc-los-santos-pounders-maximus-goldbart-yellow",
+    "t": "**Maximus Goldbart - Yellow**",
+    "d": "On the corner of a shelf hanging from the back wall of the northeastern garage in front of the large waterfront mansion on Flamingo Pkwy in Waning Sands"
+   },
+   {
+    "id": "cc-los-santos-pounders-randolph-topolski-bronze",
+    "t": "**Randolph Topolski - Bronze**",
+    "d": "Underneath a folding chair in the corner of a maintenance shed next to a farm on Farmers Walk in southern Bluegrass"
+   },
+   {
+    "id": "cc-los-santos-pounders-randolph-topolski-gold",
+    "t": "**Randolph Topolski - Gold**",
+    "d": "Wedged inside a magazine next to the door entering onto the roof of the Fenestra Plaza tower underneath the helipad on SE 2nd Ave in Tequesta"
+   },
+   {
+    "id": "cc-los-santos-pounders-randolph-topolski-silver",
+    "t": "**Randolph Topolski - Silver**",
+    "d": "On top of a crate next to an old TV in the small room in the back of Farmer Scrumpy's Red Apple Orchard near SR-73 in western Manifest Canyon"
+   },
+   {
+    "id": "cc-los-santos-pounders-rider-butler-bronze",
+    "t": "**Rider Butler - Bronze**",
+    "d": "On the middle shelf of a bookshelf in the living room of a red mobile home on NW 22nd Pl in southwestern Balsero"
+   },
+   {
+    "id": "cc-los-santos-pounders-rider-butler-gold",
+    "t": "**Rider Butler - Gold**",
+    "d": "On the concrete base of a palm tree next to the Hummingbird Park Pool inside Hummingbird Park in Ocean Beach"
+   },
+   {
+    "id": "cc-los-santos-pounders-rider-butler-silver",
+    "t": "**Rider Butler - Silver**",
+    "d": "On the ground between a bench and a payphone next to the tracks at the Millport Train Station in southeastern Millport"
+   },
+   {
+    "id": "cc-los-santos-pounders-sione-apa-deep-red",
+    "t": "**Sione Apa - Deep Red**",
+    "d": "On the corner of a bench inside a locker room of the Vice Seven Condominiums Gym near the rooftop bar in Tequesta"
+   },
+   {
+    "id": "cc-los-santos-pounders-sione-apa-silver",
+    "t": "**Sione Apa - Silver**",
+    "d": "On top of a table in the back room inside apartment 21 on the top floor of the color apartment complex on Rialto Cswy in northeastern Rockridge"
+   },
+   {
+    "id": "cc-los-santos-pounders-sione-apa-yellow",
+    "t": "**Sione Apa - Yellow**",
+    "d": "Tucked inside a magazine next to the side door on the deck around Stick's Bar on SR-45 in Grayson"
+   },
+   {
+    "id": "cc-los-santos-pounders-tyson-brooks-standard",
+    "t": "**Tyson Brooks - Standard**",
+    "d": "On top of a counter in the corner of the detached garage of a farmhouse near I-297 in northwestern Waning Sands"
+   },
+   {
+    "id": "cc-los-santos-pounders-zander-paton-standard",
+    "t": "**Zander Paton - Standard**",
+    "d": "On top of the stone railing behind the pavilion on the northern coast of the eastern island making up the Waning Sands"
+   }
+  ]
+ }
+}

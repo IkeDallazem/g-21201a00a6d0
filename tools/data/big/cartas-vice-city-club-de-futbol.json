@@ -1,0 +1,334 @@
+{
+ "kind": "card",
+ "id": "cartas-vice-city-club-de-futbol",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Vice City Club de Futbol",
+ "sum": "30 cartas de futebol, com o local de cada uma.",
+ "body": "- Futebol, 30 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-vice-city-club-de-futbol-anne-florence-dusty-pink",
+   "t": "**Anne Florence - Dusty Pink**",
+   "d": "Em cima do quiosque do táxi aquático no Shoreline Market, leste de Downtown"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-anne-florence-silver",
+   "t": "**Anne Florence - Silver**",
+   "d": "Na prateleira de cima de um barco salva-vidas na praia leste de Gloriana Key"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-anne-florence-teal",
+   "t": "**Anne Florence - Teal**",
+   "d": "No canto de um banco no vestiário feminino da academia Zenith, sul de Downtown"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-ayokunumi-kasimu-standard",
+   "t": "**Ayokunumi Kasimu - Standard**",
+   "d": "No degrau mais alto, ao lado de uma mochila, da arquibancada mais a leste do campo malcuidado do oeste de Port Gellhorn"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-badge-bronze",
+   "t": "**Badge - Bronze**",
+   "d": "Num campo de futebol na cobertura do prédio The Place, ao lado de um banco e de uma mochila, norte de Tequesta"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-badge-dusty-pink",
+   "t": "**Badge - Dusty Pink**",
+   "d": "Num criado-mudo de um quarto de uma casa azul na NW 25th Pl x NW 26th St, sul de Balsero"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-badge-gold",
+   "t": "**Badge - Gold**",
+   "d": "Na prateleira de baixo da estante da sala de uma cabana no camping a oeste do Lake Tallaloko"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-badge-silver",
+   "t": "**Badge - Silver**",
+   "d": "Na base de uma parede no mezanino de uma construção aberta nas trilhas da montanha, Mount Kalaga National Park"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-badge-teal",
+   "t": "**Badge - Teal**",
+   "d": "Na prateleira de cima da estante de um quarto de uma casa branca na NW 10th Ave, La Perle"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-ellie-burke-dusty-pink",
+   "t": "**Ellie Burke - Dusty Pink**",
+   "d": "Na escada do pátio dos fundos de uma casa amarela na Caledonia Blvd, oeste de Belville"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-ellie-burke-silver",
+   "t": "**Ellie Burke - Silver**",
+   "d": "Na segunda prateleira de baixo da estante de uma casa vermelha na Maple Ln, oeste de Ambrosia"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-ellie-burke-teal",
+   "t": "**Ellie Burke - Teal**",
+   "d": "Na lateral da geladeira de um apartamento do 2º andar de um prédio vermelho na NW 4th Ave, sul de Little Cuba"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-emma-croydon-dusty-pink",
+   "t": "**Emma Croydon - Dusty Pink**",
+   "d": "Num banco nos fundos da Venus Fitness, Indigo St, Ocean Beach"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-emma-croydon-gold",
+   "t": "**Emma Croydon - Gold**",
+   "d": "Na base do acesso ao telhado, sob a esfera branca grande no topo do prédio Badger, NW 6th St, norte de Downtown"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-emma-croydon-silver",
+   "t": "**Emma Croydon - Silver**",
+   "d": "Numa caixa de ferramentas na garagem de uma casa na Mamey Cir, sul de Waning Sands"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-gerry-northgate-standard",
+   "t": "**Gerry Northgate - Standard**",
+   "d": "Dentro de uma revista no parapeito do posto de salva-vidas do sul da praia de Ocean Beach"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-ian-harris-dusty-pink",
+   "t": "**Ian Harris - Dusty Pink**",
+   "d": "Numa mesa no depósito de um apartamento do 5º andar do Adella Whittaker Condominium, Cabega St, Ocean Beach"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-ian-harris-gold",
+   "t": "**Ian Harris - Gold**",
+   "d": "Na segunda prateleira de uma estante na garagem de uma mansão no lado oeste da Delamore Dr, Leaf Links"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-ian-harris-silver",
+   "t": "**Ian Harris - Silver**",
+   "d": "Na prateleira de cima da parede do posto de salva-vidas no meio da praia de Ocean Beach"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-leon-correo-dusty-pink",
+   "t": "**Leon Correo - Dusty Pink**",
+   "d": "Na prateleira do meio, ao lado da TV, no quarto de esquina do térreo do Waterfront Suites, norte de Washington Island"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-leon-correo-gold",
+   "t": "**Leon Correo - Gold**",
+   "d": "Num rack de mármore no 2º andar de uma mansão na Ravella Dr, sul de Capri"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-leon-correo-silver",
+   "t": "**Leon Correo - Silver**",
+   "d": "No mural de cortiça no canto das suítes em frente ao quarto 017, nos fundos do complexo na Emory Ave, Peacock Bay"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-lupin-juarez-standard",
+   "t": "**Lupin Juarez - Standard**",
+   "d": "No rack da TV da sala de um trailer vermelho e cinza em frente ao Rusty Anchor, norte de Key Lento"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-oskar-wolff-dusty-pink",
+   "t": "**Oskar Wolff - Dusty Pink**",
+   "d": "No mural de cortiça do escritório no 2º andar do armazém à beira d'água, norte de Capri"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-oskar-wolff-silver",
+   "t": "**Oskar Wolff - Silver**",
+   "d": "No segundo degrau de um pátio em frente a um apartamento térreo do The Hadley, Oleander Blvd, Oldby Island"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-oskar-wolff-teal",
+   "t": "**Oskar Wolff - Teal**",
+   "d": "Numa grade no jardim de uma mansão, ao lado de um gol, na Caravel Ct, leste de Belville"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-renata-vasquez-dusty-pink",
+   "t": "**Renata Vasquez - Dusty Pink**",
+   "d": "Na borda de um telhado gramado sobre uma Vangelico na NE 19th St, Decor District"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-renata-vasquez-silver",
+   "t": "**Renata Vasquez - Silver**",
+   "d": "No túmulo de Strall Randy, ao lado de um vaso e de uma bola, perto da Cicada Ave, Bluegrass"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-renata-vasquez-teal",
+   "t": "**Renata Vasquez - Teal**",
+   "d": "No canto de um galpão caindo aos pedaços, ao lado de uma cadeira dobrável, numa fazenda perto da Pigeon Plum Rd, oeste de North Mariana"
+  },
+  {
+   "id": "cc-vice-city-club-de-futbol-sue-prettyman-standard",
+   "t": "**Sue Prettyman - Standard**",
+   "d": "Num murinho azul ao lado da entrada de uma casa azul na SW 13th St, norte de Southside"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Vice City Club de Futbol"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Vice City Club de Futbol",
+  "sum": "30 soccer cards, with every location.",
+  "body": "- Soccer, 30 cards. Locations from IGN's list; tick each one as you grab it.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Vice City Club de Futbol"
+  ],
+  "check": [
+   {
+    "id": "cc-vice-city-club-de-futbol-anne-florence-dusty-pink",
+    "t": "**Anne Florence - Dusty Pink**",
+    "d": "On top of a water taxi kiosk in the Shoreline Market in eastern Downtown"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-anne-florence-silver",
+    "t": "**Anne Florence - Silver**",
+    "d": "On the top shelf in a lifeguard boat on the beach in eastern Gloriana Key"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-anne-florence-teal",
+    "t": "**Anne Florence - Teal**",
+    "d": "On the corner of a bench inside the women's locker room in the Zenith gym on the southside of Downtown"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-ayokunumi-kasimu-standard",
+    "t": "**Ayokunumi Kasimu - Standard**",
+    "d": "On the top bleach next to a backpack of the east-most bleacher of the raggity field in western Port Gellhorn"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-badge-bronze",
+    "t": "**Badge - Bronze**",
+    "d": "On a rooftop soccer field next to a bench and a backpack on top of The Place building in northern Tequesta"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-badge-dusty-pink",
+    "t": "**Badge - Dusty Pink**",
+    "d": "On a nightstand next to a bed in a bedroom of a blue house on the corner of NW 25th Pl and NW 26th St in southern Balsero"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-badge-gold",
+    "t": "**Badge - Gold**",
+    "d": "On the bottom shelf of a bookshelf in the living room of a cabin in the campgrounds west of Lake Tallaloko in Tallaloko"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-badge-silver",
+    "t": "**Badge - Silver**",
+    "d": "At the base of a wall in the loft of an open building along the trails up the mountain in Mount Kalaga National Park"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-badge-teal",
+    "t": "**Badge - Teal**",
+    "d": "On the top shelf of a bookshelf in a bedroom of a white house on NW 10th Ave in La Perle"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-ellie-burke-dusty-pink",
+    "t": "**Ellie Burke - Dusty Pink**",
+    "d": "On the stairs coming down from the back patio of a yellow house on Caledonia Blvd in western Belville"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-ellie-burke-silver",
+    "t": "**Ellie Burke - Silver**",
+    "d": "On the second shelf from the bottom of a bookshelf in a red house on Maple Ln in western Ambrosia"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-ellie-burke-teal",
+    "t": "**Ellie Burke - Teal**",
+    "d": "On the side of a fridge in the kitchen of an apartment of the second floor of a red apartment complex on NW 4th Ave in southern Little Cuba"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-emma-croydon-dusty-pink",
+    "t": "**Emma Croydon - Dusty Pink**",
+    "d": "On top of a bench in the back of Venus Fitness on Indigo St in Ocean Beach"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-emma-croydon-gold",
+    "t": "**Emma Croydon - Gold**",
+    "d": "At the base of the entrance to the roof under a large white sphere on top of the Badger building on NW 6th St in northern Downtown"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-emma-croydon-silver",
+    "t": "**Emma Croydon - Silver**",
+    "d": "On top of a toolbox in the garage of a house on Mamey Cir in southern Waning Sands"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-gerry-northgate-standard",
+    "t": "**Gerry Northgate - Standard**",
+    "d": "Inside a magazine on the ledge of the lifeguard station on the southern part of the coast of Ocean Beach"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-ian-harris-dusty-pink",
+    "t": "**Ian Harris - Dusty Pink**",
+    "d": "On top of a desk in a storage close of an apartment on the fifth floor of the Adella Whittaker Condominium on Cabega St in Ocean Beach"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-ian-harris-gold",
+    "t": "**Ian Harris - Gold**",
+    "d": "On the second shelf of a shelving unit in the garage of a mansion on the west side of Delamore Dr in the Leaf Links"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-ian-harris-silver",
+    "t": "**Ian Harris - Silver**",
+    "d": "On the top shelf of the wall in the lifeguard post on the coast in the middle of Ocean Beach"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-leon-correo-dusty-pink",
+    "t": "**Leon Correo - Dusty Pink**",
+    "d": "On the middle shelf next to the television in the corner room on the first floor of the Waterfront Suites in northern Washington Island"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-leon-correo-gold",
+    "t": "**Leon Correo - Gold**",
+    "d": "On top of a marble tv stand on the second floor of a mansion on Ravella Dr in southern Capri"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-leon-correo-silver",
+    "t": "**Leon Correo - Silver**",
+    "d": "On the cork board in the corner of suites in front of room 017 in the back of the complex on Emory Ave in Peacock Bay"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-lupin-juarez-standard",
+    "t": "**Lupin Juarez - Standard**",
+    "d": "On top of a TV stand in the living room of a red and gray mobile home across from the Rusty Anchor in northern Key Lento"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-oskar-wolff-dusty-pink",
+    "t": "**Oskar Wolff - Dusty Pink**",
+    "d": "On the cork board of the office on the second floor of the warehouse on the water in northern Capri"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-oskar-wolff-silver",
+    "t": "**Oskar Wolff - Silver**",
+    "d": "On the second stair heading up on a patio in front of a first floor apartment in the Hadley on Oleander Blvd on Oldby Island"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-oskar-wolff-teal",
+    "t": "**Oskar Wolff - Teal**",
+    "d": "On a grate in the yard of a mansion next to a soccer goal on Caravel Ct in eastern Belville"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-renata-vasquez-dusty-pink",
+    "t": "**Renata Vasquez - Dusty Pink**",
+    "d": "On top of a ledge on a grassy roof of a building above a Vangelico on NE 19th St in the Decor District"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-renata-vasquez-silver",
+    "t": "**Renata Vasquez - Silver**",
+    "d": "On top of the grave for Strall Randy next to a potted plant and a soccer ball off of Cicada Ave in Bluegrass"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-renata-vasquez-teal",
+    "t": "**Renata Vasquez - Teal**",
+    "d": "In the corner of a rundown shed next to a folding chair on a farm off of Pigeon Plum Rd in western North Mariana County"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol-sue-prettyman-standard",
+    "t": "**Sue Prettyman - Standard**",
+    "d": "On top of a small blue wall next to the entrance of a blue house on SW 13th St in northern Southside"
+   }
+  ]
+ }
+}

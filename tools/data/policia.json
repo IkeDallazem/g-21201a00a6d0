@@ -1,0 +1,916 @@
+[
+ {
+  "kind": "card",
+  "id": "policia-fuga-rotina",
+  "sec": "policia",
+  "sub": "fugir",
+  "tipo": "plano",
+  "conf": "oficial",
+  "ch": [
+   "geral"
+  ],
+  "title": "Rotina de fuga",
+  "sum": "Visão, círculo, ícones, esfriar. Vale para qualquer nível.",
+  "body": "1. **Quebre a linha de visão.** Enquanto as estrelas estiverem sólidas, nada mais importa.\n2. **Navegue pelo Focus e pela luz na borda da tela**, não pelo minimapa: a polícia não aparece nele.\n3. **Saia do círculo de busca**, mirando a borda mais clara.\n4. **Elimine o ícone do veículo:** troque de carro, repinte ou queime.\n5. **Corrija a descrição:** roupa inteira, dupla separada, arma guardada.\n6. **Deixe a área esfriar** e não volte à cena do crime.",
+  "src": [
+   "Extended Look",
+   "Press Start",
+   "GameWith (JP)"
+  ],
+  "kw": [
+   "fugir",
+   "fuga",
+   "escapar",
+   "despistar",
+   "perder a policia",
+   "como fugir"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Escape routine",
+   "sum": "Sight, circle, icons, cool down. Works at any level.",
+   "body": "1. **Break line of sight.** While the stars are solid, nothing else matters.\n2. **Navigate by Focus and the screen-edge glow**, not the minimap: police don't appear on it.\n3. **Leave the search circle**, heading for its lightest edge.\n4. **Kill the vehicle icon:** swap cars, respray or burn it.\n5. **Fix your description:** whole outfit, duo split, gun away.\n6. **Let the area cool down** and don't go back to the crime scene.",
+   "kw": [
+    "escape",
+    "flee",
+    "lose the cops",
+    "how to escape"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "policia-por-nivel",
+  "sec": "policia",
+  "sub": "fugir",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "O que fazer em cada nível",
+  "sum": "Resposta rápida para cada situação.",
+  "body": "- **Vazadas:** vá embora agora, a pé e com calma, sem arma na mão.\n- **1 ou 2 estrelas:** tire a máscara, guarde a arma, roube um carro velho e sem graça e dirija dentro da lei até sair da zona.\n- **3 estrelas:** abandone o carro e vá a pé por becos ou de moto; depois troque roupa e carro.\n- **4 ou 5 estrelas:** cobertura contra o helicóptero (túnel, garagem, pátio ferroviário, edifício-garagem), fogo de supressão, troca de veículo longe das vias principais e dupla separada.\n- **6 estrelas:** o melhor é não chegar lá. Se chegar, priorize sobreviver e sair da região, e conte com perder o dinheiro vivo.",
+  "src": [
+   "Rockstar (Rob Nelson)",
+   "Shacknews",
+   "VGC"
+  ],
+  "kw": [
+   "1 estrela",
+   "2 estrelas",
+   "3 estrelas",
+   "4 estrelas",
+   "5 estrelas",
+   "6 estrelas"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "What to do at each level",
+   "sum": "A quick answer for every situation.",
+   "body": "- **Hollow:** leave now, on foot and calmly, gun away.\n- **1 or 2 stars:** mask off, gun away, steal an old boring car and drive legally out of the zone.\n- **3 stars:** ditch the car and go on foot through alleys or by bike; then change outfit and car.\n- **4 or 5 stars:** cover from the helicopter (tunnel, garage, rail yard, parking structure), suppressing fire, swap vehicles away from main roads and split the duo.\n- **6 stars:** best not to get there. If you do, prioritize surviving and leaving the region, and expect to lose your pocket cash.",
+   "kw": [
+    "1 star",
+    "2 stars",
+    "3 stars",
+    "4 stars",
+    "5 stars",
+    "6 stars"
+   ]
+  },
+  "$mergeInto": "policia-fuga-rotina"
+ },
+ {
+  "kind": "card",
+  "id": "policia-erros",
+  "sec": "policia",
+  "sub": "fugir",
+  "tipo": "alerta",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Erros comuns na fuga",
+  "sum": "O que entrega você.",
+  "body": "- Andar com milhares em espécie.\n- Olhar o minimapa esperando as estrelas sumirem.\n- Voltar ao carro identificado ou à cena do crime: depois de um assalto que deu errado, a polícia faz perímetro esperando você voltar.\n- Trocar só os óculos ou o boné.\n- Dirigir devagar num carro com rastreador, ou fugir numa viatura.\n- Achar que o beco resolve tudo: no Extended Look a polícia achou o grupo no beco.\n- Abrir fogo à toa: piora o perfil e deixa a polícia mais agressiva.\n- Esquecer o cachorro: o K9 acha você pelo cheiro.\n- Tentar furar bloqueio na pancada.",
+  "src": [
+   "Rockstar",
+   "TGG",
+   "Gamersky",
+   "Press Start"
+  ],
+  "kw": [
+   "erro",
+   "pego",
+   "nao consigo fugir"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Common escape mistakes",
+   "sum": "What gives you away.",
+   "body": "- Carrying thousands in cash.\n- Watching the minimap waiting for the stars to clear.\n- Going back to an identified car or the crime scene: after a botched robbery, police set a perimeter expecting you to return.\n- Changing only the glasses or the cap.\n- Driving slowly in a tracked car, or fleeing in a cop car.\n- Thinking an alley solves everything: in the Extended Look the police found the crew in the alley.\n- Opening fire for no reason: worsens your profile and makes police more aggressive.\n- Forgetting the dog: K9 finds you by scent.\n- Trying to ram through a roadblock.",
+   "kw": [
+    "mistake",
+    "caught",
+    "can't escape"
+   ]
+  },
+  "$mergeInto": "policia-fuga-rotina"
+ },
+ {
+  "kind": "card",
+  "id": "policia-taticas",
+  "sec": "policia",
+  "sub": "fugir",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Táticas que funcionam",
+  "sum": "Moto, carro de troca, edifício-garagem e túneis.",
+  "body": "- **3 estrelas ou mais na cidade:** carro comum não basta. Vá a pé pelos becos ou de moto esportiva (Rob Nelson).\n- **Carro de troca:** deixe um segundo carro num posto perto da rodovia, com roupas limpas no porta-malas (Shacknews).\n- **Edifício-garagem:** o melhor ponto para trocar roupa e carro. Saída bloqueada? Suba e saia por uma abertura lateral (Gamersky).\n- **Não deixe verem o carro de fuga:** sem isso a polícia fica presa à cena do crime.\n- **Pay 'n' Spray** apaga o alerta do carro, mas tem tempo de espera entre usos.\n- **Helicóptero:** túneis, garagens cobertas e pátios ferroviários. Dá para atirar nele. Contra 4 ou 5 estrelas, a PowerPyx indica o túnel de trem ao norte de Ambrosia (Kelly County).\n- **Água funda e turva** esconde melhor. O pântano ajuda contra viaturas, mas não contra os cães.\n- **Bloqueios e pregos:** use ruas laterais; furar bloqueio na pancada quebra o carro. À noite os pregos quase não aparecem.\n- **Supressão e pneus:** atirar perto dos policiais ou nos pneus dá tempo sem piorar o seu perfil.\n- **Treine em território de gangue:** pouca polícia e resposta lenta.\n\n**Complemento (Eurogamer):** policial mais gordo corre menos; com **K9** atrás, não pare até sair do raio. Abaixe-se dentro de um carro parado quando a viatura passar (se o carro não for um dos fatores). Alguns portões abrem com tiro. Fogo de supressão perto do policial atrasa a aproximação sem matar.",
+  "src": [
+   "Eurogamer",
+   "Gamersky (CN)",
+   "PowerPyx",
+   "Press Start",
+   "Rockstar (IGN)",
+   "Shacknews",
+   "VGC"
+  ],
+  "kw": [
+   "tatica",
+   "moto",
+   "carro de troca",
+   "edificio garagem",
+   "tunel",
+   "helicoptero",
+   "pregos",
+   "bloqueio"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Tactics that work",
+   "sum": "Bikes, swap cars, parking structures and tunnels.",
+   "body": "- **3+ stars in the city:** an ordinary car isn't enough. Go on foot through alleys or on a sport bike (Rob Nelson).\n- **Swap car:** leave a second car at a gas station near the highway, with clean clothes in the trunk (Shacknews).\n- **Parking structure:** the best place to change outfit and car. Exit blocked? Go up and out through a side opening (Gamersky).\n- **Don't let them see the getaway car:** without it, police stay stuck at the crime scene.\n- **Pay 'n' Spray** clears the car alert, but has a cooldown between uses.\n- **Helicopter:** tunnels, covered garages and rail yards. You can shoot it. Against 4 or 5 stars, PowerPyx points to the train tunnel north of Ambrosia (Kelly County).\n- **Deep, murky water** hides you better. The swamp helps against cruisers, but not dogs.\n- **Roadblocks and spikes:** use side streets; ramming a roadblock wrecks your car. At night spikes are nearly invisible.\n- **Suppression and tires:** shooting near officers or at tires buys time without worsening your profile.\n- **Practice in gang territory:** little police presence and slow response.\n\n**Extra (Eurogamer):** heavier cops can't keep up on foot; with a **K9** unit on you, don't stop until you're out of the radius. Duck inside a parked car as a cruiser passes (if the car isn't one of the factors). Some gates open when shot. Suppressing fire near a cop slows their approach without killing.",
+   "kw": [
+    "tactics",
+    "bike",
+    "swap car",
+    "parking structure",
+    "tunnel",
+    "helicopter",
+    "spikes",
+    "roadblock"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "policia-dupla",
+  "sec": "policia",
+  "sub": "fugir",
+  "tipo": "dica",
+  "conf": "oficial",
+  "ch": [
+   "c2",
+   "c3",
+   "c4"
+  ],
+  "title": "Fuga em dupla",
+  "sum": "Um dirige, o outro atira. Separar confunde a polícia.",
+  "body": "- A Lucia dirige bem: controle um e deixe o outro atirando; dá para trocar no meio da fuga.\n- **Separar a dupla** limpa o ícone “Dupla” e divide a atenção da polícia (−1 estrela, segundo a GTABase).\n- **Isca:** um personagem atrai a perseguição enquanto o outro escapa. Fique com a isca até o parceiro estar seguro (NetEase).\n- **Atenção:** se qualquer um dos dois for pego, é prisão (“Busted”) para os dois. Abandonar o parceiro numa fuga prejudica o relacionamento.\n\n**Comandos (IGN e Eurogamer):** segure {→} para abrir o menu do parceiro. Com heat de dupla, {→} + {△} separa os dois; quando estiver livre, o parceiro manda mensagem perguntando se vocês se reencontram. Pelo mesmo menu o parceiro pode distrair a polícia, ser o motorista de fuga ou levar a mercadoria ao receptador (sem você ele pode não conseguir o valor cheio).",
+  "src": [
+   "Bloomberg",
+   "Eurogamer",
+   "GTABase",
+   "GamesRadar+",
+   "IGN",
+   "NetEase (CN)",
+   "Rockstar"
+  ],
+  "kw": [
+   "dupla",
+   "parceiro",
+   "separar",
+   "isca",
+   "jason e lucia fuga"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Escaping as a duo",
+   "sum": "One drives, the other shoots. Splitting up confuses the police.",
+   "body": "- Lucia drives well: control one and let the other shoot; you can switch mid-chase.\n- **Splitting the duo** clears the “Duo” icon and divides police attention (−1 star, per GTABase).\n- **Decoy:** one character draws the chase while the other escapes. Stay with the decoy until your partner is safe (NetEase).\n- **Careful:** if either one is caught, it's “Busted” for you. Abandoning your partner in a chase hurts the relationship.\n\n**Controls (IGN and Eurogamer):** hold {→} for the partner menu. With partner Heat, {→} + {△} splits you up; once clear, your partner texts asking to meet back up. From the same menu your partner can distract the cops, be the getaway driver or take the goods to the fence (without you they may not get full value).",
+   "kw": [
+    "duo",
+    "partner",
+    "split",
+    "decoy",
+    "jason and lucia escape"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "policia-estrelas",
+  "sec": "policia",
+  "sub": "ler",
+  "tipo": "dado",
+  "conf": "oficial",
+  "ch": [
+   "geral"
+  ],
+  "title": "Os 5 estados das estrelas",
+  "sum": "Não é um medidor: cada cor diz o que a polícia sabe e se está te vendo.",
+  "body": "**Meta de um roubo bem feito:** terminar com estrelas de **contorno branco**, ou nem isso. Se roupa, rosto e carro não chegam à polícia, não há perseguição.\n\n- A estrela depende do que foi **denunciado**, não só do crime: crime na frente de policial, testemunha que liga (dá para ver e ouvir), denúncia errada contra você ou crime grande que o despacho já manda checar (explosão, área de segurança, roubo de avião).\n- **Zona de busca** no mapa: **azul** se não ligaram você ao crime, **vermelha** se ligaram. O centro é mais perigoso; a borda clara dá mais folga.\n- O **scanner da polícia** (liberado no Cap. 1) diz para onde acham que você foi e quando o helicóptero sai para reabastecer.\n- A IGN usa “cinza” tanto para crime denunciado sem a polícia ter te visto quanto para quando eles te perdem de vista.\n\n**A versão da Eurogamer (6 estados):** cinza cheia = polícia a caminho; preta de contorno branco = suspeito desconhecido; branca cheia = perseguição; **piscando** = te perderam de vista e ainda procuram; vermelha = heat; preta de contorno vermelho = heat com suspeito desconhecido. O jogo volta a ter **6 estrelas**, e alguns aumentos são roteirizados, como no fim do Cap. 1.",
+  "table": {
+   "cols": [
+    "Estrelas",
+    "Significa",
+    "O que fazer"
+   ],
+   "rows": [
+    [
+     "Cinza",
+     "Crime denunciado e polícia a caminho, sem ter te visto; ou te perderam de vista",
+     "Melhor hora para sumir: saia da zona e limpe os ícones de heat"
+    ],
+    [
+     "Contorno branco",
+     "Sabem que houve um crime, mas não que foi você",
+     "Saia andando, sem arma na mão, antes de a viatura chegar"
+    ],
+    [
+     "Brancas cheias",
+     "A polícia está te vendo: perseguição",
+     "Prioridade única: quebrar a linha de visão"
+    ],
+    [
+     "Vermelhas cheias",
+     "Te perderam, mas a área está em alerta procurando alguém com a sua descrição",
+     "Fique escondido, limpe os ícones ou saia da área"
+    ],
+    [
+     "Contorno vermelho",
+     "Houve crime na área, mas você não bate mais com a descrição",
+     "Não cometa nada ali: a resposta é rápida"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "Extended Look",
+   "IGN",
+   "Press Start",
+   "TGG (Bilibili, Ruliweb)"
+  ],
+  "kw": [
+   "estrela vazada",
+   "estrela vermelha",
+   "piscando",
+   "area quente",
+   "heat area"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "The 5 star states",
+   "sum": "It's not a meter: each color says what the police know and whether they can see you.",
+   "body": "**Goal of a clean job:** end with **white outlined** stars, or none at all. If your clothes, face and car never reach the police, there's no chase.\n\n- Stars depend on what gets **reported**, not just on the crime: a crime in front of a cop, a witness calling it in (you can see and hear them), someone reporting you by mistake, or a large-scale crime dispatch checks automatically (explosions, high-security areas, stealing a plane).\n- **Search zone** on the map: **blue** if you haven't been linked to the crime, **red** if you have. The center is the dangerous part; the faded outer half gives you more room.\n- The **police scanner** (unlocked in Chapter 1) tells you where they think you went and when the chopper leaves to refuel.\n- IGN uses “gray” both for a reported crime before cops have seen you and for when they've lost sight of you.\n\n**Eurogamer's version (6 states):** solid gray = cops responding; black with white outline = suspect unknown; solid white = in pursuit; **flashing** = they lost sight of you and are still searching; red = Heat; black with red outline = Heat with suspect unknown. The **6-star** wanted level is back, and some increases are scripted, like at the end of Chapter 1.",
+   "table": {
+    "cols": [
+     "Stars",
+     "Meaning",
+     "What to do"
+    ],
+    "rows": [
+     [
+      "Gray",
+      "Crime reported, cops on the way without having seen you; or they lost sight of you",
+      "Best moment to vanish: leave the zone and clear your Heat icons"
+     ],
+     [
+      "White outlined",
+      "They know a crime happened, not that it was you",
+      "Walk away, weapon holstered, before the squad car arrives"
+     ],
+     [
+      "White",
+      "Police have eyes on you: full pursuit",
+      "Only priority: break line of sight"
+     ],
+     [
+      "Red",
+      "They lost you, but the area is on alert for someone matching your description",
+      "Stay hidden, clear the icons or leave the area"
+     ],
+     [
+      "Red outlined",
+      "A crime happened here, but you no longer match the description",
+      "Don't commit anything there: response is fast"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "hollow star",
+    "red star",
+    "flashing",
+    "hot area",
+    "heat area"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "policia-heat",
+  "sec": "policia",
+  "sub": "ler",
+  "tipo": "plano",
+  "conf": "oficial",
+  "ch": [
+   "geral"
+  ],
+  "title": "Ícones de “heat” (o que a polícia sabe de você) e como limpar cada um",
+  "sum": "Cada ícone some separado: boné não apaga a roupa.",
+  "body": "Na demo vista pela IGN China, o Jason comprou um boné: o ícone de rosto sumiu, mas o de roupa ficou. Com cabelo e roupa trocados, a Famitsu passou por viaturas dentro da área quente sem ser reconhecida.\n\n**Complemento (IGN):**\n- **CCTV tem dois ícones:** **câmera** = gravação guardada no local, que dá para destruir; **nuvem** = gravação na nuvem, que não dá para apagar. Nos bancos é comum a nuvem: só resta fugir e trocar tudo.\n- **Roupa:** além do porta-malas e da loja, dá para ameaçar o balconista de uma loja de roupa e pegar uma roupa temporária (some quando você troca).\n- **Arma visível:** pistola some com {L1}; arma longa fica nas costas e só some no porta-malas.\n- **Parceiro:** separar a dupla ou trocar de personagem e mudar a roupa dele.\n- Se te virem depois de limpar só parte dos ícones, você costuma ter de limpar aparência e roupa de novo. O heat também some sozinho se você esperar sem ser visto.\n\n**Complemento (Eurogamer):**\n- Os 7 fatores: aparência, parceiro, roupa, veículo, arma visível, CFTV e CFTV em nuvem.\n- **Heat é por personagem e por área:** se o Jason cometeu o crime sozinho, a Lucia circula ali sem problema. No mapa, passar o cursor na área vermelha mostra os fatores daquele lugar.\n- Na loja de roupas, a mensagem **abaixo do preço** avisa se a peça remove um fator. Dá até para roubar a roupa.\n- Arma curta se esconde; arma longa nas costas sempre aparece. Guarde a longa no porta-malas.\n- Leve dinheiro antes do crime: várias formas de limpar o heat custam.\n- Para trocar de carro sem roubar outro, use o Scooter Bros.",
+  "table": {
+   "cols": [
+    "Ícone",
+    "A polícia sabe…",
+    "Como limpar"
+   ],
+   "rows": [
+    [
+     "Câmera (CCTV)",
+     "Que o crime foi gravado",
+     "Destrua as câmeras antes, ou volte e apague a fita"
+    ],
+    [
+     "Dupla",
+     "Que são duas pessoas",
+     "Separe Jason e Lucia (reduz uma estrela, segundo a GTABase)"
+    ],
+    [
+     "Roupa",
+     "Seu traje",
+     "Troque a roupa **inteira**, no porta-malas ou numa loja. Chapéu e óculos não bastam"
+    ],
+    [
+     "Rosto",
+     "Sua aparência",
+     "Máscara antes do crime e tirada na fuga, ou corte o cabelo num salão"
+    ],
+    [
+     "Arma",
+     "Que você está armado",
+     "Guarde ou descarte a arma que viram"
+    ],
+    [
+     "Veículo",
+     "Seu carro",
+     "Troque de carro, repinte na Pay 'n' Spray ou queime o carro"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "Eurogamer",
+   "GameWith (JP)",
+   "GamesRadar+",
+   "IGN",
+   "IGN China",
+   "Rockstar (Famitsu)"
+  ],
+  "kw": [
+   "heat",
+   "calor",
+   "icones",
+   "despistar",
+   "disfarce",
+   "trocar roupa",
+   "cortar cabelo",
+   "mascara"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Heat icons and how to clear each",
+   "sum": "Each icon clears separately: a cap doesn't erase the outfit.",
+   "body": "In the demo seen by IGN China, Jason bought a cap: the face icon cleared, but the outfit one stayed. With hair and outfit changed, Famitsu drove past patrol cars inside the hot area without being recognized.\n\n**Extra (IGN):**\n- **CCTV has two icons:** **camera** = footage stored on site, which you can destroy; **cloud** = footage in the cloud, which you can't. Banks often use the cloud: all you can do is leave and change everything.\n- **Outfit:** besides your trunk and stores, you can threaten a clothing store clerk and take a temporary outfit (gone once you change).\n- **Visible weapon:** holster a pistol with {L1}; longarms stay on your back and only disappear into the trunk.\n- **Partner:** split up, or switch characters and change the partner's outfit.\n- If you're spotted after clearing only some icons, you usually have to clear appearance and outfit again. Heat also fades on its own if you wait unseen.\n\n**Extra (Eurogamer):**\n- The 7 factors: appearance, partner, clothing, vehicle, visible weapon, CCTV and Cloud CCTV.\n- **Heat is per character and per area:** if Jason did the crime alone, Lucia can move around there freely. On the map, hovering over a red area shows that area's factors.\n- In clothing stores, the message **under the price** tells you if an item clears a factor. You can even steal the clothes.\n- Sidearms can be concealed; a longarm on your back always shows. Stow longarms in the trunk.\n- Carry cash before a crime: several ways to clear Heat cost money.\n- To swap cars without stealing another, use Scooter Bros.",
+   "table": {
+    "cols": [
+     "Icon",
+     "The police know…",
+     "How to clear"
+    ],
+    "rows": [
+     [
+      "Camera (CCTV)",
+      "The crime was recorded",
+      "Destroy cameras first, or go back and wipe the tape"
+     ],
+     [
+      "Duo",
+      "There are two of you",
+      "Split Jason and Lucia (drops one star, per GTABase)"
+     ],
+     [
+      "Outfit",
+      "Your clothes",
+      "Change the **whole** outfit, from the trunk or a store. Hat and glasses aren't enough"
+     ],
+     [
+      "Face",
+      "Your appearance",
+      "Mask on before the crime and off during the escape, or get a haircut at a salon"
+     ],
+     [
+      "Weapon",
+      "That you're armed",
+      "Holster or ditch the gun they saw"
+     ],
+     [
+      "Vehicle",
+      "Your car",
+      "Swap cars, respray at a Pay 'n' Spray or burn it"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "heat",
+    "icons",
+    "shake",
+    "disguise",
+    "change outfit",
+    "haircut",
+    "mask"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "policia-evitar",
+  "sec": "policia",
+  "sub": "antes",
+  "tipo": "dica",
+  "conf": "oficial",
+  "ch": [
+   "geral"
+  ],
+  "title": "Como evitar ficar procurado",
+  "sum": "Entre em silêncio e saia sem deixar descrição.",
+  "body": "- **Máscara antes, sem máscara depois.** Assim o rosto não entra na descrição, mesmo com câmera.\n- **Entre em silêncio:** porta dos fundos com a Snap Gun, câmeras destruídas, alarme desligado. Arrombar a porta dispara o alarme.\n- **Roube carro sem dono por perto.** Tirar o motorista gera denúncia; quebrar o vidro dispara alarme.\n- **Mire sem atirar** para render pessoas.\n- **Armas longas no porta-malas**, nunca na mão em público.\n- **Zonas seguras:** os arredores dos esconderijos e alguns locais da história não deixam roubar carros.\n- **Não existem** subornos nem telefonemas para limpar o procurado. O serviço do Lester era do GTA Online.",
+  "src": [
+   "Rockstar (Famitsu, IGN)",
+   "Gamersky"
+  ],
+  "kw": [
+   "evitar policia",
+   "nao ser pego",
+   "furtividade",
+   "stealth",
+   "silencio",
+   "suborno"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "How to avoid getting wanted",
+   "sum": "Go in quietly and leave without a description.",
+   "body": "- **Mask on before, off after.** That keeps your face out of the description, even on camera.\n- **Go in quietly:** back door with the Snap Gun, cameras destroyed, alarm off. Breaking a door trips the alarm.\n- **Steal cars with no owner nearby.** Pulling out the driver gets reported; smashing a window trips the alarm.\n- **Aim without firing** to hold people up.\n- **Longarms in the trunk**, never in hand in public.\n- **Safe zones:** the area around safehouses and some story locations won't let you steal cars.\n- **There are no** bribes or phone calls to clear your wanted level. Lester's service was GTA Online.",
+   "kw": [
+    "avoid police",
+    "don't get caught",
+    "stealth",
+    "quiet",
+    "bribe"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "policia-gatilhos",
+  "sec": "policia",
+  "sub": "antes",
+  "tipo": "dado",
+  "conf": "oficial",
+  "ch": [
+   "geral"
+  ],
+  "title": "Como você fica procurado",
+  "sum": "Sem testemunha, não há procurado.",
+  "body": "- Você só fica procurado com **testemunha, denúncia por telefone, alarme, câmera ou rastreador** de carro.\n- A gravidade do crime define as estrelas, que “não sobem facilmente”. Numa demo, apontar a arma para dispersar um grupo rendeu só 1 estrela.\n- **Arma à mostra conta:** um transeunte pode denunciar alguém armado prestes a entrar numa loja.\n- São até **6 estrelas** (o GTA V parava em 5).\n- Vídeos de civis aumentarem o procurado: **não confirmado**.",
+  "src": [
+   "Rockstar (Rob Nelson à Famitsu e à IGN)",
+   "Press Start"
+  ],
+  "kw": [
+   "procurado",
+   "wanted",
+   "estrelas",
+   "testemunha",
+   "denuncia",
+   "alarme"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "How you get a wanted level",
+   "sum": "No witness, no wanted level.",
+   "body": "- You only get wanted with a **witness, phone report, alarm, camera or car tracker**.\n- The crime's severity sets the stars, which “don't rise easily”. In a demo, pointing a gun to scatter a crowd only earned 1 star.\n- **A visible gun counts:** a passerby can report someone armed about to enter a store.\n- Up to **6 stars** (GTA V stopped at 5).\n- Civilian videos raising your wanted level: **unconfirmed**.",
+   "kw": [
+    "wanted",
+    "stars",
+    "witness",
+    "report",
+    "alarm"
+   ]
+  },
+  "$mergeInto": "policia-evitar"
+ },
+ {
+  "kind": "card",
+  "id": "policia-preso",
+  "sec": "policia",
+  "sub": "errado",
+  "tipo": "alerta",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Morrer ou ser preso: o que você perde",
+  "sum": "Todo o dinheiro vivo e um pouco da conta corrente.",
+  "body": "- **Dinheiro vivo:** perdido ao morrer (“Wasted”) ou ser preso (“Busted”). {{oficial}} Segundo a IGN, você perde também **um pouco da conta corrente**. Render-se não diminui a perda.\n- **Saque não vendido** (joias, notas, drogas): perdido.\n- **Armas compradas:** ficam no porta-malas ou no armário. Armas pegas do chão podem ser confiscadas na prisão. {{previa}}\n- **Onde você reaparece:** hospital e delegacia, ou “nas proximidades”. As prévias divergem.\n- **Fiança, conta de hospital e rendição formal:** não confirmadas. Em Psicopata e Estilhaçado a polícia não aceita rendição (Gamersky).\n- **Em missão:** você recomeça do último ponto de controle (checkpoint). Depois de morrer 3 vezes no mesmo trecho dá para pular a parte (Noisy Pixel).\n\n**Sacolas e armas (Eurogamer e IGN):** as sacolas de saque que você carrega e as do porta-malas podem se perder. Às vezes dá para recuperá-las no pátio de apreensão ou na traseira da viatura. Armas pegas do chão somem; variantes únicas e Key Valuables únicos voltam no porta-malas ou no armário.",
+  "src": [
+   "Eurogamer",
+   "Gamersky",
+   "GamesRadar+",
+   "IGN",
+   "MikeShowSha",
+   "Noisy Pixel",
+   "Rockstar (Famitsu)"
+  ],
+  "kw": [
+   "morrer",
+   "preso",
+   "busted",
+   "wasted",
+   "perder dinheiro",
+   "hospital",
+   "fianca",
+   "render"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Dying or getting arrested: what you lose",
+   "sum": "All your pocket cash and a little from checking.",
+   "body": "- **Pocket cash:** lost when “Wasted” or “Busted”. {{oficial}} Your bank balance stays.\n- **Unsold loot** (jewelry, bills, drugs): lost.\n- **Bought weapons:** stay in the trunk or locker. Weapons picked up off the ground can be confiscated on arrest. {{previa}}\n- **Where you respawn:** hospital and police station, or “nearby”. Previews disagree.\n- **Bail, hospital bills and formal surrender:** unconfirmed. At Psycho and Irredeemable the police don't accept surrender (Gamersky).\n- **In a mission:** restart from the last checkpoint. After dying 3 times on the same section you can skip it (Noisy Pixel).\n- **Correction (IGN):** besides all your pocket cash, you also lose **a small amount from your checking account**. Surrendering doesn't reduce the loss.\n\n**Bags and weapons (Eurogamer and IGN):** stash bags you carry and those in your trunk can be lost. Sometimes you can recover them from the impound lot or the back of a police car. Weapons picked up off the ground are gone; Unique Weapon Variants and unique Key Valuables come back in your trunk or locker.",
+   "kw": [
+    "die",
+    "arrested",
+    "busted",
+    "wasted",
+    "lose money",
+    "hospital",
+    "bail",
+    "surrender"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "policia-escala",
+  "sec": "policia",
+  "sub": "ref",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "O que vem em cada nível",
+  "sum": "De 1 estrela fácil de despistar a 6 que não para.",
+  "body": "Nenhuma análise trouxe a lista completa de unidades por estrela. Exército nas 6 estrelas é rumor de vazamento. A Press Start jogou mais de 60 horas sem chegar às 6.\n\n**O que dá cada nível de cara (IGN):**\n- **1 estrela:** agressão, tiro em público, apontar arma para policial, roubar carro sem rastreador, invasão. 1 a 3 viaturas, com **taser** se você estiver desarmado (o taser drena a stamina).\n- **2 estrelas:** explodir posto, agredir policial, matar civil, roubar carro com rastreador avançado. Parado dentro de um carro, {○} faz você se abaixar e se esconder.\n- **3 estrelas:** matar policial ou vários civis com explosivo, uma série de roubos ou perseguição longa. Armas longas, colete, carros que batem, bloqueios, helicóptero e, a pé, cães K9.\n- **4 estrelas:** SWAT blindada e helicóptero atirando. Roubar avião do aeroporto já dá 4 estrelas e caças (leve paraquedas).\n- **5 estrelas:** o máximo do qual ainda dá para escapar. **6 estrelas:** o jogo avisa que a caçada só termina com a sua morte.",
+  "table": {
+   "cols": [
+    "Nível",
+    "Resposta relatada"
+   ],
+   "rows": [
+    [
+     "1 estrela",
+     "Fácil de despistar; a polícia não chega atirando"
+    ],
+    [
+     "2 estrelas",
+     "Ainda dá para escapar sem matar ninguém"
+    ],
+    [
+     "3 estrelas",
+     "Matar um policial já dá pelo menos 3. Na cidade, fugir de carro comum é difícil"
+    ],
+    [
+     "3 a 4 estrelas",
+     "Helicópteros entram na perseguição"
+    ],
+    [
+     "4 estrelas",
+     "Várias viaturas, caminhonete e helicóptero. Com o carro identificado, a fuga fica quase impossível"
+    ],
+    [
+     "5 estrelas",
+     "NOOSE, Humvees com metralhadora e helicópteros de ataque. Uns 10 minutos seguidos de perseguição levam a 5"
+    ],
+    [
+     "6 estrelas",
+     "Mais 10 a 15 minutos depois das 5, com aviso na tela. A polícia “não vai parar” e, segundo prévia, procura no mapa inteiro"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "Eurogamer",
+   "GameSpot",
+   "Gamersky",
+   "IGN",
+   "Rockstar (IGN, Famitsu)",
+   "TGG",
+   "TrueAchievements"
+  ],
+  "kw": [
+   "6 estrelas",
+   "cinco estrelas",
+   "noose",
+   "swat",
+   "helicoptero",
+   "nivel de procurado"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "What comes at each level",
+   "sum": "From an easy 1 star to a relentless 6.",
+   "body": "No review has the full list of units per star. The military at 6 stars is a leak rumor. Press Start played 60+ hours without reaching 6.\n\n**What triggers each level outright (IGN):**\n- **1 star:** assault, firing in public, pointing a gun at a cop, stealing an untracked car, trespassing. 1–3 squad cars, using **Tasers** if you're unarmed (Tasers drain stamina).\n- **2 stars:** blowing up a gas station, assaulting an officer, killing a civilian, stealing a car with an advanced tracker. In a parked car, {○} ducks you down to hide.\n- **3 stars:** killing a cop or several civilians with an explosive, a string of robberies or a long chase. Longarms, body armor, ramming vehicles, roadblocks, a chopper and, on foot, K9 dogs.\n- **4 stars:** armored SWAT and choppers shooting. Stealing a plane from the airport gives 4 stars outright plus fighter jets (bring a parachute).\n- **5 stars:** the highest level you can still escape. **6 stars:** the game warns you the hunt only ends with your death.",
+   "table": {
+    "cols": [
+     "Level",
+     "Reported response"
+    ],
+    "rows": [
+     [
+      "1 star",
+      "Easy to shake; police don't arrive shooting"
+     ],
+     [
+      "2 stars",
+      "Still escapable without killing anyone"
+     ],
+     [
+      "3 stars",
+      "Killing a cop already gives at least 3. In the city, escaping in an ordinary car is hard"
+     ],
+     [
+      "3–4 stars",
+      "Helicopters join the chase"
+     ],
+     [
+      "4 stars",
+      "Several cruisers, a pickup and a helicopter. With your car identified, escape is nearly impossible"
+     ],
+     [
+      "5 stars",
+      "NOOSE, Humvees with machine guns and attack helicopters. About 10 straight minutes of chase leads to 5"
+     ],
+     [
+      "6 stars",
+      "Another 10–15 minutes after 5, with an on-screen warning. Police “won't stop” and, per a preview, search the whole map"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "6 stars",
+    "five stars",
+    "noose",
+    "swat",
+    "helicopter",
+    "wanted level"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "policia-forcas",
+  "sec": "policia",
+  "sub": "ref",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Quem patrulha e com o quê",
+  "sum": "VCPD, xerifes, NOOSE, cães, helicópteros e mais.",
+  "table": {
+   "cols": [
+    "Força ou recurso",
+    "Onde ou quando",
+    "Confiança"
+   ],
+   "rows": [
+    [
+     "VCPD",
+     "Vice City",
+     "Oficial"
+    ],
+    [
+     "Vice Beach Police",
+     "Vice Beach",
+     "Oficial"
+    ],
+    [
+     "Leonard County Sheriff",
+     "Interior",
+     "Oficial"
+    ],
+    [
+     "Leonida Highway Patrol",
+     "Rodovias",
+     "Prévia"
+    ],
+    [
+     "POACH (fauna)",
+     "Grassrivers e áreas naturais",
+     "Wiki"
+    ],
+    [
+     "NOOSE (tático)",
+     "Por volta de 5 estrelas",
+     "Jogo real"
+    ],
+    [
+     "FIB",
+     "Não se sabe",
+     "Rumor"
+    ],
+    [
+     "Helicópteros com holofote",
+     "3 ou 4 estrelas em diante",
+     "Oficial"
+    ],
+    [
+     "Cães K9",
+     "Seguem o cheiro mesmo depois de você limpar os ícones; o vento conta",
+     "Jogo real"
+    ],
+    [
+     "Tapete de pregos",
+     "Em fugas; quase invisível à noite",
+     "Prévia"
+    ],
+    [
+     "Tiros nos pneus",
+     "Perseguições",
+     "Prévia"
+    ],
+    [
+     "Blindados e bloqueios",
+     "Níveis altos",
+     "Oficial"
+    ],
+    [
+     "Taser",
+     "Abordagens",
+     "Prévia"
+    ],
+    [
+     "Viaturas 4x4 e aerobarcos",
+     "Pântano",
+     "Oficial"
+    ],
+    [
+     "Armas e colete no porta-malas da viatura",
+     "Sempre",
+     "Prévia"
+    ]
+   ],
+   "sort": true
+  },
+  "src": [
+   "Rockstar (trailers, Extended Look)",
+   "Press Start",
+   "TrueAchievements",
+   "Edge",
+   "TGG"
+  ],
+  "kw": [
+   "vcpd",
+   "xerife",
+   "noose",
+   "k9",
+   "cachorro",
+   "caes",
+   "helicoptero",
+   "blindado",
+   "taser"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Who patrols and with what",
+   "sum": "VCPD, sheriffs, NOOSE, dogs, helicopters and more.",
+   "table": {
+    "cols": [
+     "Force or tool",
+     "Where or when",
+     "Reliability"
+    ],
+    "rows": [
+     [
+      "VCPD",
+      "Vice City",
+      "Official"
+     ],
+     [
+      "Vice Beach Police",
+      "Vice Beach",
+      "Official"
+     ],
+     [
+      "Leonard County Sheriff",
+      "Countryside",
+      "Official"
+     ],
+     [
+      "Leonida Highway Patrol",
+      "Highways",
+      "Preview"
+     ],
+     [
+      "POACH (wildlife)",
+      "Grassrivers and natural areas",
+      "Wiki"
+     ],
+     [
+      "NOOSE (tactical)",
+      "Around 5 stars",
+      "From the game"
+     ],
+     [
+      "FIB",
+      "Unknown",
+      "Rumor"
+     ],
+     [
+      "Helicopters with spotlights",
+      "3–4 stars and up",
+      "Official"
+     ],
+     [
+      "K9 dogs",
+      "Follow your scent even after you clear the icons; wind matters",
+      "From the game"
+     ],
+     [
+      "Spike strips",
+      "In chases; nearly invisible at night",
+      "Preview"
+     ],
+     [
+      "Shooting tires",
+      "Chases",
+      "Preview"
+     ],
+     [
+      "Armored vehicles and roadblocks",
+      "High levels",
+      "Official"
+     ],
+     [
+      "Taser",
+      "Stops",
+      "Preview"
+     ],
+     [
+      "Off-road cruisers and airboats",
+      "Swamp",
+      "Official"
+     ],
+     [
+      "Guns and armor in the cruiser trunk",
+      "Always",
+      "Preview"
+     ]
+    ],
+    "sort": true
+   },
+   "kw": [
+    "vcpd",
+    "sheriff",
+    "noose",
+    "k9",
+    "dog",
+    "dogs",
+    "helicopter",
+    "armored",
+    "taser"
+   ]
+  },
+  "$mergeInto": "policia-escala"
+ }
+]

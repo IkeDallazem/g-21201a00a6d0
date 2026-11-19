@@ -1,0 +1,394 @@
+{
+ "kind": "card",
+ "id": "cartas-ed-universe",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Ed Universe",
+ "sum": "36 cartas de hq, com o local de cada uma.",
+ "body": "- HQ, 36 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-ed-universe-capsule-light-blue",
+   "t": "**Capsule - Light Blue**",
+   "d": "Num pátio pequeno ao lado de um condomínio, encostada num suporte junto a um tabuleiro de xadrez, SW 4th Ave, oeste de Tequesta"
+  },
+  {
+   "id": "cc-ed-universe-capsule-orange",
+   "t": "**Capsule - Orange**",
+   "d": "Na barreira de concreto entre a areia e o estacionamento, perto da praia, leste de Belville"
+  },
+  {
+   "id": "cc-ed-universe-capsule-pink",
+   "t": "**Capsule - Pink**",
+   "d": "Em cima do vaso do banheiro de um trailer verde na Birch St, oeste de Ambrosia"
+  },
+  {
+   "id": "cc-ed-universe-diagnosis-light-blue",
+   "t": "**Diagnosis - Light Blue**",
+   "d": "No balcão da cozinha de um trailer sob a ponte da I-97, divisa de Bayside com La Perle"
+  },
+  {
+   "id": "cc-ed-universe-diagnosis-orange",
+   "t": "**Diagnosis - Orange**",
+   "d": "Dentro de um ninho grande no canto do telhado superior do Grassrivers Visitor Center"
+  },
+  {
+   "id": "cc-ed-universe-diagnosis-pink",
+   "t": "**Diagnosis - Pink**",
+   "d": "No canto da passarela do outdoor sobre a I-97, sudeste de Bluegrass"
+  },
+  {
+   "id": "cc-ed-universe-dr-placebo-light-blue",
+   "t": "**Dr. Placebo - Light Blue**",
+   "d": "Na segunda prateleira de baixo de uma estante no depósito nos fundos da La Perle Coin Laundry, NW 8th Ave, sul de La Perle"
+  },
+  {
+   "id": "cc-ed-universe-dr-placebo-orange",
+   "t": "**Dr. Placebo - Orange**",
+   "d": "Na segunda prateleira de baixo de um armário nos fundos de uma garagem abandonada no alto de um morro perto da Sallow Springs Dr, West Vice-Dale"
+  },
+  {
+   "id": "cc-ed-universe-dr-placebo-pink",
+   "t": "**Dr. Placebo - Pink**",
+   "d": "Na prateleira de baixo, na parede ao lado da saída, no depósito dos fundos do posto RON do norte de Bayside"
+  },
+  {
+   "id": "cc-ed-universe-femi-nemesis-bronze",
+   "t": "**Femi-Nemesis - Bronze**",
+   "d": "No alto de uma torre enferrujada ao lado da Aerostat Rd, centro de Maroon Key"
+  },
+  {
+   "id": "cc-ed-universe-femi-nemesis-gold",
+   "t": "**Femi-Nemesis - Gold**",
+   "d": "Em cima de um respiro de metal no telhado das lojas da NW 11th St, sul de La Perle"
+  },
+  {
+   "id": "cc-ed-universe-femi-nemesis-silver",
+   "t": "**Femi-Nemesis - Silver**",
+   "d": "Em cima da máquina de lavar no meio do trailer verde e branco da SW 19th St, leste do VCIA"
+  },
+  {
+   "id": "cc-ed-universe-fornicator-light-blue",
+   "t": "**Fornicator - Light Blue**",
+   "d": "Em cima de um barril numa torre no centro do minigolfe King Gator Adventure Golf"
+  },
+  {
+   "id": "cc-ed-universe-fornicator-orange",
+   "t": "**Fornicator - Orange**",
+   "d": "Em cima de uma lixeira encostada na parede, ao lado da entrada lateral do posto Xero do norte de South Kelly"
+  },
+  {
+   "id": "cc-ed-universe-fornicator-pink",
+   "t": "**Fornicator - Pink**",
+   "d": "Na areia perto da água, ao lado de um sofá e de um gnomo, perto da Pitchpole Rd, oeste de Gellhorn"
+  },
+  {
+   "id": "cc-ed-universe-funny-bones-light-blue",
+   "t": "**Funny Bones - Light Blue**",
+   "d": "Na gaveta de baixo de um armário da cozinha de um trailer branco na NW 24th Pl, sul de Balsero"
+  },
+  {
+   "id": "cc-ed-universe-funny-bones-orange",
+   "t": "**Funny Bones - Orange**",
+   "d": "No alto da caixa-d'água de Port Gellhorn, embaixo de uma cadeira, lado norte da cidade perto da Old Post Rd"
+  },
+  {
+   "id": "cc-ed-universe-funny-bones-pink",
+   "t": "**Funny Bones - Pink**",
+   "d": "No chão do banheiro de funcionários nos fundos do posto Globe Oil de Hamlet"
+  },
+  {
+   "id": "cc-ed-universe-general-surgeon-light-blue",
+   "t": "**General Surgeon - Light Blue**",
+   "d": "Presa num mural de cortiça na garagem-depósito do posto 247 de West Vice-Dale"
+  },
+  {
+   "id": "cc-ed-universe-general-surgeon-orange",
+   "t": "**General Surgeon - Orange**",
+   "d": "Numa prateleira de madeira no escritório do Leonida Truck Stop, Palmetto Ave, oeste de Hamlet"
+  },
+  {
+   "id": "cc-ed-universe-general-surgeon-pink",
+   "t": "**General Surgeon - Pink**",
+   "d": "Na lateral da geladeira de um trailer verde no canto de um terreno perto da Orchard Ave, Port Gellhorn"
+  },
+  {
+   "id": "cc-ed-universe-mr-i-light-blue",
+   "t": "**MR.I - Light Blue**",
+   "d": "Em cima de um barril no meio de uma ponte que entra no pântano perto da Omega Pkwy, sul de Buckskin Swamp"
+  },
+  {
+   "id": "cc-ed-universe-mr-i-orange",
+   "t": "**MR.I - Orange**",
+   "d": "Na beira do telhado atrás de uma cadeira, no alto do Snakepit, NE 1st Ave x NE 6th St, norte de Downtown"
+  },
+  {
+   "id": "cc-ed-universe-mr-i-pink",
+   "t": "**MR.I - Pink**",
+   "d": "Numa borda atrás da parede destruída de um prédio preto e branco, no alto de uma passarela, NE 6th Ave x NE 17th St, Decor District"
+  },
+  {
+   "id": "cc-ed-universe-ratface-bronze",
+   "t": "**Ratface - Bronze**",
+   "d": "Num sofá azul encostado na parede dentro do armazém Jeff's Discount Center, NW 8th Ave, sul de La Perle"
+  },
+  {
+   "id": "cc-ed-universe-ratface-gold",
+   "t": "**Ratface - Gold**",
+   "d": "No topo da torre de rádio no telhado da delegacia de Vice Beach, Harborside Ave, Ocean Beach"
+  },
+  {
+   "id": "cc-ed-universe-ratface-silver",
+   "t": "**Ratface - Silver**",
+   "d": "No telhado, atrás da meia-parede sobre a entrada da prefeitura de Hamlet (Hamlet Town Hall), Cicada Ave"
+  },
+  {
+   "id": "cc-ed-universe-rightwing-bronze",
+   "t": "**Rightwing - Bronze**",
+   "d": "Numa tábua de madeira sob a escultura de copo gigante sobre o posto 247 da Sunbelt Hwy, norte de Key Lento"
+  },
+  {
+   "id": "cc-ed-universe-rightwing-gold",
+   "t": "**Rightwing - Gold**",
+   "d": "Na mesa perto da porta de um apartamento térreo do Park Apartments, atrás do banco com ursinhos, El Joven Blvd, leste do VCIA"
+  },
+  {
+   "id": "cc-ed-universe-rightwing-silver",
+   "t": "**Rightwing - Silver**",
+   "d": "Num caixote de madeira numa abertura no fim de um beco de um shopping atrás da Totemica, SW 5th Ave, Peacock Bay"
+  },
+  {
+   "id": "cc-ed-universe-side-effect-light-blue",
+   "t": "**Side Effect - Light Blue**",
+   "d": "Numa cômoda encostada na parede do quarto de um trailer vermelho perto da Crescent Ct, centro de Port Gellhorn"
+  },
+  {
+   "id": "cc-ed-universe-side-effect-orange",
+   "t": "**Side Effect - Orange**",
+   "d": "No banheiro de funcionários nos fundos do posto Xero da Northbrook Dr, Rockridge"
+  },
+  {
+   "id": "cc-ed-universe-side-effect-pink",
+   "t": "**Side Effect - Pink**",
+   "d": "Na borda em frente ao quiosque Finn's Diner, ao lado do posto Tallaloko fechado, sul de East Lummox a leste do Lake Tallaloko"
+  },
+  {
+   "id": "cc-ed-universe-vaccerine-light-blue",
+   "t": "**Vaccerine - Light Blue**",
+   "d": "No canto da passarela do outdoor sobre a I-97, leste de Hamlet"
+  },
+  {
+   "id": "cc-ed-universe-vaccerine-orange",
+   "t": "**Vaccerine - Orange**",
+   "d": "No canto de um telhadinho de um prédio amarelo atrás do salão Elegance, South Cunningham Dr, centro de Capri"
+  },
+  {
+   "id": "cc-ed-universe-vaccerine-pink",
+   "t": "**Vaccerine - Pink**",
+   "d": "No segundo nível de uma estante num galpãozinho atrás da loja Lost Mines Souvenirs, US-82, noroeste de Grassrivers"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Ed Universe"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Ed Universe",
+  "sum": "36 comic cards, with every location.",
+  "body": "- Comic, 36 cards. Locations from IGN's list; tick each one as you grab it.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Ed Universe"
+  ],
+  "check": [
+   {
+    "id": "cc-ed-universe-capsule-light-blue",
+    "t": "**Capsule - Light Blue**",
+    "d": "In a small courtyard next to an apartment complex leaning in a holder next to a chess board on SW 4th Ave in western Tequesta"
+   },
+   {
+    "id": "cc-ed-universe-capsule-orange",
+    "t": "**Capsule - Orange**",
+    "d": "On the concrete barrier separating the sand and the parking lot near the beach in eastern Belville"
+   },
+   {
+    "id": "cc-ed-universe-capsule-pink",
+    "t": "**Capsule - Pink**",
+    "d": "On top of a toilet in the bathroom of a green mobile home on Birch St in western Ambrosia"
+   },
+   {
+    "id": "cc-ed-universe-diagnosis-light-blue",
+    "t": "**Diagnosis - Light Blue**",
+    "d": "On the counter in the kitchen of a mobile home underneath the I-97 bridge on the edge of Bayside and La Perle"
+   },
+   {
+    "id": "cc-ed-universe-diagnosis-orange",
+    "t": "**Diagnosis - Orange**",
+    "d": "Inside a large bird's nest on the corner of the upper roof of the Grassrivers Visitor Center"
+   },
+   {
+    "id": "cc-ed-universe-diagnosis-pink",
+    "t": "**Diagnosis - Pink**",
+    "d": "On the corner of the catwalk of the billboard over I-97 in southeastern Bluegrass"
+   },
+   {
+    "id": "cc-ed-universe-dr-placebo-light-blue",
+    "t": "**Dr. Placebo - Light Blue**",
+    "d": "On the second shelf from the bottom of a storage shelf in the storage room in the back of the La Perle Coin Laundry on NW 8th Ave in southern La Perle"
+   },
+   {
+    "id": "cc-ed-universe-dr-placebo-orange",
+    "t": "**Dr. Placebo - Orange**",
+    "d": "On the second shelf to the bottom of a storage unit in the back of an abandoned garage on top of a hill off of Sallow Springs Dr in West Vice-Dale County"
+   },
+   {
+    "id": "cc-ed-universe-dr-placebo-pink",
+    "t": "**Dr. Placebo - Pink**",
+    "d": "On the bottom shelf on the wall next to the exit in the back storage room of the RON gas station in northern Bayside"
+   },
+   {
+    "id": "cc-ed-universe-femi-nemesis-bronze",
+    "t": "**Femi-Nemesis - Bronze**",
+    "d": "On top of a rusted tower next to Aerostat Rd in the middle of Maroon Key"
+   },
+   {
+    "id": "cc-ed-universe-femi-nemesis-gold",
+    "t": "**Femi-Nemesis - Gold**",
+    "d": "On top of a metal vent on the roof of the shops off of NW 11th St in southern La Perle"
+   },
+   {
+    "id": "cc-ed-universe-femi-nemesis-silver",
+    "t": "**Femi-Nemesis - Silver**",
+    "d": "On top of the washing machine in the middle of the green and white mobile home on SW 19th St in eastern VCIA"
+   },
+   {
+    "id": "cc-ed-universe-fornicator-light-blue",
+    "t": "**Fornicator - Light Blue**",
+    "d": "On top of a barrel in a tower in the center of the King Gator Adventure Golf course"
+   },
+   {
+    "id": "cc-ed-universe-fornicator-orange",
+    "t": "**Fornicator - Orange**",
+    "d": "On top of a trash can against the wall next to the side entrance to the Xero gas station in northern South Kelly County"
+   },
+   {
+    "id": "cc-ed-universe-fornicator-pink",
+    "t": "**Fornicator - Pink**",
+    "d": "On the sand near the water next to a couch and a gnome off of Pitchpole Rd in western Gellhorn"
+   },
+   {
+    "id": "cc-ed-universe-funny-bones-light-blue",
+    "t": "**Funny Bones - Light Blue**",
+    "d": "In the bottom drawer of a cabinet in the kitchen of a white mobile home on NW 24th Pl in southern Balsero"
+   },
+   {
+    "id": "cc-ed-universe-funny-bones-orange",
+    "t": "**Funny Bones - Orange**",
+    "d": "On top of the Port Gellhorn water tower under a chair on the northern side of Port Gellhorn off of Old Post Rd"
+   },
+   {
+    "id": "cc-ed-universe-funny-bones-pink",
+    "t": "**Funny Bones - Pink**",
+    "d": "On the floor inside the staff bathroom in the back of the Globe Oil gas station in Hamlet"
+   },
+   {
+    "id": "cc-ed-universe-general-surgeon-light-blue",
+    "t": "**General Surgeon - Light Blue**",
+    "d": "Pinned to a corkboard on the wall of the storage garage in the 247 gas station in West Vice-Dale County"
+   },
+   {
+    "id": "cc-ed-universe-general-surgeon-orange",
+    "t": "**General Surgeon - Orange**",
+    "d": "On top of a wooden shelf in the office of the Leonida Truck Stop on Palmetto Ave in western Hamlet"
+   },
+   {
+    "id": "cc-ed-universe-general-surgeon-pink",
+    "t": "**General Surgeon - Pink**",
+    "d": "On the side of a fridge in a green mobile home in the corner of a lot off of Orchard Ave in Port Gellhorn"
+   },
+   {
+    "id": "cc-ed-universe-mr-i-light-blue",
+    "t": "**MR.I - Light Blue**",
+    "d": "On top of a barrel in the middle of a bridge out into the swamp near the Omega Pkwy in southern Buckskin Swamp"
+   },
+   {
+    "id": "cc-ed-universe-mr-i-orange",
+    "t": "**MR.I - Orange**",
+    "d": "On the ledge of the roof behind a chair on top of the Snakepit on the corner of NE 1st Ave and NE 6th St in northern Downtown"
+   },
+   {
+    "id": "cc-ed-universe-mr-i-pink",
+    "t": "**MR.I - Pink**",
+    "d": "On top of a ledge behind the destroyed wall of a black and white building at the top of a catwalk on the corner of NE 6th Ave and NE 17th St in the Decor District"
+   },
+   {
+    "id": "cc-ed-universe-ratface-bronze",
+    "t": "**Ratface - Bronze**",
+    "d": "On top of a blue couch against the wall inside the Jeff's Discount Center warehouse on NW 8th Ave in southern La Perle"
+   },
+   {
+    "id": "cc-ed-universe-ratface-gold",
+    "t": "**Ratface - Gold**",
+    "d": "At the very top of the radio tower on the roof of the Vice Beach Police station on Harborside Ave in Ocean Beach"
+   },
+   {
+    "id": "cc-ed-universe-ratface-silver",
+    "t": "**Ratface - Silver**",
+    "d": "On the roof behind the half wall over the entrance to the Hamlet Town Hall on Cicada Ave in Hamlet"
+   },
+   {
+    "id": "cc-ed-universe-rightwing-bronze",
+    "t": "**Rightwing - Bronze**",
+    "d": "On top of a wooden board below the large cup sculpture above the 247 gas station on the Sunbelt Hwy in northern Key Lento"
+   },
+   {
+    "id": "cc-ed-universe-rightwing-gold",
+    "t": "**Rightwing - Gold**",
+    "d": "On top of the table near the door in an apartment on the first floor of the Park Apartments complex, behind the bench with teddy bears on it, on El Joven Blvd in eastern VCIA"
+   },
+   {
+    "id": "cc-ed-universe-rightwing-silver",
+    "t": "**Rightwing - Silver**",
+    "d": "In a wooden crate in a small opening at the end of an alleyway in a mall behind the Totemica on SW 5th Ave in Peacock Bay"
+   },
+   {
+    "id": "cc-ed-universe-side-effect-light-blue",
+    "t": "**Side Effect - Light Blue**",
+    "d": "On top of a dresser against the wall of a bedroom inside a red trailer off of Crescent Ct in central Port Gellhorn"
+   },
+   {
+    "id": "cc-ed-universe-side-effect-orange",
+    "t": "**Side Effect - Orange**",
+    "d": "Inside the staff bathroom in the back of the Xero gas station on Northbrook Dr in Rockridge"
+   },
+   {
+    "id": "cc-ed-universe-side-effect-pink",
+    "t": "**Side Effect - Pink**",
+    "d": "On top of the ledge in front of the Finn's Diner kiosk next to the closed Tallaloko gas station in southern East Lummox County east of Lake Tallaloko"
+   },
+   {
+    "id": "cc-ed-universe-vaccerine-light-blue",
+    "t": "**Vaccerine - Light Blue**",
+    "d": "On the corner of the catwalk surrounding the billboard over I-97 in eastern Hamlet"
+   },
+   {
+    "id": "cc-ed-universe-vaccerine-orange",
+    "t": "**Vaccerine - Orange**",
+    "d": "On the corner of a small roof of a yellow building behind the elegance hair salon on South Cunningham Dr in central Capri"
+   },
+   {
+    "id": "cc-ed-universe-vaccerine-pink",
+    "t": "**Vaccerine - Pink**",
+    "d": "On the second layer of a shelving unit in a small shed behind the Lost Mines Souvenirs store on US-82 in northwestern Grassrivers"
+   }
+  ]
+ }
+}

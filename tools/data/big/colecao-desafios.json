@@ -1,0 +1,677 @@
+{
+ "kind": "card",
+ "id": "colecao-desafios",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Os 80 desafios",
+ "sum": "8 categorias de 10. Para os 100% bastam 70.",
+ "body": "Ficam no menu Progress. Marque aqui o que já fez. * = sem morrer nem ser preso.\n- **Fáceis de fazer cedo:** Gym Member, Mugging, Vehicle Discovery, WAiNK Locations, Basketball Rookie, Alligator Kills.\n- **Planeje:** Nest Egg (US$ 1,5 milhão na conta corrente), Pro Angler, Legendary Hunter, Basketball Pro e Helipad Flyovers.",
+ "check": [
+  {
+   "id": "d-speed-kills",
+   "t": "**Speed Kills** (Combate) — Matar 3 inimigos em menos de 30 s"
+  },
+  {
+   "id": "d-melee-combat",
+   "t": "**Melee Combat** (Combate) — Matar ou nocautear 5 seguidos no corpo a corpo sem morrer"
+  },
+  {
+   "id": "d-explosive-combat",
+   "t": "**Explosive Combat** (Combate) — Matar ou ferir 3 com um só explosivo"
+  },
+  {
+   "id": "d-headshots",
+   "t": "**Headshots** (Combate) — 4 tiros na cabeça num só uso do Focus de combate"
+  },
+  {
+   "id": "d-drive-bys",
+   "t": "**Drive-Bys** (Combate) — Matar 5 atirando do carro em menos de 1 min, sem sair"
+  },
+  {
+   "id": "d-stealth-sniping",
+   "t": "**Stealth Sniping** (Combate) — Matar 7 desavisados com fuzil de mira, sem morrer nem ser preso"
+  },
+  {
+   "id": "d-incendiary",
+   "t": "**Incendiary** (Combate) — Matar ou ferir 5 com fogo em menos de 15 s"
+  },
+  {
+   "id": "d-revolver-headshots",
+   "t": "**Revolver Headshots** (Combate) — 6 tiros na cabeça de revólver sem recarregar nem trocar"
+  },
+  {
+   "id": "d-long-range-sniping",
+   "t": "**Long-Range Sniping** (Combate) — 3 mortes em menos de 10 s com fuzil de mira a 300 pés (~90 m)"
+  },
+  {
+   "id": "d-high-explosive",
+   "t": "**High Explosive** (Combate) — Matar ou ferir 8 com explosivos em menos de 20 s sem levar dano"
+  },
+  {
+   "id": "d-mugging",
+   "t": "**Mugging** (Crime) — Roubar 5 pedestres"
+  },
+  {
+   "id": "d-stick-ups",
+   "t": "**Stick Ups** (Crime) — Assaltar 3 lojas num dia*"
+  },
+  {
+   "id": "d-car-jacking",
+   "t": "**Car Jacking** (Crime) — Tomar 3 carros e levá-los ao Pay 'n' Spray num dia*"
+  },
+  {
+   "id": "d-mugging-spree",
+   "t": "**Mugging Spree** (Crime) — US$ 500 roubados de pedestres num dia*"
+  },
+  {
+   "id": "d-cop-car-theft",
+   "t": "**Cop Car Theft** (Crime) — Ficar 5 min procurado dentro de uma viatura roubada"
+  },
+  {
+   "id": "d-cop-weapon-theft",
+   "t": "**Cop Weapon Theft** (Crime) — Pegar arma do porta-malas de 5 viaturas diferentes*"
+  },
+  {
+   "id": "d-stick-up-spree",
+   "t": "**Stick Up Spree** (Crime) — 2 lojas em cada um dos 5 condados em menos de 20 min*"
+  },
+  {
+   "id": "d-cop-tow",
+   "t": "**Cop Tow** (Crime) — Rebocar uma viatura ocupada por 1 milha sem parar"
+  },
+  {
+   "id": "d-carjacking-spree",
+   "t": "**Carjacking Spree** (Crime) — Registrar ou repintar carros roubados de 10 marcas em menos de 30 min*"
+  },
+  {
+   "id": "d-carjacking-pro",
+   "t": "**Carjacking Pro** (Crime) — US$ 100.000 vendendo carros roubados num dia*"
+  },
+  {
+   "id": "d-waink-locations",
+   "t": "**WAiNK Locations** (Exploração) — Escanear 4 marcos, curiosidades ou esculturas"
+  },
+  {
+   "id": "d-skyscrapers",
+   "t": "**Skyscrapers** (Exploração) — Ir ao topo dos 5 prédios mais altos de Vice-Dale"
+  },
+  {
+   "id": "d-collectible-cards",
+   "t": "**Collectible Cards** (Exploração) — 3 cartas em cada um dos 5 condados"
+  },
+  {
+   "id": "d-encyclopedia",
+   "t": "**Encyclopedia** (Exploração) — Descobrir 100 animais, veículos e armas"
+  },
+  {
+   "id": "d-underwater-discoveries",
+   "t": "**Underwater Discoveries** (Exploração) — 25 descobertas no fundo do mar"
+  },
+  {
+   "id": "d-rail-tour",
+   "t": "**Rail Tour** (Exploração) — 1 milha de trem em cada condado num dia, sem pular a viagem"
+  },
+  {
+   "id": "d-underwater-treasures",
+   "t": "**Underwater Treasures** (Exploração) — Achar 85 tesouros submarinos"
+  },
+  {
+   "id": "d-black-hole-wrecks",
+   "t": "**Black Hole Wrecks** (Exploração) — Achar os 11 naufrágios Black Hole"
+  },
+  {
+   "id": "d-road-trip",
+   "t": "**Road Trip** (Exploração) — Passar por todas as cidades num dia sem sair do carro (só para abastecer)"
+  },
+  {
+   "id": "d-helipad-flyovers",
+   "t": "**Helipad Flyovers** (Exploração) — Sobrevoar os 41 helipontos de Vice City e Vice Beach a 100 pés ou menos em menos de 10 min"
+  },
+  {
+   "id": "d-gym-member",
+   "t": "**Gym Member** (Fitness) — Virar sócio de uma academia"
+  },
+  {
+   "id": "d-foot-travel",
+   "t": "**Foot Travel** (Fitness) — 5 milhas a pé num dia"
+  },
+  {
+   "id": "d-pro-cyclist",
+   "t": "**Pro Cyclist** (Fitness) — 15 milhas de bicicleta num dia"
+  },
+  {
+   "id": "d-pro-swimmer",
+   "t": "**Pro Swimmer** (Fitness) — 3 milhas nadando num dia"
+  },
+  {
+   "id": "d-balanced-workout",
+   "t": "**Balanced Workout** (Fitness) — Treinar em todo tipo de aparelho num dia"
+  },
+  {
+   "id": "d-muscle-regime",
+   "t": "**Muscle Regime** (Fitness) — Músculo nível 4 nos dois ao mesmo tempo por 5 dias seguidos"
+  },
+  {
+   "id": "d-cardio-regime",
+   "t": "**Cardio Regime** (Fitness) — Cardio nível 4 nos dois ao mesmo tempo por 5 dias seguidos"
+  },
+  {
+   "id": "d-waning-sands-run",
+   "t": "**Waning Sands Run** (Fitness) — Do portão do píer The Tip até Waning Sands a pé em menos de 13 min"
+  },
+  {
+   "id": "d-tequesta-swim",
+   "t": "**Tequesta Swim** (Fitness) — De Tequesta Retreat a Starfish Island nadando em menos de 15 min"
+  },
+  {
+   "id": "d-southwind-cycle",
+   "t": "**Southwind Cycle** (Fitness) — Da Williams Guest House (Grayson) ao Chicky's Tiki Bar (Southwind) de bicicleta, sem cair, em menos de 22 min"
+  },
+  {
+   "id": "d-vehicle-modder",
+   "t": "**Vehicle Modder** (Gastos) — 5 modificações numa oficina"
+  },
+  {
+   "id": "d-grocery-shopper",
+   "t": "**Grocery Shopper** (Gastos) — Mais de US$ 250 em lojas de conveniência ou de bebidas num dia"
+  },
+  {
+   "id": "d-well-armed",
+   "t": "**Well Armed** (Gastos) — Comprar 3 armas curtas e 3 longas na Ammu-Nation"
+  },
+  {
+   "id": "d-well-groomed",
+   "t": "**Well Groomed** (Gastos) — Mais de US$ 1.000 em barbearias e salões"
+  },
+  {
+   "id": "d-stylishly-armed",
+   "t": "**Stylishly Armed** (Gastos) — Cosméticos para 5 armas curtas e 5 longas"
+  },
+  {
+   "id": "d-well-dressed",
+   "t": "**Well Dressed** (Gastos) — Mais de US$ 5.000 em roupas"
+  },
+  {
+   "id": "d-custom-ride",
+   "t": "**Custom Ride** (Gastos) — Mais de US$ 20.000 numa única visita à oficina"
+  },
+  {
+   "id": "d-heavily-armed",
+   "t": "**Heavily Armed** (Gastos) — Mais de US$ 50.000 em armas e acessórios"
+  },
+  {
+   "id": "d-serious-modder",
+   "t": "**Serious Modder** (Gastos) — Mais de US$ 125.000 em oficinas"
+  },
+  {
+   "id": "d-nest-egg",
+   "t": "**Nest Egg** (Gastos) — US$ 1.500.000 na conta corrente BuckMe"
+  },
+  {
+   "id": "d-basketball-rookie",
+   "t": "**Basketball Rookie** (Esportes) — Cesta em 3 tabelas diferentes num dia"
+  },
+  {
+   "id": "d-golf-rookie",
+   "t": "**Golf Rookie** (Esportes) — 18 buracos no King Gator ou no Frontier Adventure Golf em menos de 30 min, com -3 ou melhor"
+  },
+  {
+   "id": "d-basketball-streak",
+   "t": "**Basketball Streak** (Esportes) — 10 cestas seguidas em menos de 2 min"
+  },
+  {
+   "id": "d-pool-streak",
+   "t": "**Pool Streak** (Esportes) — Vencer sinuca em 3 lugares num dia, sem perder nem desistir"
+  },
+  {
+   "id": "d-basketball-tour",
+   "t": "**Basketball Tour** (Esportes) — Uma cesta em cada condado"
+  },
+  {
+   "id": "d-golf-pro",
+   "t": "**Golf Pro** (Esportes) — 18 buracos nos dois minigolfes num dia, com 0 ou melhor"
+  },
+  {
+   "id": "d-triple-bank",
+   "t": "**Triple Bank** (Esportes) — Tabelar a branca em 3 tabelas antes de encaçapar"
+  },
+  {
+   "id": "d-basketball-pro",
+   "t": "**Basketball Pro** (Esportes) — Cesta em todas as tabelas de Leonida"
+  },
+  {
+   "id": "d-8-ball-break",
+   "t": "**8-Ball Break** (Esportes) — Vencer encaçapando a bola 8 na saída"
+  },
+  {
+   "id": "d-double-hole-in-one",
+   "t": "**Double Hole in One** (Esportes) — Dois holes in one seguidos na mesma partida"
+  },
+  {
+   "id": "d-alligator-kills",
+   "t": "**Alligator Kills** (Sobrevivência) — Matar 3 jacarés selvagens"
+  },
+  {
+   "id": "d-big-fish",
+   "t": "**Big Fish** (Sobrevivência) — Pescar um peixe de 20 lb (9 kg) ou mais"
+  },
+  {
+   "id": "d-marksman",
+   "t": "**Marksman** (Sobrevivência) — Medalha nos dois estandes no mesmo dia"
+  },
+  {
+   "id": "d-catch-of-the-day",
+   "t": "**Catch of the Day** (Sobrevivência) — 3 peixes com cada tamanho de isca de água doce e salgada num dia"
+  },
+  {
+   "id": "d-zoologist",
+   "t": "**Zoologist** (Sobrevivência) — Estudar 20 espécies"
+  },
+  {
+   "id": "d-angler",
+   "t": "**Angler** (Sobrevivência) — 4 espécies em menos de 6 min"
+  },
+  {
+   "id": "d-pro-marksman",
+   "t": "**Pro Marksman** (Sobrevivência) — Ouro no Master em 3 provas seguidas, sem falhar nem desistir"
+  },
+  {
+   "id": "d-hunting-spree",
+   "t": "**Hunting Spree** (Sobrevivência) — Javali, cascavel e pantera em menos de 15 min sem levar dano"
+  },
+  {
+   "id": "d-pro-angler",
+   "t": "**Pro Angler** (Sobrevivência) — Pescar todas as espécies"
+  },
+  {
+   "id": "d-legendary-hunter",
+   "t": "**Legendary Hunter** (Sobrevivência) — Matar os 8 animais únicos"
+  },
+  {
+   "id": "d-vehicle-discovery",
+   "t": "**Vehicle Discovery** (Veículos) — Examinar ou descobrir 6 veículos"
+  },
+  {
+   "id": "d-wheelie",
+   "t": "**Wheelie** (Veículos) — Empinar por 0,25 milha"
+  },
+  {
+   "id": "d-winning-streak",
+   "t": "**Winning Streak** (Veículos) — 1º lugar em 3 corridas com um muscle, um esportivo e um supercarro"
+  },
+  {
+   "id": "d-throttled",
+   "t": "**Throttled** (Veículos) — Mais de 100 mph (160 km/h) por 2 milhas"
+  },
+  {
+   "id": "d-drawbridge-jump",
+   "t": "**Drawbridge Jump** (Veículos) — Saltar mais de 100 pés sobre ponte levadiça 3 vezes sem sair"
+  },
+  {
+   "id": "d-top-speed",
+   "t": "**Top Speed** (Veículos) — Chegar a 175 mph (280 km/h) em carro, caminhão ou moto"
+  },
+  {
+   "id": "d-train-landing",
+   "t": "**Train Landing** (Veículos) — Pousar um avião em cima de um trem em movimento sem destruí-lo"
+  },
+  {
+   "id": "d-oceanarium-jump",
+   "t": "**Oceanarium Jump** (Veículos) — Saltar de 0,5 milha ou mais e cair de paraquedas no tanque da orca ou dos golfinhos do Oceanarium"
+  },
+  {
+   "id": "d-rally-winner",
+   "t": "**Rally Winner** (Veículos) — 3 vitórias seguidas (Mud Club, Gellhorn Raceway e Boone Speedway) num dia, sem reiniciar"
+  },
+  {
+   "id": "d-train-jump",
+   "t": "**Train Jump** (Veículos) — Saltar 75 pés ou mais de moto e cair em trem em movimento 2 vezes em 20 min"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "desafios",
+  "challenges",
+  "progress",
+  "metas"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "The 80 challenges",
+  "sum": "8 categories of 10. You need 70 for 100%.",
+  "body": "They live in the Progress menu. Tick what you've done. * = without dying or being arrested.\n- **Easy early:** Gym Member, Mugging, Vehicle Discovery, WAiNK Locations, Basketball Rookie, Alligator Kills.\n- **Plan ahead:** Nest Egg ($1.5 million in checking), Pro Angler, Legendary Hunter, Basketball Pro and Helipad Flyovers.",
+  "kw": [
+   "challenges",
+   "progress",
+   "goals"
+  ],
+  "check": [
+   {
+    "id": "d-speed-kills",
+    "t": "**Speed Kills** (Combat) — Kill 3 enemies in under 30 seconds"
+   },
+   {
+    "id": "d-melee-combat",
+    "t": "**Melee Combat** (Combat) — Kill or knock out 5 in a row with melee without dying"
+   },
+   {
+    "id": "d-explosive-combat",
+    "t": "**Explosive Combat** (Combat) — Kill or injure 3 with a single explosive"
+   },
+   {
+    "id": "d-headshots",
+    "t": "**Headshots** (Combat) — 4 headshot kills in one use of combat Focus"
+   },
+   {
+    "id": "d-drive-bys",
+    "t": "**Drive-Bys** (Combat) — 5 drive-by kills in under 1 minute without leaving the vehicle"
+   },
+   {
+    "id": "d-stealth-sniping",
+    "t": "**Stealth Sniping** (Combat) — Kill 7 unalerted enemies with a scoped sniper without dying or being arrested"
+   },
+   {
+    "id": "d-incendiary",
+    "t": "**Incendiary** (Combat) — Kill or injure 5 with fire in under 15 seconds"
+   },
+   {
+    "id": "d-revolver-headshots",
+    "t": "**Revolver Headshots** (Combat) — 6 revolver headshot kills without reloading or switching"
+   },
+   {
+    "id": "d-long-range-sniping",
+    "t": "**Long-Range Sniping** (Combat) — 3 kills in under 10 seconds with a scoped sniper from 300 feet"
+   },
+   {
+    "id": "d-high-explosive",
+    "t": "**High Explosive** (Combat) — Kill or injure 8 with explosives in under 20 seconds without taking damage"
+   },
+   {
+    "id": "d-mugging",
+    "t": "**Mugging** (Criminal) — Rob 5 pedestrians"
+   },
+   {
+    "id": "d-stick-ups",
+    "t": "**Stick Ups** (Criminal) — Rob 3 stores in a day*"
+   },
+   {
+    "id": "d-car-jacking",
+    "t": "**Car Jacking** (Criminal) — Carjack 3 vehicles and take them to a Pay 'n' Spray in a day*"
+   },
+   {
+    "id": "d-mugging-spree",
+    "t": "**Mugging Spree** (Criminal) — $500 stolen from pedestrians in a day*"
+   },
+   {
+    "id": "d-cop-car-theft",
+    "t": "**Cop Car Theft** (Criminal) — Keep a wanted level for 5 minutes in a stolen police vehicle"
+   },
+   {
+    "id": "d-cop-weapon-theft",
+    "t": "**Cop Weapon Theft** (Criminal) — Take a weapon from the trunk of 5 different police vehicles*"
+   },
+   {
+    "id": "d-stick-up-spree",
+    "t": "**Stick Up Spree** (Criminal) — 2 stores in all 5 counties in under 20 minutes*"
+   },
+   {
+    "id": "d-cop-tow",
+    "t": "**Cop Tow** (Criminal) — Tow an occupied police vehicle 1 mile without stopping"
+   },
+   {
+    "id": "d-carjacking-spree",
+    "t": "**Carjacking Spree** (Criminal) — Register or respray stolen cars from 10 manufacturers in under 30 minutes*"
+   },
+   {
+    "id": "d-carjacking-pro",
+    "t": "**Carjacking Pro** (Criminal) — $100,000 from selling stolen vehicles in a day*"
+   },
+   {
+    "id": "d-waink-locations",
+    "t": "**WAiNK Locations** (Exploration) — Scan any 4 landmarks, curiosities or sculptures"
+   },
+   {
+    "id": "d-skyscrapers",
+    "t": "**Skyscrapers** (Exploration) — Reach the top of the 5 tallest skyscrapers in Vice-Dale"
+   },
+   {
+    "id": "d-collectible-cards",
+    "t": "**Collectible Cards** (Exploration) — 3 cards in each of the 5 counties"
+   },
+   {
+    "id": "d-encyclopedia",
+    "t": "**Encyclopedia** (Exploration) — Discover 100 animals, vehicles and weapons"
+   },
+   {
+    "id": "d-underwater-discoveries",
+    "t": "**Underwater Discoveries** (Exploration) — Any 25 sights on the ocean floor"
+   },
+   {
+    "id": "d-rail-tour",
+    "t": "**Rail Tour** (Exploration) — A 1-mile train ride in each county in a day without skipping"
+   },
+   {
+    "id": "d-underwater-treasures",
+    "t": "**Underwater Treasures** (Exploration) — Find 85 underwater treasures"
+   },
+   {
+    "id": "d-black-hole-wrecks",
+    "t": "**Black Hole Wrecks** (Exploration) — Find all 11 Black Hole wrecks"
+   },
+   {
+    "id": "d-road-trip",
+    "t": "**Road Trip** (Exploration) — Drive to every town in a day without leaving the vehicle except to refuel"
+   },
+   {
+    "id": "d-helipad-flyovers",
+    "t": "**Helipad Flyovers** (Exploration) — Fly over all 41 Vice City and Vice Beach helipads at 100 feet or lower in under 10 minutes"
+   },
+   {
+    "id": "d-gym-member",
+    "t": "**Gym Member** (Fitness) — Become a member at any gym"
+   },
+   {
+    "id": "d-foot-travel",
+    "t": "**Foot Travel** (Fitness) — 5 miles on foot in a day"
+   },
+   {
+    "id": "d-pro-cyclist",
+    "t": "**Pro Cyclist** (Fitness) — 15 miles cycling in a day"
+   },
+   {
+    "id": "d-pro-swimmer",
+    "t": "**Pro Swimmer** (Fitness) — 3 miles swimming in a day"
+   },
+   {
+    "id": "d-balanced-workout",
+    "t": "**Balanced Workout** (Fitness) — Work out on every type of gym equipment in a day"
+   },
+   {
+    "id": "d-muscle-regime",
+    "t": "**Muscle Regime** (Fitness) — Muscle Level 4 on both at once for 5 days straight"
+   },
+   {
+    "id": "d-cardio-regime",
+    "t": "**Cardio Regime** (Fitness) — Cardio Level 4 on both at once for 5 days straight"
+   },
+   {
+    "id": "d-waning-sands-run",
+    "t": "**Waning Sands Run** (Fitness) — From The Tip pier gate to Waning Sands on foot in under 13 minutes"
+   },
+   {
+    "id": "d-tequesta-swim",
+    "t": "**Tequesta Swim** (Fitness) — Swim from Tequesta Retreat to Starfish Island in under 15 minutes"
+   },
+   {
+    "id": "d-southwind-cycle",
+    "t": "**Southwind Cycle** (Fitness) — Bike from Williams Guest House (Grayson) to Chicky's Tiki Bar (Southwind) without falling in under 22 minutes"
+   },
+   {
+    "id": "d-vehicle-modder",
+    "t": "**Vehicle Modder** (High Roller) — 5 mods at a mod shop"
+   },
+   {
+    "id": "d-grocery-shopper",
+    "t": "**Grocery Shopper** (High Roller) — Over $250 at convenience or liquor stores in a day"
+   },
+   {
+    "id": "d-well-armed",
+    "t": "**Well Armed** (High Roller) — Buy 3 sidearms and 3 longarms at Ammu-Nation"
+   },
+   {
+    "id": "d-well-groomed",
+    "t": "**Well Groomed** (High Roller) — Over $1,000 at barbers and salons"
+   },
+   {
+    "id": "d-stylishly-armed",
+    "t": "**Stylishly Armed** (High Roller) — Cosmetics for 5 sidearms and 5 longarms"
+   },
+   {
+    "id": "d-well-dressed",
+    "t": "**Well Dressed** (High Roller) — Over $5,000 on clothing"
+   },
+   {
+    "id": "d-custom-ride",
+    "t": "**Custom Ride** (High Roller) — Over $20,000 in a single mod shop visit"
+   },
+   {
+    "id": "d-heavily-armed",
+    "t": "**Heavily Armed** (High Roller) — Over $50,000 on weapons and accessories"
+   },
+   {
+    "id": "d-serious-modder",
+    "t": "**Serious Modder** (High Roller) — Over $125,000 at mod shops"
+   },
+   {
+    "id": "d-nest-egg",
+    "t": "**Nest Egg** (High Roller) — $1,500,000 in your BuckMe checking account"
+   },
+   {
+    "id": "d-basketball-rookie",
+    "t": "**Basketball Rookie** (Sports) — Score at 3 different hoops in a day"
+   },
+   {
+    "id": "d-golf-rookie",
+    "t": "**Golf Rookie** (Sports) — 18 holes at King Gator or Frontier Adventure Golf in under 30 minutes at -3 or better"
+   },
+   {
+    "id": "d-basketball-streak",
+    "t": "**Basketball Streak** (Sports) — 10 shots in a row in under 2 minutes"
+   },
+   {
+    "id": "d-pool-streak",
+    "t": "**Pool Streak** (Sports) — Win pool at 3 locations in a day without losing or quitting"
+   },
+   {
+    "id": "d-basketball-tour",
+    "t": "**Basketball Tour** (Sports) — Score in every county"
+   },
+   {
+    "id": "d-golf-pro",
+    "t": "**Golf Pro** (Sports) — 18 holes at both courses in a day at 0 or better"
+   },
+   {
+    "id": "d-triple-bank",
+    "t": "**Triple Bank** (Sports) — Bank the cue ball off 3 rails before potting"
+   },
+   {
+    "id": "d-basketball-pro",
+    "t": "**Basketball Pro** (Sports) — Score at every hoop in Leonida"
+   },
+   {
+    "id": "d-8-ball-break",
+    "t": "**8-Ball Break** (Sports) — Win by sinking the 8 ball on the break"
+   },
+   {
+    "id": "d-double-hole-in-one",
+    "t": "**Double Hole in One** (Sports) — Two holes in one in a row in a single game"
+   },
+   {
+    "id": "d-alligator-kills",
+    "t": "**Alligator Kills** (Survivalist) — Kill 3 wild alligators"
+   },
+   {
+    "id": "d-big-fish",
+    "t": "**Big Fish** (Survivalist) — Catch a fish of 20 lb or more"
+   },
+   {
+    "id": "d-marksman",
+    "t": "**Marksman** (Survivalist) — A medal at both shooting ranges in a day"
+   },
+   {
+    "id": "d-catch-of-the-day",
+    "t": "**Catch of the Day** (Survivalist) — 3 fish with each size of freshwater and saltwater lure in a day"
+   },
+   {
+    "id": "d-zoologist",
+    "t": "**Zoologist** (Survivalist) — Study 20 species"
+   },
+   {
+    "id": "d-angler",
+    "t": "**Angler** (Survivalist) — 4 species in under 6 minutes"
+   },
+   {
+    "id": "d-pro-marksman",
+    "t": "**Pro Marksman** (Survivalist) — Gold in the Master challenge in 3 events in a row without failing or quitting"
+   },
+   {
+    "id": "d-hunting-spree",
+    "t": "**Hunting Spree** (Survivalist) — Boar, rattlesnake and panther in under 15 minutes without taking damage"
+   },
+   {
+    "id": "d-pro-angler",
+    "t": "**Pro Angler** (Survivalist) — Catch every species"
+   },
+   {
+    "id": "d-legendary-hunter",
+    "t": "**Legendary Hunter** (Survivalist) — Kill all 8 unique animals"
+   },
+   {
+    "id": "d-vehicle-discovery",
+    "t": "**Vehicle Discovery** (Vehicle) — Examine or discover 6 vehicles"
+   },
+   {
+    "id": "d-wheelie",
+    "t": "**Wheelie** (Vehicle) — Wheelie for 0.25 miles"
+   },
+   {
+    "id": "d-winning-streak",
+    "t": "**Winning Streak** (Vehicle) — 1st in 3 races using a muscle car, sports car and supercar"
+   },
+   {
+    "id": "d-throttled",
+    "t": "**Throttled** (Vehicle) — Over 100 mph for 2 miles"
+   },
+   {
+    "id": "d-drawbridge-jump",
+    "t": "**Drawbridge Jump** (Vehicle) — Jump over 100 feet over a drawbridge 3 times without exiting"
+   },
+   {
+    "id": "d-top-speed",
+    "t": "**Top Speed** (Vehicle) — Hit 175 mph in a car, truck or motorcycle"
+   },
+   {
+    "id": "d-train-landing",
+    "t": "**Train Landing** (Vehicle) — Touch down a plane on a moving train without destroying it"
+   },
+   {
+    "id": "d-oceanarium-jump",
+    "t": "**Oceanarium Jump** (Vehicle) — Jump from 0.5 miles or higher and parachute into the Oceanarium orca or dolphin tank"
+   },
+   {
+    "id": "d-rally-winner",
+    "t": "**Rally Winner** (Vehicle) — 3 straight wins at Mud Club, Gellhorn Raceway and Boone Speedway in a day without restarting"
+   },
+   {
+    "id": "d-train-jump",
+    "t": "**Train Jump** (Vehicle) — Jump a motorcycle 75 feet or more onto a moving train twice in 20 minutes"
+   }
+  ]
+ }
+}

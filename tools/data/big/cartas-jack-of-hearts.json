@@ -1,0 +1,394 @@
+{
+ "kind": "card",
+ "id": "cartas-jack-of-hearts",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Jack of Hearts",
+ "sum": "36 cartas de dançarinas, com o local de cada uma.",
+ "body": "- Dançarinas, 36 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 2 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-jack-of-hearts-brianna-blue-deep-red",
+   "t": "**Brianna Blue - Deep Red**",
+   "d": "Numa prateleira no fundo de um galpão no fim de um complexo numa ilha do noroeste de Pelican Valley"
+  },
+  {
+   "id": "cc-jack-of-hearts-brianna-blue-pink",
+   "t": "**Brianna Blue - Pink**",
+   "d": "Numa revista sob uma cadeira no canto de uma cabana destruída perto da Rockledge Rd, norte de Moreau"
+  },
+  {
+   "id": "cc-jack-of-hearts-brianna-blue-purple",
+   "t": "**Brianna Blue - Purple**",
+   "d": "Na lateral de um mural de cortiça na copa nos fundos do posto Xero na US-183 x South Cunningham Dr, sudeste de Capri"
+  },
+  {
+   "id": "cc-jack-of-hearts-christel-deep-red",
+   "t": "**Christel - Deep Red**",
+   "d": "No parapeito do telhado do Imperial Plaza, NW 9th Ave, La Perle"
+  },
+  {
+   "id": "cc-jack-of-hearts-christel-pink",
+   "t": "**Christel - Pink**",
+   "d": "Na tampa do vaso do banheiro de funcionários nos fundos do posto RON da NW 15th Ave, norte de Salton"
+  },
+  {
+   "id": "cc-jack-of-hearts-christel-purple",
+   "t": "**Christel - Purple**",
+   "d": "Embaixo de uma cadeira sobre os elevadores no telhado do Sixth & Harper, Shorefront Ave x Seaview Blvd, Ocean Beach"
+  },
+  {
+   "id": "cc-jack-of-hearts-jada-watts-bronze",
+   "t": "**Jada Watts - Bronze**",
+   "d": "Numa mesinha ao lado da cama de uma casa marrom na Pennwort St, oeste de Port Gellhorn"
+  },
+  {
+   "id": "cc-jack-of-hearts-jada-watts-gold",
+   "t": "**Jada Watts - Gold**",
+   "d": "No canto da plataforma no alto da torre de rádio junto à CR 62, leste de Gellhorn"
+  },
+  {
+   "id": "cc-jack-of-hearts-jada-watts-silver",
+   "t": "**Jada Watts - Silver**",
+   "d": "Na areia em frente a um gnomo pescando, dentro de uma cadeira-privada de praia, costa sul de Bobcat Key"
+  },
+  {
+   "id": "cc-jack-of-hearts-jemila-deep-red",
+   "t": "**Jemila - Deep Red**",
+   "d": "No parapeito da sacada de cima, logo acima da placa do Lisette's Food Store, NW 10th Ave, Rockridge"
+  },
+  {
+   "id": "cc-jack-of-hearts-jemila-pink",
+   "t": "**Jemila - Pink**",
+   "d": "No parapeito do telhado do prédio amarelo em L na SW 5th Ave, oeste de Peacock Bay"
+  },
+  {
+   "id": "cc-jack-of-hearts-jemila-purple",
+   "t": "**Jemila - Purple**",
+   "d": "No chão sob uma caixa elétrica no quarto no alto da escada atrás da Fairbanks Pharmacy"
+  },
+  {
+   "id": "cc-jack-of-hearts-kadisha-deep-red",
+   "t": "**Kadisha - Deep Red**",
+   "d": "Dentro de um vagão abandonado à margem dos trilhos, ao lado de uma mochila, sul da Breakwater Quarry, North Mariana"
+  },
+  {
+   "id": "cc-jack-of-hearts-kadisha-pink",
+   "t": "**Kadisha - Pink**",
+   "d": "Num colchão sujo no quarto de um trailer vermelho na SW 19th St, sob a rampa da US-35, leste do VCIA"
+  },
+  {
+   "id": "cc-jack-of-hearts-kadisha-purple",
+   "t": "**Kadisha - Purple**",
+   "d": "No parapeito da janela de uma garagem abandonada perto da Butternut Rd, norte de Gellhorn"
+  },
+  {
+   "id": "cc-jack-of-hearts-kelly-deep-red",
+   "t": "**Kelly - Deep Red**",
+   "d": "Na gaveta de baixo de uma cômoda num trailer vermelho e branco numa rua lateral da Gellhorn Ave, norte de Port Gellhorn"
+  },
+  {
+   "id": "cc-jack-of-hearts-kelly-pink",
+   "t": "**Kelly - Pink**",
+   "d": "No chão do banheiro de funcionários nos fundos do posto Xero da Caledonia Blvd, sul de Belville"
+  },
+  {
+   "id": "cc-jack-of-hearts-kelly-purple",
+   "t": "**Kelly - Purple**",
+   "d": "Embaixo de uma cadeira em cima de uma pilha de contêineres vermelhos ao lado da ponte da I-97, divisa de Tequesta com Salton"
+  },
+  {
+   "id": "cc-jack-of-hearts-lexi-campbell-bronze",
+   "t": "**Lexi Campbell - Bronze**",
+   "d": "Num colchão sujo no canto de um bunker subterrâneo na mata, divisa de North Leonard com o Mount Kalaga National Park"
+  },
+  {
+   "id": "cc-jack-of-hearts-lexi-campbell-gold",
+   "t": "**Lexi Campbell - Gold**",
+   "d": "No cofre do depósito de um anexo do drive-in abandonado Gellhorn Drive-In, Gellhorn Ave, centro de Port Gellhorn"
+  },
+  {
+   "id": "cc-jack-of-hearts-lexi-campbell-silver",
+   "t": "**Lexi Campbell - Silver**",
+   "d": "No canto da mesa da sala privativa do sex shop Cougar's Cave, Cargo Rd, Buckskin Swamp"
+  },
+  {
+   "id": "cc-jack-of-hearts-malena-deep-red",
+   "t": "**Malena - Deep Red**",
+   "d": "Embaixo da mão de um manequim numa bancada do quarto de uma casa amarela na Prosperity St x Grace Ave, oeste de Belville"
+  },
+  {
+   "id": "cc-jack-of-hearts-malena-pink",
+   "t": "**Malena - Pink**",
+   "d": "Numa borda na parede de uma torre de vigia de incêndio nas montanhas do nordeste do Mount Kalaga National Park"
+  },
+  {
+   "id": "cc-jack-of-hearts-malena-purple",
+   "t": "**Malena - Purple**",
+   "d": "Diante de uma porta no alto de uma escada caracol na lateral do prédio sob a torre de celular perto da Hickory Rd, sudeste de Emerald Springs"
+  },
+  {
+   "id": "cc-jack-of-hearts-monali-a-bronze",
+   "t": "**MonaLi$a - Bronze**",
+   "d": "No banheiro masculino à beira das trilhas do sul de South Kelly"
+  },
+  {
+   "id": "cc-jack-of-hearts-monali-a-gold",
+   "t": "**MonaLi$a - Gold**",
+   "d": "Embaixo de uma cadeira solitária perto de um barco encalhado numa ilhota a sudeste de Abismo Key"
+  },
+  {
+   "id": "cc-jack-of-hearts-monali-a-silver",
+   "t": "**MonaLi$a - Silver**",
+   "d": "No nível mais alto do cargueiro enferrujado encalhado, ao lado de uma mochila, costa norte da ilha sudeste das Featherstone Islands"
+  },
+  {
+   "id": "cc-jack-of-hearts-pricilla-pace-bronze",
+   "t": "**Pricilla Pace - Bronze**",
+   "d": "Na beira do gradil da varanda de uma casa rosa desgastada perto da Sassafrass Rd, nordeste do Mount Kalaga National Park"
+  },
+  {
+   "id": "cc-jack-of-hearts-pricilla-pace-gold",
+   "t": "**Pricilla Pace - Gold**",
+   "d": "No alto da torre nos fundos do armazém da Leonida Brewing Company, entre a Sweetbay Rd e os trilhos, Capri"
+  },
+  {
+   "id": "cc-jack-of-hearts-pricilla-pace-silver",
+   "t": "**Pricilla Pace - Silver**",
+   "d": "Na borda de uma caixinha de livros na praia norte da ilha central das Permit Keys"
+  },
+  {
+   "id": "cc-jack-of-hearts-vanessa-bronze",
+   "t": "**Vanessa - Bronze**",
+   "d": "Numa prateleira na parede de uma casinha de banheiro no canto de uma fazenda, norte de North Leonard"
+  },
+  {
+   "id": "cc-jack-of-hearts-vanessa-gold",
+   "t": "**Vanessa - Gold**",
+   "d": "No cofre dos fundos da loja de bebidas Uncle Jack's, Velo Fino Dr x Catalan Blvd, Bayside (abre com o código do assalto, 7869, ou sticky bomb)"
+  },
+  {
+   "id": "cc-jack-of-hearts-vanessa-silver",
+   "t": "**Vanessa - Silver**",
+   "d": "Na mureta do telhado mais alto do Juliet Terrance Apartments, SW 8th Ave, sul de Salton"
+  },
+  {
+   "id": "cc-jack-of-hearts-zaria-ri-ri-luckett-bronze",
+   "t": "**Zaria RI RI Luckett - Bronze**",
+   "d": "No canto da passarela do outdoor sobre o Bare With Me Gentleman's Club e a SR-25, Balsero"
+  },
+  {
+   "id": "cc-jack-of-hearts-zaria-ri-ri-luckett-gold",
+   "t": "**Zaria RI RI Luckett - Gold**",
+   "d": "Enterrada na areia ao lado de uma cadeira solitária na pontinha da península no sul de Little Hardin Island"
+  },
+  {
+   "id": "cc-jack-of-hearts-zaria-ri-ri-luckett-silver",
+   "t": "**Zaria RI RI Luckett - Silver**",
+   "d": "No canto de um vagão amarelo abandonado, ao lado de uma mochila, sul de Port Gellhorn"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Jack of Hearts"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Jack of Hearts",
+  "sum": "36 dancers cards, with every location.",
+  "body": "- Dancers, 36 cards. Locations from IGN's list; tick each one as you grab it.\n- 2 card(s) sit in a **safe**: open it with the code from robbing that place, or a sticky bomb.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Jack of Hearts"
+  ],
+  "check": [
+   {
+    "id": "cc-jack-of-hearts-brianna-blue-deep-red",
+    "t": "**Brianna Blue - Deep Red**",
+    "d": "On a shelf in the back of a shed at the end of a compound on an island in northwestern Pelican Valley"
+   },
+   {
+    "id": "cc-jack-of-hearts-brianna-blue-pink",
+    "t": "**Brianna Blue - Pink**",
+    "d": "In a magazine under a chair in the corner of a destroyed cabin off of Rockledge Rd in northern Moreau"
+   },
+   {
+    "id": "cc-jack-of-hearts-brianna-blue-purple",
+    "t": "**Brianna Blue - Purple**",
+    "d": "On the side of a corkboard in the staff break room in the back of the Xero gas station on the corner of US-183 and South Cunningham Dr in southeastern Capri"
+   },
+   {
+    "id": "cc-jack-of-hearts-christel-deep-red",
+    "t": "**Christel - Deep Red**",
+    "d": "On top of the railing on the roof of Imperial Plaza apartments on NW 9th Ave in La Perle"
+   },
+   {
+    "id": "cc-jack-of-hearts-christel-pink",
+    "t": "**Christel - Pink**",
+    "d": "On top of the toilet seat in the staff bathroom in the back of the RON gas station on NW 15th Ave in northern Salton"
+   },
+   {
+    "id": "cc-jack-of-hearts-christel-purple",
+    "t": "**Christel - Purple**",
+    "d": "Underneath a chair over the elevators on the roof of the Sixth & Harper building on the corner of Shorefront Ave and Seaview Blvd in Ocean Beach"
+   },
+   {
+    "id": "cc-jack-of-hearts-jada-watts-bronze",
+    "t": "**Jada Watts - Bronze**",
+    "d": "On top of the end table next to the bed in the bedroom of a brown house on Pennwort St in western Port Gellhorn"
+   },
+   {
+    "id": "cc-jack-of-hearts-jada-watts-gold",
+    "t": "**Jada Watts - Gold**",
+    "d": "On the corner of the platform at the top of the radio tower next to CR 62 in eastern Gellhorn"
+   },
+   {
+    "id": "cc-jack-of-hearts-jada-watts-silver",
+    "t": "**Jada Watts - Silver**",
+    "d": "In the sand in front of a gnome fishing inside a beach chair toilet on the southern coast of Bobcat Key"
+   },
+   {
+    "id": "cc-jack-of-hearts-jemila-deep-red",
+    "t": "**Jemila - Deep Red**",
+    "d": "On top of the railing of the upper balcony right above the sign for Lisette's Food Store on NW 10th Ave in Rockridge"
+   },
+   {
+    "id": "cc-jack-of-hearts-jemila-pink",
+    "t": "**Jemila - Pink**",
+    "d": "On top of the railing on the roof of the yellow L-shaped apartment building on SW 5th Ave in western Peacock Bay"
+   },
+   {
+    "id": "cc-jack-of-hearts-jemila-purple",
+    "t": "**Jemila - Purple**",
+    "d": "On the ground under an electrical box in the room at the top of the staircase behind the Fairbanks Pharmacy"
+   },
+   {
+    "id": "cc-jack-of-hearts-kadisha-deep-red",
+    "t": "**Kadisha - Deep Red**",
+    "d": "Inside an abandoned train car on the side of the train tracks next to a backpack in the southern part of Breakwater Quarry in North Mariana County"
+   },
+   {
+    "id": "cc-jack-of-hearts-kadisha-pink",
+    "t": "**Kadisha - Pink**",
+    "d": "On top of a dirty mattress in the bedroom of a red mobile home on SW 19th St under the ramp going up to US-35 in eastern VCIA"
+   },
+   {
+    "id": "cc-jack-of-hearts-kadisha-purple",
+    "t": "**Kadisha - Purple**",
+    "d": "On the windowsill inside an abandoned garage off of Butternut Rd in northern Gellhorn"
+   },
+   {
+    "id": "cc-jack-of-hearts-kelly-deep-red",
+    "t": "**Kelly - Deep Red**",
+    "d": "In the bottom drawer of a dresser in a red and white mobile home on a side road off of Gellhorn Ave in northern Port Gellhorn"
+   },
+   {
+    "id": "cc-jack-of-hearts-kelly-pink",
+    "t": "**Kelly - Pink**",
+    "d": "On the ground of the employee bathroom in the back of the Xero gas station on Caledonia Blvd in southern Belville"
+   },
+   {
+    "id": "cc-jack-of-hearts-kelly-purple",
+    "t": "**Kelly - Purple**",
+    "d": "Under a chair on top of a stack of red shipping containers next to the I-97 bridge on the border of Tequesta and Salton"
+   },
+   {
+    "id": "cc-jack-of-hearts-lexi-campbell-bronze",
+    "t": "**Lexi Campbell - Bronze**",
+    "d": "On top of a dirty mattress in the corner of an underground bunker in the woods on the border of North Leonard County and Mount Kalaga National Park"
+   },
+   {
+    "id": "cc-jack-of-hearts-lexi-campbell-gold",
+    "t": "**Lexi Campbell - Gold**",
+    "d": "Inside a safe in the storage room of a side building of the abandoned Gellhorn Drive-In theater on Gellhorn Ave in central Port Gellhorn"
+   },
+   {
+    "id": "cc-jack-of-hearts-lexi-campbell-silver",
+    "t": "**Lexi Campbell - Silver**",
+    "d": "On the corner of the desk in the private room inside the Cougar's Cave adult store on Cargo Rd in Buckskin Swamp"
+   },
+   {
+    "id": "cc-jack-of-hearts-malena-deep-red",
+    "t": "**Malena - Deep Red**",
+    "d": "Underneath the hand of a mannequin on top of a workbench in the bedroom of a yellow house on the corner of Prosperity St and Grace Ave in western Belville"
+   },
+   {
+    "id": "cc-jack-of-hearts-malena-pink",
+    "t": "**Malena - Pink**",
+    "d": "On a ledge on the wall of a fire watch tower in the mountains in northeastern Mount Kalaga National Park"
+   },
+   {
+    "id": "cc-jack-of-hearts-malena-purple",
+    "t": "**Malena - Purple**",
+    "d": "In front of a door at the top of a spiral staircase up the side of the building underneath the cell tower next to Hickory Rd in southeastern Emerald Springs"
+   },
+   {
+    "id": "cc-jack-of-hearts-monali-a-bronze",
+    "t": "**MonaLi$a - Bronze**",
+    "d": "Inside the male bathroom on the side of the trails leading through southern South Kelly County"
+   },
+   {
+    "id": "cc-jack-of-hearts-monali-a-gold",
+    "t": "**MonaLi$a - Gold**",
+    "d": "Underneath a lone chair near a beached boat on a small island southeast of Abismo Key"
+   },
+   {
+    "id": "cc-jack-of-hearts-monali-a-silver",
+    "t": "**MonaLi$a - Silver**",
+    "d": "On the very top level of the beached and rusted freighter next to a backpack on the northern coast of the southeastern island in the Featherstone Islands chain"
+   },
+   {
+    "id": "cc-jack-of-hearts-pricilla-pace-bronze",
+    "t": "**Pricilla Pace - Bronze**",
+    "d": "On the edge of the porch railing of a worn down pink house off of Sassafrass Rd in northeastern Mount Kalaga National Park"
+   },
+   {
+    "id": "cc-jack-of-hearts-pricilla-pace-gold",
+    "t": "**Pricilla Pace - Gold**",
+    "d": "On top of the tower coming out of the back of the Leonida Brewing Company warehouse between Sweetbay Rd and the train tracks in Capri"
+   },
+   {
+    "id": "cc-jack-of-hearts-pricilla-pace-silver",
+    "t": "**Pricilla Pace - Silver**",
+    "d": "On a ledge of a small library box on the northern beach of the center island in the Permit Keys"
+   },
+   {
+    "id": "cc-jack-of-hearts-vanessa-bronze",
+    "t": "**Vanessa - Bronze**",
+    "d": "On top of a shelf on the wall inside an outhouse shed on the corner of a farm lot in northern North Leonard County"
+   },
+   {
+    "id": "cc-jack-of-hearts-vanessa-gold",
+    "t": "**Vanessa - Gold**",
+    "d": "Inside the safe in the backroom of Uncle Jack's Liquor store on the corner of Velo Fino Dr and Catalan Blvd in Bayside, this requires a unique safe combination from robbing the liquor store or by opening it with sticky bombs -- the combo code is 7869"
+   },
+   {
+    "id": "cc-jack-of-hearts-vanessa-silver",
+    "t": "**Vanessa - Silver**",
+    "d": "On top of the small ledge surrounding the highest roof of the Juliet Terrance Apartments on SW 8th Ave in southern Salton"
+   },
+   {
+    "id": "cc-jack-of-hearts-zaria-ri-ri-luckett-bronze",
+    "t": "**Zaria RI RI Luckett - Bronze**",
+    "d": "On the corner of the catwalk surrounding the billboard over the Bare With Me Gentleman's Club and SR-25 in Balsero"
+   },
+   {
+    "id": "cc-jack-of-hearts-zaria-ri-ri-luckett-gold",
+    "t": "**Zaria RI RI Luckett - Gold**",
+    "d": "Embedded in the sand next to a lone chair on the coast of the small peninsula coming off of the bottom of Little Hardin Island"
+   },
+   {
+    "id": "cc-jack-of-hearts-zaria-ri-ri-luckett-silver",
+    "t": "**Zaria RI RI Luckett - Silver**",
+    "d": "In the corner of a yellow abandoned train car next to a backpack in southern Port Gellhorn"
+   }
+  ]
+ }
+}

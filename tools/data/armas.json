@@ -1,0 +1,545 @@
+[
+ {
+  "kind": "card",
+  "id": "armas-gear-up",
+  "sec": "armas",
+  "sub": "comeco",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "c1"
+  ],
+  "title": "Gear Up: a primeira compra",
+  "sum": "Escolha a escopeta e resolva a emboscada no soco.",
+  "body": "1. Pegue o dinheiro na **caixa de correio da casa do Jason**. É lá que os pagamentos das missões caem: volte sempre.\n2. Vá à Ammu-Nation de Key Lento e fale com o **Andrew**. Ele oferece escopeta ou fuzil tático como arma longa. Antes, dá para comprar óculos ou munição.\n3. Escolha a **escopeta**: normalmente é a única que dá para pagar nesse ponto, e ela perdoa erro de mira nos interiores apertados das Keys.\n4. Na saída, três Kingfishers armados aparecem. Resolva **no soco**: tiro chama a polícia rápido. Se morrer, a missão termina sem consequência.\n\nA compra de armas e modificações na Ammu-Nation fica liberada a partir daqui.",
+  "div": "A VGC diz que tanto faz qual arma longa você escolhe; PowerPyx e GTABase dizem que normalmente só dá para pagar a escopeta.",
+  "src": [
+   "VGC",
+   "Sportskeeda",
+   "PowerPyx",
+   "GTABase"
+  ],
+  "kw": [
+   "gear up",
+   "primeira arma",
+   "escopeta",
+   "andrew",
+   "kingfishers",
+   "caixa de correio"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Gear Up: your first purchase",
+   "sum": "Pick the shotgun and settle the ambush with your fists.",
+   "body": "1. Collect the cash from the **mailbox at Jason's house**. That's where mission payments land: check it often.\n2. Go to the Key Lento Ammu-Nation and talk to **Andrew**. He offers a shotgun or tactical rifle as your longarm. You can buy glasses or ammo first.\n3. Pick the **shotgun**: it's usually the only one you can afford, and it forgives bad aim in the Keys' tight interiors.\n4. On the way out, three armed Kingfishers show up. Settle it **with your fists**: gunfire brings the police fast. If you die, the mission ends with no consequence.\n\nBuying weapons and mods at Ammu-Nation is unlocked from here.",
+   "div": "VGC says it doesn't matter which longarm you pick; PowerPyx and GTABase say you can usually only afford the shotgun.",
+   "kw": [
+    "gear up",
+    "first gun",
+    "shotgun",
+    "andrew",
+    "kingfishers",
+    "mailbox"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "armas-silenciador",
+  "sec": "armas",
+  "sub": "comeco",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "c1"
+  ],
+  "title": "Silenciador e colete",
+  "sum": "As duas primeiras compras que mais rendem.",
+  "body": "- **Silenciador:** “praticamente elimina todo o ruído”, serve na maioria das armas e é barato. Com ele você derruba inimigos um a um sem alertar o resto. Dá para tirar e pôr em campo, junto com a lanterna; os outros acessórios só na Ammu-Nation.\n- **Colete:** tem espaço próprio na roda, ao lado de analgésicos e kit médico. Morrer custa todo o dinheiro vivo, então o colete protege a vida e a carteira. Preço não confirmado.",
+  "src": [
+   "GameSpot",
+   "PowerPyx"
+  ],
+  "kw": [
+   "silenciador",
+   "supressor",
+   "colete",
+   "armor",
+   "body armor"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Suppressor and body armor",
+   "sum": "The two first purchases that pay off most.",
+   "body": "- **Suppressor:** “practically eliminates all noise”, fits most guns and is cheap. With it you drop enemies one by one without alerting the rest. You can attach and detach it in the field, like the flashlight; other attachments only at Ammu-Nation.\n- **Body armor:** has its own wheel slot, next to painkillers and the med kit. Dying costs all your pocket cash, so armor protects your life and your wallet. Price unconfirmed.",
+   "kw": [
+    "suppressor",
+    "silencer",
+    "armor",
+    "body armor"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "armas-loadout",
+  "sec": "armas",
+  "sub": "comeco",
+  "tipo": "dica",
+  "conf": "opiniao",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "Armas recomendadas para o começo",
+  "sum": "Pistola, escopeta e uma arma longa grátis no porta-malas.",
+  "body": "- **Na cintura:** a pistola inicial (ou a Girardi ES9 gravada, se você tem a Ultimate).\n- **Nas costas:** a escopeta comprada em Gear Up.\n- **No porta-malas:** uma arma longa tirada de inimigo ou de viatura.\n- **Dinheiro:** só colete, munição e silenciador.\n- Não compre fuzil nem acessórios antes do Cap. 3. Saia de casa com uma pistola e uma longa e só desça do carro armado quando for agir.",
+  "src": [
+   "GameSpot",
+   "PowerPyx",
+   "This Is Game (KR)"
+  ],
+  "kw": [
+   "loadout",
+   "melhor arma",
+   "equipamento inicial"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Recommended early loadout",
+   "sum": "Pistol, shotgun and a free longarm in the trunk.",
+   "body": "- **On your hip:** the starting pistol (or the engraved Girardi ES9 if you have Ultimate).\n- **On your back:** the shotgun bought in Gear Up.\n- **In the trunk:** a longarm taken from an enemy or a patrol car.\n- **Money:** only armor, ammo and a suppressor.\n- Don't buy rifles or attachments before Ch. 3. Leave home with a pistol and a longarm, and only step out of the car armed when you're about to act.",
+   "kw": [
+    "loadout",
+    "best gun",
+    "starting gear"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "armas-porte",
+  "sec": "armas",
+  "sub": "guardar",
+  "tipo": "dado",
+  "conf": "oficial",
+  "ch": [
+   "geral"
+  ],
+  "title": "Quantas armas você carrega",
+  "sum": "2 pistolas escondidas e 2 armas longas, mas não as duas nas costas.",
+  "body": "- Você sempre pode levar **duas pistolas escondidas** e **duas armas longas**, mas só uma longa vai nas costas: a outra fica na mão (Rob Nelson, Rockstar North).\n- O resto fica no **porta-malas do carro pessoal**, no **armário da Ammu-Nation** ou no armário de algumas garagens. Carros roubados também servem de inventário, mas o que fica num carro que não é seu pode se perder.\n- **Armas compradas nunca se perdem de vez:** mesmo largadas no chão, voltam para o porta-malas ou para o armário (Famitsu). Só elas aceitam modificações.\n- **Armas pegas do chão não são suas:** não aceitam modificação e podem ser confiscadas na prisão. {{previa}}\n- Pela primeira vez na série, armas longas ficam visíveis nas costas. Arma na mão em público faz as pessoas se afastarem e chamarem a polícia.\n- Não há duas armas ao mesmo tempo, mas dá para trocar de mão.",
+  "src": [
+   "Rockstar (Rob Nelson)",
+   "Famitsu",
+   "GameWith",
+   "Inven (KR)"
+  ],
+  "kw": [
+   "inventario",
+   "porte",
+   "quantas armas",
+   "arsenal",
+   "porta-malas",
+   "armario"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "How many weapons you carry",
+   "sum": "2 concealed pistols and 2 longarms, but not both on your back.",
+   "body": "- You can always carry **two concealed pistols** and **two longarms**, but only one longarm goes on your back: the other stays in your hand (Rob Nelson, Rockstar North).\n- The rest stays in your **personal vehicle's trunk**, the **Ammu-Nation locker** or the locker in some garages. Stolen cars also work as storage, but what you leave in a car that isn't yours can be lost.\n- **Bought weapons are never lost for good:** even dropped, they return to the trunk or locker (Famitsu). Only they accept mods.\n- **Weapons picked up off the ground aren't yours:** no mods, and they can be confiscated on arrest. {{previa}}\n- For the first time in the series, longarms are visible on your back. A gun in hand in public makes people back off and call the police.\n- No dual wielding, but you can switch hands.",
+   "kw": [
+    "inventory",
+    "carry",
+    "how many guns",
+    "arsenal",
+    "trunk",
+    "locker"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "armas-tipos",
+  "sec": "armas",
+  "sub": "guardar",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Arma do chão, comprada ou única: o que fica",
+  "sum": "Só as compradas e as variantes únicas são suas para sempre.",
+  "body": "- **Arma do chão (“Unowned”, ícone cinza):** dá para usar e guardar no porta-malas, mas some se você largar, sair do jogo sem guardar ou for preso. Carregando uma, você não usa o armário de modificação da Ammu-Nation: descarte antes.\n- **Comprada na Ammu-Nation (“Owned”):** volta de graça no armário da Ammu-Nation ou no porta-malas do carro pessoal.\n- **Variante única (amarela):** fica para sempre na coleção dos dois assim que você pega. A maioria está nas [[dinheiro-illegal-ops|Illegal Operations]].\n- **Guardar:** segure {L1} e escolha o punho (desarmado). Arma longa fica nas costas e assusta civis: guarde no porta-malas ({△} abre, segure {L1}) ou no armário. **Porta-malas e armário são o mesmo estoque.** O mapa diz quais Ammu-Nation têm armário.\n- Você carrega **uma arma de cada tipo**; troque no porta-malas com {L2}/{R2}. Munição: poucas centenas por arma; pisar na munição recolhe.\n- **Sticky bombs:** US$ 185 na Ammu-Nation depois de Credit Check (Cap. 3), ou de graça na caixa da garagem atrás do escritório do Yasmani. Máximo 4 por personagem. Cofre e porta trancada só abrem pelo **prompt** de plantar a bomba (jogar não funciona); detone com {→}. Porta com alarme dispara.\n- **Primeira arma:** em Gear Up, escopeta ou Tactical Rifle. Pegue uns US$ 1.000 do esconderijo sob o piso do quarto antes, para comprar acessórios melhores (Eurogamer).\n- **Combate:** marcador branco = acertou; amarelo = incapacitou; vermelho = matou. Luneta: {L2} + {R3}. Trocar de ombro: {←} mirando. Zombix: segure {L1} + {□}; Adrenaline: {L1} + {△}. Para espantar um cão sem matar, atire no chão perto dele.",
+  "src": [
+   "IGN",
+   "Eurogamer"
+  ],
+  "kw": [
+   "unowned",
+   "arma do chao",
+   "variante unica",
+   "armario",
+   "porta-malas",
+   "sticky bomb",
+   "zombix",
+   "adrenaline",
+   "guardar arma"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Picked up, bought or unique: which weapons you keep",
+   "sum": "Only bought weapons and Unique Weapon Variants are yours for good.",
+   "body": "- **Picked up (“Unowned”, gray icon):** usable and storable in your trunk, but lost if you drop it, quit without storing it or get Busted. While carrying one, you can't use the Ammu-Nation locker to mod weapons: discard it first.\n- **Bought at Ammu-Nation (“Owned”):** re-acquire for free at Ammu-Nation lockers or your personal vehicle's trunk.\n- **Unique Weapon Variant (yellow):** permanently added to both characters' collection on pickup. Most are in [[dinheiro-illegal-ops|Illegal Operations]].\n- **Holstering:** hold {L1} and pick the fist (Unarmed). Longarms stay on your back and scare civilians: store them in the trunk ({△} opens it, hold {L1}) or a locker. **Trunk and lockers share one inventory.** The map says which Ammu-Nations have a locker.\n- You carry **one weapon of each type**; swap at the trunk with {L2}/{R2}. Ammo: a few hundred rounds per weapon; walk over ammo to grab it.\n- **Sticky Bombs:** $185 at Ammu-Nation after Credit Check (Chapter 3), or free from the crate in the garage behind Yasmani's office. Max 4 per character. Safes and locked doors only open through the **plant prompt** (throwing one won't work); detonate with {→}. Alarmed doors go off.\n- **First gun:** in Gear Up, a shotgun or Tactical Rifle. Grab about $1,000 from the stash under the bedroom floor first for better attachments (Eurogamer).\n- **Combat:** white hit-marker = hit; yellow = incapacitated; red = killed. Scope: {L2} + {R3}. Switch shoulder: {←} while aiming. Zombix: hold {L1} + {□}; Adrenaline: {L1} + {△}. To scare off a dog without killing it, shoot the ground near it.",
+   "kw": [
+    "unowned",
+    "owned",
+    "unique weapon variant",
+    "locker",
+    "trunk",
+    "sticky bomb",
+    "zombix",
+    "adrenaline",
+    "store weapon"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "armas-guardar",
+  "sec": "armas",
+  "sub": "guardar",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Guardar e trocar armas no porta-malas",
+  "sum": "O Storage do carro e os botões.",
+  "body": "- No porta-malas, {△} abre; segure {L1} para o **Storage**.\n- {□} guarda, {✕} equipa; {L2}/{R2} troca entre armas do mesmo tipo.\n- Na Ammu-Nation, o ícone de armário (cadeado com pistola) em Features indica guarda-volumes. Modificar ({✕}) ou comprar já equipa a arma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "porta-malas",
+   "guardar armas"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Storing and swapping weapons in the trunk",
+   "sum": "The car Storage and its buttons.",
+   "body": "- At the trunk, {△} opens it; hold {L1} for **Storage**.\n- {□} stores, {✕} equips; {L2}/{R2} swap between weapons of the same type.\n- At Ammu-Nation, the locker icon (padlock with pistol) under Features marks storage. Modifying ({✕}) or buying equips the weapon right away.",
+   "kw": [
+    "storage",
+    "trunk"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "armas-personalizar",
+  "sec": "armas",
+  "sub": "loja",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Ammu-Nation: personalizar e armário",
+  "sum": "Mods só com o atendente e só em arma sua. Trocar acessório já comprado é grátis.",
+  "body": "- **52 armas à venda** em 26 lojas da Ammu-Nation; cada loja tem uma seleção. As lojas de inventário “Hunting” têm seleção ampliada e são as únicas com a **Wortham W-22**.\n- Além de armas: mods, munição, equipamento, roupas e **iscas de pesca**. Bandanas para disfarce também saem daqui.\n- **Armário de armas:** só nas lojas maiores. No mapa, passe o cursor na loja e veja o ícone em “Features”.\n- **Para personalizar:** fale com o atendente, segure {L2} → Weapon and Mods, e escolha a aba ({L1}/{R1}). Só aparece “Modify” em arma que você já comprou.\n- **12 tipos de acessório:** cano, empunhadura frontal, guarda-mão, lanterna, carregador, bocal, mira ótica, ferrolho, coronha, gatilho, silenciador e alça de mira. Trocar ou tirar um acessório já comprado é grátis.\n- **Atributos:** dano, precisão, manuseio (arma pesada gasta mais Stamina e te deixa mais lento), alcance e carregador.\n- **Cosméticos:** 56 cores, 129 wraps e 6 paletas, que variam de loja para loja.\n- Os estandes de tiro (Port Gellhorn e Balsero) liberam armas e mods; ter muitas armas também libera outras.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "ammu-nation",
+   "mods",
+   "acessorios",
+   "silenciador",
+   "armario",
+   "personalizar",
+   "cosmeticos",
+   "wrap"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Ammu-Nation: customizing and the locker",
+   "sum": "Mods only through the clerk and only on guns you own. Swapping attachments you've bought is free.",
+   "body": "- **52 guns for sale** across 26 Ammu-Nations; each store has its own selection. 'Hunting' inventory stores carry an expanded selection and are the only ones with the **Wortham W-22**.\n- Besides guns: mods, ammo, equipment, clothing and **fishing lures**. Disguise bandanas come from here too.\n- **Weapons Locker:** only at larger stores. On the map, hover over the store and check the icon under 'Features'.\n- **To customize:** talk to the clerk, hold {L2} → Weapon and Mods, and pick a tab ({L1}/{R1}). 'Modify' only appears on guns you've bought.\n- **12 attachment types:** barrel, foregrip, handguard, light, magazine, muzzle, optic, slide, stock, trigger, suppressor and iron sights. Swapping or removing attachments you've bought is free.\n- **Stats:** damage, accuracy, handling (heavy guns drain Stamina faster and slow you down), range and magazine.\n- **Cosmetics:** 56 colors, 129 wraps and 6 palettes, which vary by store.\n- Shooting ranges (Port Gellhorn and Balsero) unlock guns and mods; owning lots of guns unlocks more too.",
+   "kw": [
+    "ammu-nation",
+    "mods",
+    "attachments",
+    "suppressor",
+    "locker",
+    "customize",
+    "cosmetics",
+    "wrap"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "compras-ammunation",
+  "sec": "armas",
+  "sub": "loja",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Ammu-Nation",
+  "sum": "24 lojas. As “Expanded” têm o estoque completo.",
+  "body": "- **24 Ammu-Nations** no mapa. Passe o cursor no ícone: as marcadas como **“Expanded”** têm o estoque completo, com lança-granadas e lança-foguetes.\n- Cada loja tem armas exclusivas e opções de personalização diferentes.\n- Programa de fidelidade: quanto mais você compra, mais itens liberam.\n- O **armário** de qualquer Ammu-Nation guarda suas armas; as variantes da Ultimate ficam na seção *Variants*.\n- **Preços não confirmados.** Valores como “colete US$ 200” vêm do Vice City e do San Andreas e não valem aqui.\n- A primeira loja fica em Key Lento, perto da casa do Jason (missão Gear Up). Depois das missões do Yasmani há sticky bombs grátis nos fundos da loja dele.",
+  "src": [
+   "PowerPyx",
+   "Insider Gaming",
+   "Famitsu"
+  ],
+  "kw": [
+   "loja de armas",
+   "ammunation",
+   "armario",
+   "expanded",
+   "preco das armas"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Ammu-Nation",
+   "sum": "24 stores. The “Expanded” ones carry the full stock.",
+   "body": "- **24 Ammu-Nations** on the map. Hover the icon: the ones marked **“Expanded”** carry the full stock, including grenade and rocket launchers.\n- Each store has exclusive weapons and different customization options.\n- Loyalty program: the more you buy, the more items unlock.\n- The **locker** at any Ammu-Nation stores your weapons; Ultimate variants live under *Variants*.\n- **Prices unconfirmed.** Figures like “armor $200” come from Vice City and San Andreas and don't apply here.\n- The first store is in Key Lento near Jason's house (Gear Up). After Yasmani's missions there are free sticky bombs in the back of his shop.",
+   "kw": [
+    "gun store",
+    "ammunation",
+    "locker",
+    "expanded",
+    "weapon prices"
+   ]
+  },
+  "$mergeInto": "armas-personalizar"
+ },
+ {
+  "kind": "card",
+  "id": "armas-mira",
+  "sec": "armas",
+  "sub": "combate",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Mira, Focus e combate não letal",
+  "sum": "Atire em membros, use supressão e o Combat Focus.",
+  "body": "- **Mira:** assistência leve, sem a trava pesada do V. O tiroteio lembra o RDR2 com um pouco de Max Payne 3.\n- **Combat Focus:** mirando, {L3} + {R3} desacelera o tempo e destaca pontos vulneráveis. Gasta a barra roxa.\n- **Jason e Lucia** {{previa}}: o Focus do Jason destaca membros e pontos fracos (dá para desarmar); o da Lucia favorece um tiro preciso.\n- **Não letal:** tiro em membro incapacita (mira amarela); cabeça e peito matam (vermelha). Inimigo ferido no braço recua. Dá para zerar o jogo sem matar ninguém.\n- **Supressão:** atirar perto do alvo faz ele se abrigar, sem pesar no seu perfil.\n- **Taser** existe. Dá para atirar pela janela ou da caçamba, inclusive com fuzil, e até nadando.\n- **Ponto fraco do jogo:** o corpo a corpo, que se resolve repetindo o mesmo botão.\n- Você aguenta pouco, a cobertura não protege de tudo e a IA usa cobertura de forma tática.\n\n**Cores do Focus (IGN):** branco = portas e consumíveis; vermelho = inimigos, explosivos, alarmes e armas no chão; roxo = drogas; verde = dinheiro; dourado = Key Valuables; **azul = policiais** (só no carro ou procurado). Fora da mira o Focus não gasta o medidor e dura 30 s a pé; dirigindo, cai até 10 s em alta velocidade. Também mostra ondas de som, rastros de veículos e cheiro de animais. O Combat Focus libera no Cap. 1.",
+  "src": [
+   "Destructoid",
+   "Eurogamer",
+   "Extended Look",
+   "GameSpot",
+   "IGN",
+   "Wccftech"
+  ],
+  "kw": [
+   "mira",
+   "focus",
+   "dead eye",
+   "nao letal",
+   "sem matar",
+   "taser",
+   "drive by",
+   "supressao"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Aiming, Focus and non-lethal combat",
+   "sum": "Shoot limbs, use suppression and Combat Focus.",
+   "body": "- **Aim:** light assist, without V's heavy lock-on. Gunplay feels like RDR2 with a dash of Max Payne 3.\n- **Combat Focus:** while aiming, {L3} + {R3} slows time and highlights weak points. Drains the purple bar.\n- **Jason and Lucia** {{previa}}: Jason's Focus highlights limbs and weak points (you can disarm); Lucia's favors a precise shot.\n- **Non-lethal:** limb shots incapacitate (yellow reticle); head and chest kill (red). An enemy hit in the arm backs off. You can finish the game without killing anyone.\n- **Suppression:** shooting near a target makes them take cover, without hurting your profile.\n- A **taser** exists. You can shoot out of windows or from a truck bed, even with a rifle, and even while swimming.\n- **The game's weak spot:** melee, which comes down to mashing the same button.\n- You can't take much damage, cover doesn't block everything and the AI uses cover tactically.\n\n**Focus colors (IGN):** white = doors and consumables; red = enemies, explosives, alarms and weapons on the ground; purple = drugs; green = cash; gold = Key Valuables; **blue = cops**. Outside aiming, Focus doesn't drain the meter and lasts 30 seconds on foot; driving, it drops as low as 10 seconds at high speed. It also shows sound ripples, vehicle trails and animal scents. Combat Focus unlocks in Chapter 1.",
+   "kw": [
+    "aim",
+    "focus",
+    "dead eye",
+    "non-lethal",
+    "no kills",
+    "taser",
+    "drive by",
+    "suppression"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "armas-gratis",
+  "sec": "armas",
+  "sub": "conseguir",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Armas de graça",
+  "sum": "Inimigos, viaturas, o mapa e uma escopeta única no boliche.",
+  "body": "- **Inimigos** deixam muita arma e munição. Segurar uma arma uma vez já conta para a coleção (50 de 66 “Standard Issue” para o 100%).\n- **Porta-malas de viatura:** toda viatura leva escopeta ou fuzil e muitas vezes colete. O desafio “Cop Weapon Theft” pede armas de 5 viaturas sem morrer nem ser preso. Faça longe de testemunhas.\n- **Pelo mapa:** armas corpo a corpo e armas básicas espalhadas.\n- **Gutterball Moreland 850:** escopeta única na mesa do canto nordeste do boliche, na opcional “Hit Kingpin Bowling” (Cap. 2). Armas únicas não aceitam modificação.\n- **Ultimate:** ES9 gravada (Cap. 1), K17 gravada (Cap. 2) e revólveres Morgan no armário da Ammu-Nation (Cap. 2).",
+  "src": [
+   "PowerPyx",
+   "This Is Game (KR)",
+   "TGG",
+   "PC Gamer"
+  ],
+  "kw": [
+   "arma gratis",
+   "viatura",
+   "boliche",
+   "gutterball",
+   "drop"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Free weapons",
+   "sum": "Enemies, patrol cars, the map and a unique shotgun at the bowling alley.",
+   "body": "- **Enemies** drop lots of guns and ammo. Holding a gun once counts toward the collection (50 of 66 “Standard Issue” for 100%).\n- **Patrol car trunks:** every cruiser carries a shotgun or rifle and often armor. The “Cop Weapon Theft” challenge asks for guns from 5 cruisers without dying or getting arrested. Do it away from witnesses.\n- **Around the map:** melee weapons and basic guns lying around.\n- **Gutterball Moreland 850:** unique shotgun on the table in the north-east corner of the bowling alley, in the optional “Hit Kingpin Bowling” (Ch. 2). Unique weapons don't accept mods.\n- **Ultimate:** engraved ES9 (Ch. 1), engraved K17 (Ch. 2) and Morgan revolvers in the Ammu-Nation locker (Ch. 2).",
+   "kw": [
+    "free gun",
+    "patrol car",
+    "bowling",
+    "gutterball",
+    "drop"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "armas-categorias",
+  "sec": "armas",
+  "sub": "conseguir",
+  "tipo": "dado",
+  "conf": "opiniao",
+  "ch": [
+   "c1",
+   "c2",
+   "c3"
+  ],
+  "title": "Melhores armas por categoria",
+  "sum": "Recomendação do guia: a Rockstar não publicou números de dano.",
+  "body": "Base real das pistolas: ES9 ≈ Beretta 92FS e K17 ≈ Glock 17 (análise de trailer). A carabina lidera a lista provisória da games.gg (Coreia).",
+  "table": {
+   "cols": [
+    "Categoria",
+    "Para o começo",
+    "Por quê"
+   ],
+   "rows": [
+    [
+     "Pistola",
+     "A inicial; Girardi ES9 (Jason) e Klose K17 (Lucia)",
+     "São as pistolas de assinatura dos protagonistas"
+    ],
+    [
+     "Escopeta",
+     "A de Gear Up (Pump Action / Moreland 850)",
+     "Barata e perdoa erro de mira"
+    ],
+    [
+     "Submetralhadora",
+     "Pegue de inimigos",
+     "Aparecem nos tiroteios"
+    ],
+    [
+     "Fuzil",
+     "Duke 556, de inimigo ou viatura",
+     "Melhor arma geral; compre só quando sobrar dinheiro"
+    ],
+    [
+     "Precisão",
+     "Adiar (os Morgan com luneta da Ultimate cobrem)",
+     "Pouco útil nas primeiras missões"
+    ],
+    [
+     "Corpo a corpo",
+     "Punhos; taco ou pé de cabra quando achar",
+     "Evita chamar a polícia"
+    ],
+    [
+     "Arremessáveis",
+     "Só os que caírem de inimigos",
+     "Caros para o começo"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "Rockstar",
+   "Extended Look",
+   "GamerSky",
+   "games.gg"
+  ],
+  "kw": [
+   "melhor arma",
+   "tier list",
+   "pistola",
+   "escopeta",
+   "fuzil",
+   "smg",
+   "sniper"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Best weapons by category",
+   "sum": "The guide's recommendation: Rockstar hasn't published damage numbers.",
+   "body": "Real-world basis of the pistols: ES9 ≈ Beretta 92FS and K17 ≈ Glock 17 (trailer analysis). The carbine tops games.gg's (Korea) provisional list.",
+   "table": {
+    "cols": [
+     "Category",
+     "For the early game",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Pistol",
+      "The starter; Girardi ES9 (Jason) and Klose K17 (Lucia)",
+      "The protagonists' signature pistols"
+     ],
+     [
+      "Shotgun",
+      "The Gear Up one (Pump Action / Moreland 850)",
+      "Cheap and forgives bad aim"
+     ],
+     [
+      "SMG",
+      "Take from enemies",
+      "They show up in firefights"
+     ],
+     [
+      "Rifle",
+      "Duke 556, from an enemy or patrol car",
+      "Best all-rounder; only buy with spare money"
+     ],
+     [
+      "Precision",
+      "Put off (Ultimate's scoped Morgans cover it)",
+      "Not very useful in early missions"
+     ],
+     [
+      "Melee",
+      "Fists; bat or crowbar when you find one",
+      "Avoids drawing police"
+     ],
+     [
+      "Throwables",
+      "Only what drops from enemies",
+      "Expensive early on"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "best gun",
+    "tier list",
+    "pistol",
+    "shotgun",
+    "rifle",
+    "smg",
+    "sniper"
+   ]
+  }
+ }
+]
