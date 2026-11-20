@@ -1,0 +1,274 @@
+{
+ "kind": "card",
+ "id": "cartas-vice-city-manatees",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Vice City Manatees",
+ "sum": "24 cartas de futebol americano, com o local de cada uma.",
+ "body": "- Futebol americano, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 2 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-vice-city-manatees-ali-zeidan-standard",
+   "t": "**Ali Zeidan - Standard**",
+   "d": "Na parede ao lado do calendário, na sala de uma casa amarela na NW 12th St, centro de La Perle"
+  },
+  {
+   "id": "cc-vice-city-manatees-anthony-ross-dusty-pink",
+   "t": "**Anthony Ross - Dusty Pink**",
+   "d": "No balcão da garagem rosa da villa creme grande na Neptune Cir, beira-mar oeste de Vespucci Island"
+  },
+  {
+   "id": "cc-vice-city-manatees-anthony-ross-green",
+   "t": "**Anthony Ross - Green**",
+   "d": "Dentro de uma revista ao lado do vaso num postinho no pântano, oeste de Pelican Valley"
+  },
+  {
+   "id": "cc-vice-city-manatees-anthony-ross-silver",
+   "t": "**Anthony Ross - Silver**",
+   "d": "Na lateral da geladeira do apartamento central com cestos de roupa na porta, 2º andar do New Avalon, NE 10th St, nordeste de Crosstown"
+  },
+  {
+   "id": "cc-vice-city-manatees-delord-nathan-alford-standard",
+   "t": "**Delord Nathan Alford - Standard**",
+   "d": "No canto da prateleira do depósito da Wash House (entra pelo buraco no telhado), SR-27, noroeste de Belville"
+  },
+  {
+   "id": "cc-vice-city-manatees-dominic-brizzolato-bronze",
+   "t": "**Dominic Brizzolato - Bronze**",
+   "d": "No cofre da sala dos fundos do 247 da Indigo St x Atlantic Ave, Ocean Beach (código vem do assalto a esse 247)"
+  },
+  {
+   "id": "cc-vice-city-manatees-dominic-brizzolato-gold",
+   "t": "**Dominic Brizzolato - Gold**",
+   "d": "Embaixo da placa de tartaruga na parede, na boca de tubarão da sala de exposição do Vice City Oceanarium, Catalan Key"
+  },
+  {
+   "id": "cc-vice-city-manatees-dominic-brizzolato-silver",
+   "t": "**Dominic Brizzolato - Silver**",
+   "d": "Numa mesa no fim de um corredor de um prédio modular numa obra perto do Nehrling River, North Mariana"
+  },
+  {
+   "id": "cc-vice-city-manatees-georgie-macklerath-bronze",
+   "t": "**Georgie Macklerath - Bronze**",
+   "d": "No pátio de cima, entre duas cadeiras de praia, da casa no píer no meio da baía, nordeste de Corsair Key"
+  },
+  {
+   "id": "cc-vice-city-manatees-georgie-macklerath-gold",
+   "t": "**Georgie Macklerath - Gold**",
+   "d": "Num pedaço de madeira na parede da garagem separada de uma casa azul-clara logo a oeste de Ambrosia"
+  },
+  {
+   "id": "cc-vice-city-manatees-georgie-macklerath-silver",
+   "t": "**Georgie Macklerath - Silver**",
+   "d": "Na lateral da geladeira de uma casa amarela à beira-mar na Surfside Dr, leste de Key Lento"
+  },
+  {
+   "id": "cc-vice-city-manatees-gouwan-marcus-standard",
+   "t": "**Gouwan Marcus - Standard**",
+   "d": "Na borda do topo do tanque d'água grande, sob o gradil, ao lado do estádio do Capri City Jackals, sudeste de Capri"
+  },
+  {
+   "id": "cc-vice-city-manatees-jacob-schneeman-standard",
+   "t": "**Jacob Schneeman - Standard**",
+   "d": "No gradil do canto sudoeste do telhado do estacionamento ao lado do Fleeca Field, Rockridge"
+  },
+  {
+   "id": "cc-vice-city-manatees-john-morgan-dusty-pink",
+   "t": "**John Morgan - Dusty Pink**",
+   "d": "No canto de um pôster apoiado no chão nos fundos da garagem de uma villa creme grande na Rialto Cswy, Casanova Island"
+  },
+  {
+   "id": "cc-vice-city-manatees-john-morgan-green",
+   "t": "**John Morgan - Green**",
+   "d": "No canto de um pôster apoiado no chão nos fundos da garagem de uma villa creme grande na Rialto Cswy, Casanova Island (mesmo local da Dusty Pink, segundo a IGN)"
+  },
+  {
+   "id": "cc-vice-city-manatees-john-morgan-silver",
+   "t": "**John Morgan - Silver**",
+   "d": "No pátio lateral de um condomínio, ao lado da porta de correr, no centro da Mamey Cir, sul de Waning Sands"
+  },
+  {
+   "id": "cc-vice-city-manatees-junior-taufua-dusty-pink",
+   "t": "**Junior Taufua - Dusty Pink**",
+   "d": "Numa estante ao lado da copa, em frente à sala de ginástica junto ao saguão do Grand Majestic Aparthotel, Tequesta"
+  },
+  {
+   "id": "cc-vice-city-manatees-junior-taufua-green",
+   "t": "**Junior Taufua - Green**",
+   "d": "Na segunda prateleira de baixo de uma estante sob o telheiro da casa velha na beira da SR-45, Grayson"
+  },
+  {
+   "id": "cc-vice-city-manatees-junior-taufua-silver",
+   "t": "**Junior Taufua - Silver**",
+   "d": "Na lateral de um mural de cortiça na entrada do Overkeel Boatyard & Marina, litoral leste de East Lummox"
+  },
+  {
+   "id": "cc-vice-city-manatees-maleek-rivers-bronze",
+   "t": "**Maleek Rivers - Bronze**",
+   "d": "Numa prateleira do meio no canto do escritório dos fundos de uma casa branca na Reservoir St, nordeste de Ambrosia, perto do Lake Leonida"
+  },
+  {
+   "id": "cc-vice-city-manatees-maleek-rivers-gold",
+   "t": "**Maleek Rivers - Gold**",
+   "d": "Num cofre em cima de um arquivo no box mais ao sul perto da praia, sul de Ocean Beach"
+  },
+  {
+   "id": "cc-vice-city-manatees-maleek-rivers-silver",
+   "t": "**Maleek Rivers - Silver**",
+   "d": "Numa caixa elétrica no alto da torre de rádio sobre o prédio Vital Lines Telecommunications, perto da Reservoir St, norte de Ambrosia"
+  },
+  {
+   "id": "cc-vice-city-manatees-manniken-stills-standard",
+   "t": "**Manniken Stills - Standard**",
+   "d": "Na lateral de um mural de cortiça num prédio modular numa obra que leva ao Pay 'N' Spray, Riverbend Rd, sul de West Vice-Dale"
+  },
+  {
+   "id": "cc-vice-city-manatees-reggie-pierce-standard",
+   "t": "**Reggie Pierce - Standard**",
+   "d": "Embaixo de um banco na passarela elevada entre o Fleeca Field e a estação Manatees Stadium Central Line, Rockridge"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Vice City Manatees"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Vice City Manatees",
+  "sum": "24 football cards, with every location.",
+  "body": "- Football, 24 cards. Locations from IGN's list; tick each one as you grab it.\n- 2 card(s) sit in a **safe**: open it with the code from robbing that place, or a sticky bomb.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Vice City Manatees"
+  ],
+  "check": [
+   {
+    "id": "cc-vice-city-manatees-ali-zeidan-standard",
+    "t": "**Ali Zeidan - Standard**",
+    "d": "On the wall next to the calendar in the living room of a yellow house on NW 12th St in central La Perle"
+   },
+   {
+    "id": "cc-vice-city-manatees-anthony-ross-dusty-pink",
+    "t": "**Anthony Ross - Dusty Pink**",
+    "d": "On the counter of the pink garage in the large creme villa on Neptune Cir on the western waterfront of Vespucci Island"
+   },
+   {
+    "id": "cc-vice-city-manatees-anthony-ross-green",
+    "t": "**Anthony Ross - Green**",
+    "d": "Inside of a magazine next to the toilet on a small swamp outpost in western Pelican Valley"
+   },
+   {
+    "id": "cc-vice-city-manatees-anthony-ross-silver",
+    "t": "**Anthony Ross - Silver**",
+    "d": "On the side of a fridge in the kitchen of the center apartment with the clothes baskets out front on the second floor of the New Avalon Apartment complex on NE 10th St in northeastern Crosstown"
+   },
+   {
+    "id": "cc-vice-city-manatees-delord-nathan-alford-standard",
+    "t": "**Delord Nathan Alford - Standard**",
+    "d": "On the corner of the shelf in the storage room of the Wash House, accessible via the hole in the roof, on SR-27 in northwestern Belville"
+   },
+   {
+    "id": "cc-vice-city-manatees-dominic-brizzolato-bronze",
+    "t": "**Dominic Brizzolato - Bronze**",
+    "d": "Inside the safe in the back room of the 247 on the corner of Indigo St and Atlantic Ave in Ocean Beach. This requires a unique safe combination from robbing the 247"
+   },
+   {
+    "id": "cc-vice-city-manatees-dominic-brizzolato-gold",
+    "t": "**Dominic Brizzolato - Gold**",
+    "d": "Underneath the turtle sign on the wall in the shark mouth of the live exhibiting room of the Vice City Oceanarium in Catalan Key"
+   },
+   {
+    "id": "cc-vice-city-manatees-dominic-brizzolato-silver",
+    "t": "**Dominic Brizzolato - Silver**",
+    "d": "On top of a desk at the end of a hallway in a modular building on a construction site near the Nehrling River in North Mariana County"
+   },
+   {
+    "id": "cc-vice-city-manatees-georgie-macklerath-bronze",
+    "t": "**Georgie Macklerath - Bronze**",
+    "d": "On the upper patio between two lawn chairs of the house on the dock in the middle of the bay in the northeastern section of Corsair key"
+   },
+   {
+    "id": "cc-vice-city-manatees-georgie-macklerath-gold",
+    "t": "**Georgie Macklerath - Gold**",
+    "d": "On top of a piece of wood on the wall of the detached garage of a light blue house to the west just outside of Ambrosia"
+   },
+   {
+    "id": "cc-vice-city-manatees-georgie-macklerath-silver",
+    "t": "**Georgie Macklerath - Silver**",
+    "d": "On the side of a fridge in the kitchen of a yellow waterfront house on Surfside Dr in eastern Key Lento"
+   },
+   {
+    "id": "cc-vice-city-manatees-gouwan-marcus-standard",
+    "t": "**Gouwan Marcus - Standard**",
+    "d": "On the edge on top of the large water tank underneath the railing next to the Capri City Jackals stadium in southeastern Capri"
+   },
+   {
+    "id": "cc-vice-city-manatees-jacob-schneeman-standard",
+    "t": "**Jacob Schneeman - Standard**",
+    "d": "On top of the railing in the southwestern corner of the roof of the parking garage next to Fleeca Field in Rockridge"
+   },
+   {
+    "id": "cc-vice-city-manatees-john-morgan-dusty-pink",
+    "t": "**John Morgan - Dusty Pink**",
+    "d": "On the corner of a poster resting on the ground in the back of the garage of a large creme villa on Rialto Cswy on Casanova Island"
+   },
+   {
+    "id": "cc-vice-city-manatees-john-morgan-green",
+    "t": "**John Morgan - Green**",
+    "d": "On the corner of a poster resting on the ground in the back of the garage of a large creme villa on Rialto Cswy on Casanova Island"
+   },
+   {
+    "id": "cc-vice-city-manatees-john-morgan-silver",
+    "t": "**John Morgan - Silver**",
+    "d": "On the side patio of a condo next to the sliding door in the center of Mamey Cir in southern Waning Sands"
+   },
+   {
+    "id": "cc-vice-city-manatees-junior-taufua-dusty-pink",
+    "t": "**Junior Taufua - Dusty Pink**",
+    "d": "In a bookshelf next to the kitchenette across from the Fitness Room next to the lobby in the Grand Majestic Aparthotel in Tequesta"
+   },
+   {
+    "id": "cc-vice-city-manatees-junior-taufua-green",
+    "t": "**Junior Taufua - Green**",
+    "d": "On the second shelf from the bottom of a shelving unit in the open overhang attached to the aged house on the side of SR-45 in Grayson"
+   },
+   {
+    "id": "cc-vice-city-manatees-junior-taufua-silver",
+    "t": "**Junior Taufua - Silver**",
+    "d": "On the side of a corkboard in the entryway into the Overkeel Boatyard & Marina on the eastern coast of East Lummox County"
+   },
+   {
+    "id": "cc-vice-city-manatees-maleek-rivers-bronze",
+    "t": "**Maleek Rivers - Bronze**",
+    "d": "On top of a middle shelf in the corner of the back office in a white house on Reservoir St in northeastern Ambrosia near Lake Leonida"
+   },
+   {
+    "id": "cc-vice-city-manatees-maleek-rivers-gold",
+    "t": "**Maleek Rivers - Gold**",
+    "d": "Inside a safe on top of a filling cabinet in the southernmost storage unit near the beach in southern Ocean Beach"
+   },
+   {
+    "id": "cc-vice-city-manatees-maleek-rivers-silver",
+    "t": "**Maleek Rivers - Silver**",
+    "d": "On an electrical box on top of a radio tower above the Vital Lines Telecommunications building off of Reservoir St in northern Ambrosia"
+   },
+   {
+    "id": "cc-vice-city-manatees-manniken-stills-standard",
+    "t": "**Manniken Stills - Standard**",
+    "d": "On the side of a corkboard of a modular building in a construction site leading to the Pay 'N' Spray off of Riverbend Rd in southern West Vice-Dale County"
+   },
+   {
+    "id": "cc-vice-city-manatees-reggie-pierce-standard",
+    "t": "**Reggie Pierce - Standard**",
+    "d": "Underneath a bench in the above-ground walkway between Fleeca Field and Manatees Stadium Central Line Train Station in Rockridge"
+   }
+  ]
+ }
+}

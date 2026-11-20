@@ -1,0 +1,1251 @@
+
+<script>
+(() => {
+"use strict";
+const $ = (s, r = document) => r.querySelector(s);
+const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
+const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const norm = (s) => String(s == null ? "" : s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const html = document.documentElement;
+const reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+const STAGE_IDS = ["pre", "p", "c1", "c2", "c3", "c4", "pos"];
+const STORE = "gta6-guia-v1";
+const I18N = {
+  pt: {
+    skip: "Pular para o conteúdo", openMenu: "Abrir o menu", brandShort: "Guia de GTA VI", brand: "Guia interativo de GTA VI", search: "Buscar no guia", searchAsk: "Buscar ou perguntar",
+    whereAmI: "Onde estou no jogo", lang: "Idioma", buttons: "Botões", hideSpoilers: "Esconder spoilers leves", compact: "Cards compactos",
+    fanGuide: "Guia de fã, sem vínculo com a Rockstar Games.", news: "Novidades do guia", loading: "Carregando o guia…",
+    searchPh: "Busque: estrelas, garagem, Moses, colete, correr…", try: "Experimente:", noResults: "Nada encontrado com essas palavras. Tente outro termo.",
+    askClaude: "Perguntar ao Claude:", stop: "Parar", askNote: "O Claude responde só com o que está neste guia, sem spoilers, usando a sua conta.",
+    spoilTitle: "Spoiler leve: toque para mostrar", seeDef: "ver definição", seeGlossary: "Ver no glossário", hasNow: "Tem cards para o seu momento",
+    yourItems: "Seus itens", favs: "Favoritos", done: "feitos", untick: "Desmarcar tudo", how: "Como fazer · Walkthrough", wlLang: "Idioma do passo a passo",
+    filterTable: "Filtrar esta tabela", filterTableOf: "Filtrar a tabela:", tableEmpty: "Nada nesta tabela com esse filtro.", confidence: "Confiança da informação",
+    now: "Agora", isNew: "Novo", updated: "Atualizado", toggleCard: "Mostrar ou esconder o conteúdo", copyCard: "Copiar o texto do card", copyText: "Copiar texto",
+    unfav: "Tirar dos favoritos", fav: "Guardar nos favoritos", favorite: "Favorito", diverge: "Fontes divergem.", sources: "Fontes:",
+    filterCards: "Filtrar os cards desta seção", yourMoment: "Seu momento", moment: "Momento", all: "Todos", type: "Tipo",
+    cards: (n) => `${n} cards`, showing: (a, b) => `Mostrando ${a} de ${b} cards`,
+    whereYouAre: "Onde você está", whereSub: "Escolha o seu momento no jogo. A lista de tarefas, os avisos e o destaque “Agora” nos cards acompanham a escolha.",
+    momentInGame: "Momento no jogo", doNow: "Faça agora", unlocks: "O que libera", avoid: "Evite", nextMilestone: "Próximo marco:", cardsNow: "Cards para este momento",
+    askHintA: "Não achou o que queria?", askHintB: "Abra a busca", askHintC: "e pergunte ao Claude: ele responde com base neste guia.",
+    fuga: "Fuga assistida", fugaSub: "Marque a sua situação na tela. O plano se monta na ordem em que você deve agir.", stars: "Estrelas", level: "Nível",
+    starN: (n) => `${n} estrela${n > 1 ? "s" : ""}`, heatIcons: "Ícones de heat na tela", situation: "Situação", yourPlan: "Seu plano",
+    filterTerms: (n) => `Filtrar os ${n} termos`, filterGlossary: "Filtrar o glossário", appearsIn: "Aparece em:", noTerm: "Nenhum termo com esse filtro.",
+    newsIntro: "O que mudou em cada atualização. O guia é atualizado a cada nova pesquisa do projeto.",
+    favIntro: "Os cards que você guardou. Toque no marcador de qualquer card para trazer ele para cá.", favEmptyA: "Nenhum favorito ainda. Use o marcador", favEmptyB: "no canto de um card.",
+    inSection: "Nesta seção", ticked: "Tarefas marcadas", of: "de", listUnticked: "Lista desmarcada.", undo: "Desfazer", favAdded: "Guardado nos favoritos.", favRemoved: "Tirado dos favoritos.",
+    copied: "Texto do card copiado.", copyFail: "Não deu para copiar aqui. Selecione o texto do card e copie à mão.",
+    grpCards: "Cards", grpTerms: "Glossário", grpSecs: "Seções", term: "Termo", section: "Seção",
+    thinking: "Pensando…", consulting: "Consultando o guia…", truncated: "A resposta foi cortada. Tente uma pergunta mais específica.", connFail: "A conexão falhou. Tente de novo.",
+    loadFailT: "Não consegui carregar o guia", loadFailB: "O conteúdo não abriu. Verifique a conexão e tente de novo.", retry: "Tentar de novo",
+    updatedOn: (d) => `Atualizado em ${d} · spoilers só nos walkthroughs`, dpad: "direcional", dpadFor: "Direcional para",
+  },
+  en: {
+    skip: "Skip to content", openMenu: "Open menu", brandShort: "GTA VI Guide", brand: "Interactive GTA VI Guide", search: "Search the guide", searchAsk: "Search or ask",
+    whereAmI: "Where I am in the game", lang: "Language", buttons: "Buttons", hideSpoilers: "Hide light spoilers", compact: "Compact cards",
+    fanGuide: "Fan guide, not affiliated with Rockstar Games.", news: "What's new", loading: "Loading the guide…",
+    searchPh: "Search: stars, garage, Moses, armor, sprint…", try: "Try:", noResults: "Nothing found for those words. Try another term.",
+    askClaude: "Ask Claude:", stop: "Stop", askNote: "Claude answers only from what's in this guide, spoiler-free, using your account.",
+    spoilTitle: "Light spoiler: tap to reveal", seeDef: "see definition", seeGlossary: "See in glossary", hasNow: "Has cards for where you are",
+    yourItems: "Your items", favs: "Favorites", done: "done", untick: "Untick all", how: "Walkthrough", wlLang: "Walkthrough language",
+    filterTable: "Filter this table", filterTableOf: "Filter table:", tableEmpty: "Nothing in this table matches that filter.", confidence: "How reliable this is",
+    now: "Now", isNew: "New", updated: "Updated", toggleCard: "Show or hide content", copyCard: "Copy the card's text", copyText: "Copy text",
+    unfav: "Remove from favorites", fav: "Save to favorites", favorite: "Favorite", diverge: "Sources disagree.", sources: "Sources:",
+    filterCards: "Filter this section's cards", yourMoment: "Where you are", moment: "Point", all: "All", type: "Type",
+    cards: (n) => `${n} cards`, showing: (a, b) => `Showing ${a} of ${b} cards`,
+    whereYouAre: "Where you are", whereSub: "Pick where you are in the game. The task list, the warnings and the “Now” badge on cards follow your choice.",
+    momentInGame: "Point in the game", doNow: "Do now", unlocks: "What unlocks", avoid: "Avoid", nextMilestone: "Next milestone:", cardsNow: "Cards for this point",
+    askHintA: "Didn't find it?", askHintB: "Open search", askHintC: "and ask Claude: it answers from this guide.",
+    fuga: "Escape planner", fugaSub: "Mark what's on your screen. The plan builds in the order you should act.", stars: "Stars", level: "Level",
+    starN: (n) => `${n} star${n > 1 ? "s" : ""}`, heatIcons: "Heat icons on screen", situation: "Situation", yourPlan: "Your plan",
+    filterTerms: (n) => `Filter the ${n} terms`, filterGlossary: "Filter the glossary", appearsIn: "Appears in:", noTerm: "No term matches that filter.",
+    newsIntro: "What changed in each update. The guide is updated with every new research in the project.",
+    favIntro: "Cards you saved. Tap the bookmark on any card to bring it here.", favEmptyA: "No favorites yet. Use the bookmark", favEmptyB: "in a card's corner.",
+    inSection: "In this section", ticked: "Tasks ticked", of: "of", listUnticked: "List cleared.", undo: "Undo", favAdded: "Saved to favorites.", favRemoved: "Removed from favorites.",
+    copied: "Card text copied.", copyFail: "Couldn't copy here. Select the card's text and copy it by hand.",
+    grpCards: "Cards", grpTerms: "Glossary", grpSecs: "Sections", term: "Term", section: "Section",
+    thinking: "Thinking…", consulting: "Checking the guide…", truncated: "The answer was cut off. Try a more specific question.", connFail: "The connection failed. Try again.",
+    loadFailT: "Couldn't load the guide", loadFailB: "The content didn't open. Check your connection and try again.", retry: "Try again",
+    updatedOn: (d) => `Updated ${d} · spoilers only in walkthroughs`, dpad: "D-pad", dpadFor: "D-pad",
+  },
+};
+const T = (k, ...a) => { const d = I18N[state.wl] || I18N.pt; const v = d[k] != null ? d[k] : I18N.pt[k]; return typeof v === "function" ? v(...a) : v; };
+const KINDS = { pt: { dica: "Dica", alerta: "Atenção", perdivel: "Perdível", plano: "Passo a passo", dado: "Referência" }, en: { dica: "Tip", alerta: "Heads-up", perdivel: "Missable", plano: "Step by step", dado: "Reference" } };
+const TIPOSL = { pt: { dica: "Dicas", alerta: "Atenção", perdivel: "Perdíveis", plano: "Passo a passo", dado: "Referência" }, en: { dica: "Tips", alerta: "Heads-up", perdivel: "Missables", plano: "Step by step", dado: "Reference" } };
+const CONFS = { pt: { oficial: "Oficial", jogo: "Jogo real", previa: "Prévia", rumor: "Rumor", opiniao: "Recomendação", div: "Divergência", inferencia: "Inferência" }, en: { oficial: "Official", jogo: "From the game", previa: "Preview", rumor: "Rumor", opiniao: "Recommendation", div: "Disagreement", inferencia: "Inference" } };
+let KIND = KINDS.pt, TIPOS = TIPOSL.pt, CONF = CONFS.pt;
+const PILL = { "Comprar já": "good", "Depois do aperto": "warn", "Se faltar vaga": "warn", "Cap. 4": "info", "Pode esperar": "muted", "Evitar": "bad", "Grátis": "good", "Bônus": "good", "Oficial": "c-oficial", "Jogo real": "c-jogo", "Prévia": "c-previa", "Rumor": "c-rumor", "Wiki": "c-rumor", "Buy now": "good", "After the crunch": "warn", "If you run out of slots": "warn", "Ch. 4": "info", "Can wait": "muted", "Avoid": "bad", "Free": "good", "Bonus": "good", "Official": "c-oficial", "From the game": "c-jogo", "Preview": "c-previa" };
+
+/* ================= estado do usuário ================= */
+const fresh = () => ({ t: 0, checks: {}, favs: {}, stage: "pre", plat: "ps", spoiler: true, compact: false, wl: "pt" });
+const isObj = (o) => !!o && typeof o === "object" && !Array.isArray(o);
+function normalizeState(s) {
+  const d = fresh();
+  if (!isObj(s)) return d;
+  const checks = {}, favs = {};
+  if (isObj(s.checks)) for (const k in s.checks) if (s.checks[k] === true) checks[k] = true;
+  if (isObj(s.favs)) for (const k in s.favs) if (s.favs[k]) favs[k] = 1;
+  return {
+    t: Number(s.t) || 0, checks, favs,
+    stage: STAGE_IDS.includes(s.stage) ? s.stage : d.stage,
+    plat: s.plat === "xbox" ? "xbox" : "ps",
+    spoiler: s.spoiler !== false,
+    compact: s.compact === true,
+    wl: s.wl === "en" ? "en" : "pt",
+  };
+}
+let lsOK = true;
+function lsGet() { try { const r = window.localStorage.getItem(STORE); return r ? JSON.parse(r) : null; } catch (e) { lsOK = false; return null; } }
+function lsSet() { try { window.localStorage.setItem(STORE, JSON.stringify(state)); lsOK = true; } catch (e) { lsOK = false; } }
+let state = normalizeState(lsGet());
+function commit() { state.t = Date.now(); lsSet(); scheduleCloud(); }
+
+/* ================= dados ================= */
+let META = {}, FUGA = null;
+const SECTIONS = [], SECTION = {}, STAGES = [], STAGE = {}, CARDS = [], CARD = {}, TERMS = [], TERM = {}, CHANGES = [], ALLKEYS = [];
+let RAW = [];
+function mergeArr(base, ov) {
+  if (!Array.isArray(ov)) return ov;
+  if (!Array.isArray(base) || !ov.every((x) => x && typeof x === "object" && "id" in x)) return ov;
+  const by = new Map(ov.map((x) => [x.id, x]));
+  const out = base.map((b) => (b && typeof b === "object" && by.has(b.id) ? Object.assign({}, b, by.get(b.id)) : b));
+  for (const x of ov) if (!base.some((b) => b && b.id === x.id)) out.push(x);
+  return out;
+}
+function loc(r) {
+  if (state.wl !== "en" || !r.en) return r;
+  const o = Object.assign({}, r);
+  for (const k in r.en) o[k] = Array.isArray(r.en[k]) ? mergeArr(r[k], r.en[k]) : r.en[k];
+  return o;
+}
+async function loadData() {
+  if (window.__GUIA) RAW = window.__GUIA;
+  else { const res = await fetch("guia.json", { cache: "no-cache" }); if (!res.ok) throw new Error("HTTP " + res.status); RAW = await res.json(); }
+  buildData();
+}
+function buildData() {
+  META = {}; FUGA = null;
+  for (const a of [SECTIONS, STAGES, CARDS, TERMS, CHANGES, ALLKEYS]) a.length = 0;
+  for (const o of [SECTION, STAGE, CARD, TERM]) for (const k in o) delete o[k];
+  KIND = KINDS[state.wl] || KINDS.pt; TIPOS = TIPOSL[state.wl] || TIPOSL.pt; CONF = CONFS[state.wl] || CONFS.pt;
+  for (const r0 of RAW) {
+    const r = loc(r0);
+    if (r.kind === "meta") META = r;
+    else if (r.kind === "section") { SECTIONS.push(r); SECTION[r.id] = r; }
+    else if (r.kind === "stage") { STAGES.push(r); STAGE[r.id] = r; }
+    else if (r.kind === "fuga") FUGA = r;
+    else if (r.kind === "card") { CARDS.push(r); CARD[r.id] = r; }
+    else if (r.kind === "term") { TERMS.push(r); TERM[r.id] = r; }
+    else if (r.kind === "change") CHANGES.push(r);
+  }
+  if (FUGA && FUGA.en && state.wl === "en") {
+    const e = FUGA.en, f = Object.assign({}, FUGA);
+    for (const k in e) f[k] = Array.isArray(e[k]) ? mergeArr(FUGA[k], e[k]) : e[k];
+    FUGA = f;
+  }
+  for (const c of CARDS) if (c.check) for (const it of c.check) ALLKEYS.push(c.id + ":" + it.id);
+  for (const s of STAGES) for (const it of s.agora) ALLKEYS.push("stage:" + s.id + ":" + it.id);
+}
+
+/* ================= teclas do controle ================= */
+const KEYS = { L1: ["L1", "LB"], L2: ["L2", "LT"], L3: ["L3", "LS"], R1: ["R1", "RB"], R2: ["R2", "RT"], R3: ["R3", "RS"], Options: ["Options", "Menu"], Touchpad: ["Touchpad", "View"] };
+const FACE = { "△": ["tri", "Y", "triângulo"], "○": ["cir", "B", "círculo"], "✕": ["crs", "A", "xis"], "□": ["sqr", "X", "quadrado"] };
+const DPAD = { "↑": ["up", "cima"], "↓": ["down", "baixo"], "←": ["left", "a esquerda"], "→": ["right", "a direita"] };
+const PS_SVG = {
+  tri: '<path d="M8 2.8 13.9 13H2.1z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>',
+  cir: '<circle cx="8" cy="8" r="5.1" fill="none" stroke="currentColor" stroke-width="1.8"/>',
+  crs: '<path d="M3.6 3.6l8.8 8.8M12.4 3.6l-8.8 8.8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>',
+  sqr: '<rect x="3" y="3" width="10" height="10" rx="1.2" fill="none" stroke="currentColor" stroke-width="1.8"/>',
+};
+const DPAD_ARM = { up: "M6 1h4v5H6z", down: "M6 10h4v5H6z", left: "M1 6h5v4H1z", right: "M10 6h5v4h-5z" };
+function keyChip(k) {
+  if (KEYS[k]) return `<kbd class="key"><span class="ps">${KEYS[k][0]}</span><span class="xb">${KEYS[k][1]}</span></kbd>`;
+  if (FACE[k]) {
+    const [s, x, nome] = FACE[k];
+    return `<kbd class="key face f-${s}"><span class="ps"><svg viewBox="0 0 16 16" aria-hidden="true">${PS_SVG[s]}</svg><span class="sr">${nome}</span></span><span class="xb xb-${x}">${x}</span></kbd>`;
+  }
+  if (DPAD[k]) {
+    const [d, nome] = DPAD[k];
+    return `<kbd class="key dpad" title="${T("dpadFor")} ${nome}"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M6 1h4v5h5v4h-5v5H6v-5H1V6h5z" fill="none" stroke="currentColor" stroke-width="1.1" stroke-linejoin="round"/><path d="${DPAD_ARM[d]}" fill="currentColor"/></svg><span class="sr">direcional para ${nome}</span></kbd>`;
+  }
+  return esc("{" + k + "}");
+}
+function keyText(k) {
+  const xb = state.plat === "xbox";
+  if (KEYS[k]) return KEYS[k][xb ? 1 : 0];
+  if (FACE[k]) return xb ? FACE[k][1] : k;
+  if (DPAD[k]) return T("dpad") + " " + k;
+  return k;
+}
+
+/* ================= texto: formatação leve ================= */
+function linkFor(id, label) {
+  if (CARD[id]) return `<a class="ilink" href="#${id}">${label || esc(CARD[id].title)}</a>`;
+  if (SECTION[id]) return `<a class="ilink" href="#${id}">${label || esc(SECTION[id].title)}</a>`;
+  return label || "";
+}
+function inline(src) {
+  let s = esc(src);
+  s = s.replace(/\|\|(.+?)\|\|/g, (_, t) => `<span class="spoil" tabindex="0" role="button" title="${T("spoilTitle")}">${t}</span>`);
+  s = s.replace(/!\[([^\]]*)\]\(([^\s)]+)\)/g, (_, a, u) => `<img class="wimg" src="${u}" alt="${a}" loading="lazy">`);
+  s = s.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, (_, t, u) => `<a href="${u}" target="_blank" rel="noopener noreferrer">${t}</a>`);
+  s = s.replace(/\[\[([a-z0-9-]+)(?:\|([^\]]+))?\]\]/g, (_, id, label) => linkFor(id, label));
+  s = s.replace(/\{\{(oficial|jogo|previa|rumor|opiniao|div|inferencia)\}\}/g, (_, c) => `<span class="ib conf-${c}">${CONF[c]}</span>`);
+  s = s.replace(/\{(L1|L2|L3|R1|R2|R3|△|○|✕|□|↑|↓|←|→|Options|Touchpad)\}/g, (_, k) => keyChip(k));
+  s = s.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+  s = s.replace(/(^|[\s(])\*([^*\s][^*]*?)\*(?=[\s).,;:!?]|$)/g, "$1<em>$2</em>");
+  return s;
+}
+function block(src) {
+  if (!src) return "";
+  let out = "", para = [], list = null;
+  const fp = () => { if (para.length) { out += `<p>${inline(para.join(" "))}</p>`; para = []; } };
+  const fl = () => { if (list) { out += `<${list.t}>${list.items.map((i) => `<li>${inline(i)}</li>`).join("")}</${list.t}>`; list = null; } };
+  for (const raw of String(src).split("\n")) {
+    const line = raw.trim();
+    let m;
+    if (!line) { fp(); fl(); continue; }
+    if ((m = line.match(/^#{2,4}\s+(.*)$/))) { fp(); fl(); out += `<h4>${inline(m[1])}</h4>`; continue; }
+    if ((m = line.match(/^[-•*]\s+(.*)$/))) { fp(); if (!list || list.t !== "ul") { fl(); list = { t: "ul", items: [] }; } list.items.push(m[1]); continue; }
+    if ((m = line.match(/^(\d+)[.)]\s+(.*)$/))) { fp(); if (!list || list.t !== "ol") { fl(); list = { t: "ol", items: [] }; } list.items.push(m[2]); continue; }
+    if ((m = line.match(/^>\s?(.*)$/))) { fp(); fl(); out += `<div class="callout">${inline(m[1])}</div>`; continue; }
+    fl(); para.push(line);
+  }
+  fp(); fl();
+  return out;
+}
+function plain(s) {
+  return String(s == null ? "" : s)
+    .replace(/\|\|(.+?)\|\|/g, "$1")
+    .replace(/\[([^\]]+)\]\((https?:[^)]+)\)/g, "$1")
+    .replace(/\[\[([a-z0-9-]+)(?:\|([^\]]+))?\]\]/g, (_, id, l) => l || (CARD[id] ? CARD[id].title : SECTION[id] ? SECTION[id].title : id))
+    .replace(/\{\{(\w+)\}\}/g, (_, c) => "(" + (CONF[c] || c) + ")")
+    .replace(/\{([^{}]+)\}/g, (_, k) => keyText(k))
+    .replace(/\*\*(.+?)\*\*/g, "$1")
+    .replace(/^#{2,4}\s+/gm, "");
+}
+function cardText(c, max) {
+  const parts = [c.title + ".", plain(c.sum)];
+  if (c.body) parts.push(plain(c.body));
+  if (c.table) parts.push(c.table.rows.map((r) => r.map((v, i) => c.table.cols[i] + ": " + plain(v)).join("; ")).join("\n"));
+  if (c.check) parts.push(c.check.map((i) => "- " + plain(i.t) + (i.d ? "\n  " + plain(i.d).replace(/\n+/g, " ") : "") + (i.de ? "\n  " + plain(i.de).replace(/\n+/g, " ") : "")).join("\n"));
+  if (c.div) parts.push("Fontes divergem: " + plain(c.div));
+  const t = parts.join("\n");
+  return max && t.length > max ? t.slice(0, max) + "…" : t;
+}
+const fmtDate = (d) => { const m = String(d || "").match(/^(\d{4})-(\d{2})-(\d{2})$/); if (!m) return String(d || ""); return state.wl === "en" ? new Date(+m[1], +m[2] - 1, +m[3]).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" }) : `${m[3]}/${m[2]}/${m[1]}`; };
+
+/* ================= busca ================= */
+const SYN_GROUPS = [
+  ["procurado", "estrela", "estrelas", "wanted", "policia", "policial"],
+  ["dinheiro", "grana", "money", "cash", "saldo", "dolar", "dolares", "renda"],
+  ["receptador", "receptadores", "fence", "fences"],
+  ["carro", "carros", "veiculo", "veiculos"],
+  ["moto", "motos", "motocicleta", "bike"],
+  ["garagem", "garagens", "garage"],
+  ["colete", "armor", "armadura"],
+  ["correr", "corrida", "run", "sprint"],
+  ["salvar", "save", "saves", "salvamento", "slot", "slots"],
+  ["trofeu", "trofeus", "trophy", "platina", "conquista", "conquistas", "achievement"],
+  ["perdivel", "perdiveis", "missable", "perder"],
+  ["fuga", "fugir", "escapar", "despistar", "fujo"],
+  ["arma", "armas", "weapon", "gun"],
+  ["roupa", "roupas", "disfarce", "visual", "traje"],
+  ["reset", "zerar", "zerado", "zeradas", "zera", "virada"],
+  ["banco", "bancos", "buckme"],
+  ["cofre", "cofres", "vault"],
+  ["rastreador", "rastreadores", "tracker", "gps"],
+  ["registro", "registrar"],
+  ["mira", "aim", "assistencia"],
+  ["legenda", "legendas", "subtitle"],
+  ["viagem", "rydeme", "taxi", "teleporte"],
+  ["helicoptero", "helicopteros", "heli"],
+  ["cachorro", "cachorros", "caes", "cao", "k9"],
+  ["silenciador", "supressor", "suppressor"],
+  ["controle", "controles", "botao", "botoes", "comando", "comandos"],
+  ["treino", "treinar", "academia", "malhar", "gym"],
+  ["focus", "foco"],
+  ["cheat", "cheats", "codigo", "codigos", "trapaca"],
+  ["mapa", "regiao", "regioes"],
+  ["relacionamento", "romance", "namoro"],
+  ["assalto", "assaltos", "roubo", "roubos", "roubar"],
+];
+const SYN = new Map();
+for (const g of SYN_GROUPS) for (const w of g) SYN.set(w, g);
+const STOP = new Set("a o e de da do das dos em no na nos nas um uma uns umas para pra por com que como qual quais onde quando eu meu minha se os as ao aos ou mais muito tem ter sobre isso esse essa este esta the is".split(" "));
+const isWordChar = (ch) => !!ch && /[a-z0-9]/.test(ch);
+function tokens(q) { return norm(q).split(/[^a-z0-9$%+]+/).filter((w) => w && !STOP.has(w) && (w.length > 1 || /\d/.test(w))); }
+function wordHit(text, w) {
+  if (!text || !w) return 0;
+  let i = text.indexOf(w), best = 0;
+  while (i >= 0) {
+    const pre = !isWordChar(text[i - 1]);
+    if (pre) { if (!isWordChar(text[i + w.length])) return 3; best = 2; }
+    else if (!best) best = 1;
+    i = text.indexOf(w, i + 1);
+  }
+  return best;
+}
+let INDEX = [];
+function buildIndex() {
+  INDEX = CARDS.map((c) => ({ type: "card", id: c.id, c, t: norm(c.title), s: norm(plain(c.sum)), k: norm((c.kw || []).join(" | ")), b: norm(cardText(c)), sec: norm(SECTION[c.sec] ? SECTION[c.sec].title : "") }));
+  for (const t of TERMS) INDEX.push({ type: "term", id: t.id, term: t, t: norm(t.t), s: norm(t.d), k: norm([].concat(t.match || [], t.aka || []).join(" | ")), b: "", sec: "" });
+  for (const s of SECTIONS) INDEX.push({ type: "sec", id: s.id, sect: s, t: norm(s.title), s: norm(s.intro), k: "", b: "", sec: "" });
+}
+function scoreEntry(e, toks, phrase) {
+  let total = 0, matched = 0;
+  for (const w of toks) {
+    const alts = SYN.get(w) || [w];
+    let best = 0;
+    for (const a of alts) {
+      const weight = a === w ? 1 : 0.7;
+      const f = (h, wt) => (h === 3 ? wt : h === 2 ? wt * 0.75 : h === 1 && a.length >= 4 ? wt * 0.3 : 0);
+      const sc = (f(wordHit(e.t, a), 10) + f(wordHit(e.k, a), 7) + f(wordHit(e.s, a), 4) + Math.min(f(wordHit(e.b, a), 2.5), 2.5) + f(wordHit(e.sec, a), 2)) * weight;
+      if (sc > best) best = sc;
+    }
+    if (best > 0) matched++;
+    total += best;
+  }
+  if (!matched) return 0;
+  if (phrase.length > 3 && toks.length > 1) {
+    if (e.t.includes(phrase)) total += 12; else if (e.k.includes(phrase)) total += 8; else if (e.b.includes(phrase)) total += 4;
+  }
+  const miss = toks.length - matched;
+  if (miss) total *= Math.pow(0.3, miss);
+  if (e.type === "sec") total *= 0.8;
+  return total;
+}
+function search(q, limit) {
+  const toks = tokens(q);
+  if (!toks.length) return [];
+  const phrase = norm(q).replace(/\s+/g, " ").trim();
+  const out = [];
+  for (const e of INDEX) { const sc = scoreEntry(e, toks, phrase); if (sc > 0.6) out.push({ e, sc }); }
+  out.sort((a, b) => b.sc - a.sc);
+  return out.slice(0, limit || 30);
+}
+function highlight(text, toks) {
+  const n = norm(text);
+  if (n.length !== text.length) return esc(text);
+  const words = new Set();
+  for (const w of toks) for (const a of (SYN.get(w) || [w])) if (a.length >= 2) words.add(a);
+  const ranges = [];
+  for (const w of words) {
+    let i = n.indexOf(w);
+    while (i >= 0) { if (!isWordChar(n[i - 1])) ranges.push([i, i + w.length]); i = n.indexOf(w, i + w.length); }
+  }
+  if (!ranges.length) return esc(text);
+  ranges.sort((a, b) => a[0] - b[0] || b[1] - a[1]);
+  let out = "", last = 0;
+  for (const [a, b] of ranges) { if (a < last) continue; out += esc(text.slice(last, a)) + "<mark>" + esc(text.slice(a, b)) + "</mark>"; last = b; }
+  return out + esc(text.slice(last));
+}
+function snippet(c, toks) {
+  const raw = cardText(c).replace(/\s+/g, " ");
+  const n = norm(raw);
+  let pos = -1;
+  for (const w of toks) for (const a of (SYN.get(w) || [w])) { const i = n.indexOf(a); if (i >= 0 && (pos < 0 || i < pos)) pos = i; }
+  const start = pos > 70 ? raw.lastIndexOf(" ", pos - 50) + 1 : 0;
+  const piece = raw.slice(start, start + 180);
+  return (start > 0 ? "…" : "") + highlight(piece, toks) + (start + 180 < raw.length ? "…" : "");
+}
+
+/* ================= glossário nos cards ================= */
+let TERM_RE = null;
+const TERM_BY = new Map();
+function buildTermRe() {
+  TERM_BY.clear();
+  const forms = [];
+  for (const t of TERMS) for (const m of (t.match || [])) { forms.push(m); TERM_BY.set(norm(m), t.id); }
+  forms.sort((a, b) => b.length - a.length);
+  const alt = forms.map((f) => f.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|");
+  try { TERM_RE = new RegExp("(?<![\\p{L}\\p{N}])(" + alt + ")(?![\\p{L}\\p{N}])", "giu"); } catch (e) { TERM_RE = null; }
+}
+const SKIP_SEL = "a,button,kbd,mark,.term,.spoil,h1,h2,h3,h4,th,td:first-child,.chk-h,.card-f,.card-meta,.ib,.pill,.stage-chips,.agora-cards";
+function linkTerms(root) {
+  if (!TERM_RE) return;
+  for (const box of root.querySelectorAll(".card-b, .agora")) {
+    const used = new Set();
+    const walker = document.createTreeWalker(box, NodeFilter.SHOW_TEXT, {
+      acceptNode(n) {
+        const p = n.parentElement;
+        if (!p || p.closest(SKIP_SEL)) return NodeFilter.FILTER_REJECT;
+        return n.nodeValue.trim() ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+      },
+    });
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    for (const node of nodes) {
+      const text = node.nodeValue;
+      TERM_RE.lastIndex = 0;
+      let m, last = 0, frag = null;
+      while ((m = TERM_RE.exec(text))) {
+        const id = TERM_BY.get(norm(m[1]));
+        if (!id || used.has(id)) continue;
+        used.add(id);
+        frag = frag || document.createDocumentFragment();
+        frag.append(text.slice(last, m.index));
+        const b = document.createElement("span");
+        b.className = "term"; b.dataset.term = id; b.textContent = m[1];
+        b.setAttribute("role", "button"); b.setAttribute("tabindex", "0");
+        b.setAttribute("aria-label", m[1] + ": " + T("seeDef"));
+        frag.append(b);
+        last = m.index + m[1].length;
+      }
+      if (frag) { frag.append(text.slice(last)); node.replaceWith(frag); }
+    }
+  }
+}
+const pop = $("#pop");
+let popFor = null;
+function showPop(btn) {
+  const t = TERM[btn.dataset.term];
+  if (!t) return;
+  pop.innerHTML = `<strong>${esc(t.t)}</strong><span>${inline(t.d)}</span><br><a class="pop-more" href="#termo-${t.id}">${T("seeGlossary")}</a>`;
+  pop.hidden = false;
+  popFor = btn;
+  const r = btn.getBoundingClientRect();
+  const vw = document.documentElement.clientWidth;
+  const pw = pop.offsetWidth, ph = pop.offsetHeight;
+  let left = r.left + window.scrollX;
+  left = Math.min(left, window.scrollX + vw - pw - 12);
+  left = Math.max(left, window.scrollX + 12);
+  let top = r.bottom + window.scrollY + 8;
+  if (r.bottom + ph + 16 > window.innerHeight && r.top - ph - 8 > 0) top = r.top + window.scrollY - ph - 8;
+  pop.style.left = left + "px";
+  pop.style.top = top + "px";
+}
+function hidePop() { if (!pop.hidden) { pop.hidden = true; popFor = null; } }
+
+/* ================= renderização ================= */
+let current = null;
+let filt = { ch: "all", tipo: "all" };
+const secHeader = (grp, title, intro) => `<header class="sec-h"><p class="sec-grp">${esc(grp)}</p><h1>${esc(title)}</h1>${intro ? `<p class="sec-intro">${inline(intro)}</p>` : ""}</header>`;
+
+function renderNav() {
+  let h = "", grp = "";
+  for (const s of SECTIONS) {
+    if (s.grp !== grp) { grp = s.grp; h += `<p class="nav-grp">${esc(grp)}</p>`; }
+    const n = s.id === "glossario" ? TERMS.length : CARDS.filter((c) => c.sec === s.id).length;
+    const now = CARDS.some((c) => c.sec === s.id && c.ch.includes(state.stage));
+    h += `<a class="nav-a" href="#${s.id}" data-sec="${s.id}"><svg class="i" aria-hidden="true"><use href="#i-${s.icon}"/></svg><span>${esc(s.title)}</span>${now ? '<span class="nav-dot" title="${T("hasNow")}"></span>' : ""}<span class="nav-n">${n}</span></a>`;
+  }
+  const nf = Object.keys(state.favs).filter((id) => CARD[id]).length;
+  h += `<p class="nav-grp">${T("yourItems")}</p>`;
+  h += `<a class="nav-a" href="#favoritos" data-sec="favoritos"><svg class="i" aria-hidden="true"><use href="#i-bookmark"/></svg><span>${T("favs")}</span><span class="nav-n">${nf}</span></a>`;
+  h += `<a class="nav-a" href="#novidades" data-sec="novidades"><svg class="i" aria-hidden="true"><use href="#i-spark"/></svg><span>${T("news")}</span></a>`;
+  $("#nav").innerHTML = h;
+  let m = SECTIONS.map((s) => `<a class="chip" href="#${s.id}" data-sec="${s.id}">${esc(s.title)}</a>`).join("");
+  m += `<a class="chip" href="#favoritos" data-sec="favoritos">${T("favs")} (${nf})</a>`;
+  $("#mchips").innerHTML = m;
+  setActiveNav(current);
+}
+function setActiveNav(sec) {
+  for (const a of $$("#nav .nav-a, #mchips .chip")) {
+    if (a.dataset.sec === sec) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
+  }
+  const chip = $(`#mchips .chip[data-sec="${sec}"]`);
+  if (chip && chip.scrollIntoView && window.matchMedia("(max-width: 959px)").matches) {
+    const box = $("#mchips");
+    box.scrollTo({ left: chip.offsetLeft - box.clientWidth / 2 + chip.clientWidth / 2, behavior: reduceMotion ? "auto" : "smooth" });
+  }
+}
+
+function renderChecklist(prefix, items) {
+  const keys = items.map((i) => prefix + ":" + i.id);
+  const done = keys.filter((k) => state.checks[k]).length;
+  let h = `<div class="chk" data-chk="${esc(prefix)}"><div class="chk-h"><span><span class="chk-n">${done}/${items.length}</span> ${T("done")}</span><span class="bar" aria-hidden="true"><i style="width:${Math.round((done / items.length) * 100)}%"></i></span><button type="button" class="chk-reset" data-reset="${esc(prefix)}"${done ? "" : " hidden"}>${T("untick")}</button></div><ul>`;
+  items.forEach((it, n) => {
+    const k = keys[n];
+    const idd = "ck-" + k.replace(/[^a-z0-9-]/gi, "-");
+    h += `<li><label for="${idd}"><input type="checkbox" id="${idd}" data-k="${esc(k)}"${state.checks[k] ? " checked" : ""}><span>${inline(it.t)}</span></label>${it.d ? `<details class="how" data-how="${esc(k)}"><summary>${T("how")}</summary><div class="how-b"><div class="wl-sw" role="group" aria-label="${T("wlLang")}"><button type="button" data-wl="pt" aria-pressed="${state.wl !== "en"}">PT</button><button type="button" data-wl="en" aria-pressed="${state.wl === "en"}">EN</button></div>${block(it.d)}</div></details>` : ""}</li>`;
+  });
+  return h + `</ul></div>`;
+}
+function renderTable(c) {
+  const t = c.table;
+  const filterable = t.rows.length > 8;
+  let h = `<div class="tbl-wrap">`;
+  if (filterable) h += `<label class="tbl-filter"><svg class="i" aria-hidden="true"><use href="#i-search"/></svg><input type="search" data-tblf="${c.id}" placeholder="${T("filterTable")}" aria-label="${T("filterTableOf")} ${esc(c.title)}"></label>`;
+  h += `<div class="tbl-scroll"><table class="tbl"><thead><tr>`;
+  t.cols.forEach((col, i) => {
+    h += t.sort ? `<th scope="col"><button type="button" class="th-sort" data-col="${i}">${esc(col)}<span class="arr" aria-hidden="true"></span></button></th>` : `<th scope="col">${esc(col)}</th>`;
+  });
+  h += `</tr></thead><tbody>`;
+  for (const r of t.rows) {
+    h += "<tr>" + r.map((cell, i) => {
+      const inner = PILL[cell] ? `<span class="pill p-${PILL[cell]}">${esc(cell)}</span>` : inline(cell);
+      return `<td data-label="${esc(t.cols[i])}">${inner}</td>`;
+    }).join("") + "</tr>";
+  }
+  return h + `</tbody></table></div><p class="tbl-empty" hidden>${T("tableEmpty")}</p></div>`;
+}
+function renderCard(c) {
+  const fav = !!state.favs[c.id];
+  const now = c.ch.includes(state.stage);
+  const chs = c.ch.filter((x) => x !== "geral").map((x) => (STAGE[x] ? STAGE[x].short : x));
+  const upd = META.updated && META.updated !== META.baseline;
+  const isNew = upd && c.added === META.updated;
+  const isUpd = upd && !isNew && c.upd === META.updated;
+  let h = `<article class="card k-${c.tipo}${now ? " now" : ""}" id="${c.id}" data-id="${c.id}">`;
+  h += `<div class="card-top"><div class="card-titles"><div class="card-meta"><span class="kind">${KIND[c.tipo] || ""}</span><span class="conf conf-${c.conf}" title="${T("confidence")}">${CONF[c.conf] || ""}</span>`;
+  if (chs.length) h += `<span class="chs">${esc(chs.join(" · "))}</span>`;
+  if (now) h += `<span class="badge-now">${T("now")}</span>`;
+  if (isNew) h += `<span class="badge-new">${T("isNew")}</span>`;
+  if (isUpd) h += `<span class="badge-new">${T("updated")}</span>`;
+  h += `</div><h3 class="card-t">${esc(c.title)}</h3><p class="card-sum">${inline(c.sum)}</p></div>`;
+  h += `<div class="card-actions">`;
+  h += `<button type="button" class="ibtn exp-btn" data-exp="${c.id}" aria-expanded="false" aria-label="${T("toggleCard")}"><svg class="i" aria-hidden="true"><use href="#i-chev"/></svg></button>`;
+  h += `<button type="button" class="ibtn" data-copy="${c.id}" aria-label="${T("copyCard")}" title="${T("copyText")}"><svg class="i" aria-hidden="true"><use href="#i-copy"/></svg></button>`;
+  h += `<button type="button" class="ibtn fav" data-fav="${c.id}" aria-pressed="${fav}" aria-label="${fav ? T("unfav") : T("fav")}" title="${T("favorite")}"><svg class="i" aria-hidden="true"><use href="#i-bookmark"/></svg></button>`;
+  h += `</div></div><div class="card-b">`;
+  if (c.table) { h += renderTable(c); if (c.body) h += `<div class="after">${block(c.body)}</div>`; }
+  else if (c.body) h += block(c.body);
+  if (c.check) h += renderChecklist(c.id, c.check);
+  if (c.div) h += `<div class="callout div"><svg class="i" aria-hidden="true"><use href="#i-scale"/></svg><div><strong>${T("diverge")}</strong> ${inline(c.div)}</div></div>`;
+  h += `</div>`;
+  if (c.src && c.src.length) h += `<footer class="card-f">${T("sources")} ${c.src.map(esc).join(", ")}</footer>`;
+  return h + `</article>`;
+}
+function renderFilters(cards) {
+  const chs = STAGE_IDS.filter((st) => cards.some((c) => c.ch.includes(st)));
+  const tipos = Object.keys(KIND).filter((t) => cards.some((c) => c.tipo === t));
+  const showCh = chs.length >= 2, showTipo = tipos.length >= 2 && cards.length >= 5;
+  let h = `<div class="filters" role="group" aria-label="${T("filterCards")}">`;
+  const chip = (f, v, label, dot) => `<button type="button" class="chip" data-f="${f}" data-v="${v}" aria-pressed="${filt[f] === v}">${dot ? '<span class="dot" title="${T("yourMoment")}"></span>' : ""}${esc(label)}</button>`;
+  if (showCh) h += `<div class="f-row"><span class="f-lbl">${T("moment")}</span>${chip("ch", "all", T("all"))}${chs.map((st) => chip("ch", st, STAGE[st].short, st === state.stage)).join("")}</div>`;
+  if (showTipo) h += `<div class="f-row"><span class="f-lbl">${T("type")}</span>${chip("tipo", "all", T("all"))}${tipos.map((t) => chip("tipo", t, TIPOS[t])).join("")}</div>`;
+  h += `<div class="f-row"><span class="count" id="count"></span></div></div>`;
+  return h;
+}
+function applyFilters() {
+  const els = $$("#cards > .card");
+  let shown = 0;
+  for (const el of els) {
+    const c = CARD[el.dataset.id];
+    const ok = (filt.ch === "all" || c.ch.includes(filt.ch) || c.ch.includes("geral")) && (filt.tipo === "all" || c.tipo === filt.tipo);
+    el.hidden = !ok;
+    if (ok) shown++;
+  }
+  const cnt = $("#count");
+  if (cnt) cnt.textContent = shown === els.length ? T("cards", els.length) : T("showing", shown, els.length);
+  for (const b of $$(".filters [data-f]")) b.setAttribute("aria-pressed", String(filt[b.dataset.f] === b.dataset.v));
+}
+
+function renderAgora() {
+  const st = STAGE[state.stage] || STAGES[0];
+  const chips = STAGES.map((s) => `<button type="button" class="chip" data-stage="${s.id}" aria-pressed="${s.id === st.id}">${esc(s.label)}</button>`).join("");
+  const rel = CARDS.filter((c) => c.ch.includes(st.id));
+  let h = `<section class="panel agora" aria-labelledby="agora-t"><h2 id="agora-t">${T("whereYouAre")}</h2><p class="panel-sub">${T("whereSub")}</p>`;
+  h += `<div class="stage-chips" role="group" aria-label="${T("momentInGame")}">${chips}</div><div class="agora-grid"><div><h3>${T("doNow")}</h3>${renderChecklist("stage:" + st.id, st.agora)}</div><div class="agora-side">`;
+  if (st.libera.length) h += `<div><h3>${T("unlocks")}</h3><ul class="plain">${st.libera.map((x) => `<li>${inline(x)}</li>`).join("")}</ul></div>`;
+  if (st.evite.length) h += `<div><h3>${T("avoid")}</h3><ul class="plain">${st.evite.map((x) => `<li>${inline(x)}</li>`).join("")}</ul></div>`;
+  h += `</div></div>`;
+  if (st.proximo) h += `<p class="agora-next"><strong>${T("nextMilestone")}</strong> ${inline(st.proximo)}</p>`;
+  if (rel.length) h += `<div class="agora-rel"><h3>${T("cardsNow")}</h3><div class="agora-cards">${rel.map((c) => `<a href="#${c.id}">${esc(c.title)}</a>`).join("")}</div></div>`;
+  h += `<p class="ask-hint">${T("askHintA")} <button type="button" data-open-search>${T("askHintB")}</button> ${T("askHintC")}</p></section>`;
+  return h;
+}
+
+let fstate = null;
+function fugaInit() {
+  if (fstate || !FUGA) return;
+  const p = FUGA.padrao || {};
+  fstate = { estado: p.estado || "vendo", nivel: p.nivel || 2, heat: new Set(p.heat || []), ctx: new Set(p.contexto || []) };
+}
+function renderFuga() {
+  fugaInit();
+  const f = FUGA;
+  const opt = (attr, val, label, on, extra) => `<button type="button" class="opt${extra || ""}" data-${attr}="${val}" aria-pressed="${on}">${label}</button>`;
+  let h = `<section class="panel fuga" aria-labelledby="fuga-t"><div class="fuga-top"><h2 id="fuga-t">${T("fuga")}</h2><div class="stars" id="stars" aria-hidden="true"></div></div>`;
+  h += `<p class="panel-sub">${T("fugaSub")}</p><div class="fuga-grid"><div>`;
+  h += `<fieldset><legend>${T("stars")}</legend><div class="opts">${f.estados.map((e) => opt("fe", e.id, `<span>${esc(e.label)}</span><small>${esc(e.hint)}</small>`, fstate.estado === e.id)).join("")}</div></fieldset>`;
+  h += `<fieldset><legend>${T("level")}</legend><div class="opts">${[1, 2, 3, 4, 5, 6].map((n) => `<button type="button" class="opt num" data-fn="${n}" aria-pressed="${fstate.nivel === n}" aria-label="${T("starN", n)}">${n}</button>`).join("")}</div></fieldset>`;
+  h += `<fieldset><legend>${T("heatIcons")}</legend><div class="opts">${f.heat.map((x) => opt("fh", x.id, esc(x.label), fstate.heat.has(x.id))).join("")}</div></fieldset>`;
+  h += `<fieldset><legend>${T("situation")}</legend><div class="opts">${f.contexto.map((x) => opt("fc", x.id, esc(x.label), fstate.ctx.has(x.id))).join("")}</div></fieldset>`;
+  h += `</div><div><h3>${T("yourPlan")}</h3><ol class="plan" id="plan" aria-live="polite"></ol></div></div></section>`;
+  return h;
+}
+function fugaPlan() {
+  const f = FUGA, s = fstate, steps = [];
+  const est = f.estados.find((e) => e.id === s.estado) || f.estados[0];
+  steps.push({ t: est.passo, hl: true });
+  const ativo = s.estado === "vendo" || s.estado === "piscando";
+  if (ativo) {
+    const nv = f.niveis.find((n) => s.nivel >= n.min && s.nivel <= n.max);
+    if (nv) steps.push({ t: nv.passo });
+    if (s.ctx.has("carro") && s.ctx.has("cidade") && s.nivel >= 3) steps.push({ t: f.carroCidade });
+  }
+  for (const c of f.contexto) if (s.ctx.has(c.id) && c.passo) steps.push({ t: c.passo });
+  for (const x of f.heat) if (s.heat.has(x.id)) steps.push({ t: x.passo });
+  for (const t of f.final) steps.push({ t });
+  return steps;
+}
+function updateFuga() {
+  const plan = $("#plan");
+  if (!plan || !fstate) return;
+  plan.innerHTML = fugaPlan().map((x) => `<li${x.hl ? ' class="hl"' : ""}><span>${inline(x.t)}</span></li>`).join("");
+  const stars = $("#stars");
+  stars.className = "stars st-" + fstate.estado;
+  stars.innerHTML = [1, 2, 3, 4, 5, 6].map((n) => `<svg viewBox="0 0 24 24" class="star ${n <= fstate.nivel ? "on" : "off"}"><path d="M12 2.8l2.75 5.95 6.5.72-4.83 4.42 1.33 6.4L12 17.05 6.25 20.3l1.33-6.4L2.75 9.47l6.5-.72z"/></svg>`).join("");
+  for (const b of $$(".fuga [data-fe]")) b.setAttribute("aria-pressed", String(b.dataset.fe === fstate.estado));
+  for (const b of $$(".fuga [data-fn]")) b.setAttribute("aria-pressed", String(+b.dataset.fn === fstate.nivel));
+  for (const b of $$(".fuga [data-fh]")) b.setAttribute("aria-pressed", String(fstate.heat.has(b.dataset.fh)));
+  for (const b of $$(".fuga [data-fc]")) b.setAttribute("aria-pressed", String(fstate.ctx.has(b.dataset.fc)));
+}
+
+function relatedCards(t) {
+  const forms = (t.match || []).map(norm);
+  const out = [];
+  for (const e of INDEX) {
+    if (e.type !== "card") continue;
+    if (forms.some((f) => wordHit(e.b, f) === 3)) out.push(e.c);
+  }
+  return out;
+}
+function renderGlossario() {
+  const terms = TERMS.slice().sort((a, b) => a.t.localeCompare(b.t, state.wl === "en" ? "en" : "pt", { sensitivity: "base" }));
+  let h = `<label class="tbl-filter"><svg class="i" aria-hidden="true"><use href="#i-search"/></svg><input type="search" id="glos-f" placeholder="${T("filterTerms", terms.length)}" aria-label="${T("filterGlossary")}"></label><div id="glos">`;
+  let letter = "", open = false;
+  for (const t of terms) {
+    const L = norm(t.t).charAt(0).toUpperCase();
+    if (L !== letter) {
+      if (open) h += `</dl></section>`;
+      letter = L; open = true;
+      h += `<section class="glos-g"><h2 class="glos-l">${esc(L)}</h2><dl class="glos">`;
+    }
+    const rel = relatedCards(t).slice(0, 4);
+    const q = norm([t.t, t.d].concat(t.aka || [], t.match || []).join(" "));
+    h += `<div class="glos-i" id="termo-${t.id}" data-q="${esc(q)}"><dt>${esc(t.t)}</dt><dd>${inline(t.d)}</dd>${rel.length ? `<dd class="glos-rel">${T("appearsIn")} ${rel.map((c) => `<a href="#${c.id}">${esc(c.title)}</a>`).join(", ")}</dd>` : ""}</div>`;
+  }
+  if (open) h += `</dl></section>`;
+  return h + `</div><p class="tbl-empty" id="glos-empty" hidden>${T("noTerm")}</p>`;
+}
+function filterGlossary(v) {
+  const toks = tokens(v);
+  let n = 0;
+  for (const it of $$("#glos .glos-i")) {
+    const ok = !toks.length || toks.every((w) => (SYN.get(w) || [w]).some((a) => it.dataset.q.includes(a)));
+    it.hidden = !ok;
+    if (ok) n++;
+  }
+  for (const g of $$("#glos .glos-g")) g.hidden = !$$(".glos-i", g).some((i) => !i.hidden);
+  $("#glos-empty").hidden = n > 0;
+}
+function renderNovidades() {
+  let h = secHeader(T("yourItems"), T("news"), T("newsIntro"));
+  h += `<div class="cards">` + CHANGES.slice().reverse().map((ch) => `<article class="card k-plano"><div class="card-meta"><span class="kind">${esc(fmtDate(ch.date))}</span></div><h3 class="card-t">${esc(ch.title)}</h3><p class="card-sum">${inline(ch.text)}</p></article>`).join("") + `</div>`;
+  if (META.note) h += `<p class="note">${esc(META.note)}</p>`;
+  return h;
+}
+
+let spy = null;
+function renderRail(cards) {
+  const rail = $("#rail");
+  if (spy) { spy.disconnect(); spy = null; }
+  if (!cards || cards.length < 2) { rail.innerHTML = ""; return; }
+  rail.innerHTML = `<h2>${T("inSection")}</h2>` + cards.map((c) => `<a href="#${c.id}" data-rail="${c.id}">${esc(c.title)}</a>`).join("");
+  if (!("IntersectionObserver" in window)) return;
+  spy = new IntersectionObserver((entries) => {
+    for (const en of entries) {
+      if (!en.isIntersecting) continue;
+      for (const a of $$("#rail a")) a.classList.toggle("active", a.dataset.rail === en.target.id);
+    }
+  }, { rootMargin: "-15% 0px -70% 0px" });
+  for (const el of $$("#view .card[id]")) spy.observe(el);
+}
+
+function renderView(id) {
+  const view = $("#view");
+  let h = "", cards = [];
+  if (SECTION[id]) {
+    const s = SECTION[id];
+    cards = CARDS.filter((c) => c.sec === id);
+    h += secHeader(s.grp, s.title, s.intro);
+    if (id === "inicio") h += renderAgora();
+    if (id === "policia" && FUGA) h += renderFuga();
+    if (id === "glossario") h += renderGlossario();
+    if (cards.length) h += renderFilters(cards) + `<div class="cards" id="cards">${cards.map(renderCard).join("")}</div>`;
+  } else if (id === "favoritos") {
+    cards = CARDS.filter((c) => state.favs[c.id]);
+    h += secHeader(T("yourItems"), T("favs"), T("favIntro"));
+    h += cards.length ? `<div class="cards">${cards.map(renderCard).join("")}</div>` : `<div class="empty">${T("favEmptyA")} <svg class="i" aria-hidden="true"><use href="#i-bookmark"/></svg> ${T("favEmptyB")}</div>`;
+  } else if (id === "novidades") {
+    h += renderNovidades();
+  }
+  view.innerHTML = h;
+  current = id;
+  linkTerms(view);
+  applyFilters();
+  if (id === "policia") updateFuga();
+  renderRail(cards);
+}
+function rerender() {
+  const y = window.scrollY;
+  renderView(current);
+  window.scrollTo(0, y);
+}
+
+/* ================= navegação ================= */
+function route(id, instant) {
+  hidePop();
+  closeDrawer();
+  let sec = "inicio", target = null;
+  if (SECTION[id] || id === "favoritos" || id === "novidades") sec = id;
+  else if (CARD[id]) { sec = CARD[id].sec; target = id; }
+  else if (/^termo-/.test(id) && TERM[id.slice(6)]) { sec = "glossario"; target = id; }
+  const changed = sec !== current;
+  if (changed) { filt = { ch: "all", tipo: "all" }; renderView(sec); }
+  setActiveNav(sec);
+  if (target) {
+    let el = document.getElementById(target);
+    if (el && el.hidden) { filt = { ch: "all", tipo: "all" }; applyFilters(); }
+    if (el && el.closest(".glos-i") || (el && el.classList.contains("glos-i"))) {
+      const f = $("#glos-f");
+      if (f && f.value) { f.value = ""; filterGlossary(""); }
+    }
+    if (el) {
+      if (el.classList.contains("card")) { el.classList.add("open"); const b = $(".exp-btn", el); if (b) b.setAttribute("aria-expanded", "true"); }
+      el.scrollIntoView({ block: "start", behavior: instant || reduceMotion ? "auto" : "smooth" });
+      el.classList.remove("flash"); void el.offsetWidth; el.classList.add("flash");
+      setTimeout(() => el.classList.remove("flash"), 1900);
+    }
+  } else if (changed) {
+    window.scrollTo(0, 0);
+  }
+  if (changed) { const m = $("#main"); if (m && document.activeElement && document.activeElement.closest && document.activeElement.closest("#nav, #mchips")) m.focus({ preventScroll: true }); }
+}
+function go(id) {
+  if (location.hash.slice(1) === id) route(id);
+  else location.hash = id;
+}
+window.addEventListener("hashchange", () => route(decodeURIComponent(location.hash.slice(1))));
+function toggleDrawer(force) {
+  const side = $("#side");
+  const open = typeof force === "boolean" ? force : !side.classList.contains("open");
+  side.classList.toggle("open", open);
+  $("#scrim").classList.toggle("on", open);
+  $("#menu-btn").setAttribute("aria-expanded", String(open));
+  if (open) { const a = $("#nav [aria-current]") || $("#side-search"); if (a) a.focus({ preventScroll: true }); }
+}
+function closeDrawer() { if ($("#side").classList.contains("open")) toggleDrawer(false); }
+
+/* ================= preferências e progresso ================= */
+function applyPrefs() {
+  html.dataset.plat = state.plat;
+  html.classList.toggle("spoil-on", state.spoiler);
+  html.classList.toggle("compact", state.compact);
+  html.classList.toggle("wl-en", state.wl === "en");
+  for (const b of $$("[data-wl]")) b.setAttribute("aria-pressed", String(b.dataset.wl === state.wl));
+  for (const b of $$("[data-setplat]")) b.setAttribute("aria-pressed", String(b.dataset.setplat === state.plat));
+  $("#pref-spoiler").checked = state.spoiler;
+  $("#pref-compact").checked = state.compact;
+  const sel = $("#stage-sel");
+  if (sel.options.length) sel.value = state.stage;
+}
+function setStage(id) {
+  if (!STAGE[id] || state.stage === id) return;
+  state.stage = id;
+  commit();
+  applyPrefs();
+  renderNav();
+  rerender();
+}
+function updateProgress() {
+  const total = ALLKEYS.length;
+  const done = ALLKEYS.filter((k) => state.checks[k]).length;
+  $("#prog").innerHTML = `<div class="prog-row"><span>${T("ticked")}</span><strong>${done} ${T("of")} ${total}</strong></div><span class="bar" aria-hidden="true"><i style="width:${total ? Math.round((done / total) * 100) : 0}%"></i></span>`;
+}
+function updateChk(box) {
+  if (!box) return;
+  const ins = $$("input[data-k]", box);
+  const done = ins.filter((i) => i.checked).length;
+  $(".chk-n", box).textContent = `${done}/${ins.length}`;
+  $(".chk-h .bar i", box).style.width = Math.round((done / ins.length) * 100) + "%";
+  const r = $(".chk-reset", box);
+  if (r) r.hidden = !done;
+}
+let toastTimer = null;
+function toast(msg, action) {
+  const t = $("#toast");
+  t.innerHTML = `<span>${esc(msg)}</span>`;
+  if (action) {
+    const b = document.createElement("button");
+    b.type = "button"; b.textContent = action.label;
+    b.addEventListener("click", () => { action.fn(); t.classList.remove("on"); });
+    t.append(b);
+  }
+  t.classList.add("on");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => t.classList.remove("on"), action ? 6000 : 2600);
+}
+function resetChk(prefix) {
+  const box = $(`.chk[data-chk="${CSS.escape(prefix)}"]`);
+  if (!box) return;
+  const prev = [];
+  for (const i of $$("input[data-k]", box)) { if (i.checked) prev.push(i.dataset.k); i.checked = false; delete state.checks[i.dataset.k]; }
+  commit(); updateChk(box); updateProgress();
+  toast(T("listUnticked"), { label: T("undo"), fn: () => { for (const k of prev) state.checks[k] = true; commit(); rerender(); updateProgress(); } });
+}
+function toggleFav(id) {
+  if (state.favs[id]) delete state.favs[id]; else state.favs[id] = 1;
+  commit();
+  const on = !!state.favs[id];
+  for (const b of $$(`[data-fav="${CSS.escape(id)}"]`)) { b.setAttribute("aria-pressed", String(on)); b.setAttribute("aria-label", on ? T("unfav") : T("fav")); }
+  renderNav();
+  toast(on ? T("favAdded") : T("favRemoved"));
+  if (current === "favoritos") rerender();
+}
+async function copyCard(id) {
+  const c = CARD[id];
+  if (!c) return;
+  const text = cardText(c) + "\n\n(" + T("brand") + ")";
+  try { await navigator.clipboard.writeText(text); toast(T("copied")); }
+  catch (e) { toast(T("copyFail")); }
+}
+const coll = new Intl.Collator("pt", { numeric: true, sensitivity: "base" });
+function cellKey(td) {
+  const s = td.textContent.trim();
+  if (!s || s === "—") return { empty: true, s };
+  if (/^(grátis|bônus|free|bonus)$/i.test(s)) return { n: 0, s };
+  if (state.wl === "en") { const me = s.match(/^(?:US\$|\$|R\$|~)?\s*~?\s*(\d{1,3}(?:,\d{3})+|\d+)(?:\.(\d+))?/); if (me) return { n: parseFloat(me[1].replace(/,/g, "") + (me[2] ? "." + me[2] : "")), s }; return { s }; }
+  const m = s.match(/^(?:US\$|R\$|~)?\s*~?\s*(\d{1,3}(?:\.\d{3})+|\d+)(?:,(\d+))?/);
+  if (m) return { n: parseFloat(m[1].replace(/\./g, "") + (m[2] ? "." + m[2] : "")), s };
+  return { s };
+}
+function sortTable(btn) {
+  const table = btn.closest("table");
+  const col = +btn.dataset.col;
+  const dir = btn.dataset.dir === "asc" ? "desc" : "asc";
+  for (const b of $$(".th-sort", table)) { b.removeAttribute("data-dir"); b.closest("th").removeAttribute("aria-sort"); }
+  btn.dataset.dir = dir;
+  btn.closest("th").setAttribute("aria-sort", dir === "asc" ? "ascending" : "descending");
+  const tb = table.tBodies[0];
+  const rows = Array.from(tb.rows);
+  rows.sort((a, b) => {
+    const x = cellKey(a.cells[col]), y = cellKey(b.cells[col]);
+    if (x.empty || y.empty) return x.empty === y.empty ? 0 : x.empty ? 1 : -1;
+    let r;
+    if (x.n != null && y.n != null) r = x.n - y.n;
+    else if (x.n != null) r = -1;
+    else if (y.n != null) r = 1;
+    else r = coll.compare(x.s, y.s);
+    return dir === "asc" ? r : -r;
+  });
+  for (const r of rows) tb.appendChild(r);
+}
+
+/* ================= paleta de busca ================= */
+const pal = $("#pal"), q = $("#q"), palList = $("#pal-list");
+const SUGSL = { pt: ["estrelas vazadas", "contas zeradas", "garagem barata", "colete", "correr", "Moses", "meditação", "lista do Randy", "cofre de banco", "rastreador", "plano de saves", "Dye Pack Jammer"], en: ["hollow stars", "money reset", "cheap garage", "body armor", "sprint", "Moses", "meditation", "Randy's Wish List", "bank vault", "tracker", "save plan", "Dye Pack Jammer"] };
+function renderSugs() { $("#pal-sug-list").innerHTML = (SUGSL[state.wl] || SUGSL.pt).map((s) => `<button type="button" class="chip" data-sug="${esc(s)}">${esc(s)}</button>`).join(""); }
+renderSugs();
+let palItems = [], palActive = -1, palOpener = null;
+function openPalette(prefill) {
+  if (!INDEX.length) return;
+  palOpener = document.activeElement;
+  pal.hidden = false;
+  html.classList.add("noscroll");
+  hidePop(); closeDrawer();
+  if (typeof prefill === "string") q.value = prefill;
+  renderResults();
+  requestAnimationFrame(() => { q.focus(); q.select(); });
+}
+function closePalette() {
+  if (pal.hidden) return;
+  pal.hidden = true;
+  html.classList.remove("noscroll");
+  if (askCtl) askCtl.abort();
+  if (palOpener && palOpener.focus && document.body.contains(palOpener)) palOpener.focus({ preventScroll: true });
+}
+function markActive() {
+  $$(".res", palList).forEach((a, i) => a.setAttribute("aria-selected", String(i === palActive)));
+  if (palActive >= 0) {
+    q.setAttribute("aria-activedescendant", "res-" + palActive);
+    const el = $("#res-" + palActive);
+    if (el) el.scrollIntoView({ block: "nearest" });
+  } else q.removeAttribute("aria-activedescendant");
+}
+function renderResults() {
+  const v = q.value.trim();
+  if (!askRunning) { $("#ask-res").hidden = true; $("#ask-out").innerHTML = ""; }
+  if (!v) {
+    $("#pal-sug").hidden = false; palList.innerHTML = ""; palItems = []; palActive = -1;
+    $("#pal-empty").hidden = true; $("#pal-ask").hidden = true; markActive();
+    return;
+  }
+  $("#pal-sug").hidden = true;
+  const toks = tokens(v);
+  const res = search(v, 50);
+  const cards = res.filter((r) => r.e.type === "card").slice(0, 16);
+  const terms = res.filter((r) => r.e.type === "term").slice(0, 5);
+  const secs = res.filter((r) => r.e.type === "sec").slice(0, 3);
+  let h = "";
+  palItems = [];
+  const item = (href, sub, title, snip) => {
+    const i = palItems.length;
+    palItems.push(href);
+    return `<li role="presentation"><a class="res" id="res-${i}" role="option" href="#${href}" data-res="${i}"><span class="res-s">${sub}</span><span class="res-t">${title}</span>${snip ? `<span class="res-x">${snip}</span>` : ""}</a></li>`;
+  };
+  if (cards.length) { h += `<li class="res-grp" role="presentation">${T("grpCards")}</li>`; for (const r of cards) { const c = r.e.c; h += item(c.id, esc(SECTION[c.sec].title) + " · " + esc(KIND[c.tipo]), highlight(c.title, toks), snippet(c, toks)); } }
+  if (terms.length) { h += `<li class="res-grp" role="presentation">${T("grpTerms")}</li>`; for (const r of terms) h += item("termo-" + r.e.id, T("term"), highlight(r.e.term.t, toks), highlight(r.e.term.d, toks)); }
+  if (secs.length) { h += `<li class="res-grp" role="presentation">${T("grpSecs")}</li>`; for (const r of secs) h += item(r.e.id, T("section"), highlight(r.e.sect.title, toks), esc(r.e.sect.intro)); }
+  palList.innerHTML = h;
+  $("#pal-empty").hidden = palItems.length > 0;
+  palActive = palItems.length ? 0 : -1;
+  markActive();
+  const askBox = $("#pal-ask");
+  askBox.hidden = !askAvailable();
+  if (!askRunning) $("#ask-q").textContent = v;
+}
+q.addEventListener("keydown", (e) => {
+  if (e.key === "ArrowDown" && palItems.length) { e.preventDefault(); palActive = (palActive + 1) % palItems.length; markActive(); }
+  else if (e.key === "ArrowUp" && palItems.length) { e.preventDefault(); palActive = (palActive - 1 + palItems.length) % palItems.length; markActive(); }
+  else if (e.key === "Enter") {
+    e.preventDefault();
+    if (palActive >= 0) { const id = palItems[palActive]; closePalette(); go(id); }
+    else if (askAvailable() && q.value.trim()) startAsk(q.value.trim());
+  }
+});
+
+/* ================= perguntar ao Claude ================= */
+let sampler = null, samplerTools = false, askOff = false, askCtl = null, askRunning = false;
+const askAvailable = () => !!sampler && !askOff;
+const ASK_OFF = ["not_granted", "sampling_disabled", "not_declared", "capability_disabled", "capability_removed"];
+const ASK_MSG = {
+  cancelled: "Interrompido.",
+  rate_limited: "Muitas perguntas seguidas. Tente de novo daqui a pouco.",
+  session_expired: "A sua sessão expirou. Entre de novo no Claude e tente outra vez.",
+  refused: "O Claude não respondeu a essa pergunta. Tente perguntar de outro jeito.",
+  empty_completion: "Não veio resposta. Tente perguntar de outro jeito.",
+  prompt_too_large: "A pergunta ficou grande demais. Tente algo mais curto.",
+  not_granted: "O uso do Claude não foi permitido nesta página.",
+  sampling_disabled: "O Claude não está disponível nesta conta.",
+  not_declared: "O Claude não está disponível nesta versão da página.",
+  capability_disabled: "O Claude não está disponível nesta visualização.",
+  capability_removed: "O Claude não está disponível nesta visualização.",
+  tools_unavailable: "Não deu para buscar no guia. Tente de novo.",
+};
+const ASK_MSG_EN = {
+  cancelled: "Stopped.", rate_limited: "Too many questions in a row. Try again shortly.", session_expired: "Your session expired. Sign in to Claude again and retry.",
+  refused: "Claude didn't answer that. Try asking another way.", empty_completion: "No answer came back. Try asking another way.", prompt_too_large: "The question got too long. Try something shorter.",
+  not_granted: "Claude isn't allowed on this page.", sampling_disabled: "Claude isn't available on this account.", not_declared: "Claude isn't available in this version of the page.",
+  capability_disabled: "Claude isn't available in this view.", capability_removed: "Claude isn't available in this view.", tools_unavailable: "Couldn't search the guide. Try again.",
+};
+const TOOL = {
+  name: "buscar_no_guia",
+  description: "Busca no guia por palavras-chave em português e devolve até 5 trechos com id, título, seção e texto. Use quando os trechos enviados não bastarem para responder.",
+  inputSchema: { type: "object", properties: { termos: { type: "string", description: "Palavras-chave, por exemplo: garagem barata" } }, required: ["termos"] },
+  execute(input) {
+    const t = String((input && input.termos) || "").slice(0, 200);
+    const r = search(t, 30).filter((x) => x.e.type === "card").slice(0, 5).map((x) => ({ id: x.e.c.id, titulo: x.e.c.title, secao: SECTION[x.e.c.sec].title, texto: cardText(x.e.c, 1500) }));
+    if (!r.length) throw new Error("Nada encontrado para: " + t);
+    $("#ask-stat").textContent = T("consulting");
+    return r;
+  },
+};
+function buildPrompt(question, ctx) {
+  if (state.wl === "en") return `You answer questions about the "Interactive GTA VI Guide", a fan guide shown in English, spoiler-free outside the mission walkthroughs.
+
+Rules:
+- Use ONLY the guide excerpts below${samplerTools ? " and the buscar_no_guia tool" : ""}. Don't use your own knowledge of the game.
+- Answer in English, to the point, in at most 120 words. Use a numbered list for step-by-step answers.
+- Don't reveal story details unless the question is about a mission walkthrough.
+- Cite the excerpts you used with their id in double brackets, e.g. [[policia-heat]]. Use only ids that appear in the excerpts.
+- If the guide's sources disagree, say so in one sentence.
+- If the guide doesn't answer, say the guide doesn't have that yet and point to the closest excerpt.
+
+Guide excerpts:
+${ctx || "(local search found no excerpts)"}
+
+Player's question: ${question}`;
+  return `Você responde dúvidas sobre o "Guia interativo de GTA VI", um guia de fã em português do Brasil, sem spoilers da história do jogo.
+
+Regras:
+- Use SOMENTE as informações dos trechos do guia abaixo${samplerTools ? " e da ferramenta buscar_no_guia" : ""}. Não use conhecimento próprio sobre o jogo.
+- Responda em português do Brasil, direto ao ponto, em no máximo 120 palavras. Use uma lista numerada se a resposta for um passo a passo.
+- Não conte nada do enredo.
+- Cite os trechos que usou com o id entre colchetes duplos, por exemplo [[policia-heat]]. Use apenas ids que aparecem nos trechos.
+- Se as fontes do guia discordam, diga isso em uma frase.
+- Se o guia não responde, diga que o guia ainda não tem essa informação e aponte o trecho mais próximo.
+
+Trechos do guia:
+${ctx || "(a busca local não encontrou trechos)"}
+
+Pergunta do jogador: ${question}`;
+}
+async function startAsk(question) {
+  if (!askAvailable() || askRunning || !question) return;
+  askRunning = true;
+  const res = $("#ask-res"), out = $("#ask-out"), stat = $("#ask-stat"), stop = $("#ask-stop"), goBtn = $("#ask-go");
+  res.hidden = false; out.innerHTML = ""; stat.textContent = T("thinking"); stop.hidden = false; goBtn.disabled = true;
+  $("#ask-q").textContent = question;
+  const top = search(question, 40).filter((r) => r.e.type === "card").slice(0, 8).map((r) => r.e.c);
+  const ctx = top.map((c) => `### [[${c.id}]] ${c.title} (${state.wl === "en" ? "section" : "seção"}: ${SECTION[c.sec].title})\n${cardText(c, 1800)}`).join("\n\n");
+  const ctl = new AbortController();
+  askCtl = ctl;
+  const opts = { signal: ctl.signal, modelTier: "quick", onText: ({ text }) => { stat.textContent = ""; out.innerHTML = block(text); } };
+  if (samplerTools) opts.tools = [TOOL];
+  try {
+    const r = await sampler(buildPrompt(question, ctx), opts);
+    out.innerHTML = block(r.text);
+    stat.textContent = r.truncated ? T("truncated") : "";
+  } catch (e) {
+    const code = e && e.code;
+    if (code === "refused") out.innerHTML = "";
+    else if (e && e.text) out.innerHTML = block(e.text);
+    stat.textContent = (state.wl === "en" ? (ASK_MSG_EN[code]) : ASK_MSG[code]) || T("connFail");
+    if (ASK_OFF.includes(code)) askOff = true;
+    if (code === "tools_unavailable") samplerTools = false;
+  } finally {
+    askRunning = false; stop.hidden = true; goBtn.disabled = false;
+    if (askCtl === ctl) askCtl = null;
+    if (askOff) { goBtn.disabled = true; html.classList.remove("can-ask"); }
+  }
+}
+async function initAsk() {
+  if (!window.claude || typeof window.claude.use !== "function") return;
+  let s = null;
+  try { s = await window.claude.use("sample"); } catch (e) { s = null; }
+  if (!s) return;
+  sampler = s;
+  try { const lim = await s.limits(); samplerTools = !!(lim && lim.tools); } catch (e) { samplerTools = false; }
+  html.classList.add("can-ask");
+  $("#search-lbl").textContent = T("searchAsk");
+  if (!pal.hidden) renderResults();
+}
+
+/* ================= progresso na conta (db) ================= */
+const cloud = { ref: null, readonly: false, busy: false, again: false, retried: false, timer: null };
+const SYNC_TXT_EN = {
+  local: ["device", "Progress saved in this browser"], none: ["device", "Progress isn't saved in this view"], connecting: ["cloud", "Connecting to your account…"],
+  cloud: ["cloud", "Progress saved to your account: works on phone and computer"], slow: ["device", "Your account hasn't answered yet. Saved in this browser for now"],
+  readonly: ["device", "No permission to save to your account. Saved in this browser"], error: ["device", "Couldn't save to your account right now. Saved in this browser"],
+};
+let syncKey = "local";
+const SYNC_TXT = {
+  local: ["device", "Progresso salvo neste navegador"],
+  none: ["device", "O progresso não fica salvo nesta visualização"],
+  connecting: ["cloud", "Conectando à sua conta…"],
+  cloud: ["cloud", "Progresso salvo na sua conta: vale no celular e no computador"],
+  slow: ["device", "A conta ainda não respondeu. Por enquanto, salvo neste navegador"],
+  readonly: ["device", "Sem permissão para salvar na conta. Salvo neste navegador"],
+  error: ["device", "Não deu para salvar na conta agora. Salvo neste navegador"],
+};
+function setSync(k) {
+  if ((k === "local" || k === "slow" || k === "readonly" || k === "error") && !lsOK) k = "none";
+  syncKey = k;
+  const tb = state.wl === "en" ? SYNC_TXT_EN : SYNC_TXT;
+  const [ic, txt] = tb[k] || tb.local;
+  $("#sync").innerHTML = `<svg class="i" aria-hidden="true"><use href="#i-${ic}"/></svg><span>${esc(txt)}</span>`;
+}
+function scheduleCloud() {
+  if (!cloud.ref || cloud.readonly) return;
+  clearTimeout(cloud.timer);
+  cloud.timer = setTimeout(pushCloud, 1200);
+}
+async function pushCloud() {
+  if (!cloud.ref || cloud.readonly) return;
+  if (cloud.busy) { cloud.again = true; return; }
+  cloud.busy = true;
+  try {
+    await cloud.ref.set({ state: JSON.parse(JSON.stringify(state)) });
+    cloud.retried = false;
+    setSync("cloud");
+  } catch (e) {
+    const code = e && e.code;
+    if (code === "invalid_argument") { cloud.readonly = true; setSync("readonly"); }
+    else if (code === "unavailable" && !cloud.retried) { cloud.retried = true; setTimeout(scheduleCloud, 1500 + Math.random() * 2000); }
+    else if (["revoked", "not_granted", "capability_disabled", "capability_removed"].includes(code)) { cloud.ref = null; setSync("local"); }
+    else setSync("error");
+  } finally {
+    cloud.busy = false;
+    if (cloud.again) { cloud.again = false; scheduleCloud(); }
+  }
+}
+async function initCloud() {
+  if (!window.claude || typeof window.claude.use !== "function") { setSync("local"); return; }
+  setSync("connecting");
+  let user = null, db = null;
+  try { user = await window.claude.use("user"); } catch (e) { user = null; }
+  try { db = await window.claude.use("db"); } catch (e) { db = null; }
+  if (!user || !db) { setSync("local"); return; }
+  let uid = null;
+  try { uid = await user.id(); } catch (e) { uid = null; }
+  if (!uid) { setSync("local"); return; }
+  try { cloud.ref = db.doc("data/users/" + uid + "/guia-gta6"); } catch (e) { cloud.ref = null; setSync("local"); return; }
+  let confirmed = false;
+  const timer = setTimeout(() => { if (!confirmed) setSync("slow"); }, 10000);
+  cloud.ref.onSnapshot((snap) => {
+    if (!snap.metadata.fromCache && !confirmed) { confirmed = true; clearTimeout(timer); }
+    const data = snap.exists ? snap.data() : null;
+    const rs = data && isObj(data.state) ? data.state : null;
+    if (rs && typeof rs.t === "number") {
+      if (rs.t > state.t) {
+        state = normalizeState(rs);
+        lsSet(); applyPrefs(); renderNav(); updateProgress(); rerender();
+      } else if (rs.t < state.t && confirmed && !snap.metadata.hasPendingWrites) scheduleCloud();
+    } else if (confirmed && state.t > 0) scheduleCloud();
+    if (confirmed && !cloud.readonly) setSync("cloud");
+  }, () => { clearTimeout(timer); cloud.ref = null; setSync("local"); });
+}
+
+/* ================= eventos ================= */
+document.addEventListener("click", (e) => {
+  const t = e.target;
+  if (!(t instanceof Element)) return;
+  const res = t.closest("a.res");
+  if (res) { e.preventDefault(); const id = palItems[+res.dataset.res]; closePalette(); if (id) go(id); return; }
+  const a = t.closest('a[href^="#"]');
+  if (a && !a.classList.contains("skip")) {
+    const id = a.getAttribute("href").slice(1);
+    if (id) { e.preventDefault(); if (!pal.hidden) closePalette(); hidePop(); go(id); return; }
+  }
+  if (t.closest("#side-search, #tb-search, [data-open-search]")) { openPalette(); return; }
+  const term = t.closest(".term");
+  if (term) { e.preventDefault(); if (popFor === term) hidePop(); else showPop(term); return; }
+  if (!t.closest("#pop")) hidePop();
+  const wlb = t.closest("[data-wl]");
+  if (wlb) { e.preventDefault(); setLang(wlb.dataset.wl === "en" ? "en" : "pt"); return; }
+  const sp = t.closest(".spoil");
+  if (sp) { e.preventDefault(); sp.classList.toggle("shown"); return; }
+  const fav = t.closest("[data-fav]");
+  if (fav) { toggleFav(fav.dataset.fav); return; }
+  const cp = t.closest("[data-copy]");
+  if (cp) { copyCard(cp.dataset.copy); return; }
+  const ex = t.closest("[data-exp]");
+  if (ex) { const card = ex.closest(".card"); const open = card.classList.toggle("open"); ex.setAttribute("aria-expanded", String(open)); return; }
+  const f = t.closest(".filters [data-f]");
+  if (f) { filt[f.dataset.f] = f.dataset.v; applyFilters(); return; }
+  const stg = t.closest("[data-stage]");
+  if (stg) { setStage(stg.dataset.stage); return; }
+  const rs = t.closest("[data-reset]");
+  if (rs) { resetChk(rs.dataset.reset); return; }
+  const th = t.closest(".th-sort");
+  if (th) { sortTable(th); return; }
+  const pl = t.closest("[data-setplat]");
+  if (pl) { state.plat = pl.dataset.setplat === "xbox" ? "xbox" : "ps"; commit(); applyPrefs(); buildIndex(); return; }
+  if (fstate) {
+    const fe = t.closest("[data-fe]"); if (fe) { fstate.estado = fe.dataset.fe; updateFuga(); return; }
+    const fn = t.closest("[data-fn]"); if (fn) { fstate.nivel = +fn.dataset.fn; updateFuga(); return; }
+    const fh = t.closest("[data-fh]"); if (fh) { const k = fh.dataset.fh; fstate.heat.has(k) ? fstate.heat.delete(k) : fstate.heat.add(k); updateFuga(); return; }
+    const fc = t.closest("[data-fc]"); if (fc) { const k = fc.dataset.fc; fstate.ctx.has(k) ? fstate.ctx.delete(k) : fstate.ctx.add(k); updateFuga(); return; }
+  }
+  const sug = t.closest("[data-sug]");
+  if (sug) { q.value = sug.dataset.sug; renderResults(); q.focus(); return; }
+  if (t.closest("#ask-go")) { startAsk(q.value.trim()); return; }
+  if (t.closest("#ask-stop")) { if (askCtl) askCtl.abort(); return; }
+  if (t.closest("#pal-close") || t === pal) { closePalette(); return; }
+  if (t.closest("#menu-btn")) { toggleDrawer(); return; }
+  if (t.id === "scrim") { closeDrawer(); return; }
+});
+document.addEventListener("change", (e) => {
+  const t = e.target;
+  if (t.matches && t.matches("input[data-k]")) {
+    const k = t.dataset.k;
+    if (t.checked) state.checks[k] = true; else delete state.checks[k];
+    commit(); updateChk(t.closest(".chk")); updateProgress();
+    return;
+  }
+  if (t.id === "pref-spoiler") { state.spoiler = t.checked; commit(); applyPrefs(); return; }
+  if (t.id === "pref-compact") { state.compact = t.checked; commit(); applyPrefs(); return; }
+  if (t.id === "stage-sel") { setStage(t.value); return; }
+});
+document.addEventListener("input", (e) => {
+  const t = e.target;
+  if (t.id === "q") { renderResults(); return; }
+  if (t.id === "glos-f") { filterGlossary(t.value); return; }
+  if (t.matches && t.matches("[data-tblf]")) {
+    const wrap = t.closest(".tbl-wrap");
+    const toks = tokens(t.value);
+    let n = 0;
+    for (const tr of $$("tbody tr", wrap)) {
+      const txt = norm(tr.textContent);
+      const ok = !toks.length || toks.every((w) => (SYN.get(w) || [w]).some((a) => txt.includes(a)));
+      tr.hidden = !ok;
+      if (ok) n++;
+    }
+    $(".tbl-empty", wrap).hidden = n > 0;
+  }
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") {
+    if (!pal.hidden) { e.preventDefault(); closePalette(); return; }
+    if (!pop.hidden) { if (popFor) popFor.focus(); hidePop(); return; }
+    closeDrawer();
+    return;
+  }
+  const ae = document.activeElement;
+  const typing = ae && ((ae.tagName === "INPUT" && /^(text|search|email|number|url|tel|password)$/i.test(ae.type)) || ae.tagName === "TEXTAREA" || ae.tagName === "SELECT" || ae.isContentEditable);
+  if (!typing && pal.hidden && (e.key === "/" || ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k"))) { e.preventDefault(); openPalette(); return; }
+  if ((e.key === "Enter" || e.key === " ") && ae && ae.classList && ae.classList.contains("spoil")) { e.preventDefault(); ae.classList.toggle("shown"); }
+  if ((e.key === "Enter" || e.key === " ") && ae && ae.classList && ae.classList.contains("term")) { e.preventDefault(); if (popFor === ae) hidePop(); else showPop(ae); }
+});
+window.addEventListener("scroll", () => { if (!pop.hidden) hidePop(); }, { passive: true });
+window.addEventListener("resize", () => { if (!pop.hidden) hidePop(); });
+
+function applyStatic() {
+  html.lang = state.wl === "en" ? "en" : "pt-BR";
+  document.title = T("brand");
+  for (const el of $$("[data-i18n]")) el.textContent = T(el.dataset.i18n);
+  for (const el of $$("[data-i18n-aria]")) el.setAttribute("aria-label", T(el.dataset.i18nAria));
+  for (const el of $$("[data-i18n-ph]")) el.setAttribute("placeholder", T(el.dataset.i18nPh));
+  $("#search-lbl").textContent = html.classList.contains("can-ask") ? T("searchAsk") : T("search");
+  $("#pal .pal-box").setAttribute("aria-label", T("search"));
+  $("#q").setAttribute("aria-label", T("search"));
+  if (META.updated) $("#brand-s").textContent = T("updatedOn", fmtDate(META.updated));
+  $("#stage-sel").innerHTML = STAGES.map((s) => `<option value="${s.id}">${esc(s.label)}</option>`).join("");
+  $("#stage-sel").value = state.stage;
+  renderSugs();
+  setSync(syncKey);
+}
+function setLang(l) {
+  if (state.wl === l) return;
+  state.wl = l; commit();
+  buildData(); buildIndex(); buildTermRe(); fstate = null;
+  applyStatic(); applyPrefs(); renderNav(); updateProgress();
+  if (!pal.hidden) renderResults();
+  const openHow = $$("details.how[open]").map((d) => d.dataset.how);
+  const anchor = document.activeElement && document.activeElement.closest ? document.activeElement.closest("details.how") : null;
+  if (current) rerender();
+  for (const k of openHow) { const d = document.querySelector(`details.how[data-how="${CSS.escape(k)}"]`); if (d) d.open = true; }
+  if (anchor) { const d = document.querySelector(`details.how[data-how="${CSS.escape(anchor.dataset.how)}"]`); if (d) d.scrollIntoView({ block: "start" }); }
+}
+/* ================= início ================= */
+async function init() {
+  applyPrefs();
+  applyStatic();
+  setSync("local");
+  try {
+    await loadData();
+  } catch (e) {
+    $("#view").innerHTML = `<div class="err"><h1>${T("loadFailT")}</h1><p>${T("loadFailB")}</p><button type="button" class="chip" id="retry">${T("retry")}</button></div>`;
+    $("#retry").addEventListener("click", () => location.reload());
+    return;
+  }
+  buildIndex();
+  buildTermRe();
+  applyStatic();
+  applyPrefs();
+  renderNav();
+  updateProgress();
+  const first = decodeURIComponent(location.hash.slice(1));
+  if ((CARD[first] || /^termo-/.test(first)) && document.fonts && document.fonts.load) {
+    const fonts = Promise.all(['400 16px "Atkinson Hyperlegible"', '700 16px "Atkinson Hyperlegible"', '800 40px "Big Shoulders Display"'].map((f) => document.fonts.load(f).catch(() => null)));
+    await Promise.race([fonts, new Promise((r) => setTimeout(r, 1500))]);
+  }
+  route(first, true);
+  if ((CARD[first] || /^termo-/.test(first)) && document.fonts && document.fonts.ready) {
+    const y0 = window.scrollY;
+    document.fonts.ready.then(() => {
+      const el = document.getElementById(first);
+      if (el && Math.abs(window.scrollY - y0) < 4) el.scrollIntoView({ block: "start" });
+    });
+  }
+  initCloud();
+  initAsk();
+}
+init();
+})();
+</script>
+</body>
+</html>

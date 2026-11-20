@@ -1,0 +1,1331 @@
+[
+ {
+  "kind": "card",
+  "id": "veiculos-waink",
+  "sec": "veiculos",
+  "sub": "roubar",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "WAiNK: escaneie antes de roubar",
+  "sum": "Mostra valor, registro, segurança, ferramenta e rastreador.",
+  "body": "- Segure {↑} para abrir e segure {R1} mirando no carro.\n- Mostra **valor de revenda, custo de registro, nível de segurança, ferramenta necessária e se há rastreador**. O que fazer com cada rastreador: [[veiculos-rastreador]].\n- Escanear também conta para o 100%: **200 de 277 modelos-base** ([[veiculos-categorias]]). Comece no primeiro dia.\n- O mesmo app escaneia locais: [[colecao-waink]].\n- Os pedidos de carros no app WAiNKar rendem sem procurado se você entregar sem arranhão. {{rumor}} (fonte pequena)",
+  "src": [
+   "PowerPyx",
+   "17173 (CN)",
+   "4Gamer",
+   "Pokelog"
+  ],
+  "kw": [
+   "waink",
+   "scanner",
+   "escanear",
+   "wainkar",
+   "valor do carro"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "WAiNK: scan before you steal",
+   "sum": "Shows value, registration, security, tool and tracker.",
+   "body": "- Hold {↑} to open and hold {R1} while aiming at the car.\n- Shows **resale value, registration cost, security level, tool needed and whether there's a tracker**. What to do with each tracker: [[veiculos-rastreador]].\n- Scanning also counts toward 100%: **200 of 277 base models** ([[veiculos-categorias]]). Start on day one.\n- The same app scans locations: [[colecao-waink]].\n- Car requests in the WAiNKar app pay out with no wanted level if you deliver without a scratch. {{rumor}} (small source)",
+   "kw": [
+    "waink",
+    "scanner",
+    "scan",
+    "wainkar",
+    "car value"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-roubo",
+  "sec": "veiculos",
+  "sub": "roubar",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2",
+   "c3"
+  ],
+  "title": "Como roubar carros, por capítulo",
+  "sum": "Cap. 1: vidro ou moto. Cap. 2: Slim Jim. Cap. 3: Key Cloner.",
+  "body": "- **Tirar o motorista à força sempre funciona**, mas gera denúncia. Carro estacionado e sem testemunha, não.\n- Roube carros sozinhos, no fundo do estacionamento, longe de rua movimentada.\n- Escaneie antes com o WAiNK ([[veiculos-waink]]) e veja o rastreador: [[veiculos-rastreador]].\n- **No Cap. 1** só o carro do Jason é seu: carro roubado não fica com você e não pode ser vendido. O roubo mais silencioso é fazer ligação direta numa **moto**: não quebra vidro. Quem vir ainda denuncia.\n- **Ligação direta:** mova os dois analógicos dentro do semicírculo, de forma espelhada, até encher os dois medidores.\n- Carros novos e caros usam **chave eletrônica**: antes do Key Cloner, só tirando alguém que está dando a partida ou dirigindo.\n- Onde vender e os pedidos do Moses: [[veiculos-venda]]. Como ficar com o carro: [[veiculos-registro]].",
+  "table": {
+   "cols": [
+    "Quando",
+    "Ferramenta",
+    "O que dá para roubar"
+   ],
+   "rows": [
+    [
+     "Cap. 1",
+     "Quebrar o vidro (dispara alarme) ou tirar o motorista (gera denúncia)",
+     "Carros baratos e fechaduras simples"
+    ],
+    [
+     "Cap. 2 (missão “Moses”)",
+     "**Slim Jim**: minijogo, sem alarme; vale para os dois personagens",
+     "Sedãs e utilitários comuns"
+    ],
+    [
+     "Cap. 3 (“Clonin' Keys, Makin' GS”)",
+     "**Key Cloner**",
+     "Esportivos de luxo e carros sem chave"
+    ]
+   ],
+   "sort": false
+  },
+  "div": "O Slim Jim chega “por volta de 10 horas” (VGC) ou “por volta de 30%” da história (GameSpot). Os dois apontam para o Cap. 2.",
+  "src": [
+   "Eurogamer",
+   "Gamersky",
+   "IGN",
+   "PC Gamer",
+   "PowerPyx",
+   "Screen Rant",
+   "VGC",
+   "nettoge"
+  ],
+  "kw": [
+   "roubar carro",
+   "slim jim",
+   "key cloner",
+   "ligacao direta",
+   "quebrar vidro"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "How to steal cars, by chapter",
+   "sum": "Ch. 1: window or motorcycle. Ch. 2: Slim Jim. Ch. 3: Key Cloner.",
+   "body": "- **Pulling the driver out always works**, but gets reported. A parked car with no witnesses doesn't.\n- Steal cars that are alone at the back of lots, away from busy roads.\n- Scan first with WAiNK ([[veiculos-waink]]) and check the tracker: [[veiculos-rastreador]].\n- **In Chapter 1** only Jason's car is yours: stolen cars don't stay with you and can't be sold. The quietest theft is hotwiring a **motorcycle**: no glass to break. Anyone who sees still reports you.\n- **Hotwiring:** move both sticks inside the semicircle, mirroring each other, until both meters fill.\n- Newer, pricier cars use **electronic keys**: before the Key Cloner, the only way is yanking out someone who's starting or driving it.\n- Where to sell and Moses's requests: [[veiculos-venda]]. How to keep the car: [[veiculos-registro]].",
+   "table": {
+    "cols": [
+     "When",
+     "Tool",
+     "What you can steal"
+    ],
+    "rows": [
+     [
+      "Ch. 1",
+      "Smash the window (triggers the alarm) or pull the driver out (gets reported)",
+      "Cheap cars and simple locks"
+     ],
+     [
+      "Ch. 2 (“Moses” mission)",
+      "**Slim Jim**: minigame, no alarm; works for both characters",
+      "Common sedans and utility vehicles"
+     ],
+     [
+      "Ch. 3 (“Clonin' Keys, Makin' GS”)",
+      "**Key Cloner**",
+      "Luxury sports cars and keyless cars"
+     ]
+    ],
+    "sort": false
+   },
+   "div": "The Slim Jim arrives “around 10 hours in” (VGC) or “around 30%” of the story (GameSpot). Both point to Ch. 2.",
+   "kw": [
+    "steal car",
+    "slim jim",
+    "key cloner",
+    "hotwire",
+    "smash window"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-rastreador",
+  "sec": "veiculos",
+  "sub": "roubar",
+  "tipo": "alerta",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Rastreadores: o que fazer com cada tipo",
+  "sum": "Sem rastreador, venda ao Moses. Amarelo, direto à Pay 'n' Spray. Vermelho, abandone. Nunca fuja numa viatura.",
+  "body": "- Veja o tipo no WAiNK antes de roubar ([[veiculos-waink]]).\n- Dirigir devagar por muito tempo num carro rastreado transmite sua posição. Para perder o rastreador, dirija rápido para longe da área rica (Eurogamer).\n- Dá para deixar o carro rastreado na garagem esperando: mais adiante, o receptador **Landy** das fontes japonesas remove rastreadores. Provavelmente é o Randy, que é quem libera carros rastreados no Cap. 3 ([[veiculos-randy]]).\n- Quem compra cada carro e quanto paga: [[veiculos-venda]].",
+  "table": {
+   "cols": [
+    "Rastreador",
+    "Comportamento",
+    "O que fazer"
+   ],
+   "rows": [
+    [
+     "Nenhum",
+     "Seguro",
+     "Venda ao Moses (Cap. 2): [[veiculos-venda]]"
+    ],
+    [
+     "Amarelo (padrão)",
+     "Denuncia sua posição se o carro ficar parado alguns segundos",
+     "Leve direto, sem parar, à Pay 'n' Spray (Cap. 3)"
+    ],
+    [
+     "Avançado",
+     "Obriga a correr até uma garagem",
+     "Só vende ou registra depois do carro especial do Randy (Mamba, Cap. 3): [[veiculos-randy]]"
+    ],
+    [
+     "Vermelho",
+     "Não vende na Pay 'n' Spray e não entra na sua garagem",
+     "Abandone"
+    ],
+    [
+     "Viatura",
+     "Sempre rastreada",
+     "Nunca use para fugir"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "PowerPyx",
+   "nettoge (JP)",
+   "Famitsu",
+   "Cultured Vultures",
+   "GameWith",
+   "Eurogamer",
+   "IGN"
+  ],
+  "kw": [
+   "rastreador",
+   "tracker",
+   "gps",
+   "viatura",
+   "landy"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Trackers: what to do with each type",
+   "sum": "No tracker: sell to Moses. Yellow: straight to a Pay 'n' Spray. Red: ditch it. Never flee in a cop car.",
+   "body": "- Check the type in WAiNK before stealing ([[veiculos-waink]]).\n- Driving slowly for too long in a tracked car broadcasts your position. To shake a tracker, drive fast away from the wealthy area (Eurogamer).\n- You can leave a tracked car waiting in your garage: later on, the fence **Landy** of the Japanese sources removes trackers. That is probably Randy, who clears tracked cars in Chapter 3 ([[veiculos-randy]]).\n- Who buys each car and how much they pay: [[veiculos-venda]].",
+   "table": {
+    "cols": [
+     "Tracker",
+     "Behavior",
+     "What to do"
+    ],
+    "rows": [
+     [
+      "None",
+      "Safe",
+      "Sell to Moses (Ch. 2): [[veiculos-venda]]"
+     ],
+     [
+      "Yellow (standard)",
+      "Reports your position if the car sits still for a few seconds",
+      "Take it straight, without stopping, to a Pay 'n' Spray (Ch. 3)"
+     ],
+     [
+      "Advanced",
+      "Forces you to race to a garage",
+      "Sell or register only after Randy's special car (the Mamba, Ch. 3): [[veiculos-randy]]"
+     ],
+     [
+      "Red",
+      "Won't sell at Pay 'n' Spray and won't fit in your garage",
+      "Ditch it"
+     ],
+     [
+      "Cop car",
+      "Always tracked",
+      "Never use it to flee"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "tracker",
+    "gps",
+    "cop car",
+    "landy"
+   ],
+   "div": "Which tracker reports a parked car: PowerPyx and the Japanese sources say the yellow one; IGN attributes it to the advanced tracker. The fence's name: “Landy” only appears in the Japanese sources and is likely a spelling of “Randy”; unconfirmed."
+  },
+  "div": "Quem denuncia o carro parado: PowerPyx e as fontes japonesas dizem que é o rastreador amarelo; a IGN atribui isso ao rastreador avançado. Nome do receptador: “Landy” só aparece nas fontes japonesas e deve ser a grafia de “Randy”; não confirmado."
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-venda",
+  "sec": "veiculos",
+  "sub": "vender",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "c2",
+   "c3"
+  ],
+  "title": "Onde vender carros",
+  "sum": "Moses no Cap. 2; Pay 'n' Spray e Randy no Cap. 3. Quem aceita o quê e quanto paga.",
+  "body": "- **Dano reduz o preço**, e entregar impecável rende bônus. Carros antigos, que abrem com a ferramenta básica e quase nunca têm rastreador, são o dinheiro mais seguro do começo.\n- O Moses às vezes manda pedidos de carros específicos: pagam mais e dão bônus pelo estado do carro.\n- No Cap. 1 não há receptador de carros: carro roubado não pode ser vendido ([[veiculos-roubo]]).\n- Um guia menciona limite diário de vendas; o número não foi confirmado.\n- O rastreador decide quem aceita o carro: [[veiculos-rastreador]]. Joias, notas e drogas: [[dinheiro-receptadores]].",
+  "table": {
+   "cols": [
+    "Comprador",
+    "Desde",
+    "Aceita",
+    "Paga"
+   ],
+   "rows": [
+    [
+     "Moses (Port Gellhorn)",
+     "Missão “Moses” (Cap. 2)",
+     "Sem rastreador. Não aceita carro roubado perto da garagem dele",
+     "Normalmente mais de US$ 1.000; pedidos e contratos acima de US$ 10.000. Espera de ~2 min entre vendas"
+    ],
+    [
+     "Pay 'n' Spray (19 lojas)",
+     "Início do Cap. 3",
+     "Sem rastreador e rastreador amarelo",
+     "~US$ 2.500+ em perfeito estado (PowerPyx); mais de US$ 4.000 (Gamersky)"
+    ],
+    [
+     "Randy (oeste de Vice City)",
+     "“Clonin' Keys, Makin' GS” (Cap. 3)",
+     "Só os carros da lista de desejos",
+     "De US$ 15 mil a mais de US$ 35 mil, conforme o estado e a fonte: [[veiculos-randy]]"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "GameSpot",
+   "PowerPyx",
+   "GTABase",
+   "Gamersky",
+   "nettoge (JP)",
+   "Press Start"
+  ],
+  "kw": [
+   "vender carro",
+   "moses",
+   "randy",
+   "pay n spray",
+   "quanto paga carro"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Where to sell cars",
+   "sum": "Moses in Ch. 2; Pay 'n' Spray and Randy in Ch. 3. Who takes what and how much they pay.",
+   "body": "- **Damage lowers the price**, and delivering pristine earns a bonus. Old cars, which open with the basic tool and almost never have trackers, are the safest early money.\n- Moses sometimes texts requests for specific cars: they pay extra plus a condition bonus.\n- In Chapter 1 there's no car fence: stolen cars can't be sold ([[veiculos-roubo]]).\n- One guide mentions a daily sales cap; the number is unconfirmed.\n- The tracker decides who takes the car: [[veiculos-rastreador]]. Jewelry, bills and drugs: [[dinheiro-receptadores]].",
+   "table": {
+    "cols": [
+     "Buyer",
+     "From",
+     "Accepts",
+     "Pays"
+    ],
+    "rows": [
+     [
+      "Moses (Port Gellhorn)",
+      "“Moses” mission (Ch. 2)",
+      "Untracked. Won't take a car stolen near his garage",
+      "Usually over $1,000; requests and contracts over $10,000. ~2 min wait between sales"
+     ],
+     [
+      "Pay 'n' Spray (19 shops)",
+      "Start of Ch. 3",
+      "Untracked and yellow tracker",
+      "~$2,500+ in perfect condition (PowerPyx); over $4,000 (Gamersky)"
+     ],
+     [
+      "Randy (west Vice City)",
+      "“Clonin' Keys, Makin' GS” (Ch. 3)",
+      "Only Wish List cars",
+      "From $15k to over $35k, depending on condition and source: [[veiculos-randy]]"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "sell car",
+    "moses",
+    "randy",
+    "pay n spray",
+    "car prices"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-randy",
+  "sec": "veiculos",
+  "sub": "vender",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "c3"
+  ],
+  "title": "Lista de desejos do Randy",
+  "sum": "16 esportivos (15 listados aqui). Pagam mais se chegarem intactos.",
+  "body": "#### Quanto paga\n- Pedidos de US$ 15–20 mil, com bônus de **US$ 10 mil** se o carro chegar perfeito e US$ 7.500 se chegar só arranhado; um conserto de US$ 3 mil compensa (Eurogamer).\n- Outras fontes dão valores diferentes (veja a divergência). Conte com pelo menos US$ 10 mil por carro.\n- O Randy fica no oeste de Vice City e abre em “Clonin' Keys, Makin' GS” (Cap. 3). Os outros compradores: [[veiculos-venda]].\n\n#### Rastreador avançado\n- Depois de 5 a 7 carros da lista, o Randy passa a missão de um carro especial (o Mamba). A partir daí dá para vender e registrar carros com **rastreador avançado**.\n- Os outros tipos de rastreador: [[veiculos-rastreador]].\n\n#### Onde procurar\nConcentre a busca em Ocean Beach e Vice Beach. A nota de velocidade é do nettoge; os carros sem dados ainda não foram detalhados pelas fontes.",
+  "table": {
+   "cols": [
+    "Carro",
+    "Tipo",
+    "Velocidade (0 a 10)",
+    "Onde achar"
+   ],
+   "rows": [
+    [
+     "Pegassi Vitello",
+     "Super",
+     "8,2",
+     "Garagem de mansão a leste da Pay 'n' Spray de Waning Sands"
+    ],
+    [
+     "Piccia Furia",
+     "Super",
+     "7,8",
+     "Vice Beach e Ocean Beach"
+    ],
+    [
+     "Bravado Gauntlet Hellfire",
+     "Muscle",
+     "7,8",
+     "Em frente aos hotéis de Vice Beach e Ocean Beach"
+    ],
+    [
+     "Pegassi Tempesta",
+     "Super",
+     "7,6",
+     "Ponto marcado ou na rua"
+    ],
+    [
+     "Grotti Itali RSX",
+     "Super",
+     "7,5",
+     "Ponto marcado ou na rua"
+    ],
+    [
+     "Granforma Zorrusso",
+     "Super",
+     "7,5",
+     "Entregue na própria missão do Cap. 3"
+    ],
+    [
+     "Pegassi Infernus ’96",
+     "Super",
+     "7,1",
+     "Ponto marcado ou na rua"
+    ],
+    [
+     "Ocelot Jugular",
+     "Sedã",
+     "6,5",
+     "Ponto marcado ou na rua"
+    ],
+    [
+     "Ascot Paragon",
+     "Cupê",
+     "6,2",
+     "Ponto marcado ou na rua"
+    ],
+    [
+     "Pegassi Toros",
+     "—",
+     "—",
+     "—"
+    ],
+    [
+     "Buckingham Windsor Drop",
+     "—",
+     "—",
+     "—"
+    ],
+    [
+     "Buckingham Jubilee",
+     "—",
+     "—",
+     "—"
+    ],
+    [
+     "Pfister Growler",
+     "—",
+     "—",
+     "—"
+    ],
+    [
+     "Benefactor Dubsta",
+     "—",
+     "—",
+     "—"
+    ],
+    [
+     "Mamba",
+     "—",
+     "—",
+     "É o carro especial: entregar libera carros com rastreador avançado"
+    ]
+   ],
+   "sort": true
+  },
+  "div": "Quantos carros: o Gamersky fala em 18 supercarros; a PowerPyx e a GTABase, em 16 (a tabela tem os 15 nomes que as fontes citam). Quanto paga: o nettoge fala em “muitas vezes acima de US$ 10.000”, a Eurogamer em US$ 15–20 mil mais bônus, o Gamersky em mais de US$ 30.000 e a PowerPyx em ~US$ 35.000+ por esportivo impecável. Rastreador avançado: PowerPyx e nettoge dizem que entregar o Mamba libera a venda; a Eurogamer diz que, depois de 5 a 7 carros, uma missão de carro especial libera o registro. O guia trata como o mesmo marco.",
+  "src": [
+   "Cultured Vultures",
+   "Eurogamer",
+   "GameSpot",
+   "PowerPyx",
+   "nettoge (JP)",
+   "Gamersky",
+   "GTABase"
+  ],
+  "kw": [
+   "randy",
+   "lista de desejos",
+   "wishlist",
+   "supercarro",
+   "esportivo",
+   "vitello",
+   "infernus"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Randy's Wish List",
+   "sum": "16 sports cars (15 listed here). They pay more if they arrive intact.",
+   "body": "#### What he pays\n- Orders pay $15–20k, with a **$10k** bonus for perfect condition and $7,500 for lightly scratched; a $3k repair pays for itself (Eurogamer).\n- Other sources give different figures (see the note on sources). Treat $10k per car as the floor.\n- Randy is in west Vice City and opens in “Clonin' Keys, Makin' GS” (Ch. 3). The other buyers: [[veiculos-venda]].\n\n#### Advanced trackers\n- After 5 to 7 wishlist cars, Randy gives you a special-car mission (the Mamba). From then on you can sell and register cars with **advanced trackers**.\n- The other tracker types: [[veiculos-rastreador]].\n\n#### Where to look\nFocus your search on Ocean Beach and Vice Beach. Speed ratings are from nettoge; cars without data haven't been detailed by the sources yet.",
+   "table": {
+    "cols": [
+     "Car",
+     "Type",
+     "Speed (0–10)",
+     "Where to find"
+    ],
+    "rows": [
+     [
+      "Pegassi Vitello",
+      "Super",
+      "8.2",
+      "Mansion garage east of the Waning Sands Pay 'n' Spray"
+     ],
+     [
+      "Piccia Furia",
+      "Super",
+      "7.8",
+      "Vice Beach and Ocean Beach"
+     ],
+     [
+      "Bravado Gauntlet Hellfire",
+      "Muscle",
+      "7.8",
+      "In front of the Vice Beach and Ocean Beach hotels"
+     ],
+     [
+      "Pegassi Tempesta",
+      "Super",
+      "7.6",
+      "Marked spot or on the street"
+     ],
+     [
+      "Grotti Itali RSX",
+      "Super",
+      "7.5",
+      "Marked spot or on the street"
+     ],
+     [
+      "Granforma Zorrusso",
+      "Super",
+      "7.5",
+      "Delivered in the Ch. 3 mission itself"
+     ],
+     [
+      "Pegassi Infernus ’96",
+      "Super",
+      "7.1",
+      "Marked spot or on the street"
+     ],
+     [
+      "Ocelot Jugular",
+      "Sedan",
+      "6.5",
+      "Marked spot or on the street"
+     ],
+     [
+      "Ascot Paragon",
+      "Coupe",
+      "6.2",
+      "Marked spot or on the street"
+     ],
+     [
+      "Pegassi Toros",
+      "—",
+      "—",
+      "—"
+     ],
+     [
+      "Buckingham Windsor Drop",
+      "—",
+      "—",
+      "—"
+     ],
+     [
+      "Buckingham Jubilee",
+      "—",
+      "—",
+      "—"
+     ],
+     [
+      "Pfister Growler",
+      "—",
+      "—",
+      "—"
+     ],
+     [
+      "Benefactor Dubsta",
+      "—",
+      "—",
+      "—"
+     ],
+     [
+      "Mamba",
+      "—",
+      "—",
+      "The special car: delivering it unlocks advanced-tracker cars"
+     ]
+    ],
+    "sort": true
+   },
+   "div": "How many cars: Gamersky says 18 supercars; PowerPyx and GTABase say 16 (the table has the 15 names the sources give). Pay: nettoge says “often over $10,000”, Eurogamer $15–20k plus bonus, Gamersky over $30,000 and PowerPyx ~$35,000+ per pristine sports car. Advanced trackers: PowerPyx and nettoge say delivering the Mamba unlocks selling; Eurogamer says that after 5 to 7 cars a special-car mission unlocks registering. This guide treats them as the same milestone.",
+   "kw": [
+    "randy",
+    "wish list",
+    "wishlist",
+    "supercar",
+    "sports car",
+    "vitello",
+    "infernus"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-registro",
+  "sec": "veiculos",
+  "sub": "ficar",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "c2",
+   "c3"
+  ],
+  "title": "Registrar e guardar o carro",
+  "sum": "Sem registro o carro some ao sair do jogo. O primeiro registro no Moses é grátis.",
+  "body": "#### Como registrar\n- **Onde registrar:** na oficina do Moses (Cap. 2, “Respray” e “Register”) e em qualquer Pay 'n' Spray (Cap. 3). O WAiNK mostra o custo antes ([[veiculos-waink]]).\n- **Moses:** o primeiro registro é grátis. Fale com ele ({L2}), **repinte primeiro** e depois registre. Ele só registra com dinheiro do **BuckMe**.\n- **Taxa:** quanto mais barato o carro, mais barato o registro. Carros de luxo podem exigir mais progresso na história.\n- **Carro com rastreador:** com o **Randy** na Pay 'n' Spray (Cap. 3). Rastreador avançado, só depois do carro especial dele: [[veiculos-randy]].\n- **Precisa de vaga:** quantas você tem e onde comprar mais em [[compras-garagens]].\n\n#### O que o registro dá\n- **Carro registrado** pode ser chamado a qualquer hora pelo Scooter Bros ([[compras-scooter]]), até se estiver no pátio da polícia ([[veiculos-patio]]).\n- Vira guarda-roupa e arsenal móvel ([[armas-guardar]]).\n\n#### Sem registro\n- **Carro roubado sem registro** aparece cinza no minimapa e **some quando você sai do jogo**, a menos que esteja guardado numa garagem sua, na **vaga da frente do quarto do motel** (Cap. 2) ou nas **2 vagas do apartamento** (Cap. 3). Se você largar ou destruir fora dali, perde.\n- **Cap. 1:** a casa do Jason não guarda carro novo, e não há receptador de carros.",
+  "src": [
+   "17173 (CN)",
+   "Eurogamer",
+   "Famitsu",
+   "GameSpot",
+   "IGN",
+   "PowerPyx"
+  ],
+  "kw": [
+   "registrar carro",
+   "registro",
+   "vagas",
+   "carro pessoal",
+   "pay n spray"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Registering and keeping a car",
+   "sum": "Unregistered cars vanish when you quit. Your first registration at Moses's is free.",
+   "body": "#### How to register\n- **Where to register:** at Moses's shop (Ch. 2, “Respray” and “Register”) and any Pay 'n' Spray (Ch. 3). WAiNK shows the cost beforehand ([[veiculos-waink]]).\n- **Moses:** your first registration is free. Talk to him ({L2}), **respray first**, then register. He only takes **BuckMe** money.\n- **Fee:** the cheaper the car, the cheaper the registration. Luxury cars may need more story progress.\n- **Tracked cars:** **Randy** at the Pay 'n' Spray (Chapter 3). Advanced trackers only after his special car: [[veiculos-randy]].\n- **You need a slot:** how many you have and where to buy more in [[compras-garagens]].\n\n#### What registration gives you\n- **A registered car** can be called anytime through Scooter Bros ([[compras-scooter]]), even from the impound ([[veiculos-patio]]).\n- It becomes a mobile wardrobe and arsenal ([[armas-guardar]]).\n\n#### Unregistered\n- **An unregistered stolen car** shows grey on the minimap and **disappears when you quit the game**, unless it's stored in a garage you own, in the **spot outside your motel room** (Chapter 2) or in the **2 spots at the apartment** (Chapter 3). Leave it elsewhere or wreck it and it's gone.\n- **Chapter 1:** Jason's house can't store new cars, and there's no car fence yet.",
+   "kw": [
+    "register car",
+    "registration",
+    "slots",
+    "personal vehicle",
+    "pay n spray"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "compras-garagens",
+  "sec": "veiculos",
+  "sub": "ficar",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "c2",
+   "c3"
+  ],
+  "title": "Garagens: preços e onde ficam",
+  "sum": "A de Port Gellhorn é grátis (Daily Driver). Compre a de US$ 4.000 só se faltar vaga.",
+  "body": "- Garagem é a única propriedade que se compra. Compre pelo app **Vice City Real Estate** ou indo ao local, depois de “Daily Driver” (Cap. 2).\n- **Vagas:** você começa com 3 vagas de veículo pessoal: uma do Jason, uma da Lucia e uma reserva. Cada garagem acrescenta vaga. Como registrar: [[veiculos-registro]].\n- Garagens guardam veículos (também roubados ainda não registrados), dão acesso ao seu arsenal no armário ([[armas-guardar]]) e recebem mercadoria para vender. As de bônus têm armário de armas; das outras, só algumas.\n- Preços vão de US$ 4.000 a US$ 40.000 (Vice City). As de bônus vêm das edições ([[compras-edicoes]]) e do Wyman ([[colecao-wyman]]).",
+  "table": {
+   "cols": [
+    "Garagem",
+    "Preço",
+    "Onde",
+    "Observação"
+   ],
+   "rows": [
+    [
+     "Port Gellhorn Station Garage",
+     "Grátis",
+     "Ao norte da oficina do Moses",
+     "Dada pelo Moses em “Daily Driver” (Cap. 2)"
+    ],
+    [
+     "Paradise Garage",
+     "Grátis",
+     "Watson Bay",
+     "Ultimate; dada pelo Wyman (Cap. 2)"
+    ],
+    [
+     "Shore Court Garage",
+     "Bônus",
+     "Ocean Beach",
+     "Vintage Vice City Pack, com o Stanier ’55"
+    ],
+    [
+     "Mitchell Auto Center",
+     "US$ 4.000",
+     "Kelly County, a leste de Port Gellhorn",
+     "A mais barata, perto do Moses"
+    ],
+    [
+     "Persistence Road Garage",
+     "US$ 9.500",
+     "—",
+     ""
+    ],
+    [
+     "7th Avenue Garage",
+     "US$ 12.000",
+     "—",
+     ""
+    ],
+    [
+     "Store 'N' Bolt",
+     "US$ 16.800",
+     "Norte de Ambrosia",
+     ""
+    ],
+    [
+     "Wyatt Motors",
+     "US$ 21.600",
+     "Centro de Ambrosia, perto da Pay 'n' Spray",
+     ""
+    ],
+    [
+     "Vela Rota Drive",
+     "US$ 30.000",
+     "Centro de Capri, segundo a Sportskeeda",
+     ""
+    ],
+    [
+     "Bonita Court Garage",
+     "US$ 34.000",
+     "—",
+     ""
+    ],
+    [
+     "Garagem de Ocean Beach (nome não informado)",
+     "US$ 40.000",
+     "Ao sul do Y Hotel, a sudoeste do VYB Club",
+     "A mais cara"
+    ]
+   ],
+   "sort": true
+  },
+  "div": "A PowerPyx fala em 8 garagens compráveis que somam US$ 160.000, mas os preços listados somam US$ 167.900: algum valor pode estar errado. A GameSpot fala em “pouco menos de uma dúzia”. Vagas: o Gamersky diz que o registro começa com 1 vaga, não 3. Capacidade: Eurogamer e IGN dizem que cada garagem guarda 1 veículo; outras fontes falam em “veículos”, sem número.",
+  "src": [
+   "GameSpot",
+   "Sportskeeda",
+   "PowerPyx",
+   "17173",
+   "Gamersky",
+   "Eurogamer",
+   "IGN"
+  ],
+  "kw": [
+   "garagem",
+   "garage",
+   "propriedade",
+   "imovel",
+   "vagas",
+   "mais barata"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Garages: prices and locations",
+   "sum": "The Port Gellhorn one is free (Daily Driver). Buy the $4,000 one only if you run out of slots.",
+   "body": "- Garages are the only property you can buy. Buy through the **Vice City Real Estate** app or on site, after “Daily Driver” (Ch. 2).\n- **Slots:** you start with 3 personal vehicle slots: one for Jason, one for Lucia and a spare. Each garage adds a slot. How to register: [[veiculos-registro]].\n- Garages store vehicles (including stolen ones not yet registered), give access to your arsenal via the locker ([[armas-guardar]]) and receive goods to sell. The bonus ones have a weapon locker; of the others, only some do.\n- Prices run from $4,000 to $40,000 (Vice City). The bonus ones come from the editions ([[compras-edicoes]]) and from Wyman ([[colecao-wyman]]).",
+   "table": {
+    "cols": [
+     "Garage",
+     "Price",
+     "Where",
+     "Note"
+    ],
+    "rows": [
+     [
+      "Port Gellhorn Station Garage",
+      "Free",
+      "North of Moses's shop",
+      "Given by Moses in “Daily Driver” (Ch. 2)"
+     ],
+     [
+      "Paradise Garage",
+      "Free",
+      "Watson Bay",
+      "Ultimate; given by Wyman (Ch. 2)"
+     ],
+     [
+      "Shore Court Garage",
+      "Bonus",
+      "Ocean Beach",
+      "Vintage Vice City Pack, with the Stanier ’55"
+     ],
+     [
+      "Mitchell Auto Center",
+      "$4,000",
+      "Kelly County, east of Port Gellhorn",
+      "Cheapest, near Moses"
+     ],
+     [
+      "Persistence Road Garage",
+      "$9,500",
+      "—",
+      ""
+     ],
+     [
+      "7th Avenue Garage",
+      "$12,000",
+      "—",
+      ""
+     ],
+     [
+      "Store 'N' Bolt",
+      "$16,800",
+      "North Ambrosia",
+      ""
+     ],
+     [
+      "Wyatt Motors",
+      "$21,600",
+      "Central Ambrosia, near the Pay 'n' Spray",
+      ""
+     ],
+     [
+      "Vela Rota Drive",
+      "$30,000",
+      "Central Capri, per Sportskeeda",
+      ""
+     ],
+     [
+      "Bonita Court Garage",
+      "$34,000",
+      "—",
+      ""
+     ],
+     [
+      "Ocean Beach garage (name not given)",
+      "$40,000",
+      "South of the Y Hotel, south-west of VYB Club",
+      "The most expensive"
+     ]
+    ],
+    "sort": true
+   },
+   "div": "PowerPyx mentions 8 buyable garages totaling $160,000, but the listed prices add up to $167,900: one value may be wrong. GameSpot says “just under a dozen”. Slots: Gamersky says registration starts with 1 slot, not 3. Capacity: Eurogamer and IGN say each garage holds 1 vehicle; other sources just say “vehicles”, with no number.",
+   "kw": [
+    "garage",
+    "property",
+    "slots",
+    "cheapest"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "compras-scooter",
+  "sec": "veiculos",
+  "sub": "ficar",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "c2"
+  ],
+  "title": "Scooter Bros Premium",
+  "sum": "US$ 12.500 uma vez, 3 entregas grátis por dia. Já vem no GTA+.",
+  "body": "- **O que o app faz:** entrega seu carro registrado onde você estiver (um NPC traz o carro e vai embora de patinete), recupera veículo destruído ou apreendido, desvira ou reboca carro capotado e conserta o carro, com preço conforme o valor dele.\n- **Sem o Premium,** a entrega avulsa custa centenas de dólares.\n- **Premium:** pagamento único de **US$ 12.500** com **3 entregas grátis por dia** de jogo. Tirar o carro do pátio da polícia também gasta essas entregas ([[veiculos-patio]]).\n- **Assina o GTA+ (US$ 8 por mês)? O Premium já vem incluso** (GameSpot).\n- **Quando comprar:** o app só libera no Cap. 2 (missão “Moses”), então não dá para comprar antes da virada de dinheiro. Compre quando sobrar caixa, com uns US$ 15–20 mil no banco.",
+  "src": [
+   "Eurogamer",
+   "GameSpot",
+   "IGN",
+   "Press Start",
+   "República DG",
+   "Ruliweb"
+  ],
+  "kw": [
+   "scooter bros",
+   "entrega do carro",
+   "gta+",
+   "assinatura",
+   "premium",
+   "chamar carro"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Scooter Bros Premium",
+   "sum": "$12,500 once, 3 free deliveries a day. Included with GTA+.",
+   "body": "- **What the app does:** delivers your registered car wherever you are (an NPC drops it off and leaves on a scooter), recovers a destroyed or impounded vehicle, flips or tows a rolled car and repairs your car, priced by the car's value.\n- **Without Premium,** a single delivery costs hundreds of dollars.\n- **Premium:** a one-time **$12,500** with **3 free deliveries per in-game day**. Getting your car out of the police impound also uses those deliveries ([[veiculos-patio]]).\n- **Subscribe to GTA+ ($8/month)? Premium is included** (GameSpot).\n- **When to buy:** the app only unlocks in Ch. 2 (“Moses”), so you can't buy it before the money turn. Buy it when you have spare cash, around $15–20k in the bank.",
+   "kw": [
+    "scooter bros",
+    "car delivery",
+    "gta+",
+    "subscription",
+    "premium",
+    "call car"
+   ],
+   "div": "Price: Eurogamer says **$12,000** for Premium and **$100** per single delivery. Deliveries: IGN says GTA+ gives **5** free deliveries a day instead of 3. Impound: IGN says Premium gives 1 free impound retrieval per day, which uses up the deliveries you had left that day; other sources only say delivery credits also get cars out of the impound."
+  },
+  "div": "Preço: a Eurogamer fala em **US$ 12.000** pelo Premium e **US$ 100** por entrega avulsa. Entregas: a IGN diz que o GTA+ dá **5** entregas grátis por dia em vez de 3. Pátio: a IGN diz que o Premium dá 1 retirada grátis por dia, que consome as entregas que sobravam no dia; outras fontes dizem só que os créditos de entrega também tiram carro do pátio."
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-patio",
+  "sec": "veiculos",
+  "sub": "ficar",
+  "tipo": "alerta",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Carro rebocado: como recuperar",
+  "sum": "Pelo Scooter Bros (pago) ou invadindo o pátio. O porta-malas vai junto.",
+  "body": "#### Como evitar\n- Não deixe seu carro pessoal na cena do crime: a polícia vigia o carro e depois reboca. Se ela chegar antes de você fugir, também pode rebocar.\n- Dá para voltar escondido antes do reboque, mas não a um carro já identificado: numa demo da Famitsu a polícia foi direto ao carro abandonado.\n- O carro vai para o pátio com tudo o que estiver no porta-malas (armas, drogas, joias, notas marcadas). O que mais se perde: [[policia-preso]].\n\n#### Como recuperar\n- **Legal:** pelo app Scooter Bros. Sai mais caro que buscar o carro antes do reboque; no Premium, usa as entregas grátis do dia. Preços e regras: [[compras-scooter]].\n- **Ilegal:** pule o muro do pátio (ícone no mapa), entre no carro e arrebente o portão. A polícia só sabe que roubaram um carro do pátio: saia da zona antes de ela chegar.\n\nNão confirmado: o receptador de carros pode passar a senha de um pátio da polícia com carros para roubar e vender. {{previa}}",
+  "src": [
+   "Eurogamer",
+   "Famitsu",
+   "GamerSky (IGN)",
+   "IGN",
+   "PowerPyx"
+  ],
+  "kw": [
+   "guincho",
+   "rebocado",
+   "patio",
+   "apreendido",
+   "impound"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Towed car: how to get it back",
+   "sum": "Through Scooter Bros (paid) or by breaking into the impound. The trunk goes with it.",
+   "body": "#### How to avoid it\n- Don't leave your personal car at the crime scene: police watch it and then tow it. If they arrive before you get away, they may tow it too.\n- You can sneak back before the tow, but not to a car that's been identified: in a Famitsu demo the police went straight to the abandoned car.\n- The car goes to the impound along with everything in the trunk (weapons, drugs, jewelry, marked bills). What else you lose: [[policia-preso]].\n\n#### How to get it back\n- **Legal:** through the Scooter Bros app. It costs more than fetching the car before the tow; with Premium it uses the day's free deliveries. Prices and rules: [[compras-scooter]].\n- **Illegal:** hop the impound fence (map icon), get in and smash through the gate. Police only know a car was stolen from the lot: leave the zone before they arrive.\n\nUnconfirmed: the car fence may give you the code to a police impound full of cars to steal and sell. {{previa}}",
+   "kw": [
+    "tow",
+    "towed",
+    "impound",
+    "seized"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-pessoal",
+  "sec": "veiculos",
+  "sub": "escolher",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "c2",
+   "c3",
+   "c4"
+  ],
+  "title": "O carro pessoal ideal",
+  "sum": "1 ou 2 carros discretos, registrados e de tanque cheio. SUV como base.",
+  "body": "- **Base móvel: SUV.** O porta-malas maior leva mudas de roupa, munição, armas e sacolas (Inven).\n- Fique com 1 ou 2 carros discretos e de tanque cheio. Na fuga, um sedã comum abastecido vale mais que um superesportivo na reserva e com rastreador.\n- Registre o carro antes de usar o porta-malas como depósito: o que fica num carro que não é seu pode se perder ([[veiculos-registro]]).\n- Para fuga, roubos e cada tipo de terreno: [[veiculos-situacao]].",
+  "src": [
+   "Inven (KR)",
+   "Shacknews",
+   "PowerPyx"
+  ],
+  "kw": [
+   "melhor carro",
+   "suv",
+   "moto",
+   "carro de fuga",
+   "porta-malas"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "The ideal personal vehicle",
+   "sum": "1 or 2 low-key cars, registered and with a full tank. An SUV as your base.",
+   "body": "- **Mobile base: SUV.** The bigger trunk holds outfit changes, ammo, guns and bags (Inven).\n- Keep 1 or 2 low-key cars with a full tank. In a chase, a fueled ordinary sedan beats a supercar on empty with a tracker.\n- Register the car before using the trunk as storage: what you leave in a car that isn't yours can be lost ([[veiculos-registro]]).\n- For escapes, robberies and each kind of terrain: [[veiculos-situacao]].",
+   "kw": [
+    "best car",
+    "suv",
+    "bike",
+    "getaway car",
+    "trunk"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-situacao",
+  "sec": "veiculos",
+  "sub": "escolher",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Qual veículo para quê",
+  "sum": "Moto para fugir, SUV como base, sedã ou van para roubo. E o que usar em trilha, pântano e água.",
+  "table": {
+   "cols": [
+    "Situação",
+    "Escolha",
+    "Por quê"
+   ],
+   "rows": [
+    [
+     "Fuga da polícia",
+     "**Moto esportiva** barata, sem rastreador e registrada",
+     "A melhor ferramenta de fuga do jogo, segundo análises e guias: corta o trânsito; a Shacknews despistou 3 estrelas em segundos"
+    ],
+    [
+     "Roubos",
+     "Sedã de 4 portas ou van discreta",
+     "Cabem as sacolas e o parceiro. Vans levam várias sacolas e são comuns em Port Gellhorn, como os caminhões"
+    ],
+    [
+     "Base móvel (dia a dia)",
+     "SUV registrado",
+     "Porta-malas maior: [[veiculos-pessoal]]"
+    ],
+    [
+     "Velocidade",
+     "Esportivos da lista do Randy ([[veiculos-randy]])",
+     "Para vender: carro de luxo não registra cedo e tem rastreador"
+    ],
+    [
+     "Trilha",
+     "Enduro ou Buggy (Ultimate; o Buggy é feito para as trilhas de Mount Kalaga), moto de trilha ou 4×4",
+     "Esportivos andam mal fora do asfalto"
+    ],
+    [
+     "Pântano (Grassrivers)",
+     "Airboat",
+     "O único que passa em lama e água rasa. Aparece nos Grassrivers; local exato não verificado"
+    ],
+    [
+     "Água aberta",
+     "Lancha",
+     "Mergulhos do Kenton desde o Cap. 1"
+    ],
+    [
+     "Aeronaves",
+     "Só quando a história der",
+     "Um avião revela o mapa (~5 h de voo, segundo a Shacknews)"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "Shacknews",
+   "PowerPyx",
+   "Kotaku",
+   "Inven (KR)",
+   "17173 (CN)"
+  ],
+  "kw": [
+   "melhor veiculo",
+   "moto",
+   "barco",
+   "aviao",
+   "helicoptero",
+   "off-road",
+   "trilha"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Which vehicle for what",
+   "sum": "Bike to escape, SUV as your base, sedan or van for robberies. Plus what to use on trails, swamp and water.",
+   "table": {
+    "cols": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Escaping the police",
+      "A cheap **sport bike**, untracked and registered",
+      "The game's best escape tool, per reviews and guides: cuts through traffic; Shacknews shook 3 stars in seconds"
+     ],
+     [
+      "Robberies",
+      "4-door sedan or low-key van",
+      "Fits the bags and your partner. Vans hold several bags and are common in Port Gellhorn, like trucks"
+     ],
+     [
+      "Mobile base (day to day)",
+      "A registered SUV",
+      "Bigger trunk: [[veiculos-pessoal]]"
+     ],
+     [
+      "Speed",
+      "Sports cars from Randy's list ([[veiculos-randy]])",
+      "For selling: luxury cars don't register early and have trackers"
+     ],
+     [
+      "Trails",
+      "Enduro or Buggy (Ultimate; the Buggy is built for the Mount Kalaga trails), dirt bike or 4×4",
+      "Sports cars handle badly off pavement"
+     ],
+     [
+      "Swamp (Grassrivers)",
+      "Airboat",
+      "The only thing that crosses mud and shallow water. Found in the Grassrivers; exact spawn point unverified"
+     ],
+     [
+      "Open water",
+      "Speedboat",
+      "Kenton's dives from Ch. 1"
+     ],
+     [
+      "Aircraft",
+      "Only when the story gives you one",
+      "A plane reveals the map (~5 h of flying, per Shacknews)"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "best vehicle",
+    "bike",
+    "boat",
+    "plane",
+    "helicopter",
+    "off-road",
+    "trail"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-gratis",
+  "sec": "veiculos",
+  "sub": "escolher",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "Veículos que você ganha",
+  "sum": "Ganado do Jason, carro da Lucia e bônus de edição (Enduro e caiaque só no Cap. 1).",
+  "body": "- Comprar carro em concessionária ou site: não confirmado. Os guias descrevem só roubo e registro ([[veiculos-roubo]], [[veiculos-registro]]).\n- Sedãs e compactos comuns, roubados com o Slim Jim, quase sempre vêm sem rastreador: são vendáveis e baratos de registrar.\n- O Wyman também entrega carros clássicos restaurados (Ultimate): [[colecao-wyman]].",
+  "table": {
+   "cols": [
+    "Veículo",
+    "Como conseguir",
+    "Observação"
+   ],
+   "rows": [
+    [
+     "Vapid Ganado (picape cupê)",
+     "Carro pessoal do Jason",
+     "Já registrado; recuperável pelo Scooter Bros ([[compras-scooter]])"
+    ],
+    [
+     "Carro pessoal da Lucia",
+     "Pela história",
+     "Modelo não confirmado"
+    ],
+    [
+     "Dinka Enduro e caiaque Crest",
+     "Ultimate, na casa do Jason",
+     "**Só no Cap. 1**"
+    ],
+    [
+     "Vapid Dominator Buggy ’67 e Paradise Garage",
+     "Ultimate, com o Wyman",
+     "Cap. 2"
+    ],
+    [
+     "Vapid Stanier ’55 e Shore Court Garage",
+     "Vintage Vice City Pack",
+     "Garagem com armário e depósito: [[compras-garagens]]"
+    ],
+    [
+     "Lancha Shitzu Squalo e Grotti Cheetah ’95",
+     "Ultimate",
+     "Caps. 4 e 5. Onde e quando cada bônus aparece: [[compras-edicoes]]"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "Rockstar",
+   "17173 (CN)",
+   "PowerPyx",
+   "GTABase"
+  ],
+  "kw": [
+   "carro gratis",
+   "ganado",
+   "enduro",
+   "buggy",
+   "stanier",
+   "cheetah",
+   "squalo",
+   "caiaque"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Vehicles you are given",
+   "sum": "Jason's Ganado, Lucia's car and edition bonuses (Enduro and kayak in Ch. 1 only).",
+   "body": "- Buying a car at a dealership or website: unconfirmed. Guides only describe stealing and registering ([[veiculos-roubo]], [[veiculos-registro]]).\n- Common sedans and compacts, stolen with the Slim Jim, are almost always untracked: sellable and cheap to register.\n- Wyman also hands over restored classic cars (Ultimate): [[colecao-wyman]].",
+   "table": {
+    "cols": [
+     "Vehicle",
+     "How to get it",
+     "Note"
+    ],
+    "rows": [
+     [
+      "Vapid Ganado (coupe pickup)",
+      "Jason's personal car",
+      "Already registered; recoverable via Scooter Bros ([[compras-scooter]])"
+     ],
+     [
+      "Lucia's personal car",
+      "Through the story",
+      "Model unconfirmed"
+     ],
+     [
+      "Dinka Enduro and Crest kayak",
+      "Ultimate, at Jason's house",
+      "**Ch. 1 only**"
+     ],
+     [
+      "Vapid Dominator Buggy ’67 and Paradise Garage",
+      "Ultimate, with Wyman",
+      "Ch. 2"
+     ],
+     [
+      "Vapid Stanier ’55 and Shore Court Garage",
+      "Vintage Vice City Pack",
+      "Garage with locker and storage: [[compras-garagens]]"
+     ],
+     [
+      "Shitzu Squalo speedboat and Grotti Cheetah ’95",
+      "Ultimate",
+      "Ch. 4 and 5. Where and when each bonus shows up: [[compras-edicoes]]"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "free car",
+    "ganado",
+    "enduro",
+    "buggy",
+    "stanier",
+    "cheetah",
+    "squalo",
+    "kayak"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-combustivel",
+  "sec": "veiculos",
+  "sub": "manter",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Combustível, conserto e pneus",
+  "sum": "Inédito na série: carro gasta gasolina. Onde abastecer e consertar.",
+  "body": "- **Abastecer** leva uns 10 segundos segurando {R2}, é barato e o tanque dura bastante. **Carros roubados vêm com tanque aleatório.**\n- **Elétricos** recarregam em carregadores (120 no mapa).\n- **Onde consertar:** **postos consertam** o carro, além da Pay 'n' Spray ([[veiculos-oficinas]]) e do app Scooter Bros ([[compras-scooter]]). No Cap. 1, um conserto de ~US$ 250 já pesa no bolso.\n- **Dano no motor** faz o carro engasgar, perder força e gastar mais. Carros leves amassam fácil.\n- **Pneu furado** pesa muito mais na direção do que no GTA V.\n- Dá para **empurrar veículos** (ande contra eles) para desencalhar barco ou desvirar carro sem pagar reboque.",
+  "src": [
+   "PowerPyx",
+   "Kotaku",
+   "Inven (KR)",
+   "The Big Lead"
+  ],
+  "kw": [
+   "gasolina",
+   "combustivel",
+   "abastecer",
+   "posto",
+   "eletrico",
+   "conserto",
+   "pneu"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Fuel, repairs and tires",
+   "sum": "A series first: cars burn gas. Where to refuel and repair.",
+   "body": "- **Refueling** takes about 10 seconds holding {R2}, is cheap and the tank lasts a while. **Stolen cars come with a random amount of fuel.**\n- **EVs** recharge at chargers (120 on the map).\n- **Where to repair:** **gas stations repair** cars, besides Pay 'n' Spray ([[veiculos-oficinas]]) and the Scooter Bros app ([[compras-scooter]]). In Ch. 1, a ~$250 repair already hurts.\n- **Engine damage** makes the car sputter, lose power and burn more fuel. Light cars dent easily.\n- **A flat tire** affects handling far more than in GTA V.\n- You can **push vehicles** (walk into them) to free a stuck boat or flip a car back without paying for a tow.",
+   "kw": [
+    "gas",
+    "fuel",
+    "refuel",
+    "gas station",
+    "electric",
+    "repair",
+    "tire"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-oficinas",
+  "sec": "veiculos",
+  "sub": "manter",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "c2",
+   "c3"
+  ],
+  "title": "Pay 'n' Spray e oficinas",
+  "sum": "A Pay 'n' Spray repinta, conserta e apaga o alerta; as 14 oficinas modificam.",
+  "body": "- **Pay 'n' Spray (19 lojas, Cap. 3):** repinta, conserta, apaga o alerta do carro na polícia e mostra o custo de registro. Há um tempo de espera antes de usar a mesma oficina de novo. Pinturas elaboradas só em oficina de modificação.\n- Ela também registra ([[veiculos-registro]]) e compra carros ([[veiculos-venda]]). Antes do Cap. 3, repintura e registro são na oficina do Moses.\n- **Oficinas de modificação (14):** visual, desempenho e dirigibilidade: motor, freios, suspensão, transmissão, turbo, rodas, interiores e estilo “donk” (carro elevado com rodas gigantes).\n- Modifique só o carro registrado e definitivo.",
+  "src": [
+   "Famitsu (Rob Nelson)",
+   "Rockstar",
+   "Wccftech"
+  ],
+  "kw": [
+   "tunagem",
+   "tuning",
+   "mods",
+   "personalizar carro",
+   "pintura",
+   "oficina"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Pay 'n' Spray and mod shops",
+   "sum": "Pay 'n' Spray resprays, repairs and clears the alert; the 14 mod shops do the tuning.",
+   "body": "- **Pay 'n' Spray (19 shops, Ch. 3):** resprays, repairs, clears the police alert on the car and shows the registration cost. There's a cooldown before reusing the same shop. Elaborate liveries only at tuning shops.\n- It also registers ([[veiculos-registro]]) and buys cars ([[veiculos-venda]]). Before Ch. 3, respraying and registering happen at Moses's shop.\n- **Mod shops (14):** looks, performance and handling: engine, brakes, suspension, transmission, turbo, wheels, interiors and “donk” style (a lifted car on giant wheels).\n- Only mod your registered, long-term car.",
+   "kw": [
+    "tuning",
+    "mods",
+    "customize car",
+    "paint",
+    "mod shop"
+   ]
+  }
+ }
+]

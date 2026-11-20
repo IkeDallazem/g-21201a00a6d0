@@ -1,0 +1,1124 @@
+{
+ "kind": "card",
+ "id": "colecao-waink",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "WAiNK: os 108 locais para escanear",
+ "sum": "31 marcos, 35 curiosidades, 23 esculturas, 4 outdoors PeeWee e 15 marcas NoFlusher.",
+ "body": "![Início](img/ign-colecao-waink-1.jpg)\n![Início (2)](img/ign-colecao-waink-2.jpg)\n![Início (3)](img/ign-colecao-waink-3.jpg)\n![Início (4)](img/ign-colecao-waink-4.jpg)\n![Início (5)](img/ign-colecao-waink-5.jpg)\n\n- **Como escanear:** quando aparecer o aviso, {↑} abre o celular e **segure {R1}** no WAiNK.\n- Perto de um local, o controle vibra em pulsos, do lado de onde ele está em relação à câmera.\n- **Outdoors PeeWee:** um em Vice-Dale, Mariana, Lummox e Leonard (caça ao tesouro Find PeeWees Billboards).\n- **NoFlusher Tags:** marcas de giz no chão, difíceis de ver; fazem parte da missão de exploração Vice Beach Utility Markings.\n- Para escanear carros, veja [[veiculos-waink]].\n- Para os 100% bastam 100. Escanear 4 marcos, curiosidades ou esculturas fecha o desafio WAiNK Locations.",
+ "check": [
+  {
+   "id": "wl-old-goliath",
+   "t": "**Old Goliath** · Marco",
+   "d": "Árvore gigante na esquina da Magnolia Rd com a Sycamore Ave, noroeste de Ambrosia\n\n![Old Goliath](img/ign-wl-old-goliath-1.jpg)\n![Old Goliath (2)](img/ign-wl-old-goliath-2.jpg)"
+  },
+  {
+   "id": "wl-vice-city-sign",
+   "t": "**Vice City Sign** · Marco",
+   "d": "Letreiro gigante de Vice City entre o Three Toe Lake e o VCIA (West Vice-Dale)\n\n![Vice City Sign](img/ign-wl-vice-city-sign-1.jpg)\n![Vice City Sign (2)](img/ign-wl-vice-city-sign-2.jpg)\n![Vice City Sign (3)](img/ign-wl-vice-city-sign-3.jpg)"
+  },
+  {
+   "id": "wl-bonanza-giant",
+   "t": "**Bonanza Giant** · Marco",
+   "d": "Estátua grande de madeira num morro no meio da floresta, sul de Bonanza\n\n![Bonanza Giant](img/ign-wl-bonanza-giant-1.jpg)\n![Bonanza Giant (2)](img/ign-wl-bonanza-giant-2.jpg)\n![Bonanza Giant (3)](img/ign-wl-bonanza-giant-3.jpg)"
+  },
+  {
+   "id": "wl-bobcat-key-experimental-home",
+   "t": "**Bobcat Key Experimental Home** · Marco",
+   "d": "Restos da casa de concreto afundada perto da praia de Bobcat Key\n\n![Bobcat Key Experimental Home](img/ign-wl-bobcat-key-experimental-home-1.jpg)\n![Bobcat Key Experimental Home (2)](img/ign-wl-bobcat-key-experimental-home-2.jpg)\n![Bobcat Key Experimental Home (3)](img/ign-wl-bobcat-key-experimental-home-3.jpg)"
+  },
+  {
+   "id": "wl-lawton-co-paper-mill",
+   "t": "**Lawton Co. Paper Mill** · Marco",
+   "d": "Ruínas da fábrica de papel perto do rio, sudoeste de Moreau\n\n![Lawton Co. Paper Mill](img/ign-wl-lawton-co-paper-mill-1.jpg)\n![Lawton Co. Paper Mill (2)](img/ign-wl-lawton-co-paper-mill-2.jpg)\n![Lawton Co. Paper Mill (3)](img/ign-wl-lawton-co-paper-mill-3.jpg)"
+  },
+  {
+   "id": "wl-farmer-scrumpy-s-apple-orchard",
+   "t": "**Farmer Scrumpy's Apple Orchard** · Marco",
+   "d": "Celeiro grande no alto do morro cercado de macieiras\n\n![Farmer Scrumpy's Apple Orchard](img/ign-wl-farmer-scrumpy-s-apple-orchard-1.jpg)\n![Farmer Scrumpy's Apple Orchard (2)](img/ign-wl-farmer-scrumpy-s-apple-orchard-2.jpg)\n![Farmer Scrumpy's Apple Orchard (3)](img/ign-wl-farmer-scrumpy-s-apple-orchard-3.jpg)"
+  },
+  {
+   "id": "wl-iaa-s-friends-of-freedom",
+   "t": "**IAA's Friends of Freedom** · Marco",
+   "d": "Placa de dedicatória no muro com os países, no parque do centro de Downtown\n\n![IAA's Friends of Freedom](img/ign-wl-iaa-s-friends-of-freedom-1.jpg)\n![IAA's Friends of Freedom (2)](img/ign-wl-iaa-s-friends-of-freedom-2.jpg)\n![IAA's Friends of Freedom (3)](img/ign-wl-iaa-s-friends-of-freedom-3.jpg)"
+  },
+  {
+   "id": "wl-unidentified-building",
+   "t": "**Unidentified Building** · Marco",
+   "d": "Porta do túnel subterrâneo na ilha sul de Little Hardin Island\n\n![Unidentified Building](img/ign-wl-unidentified-building-1.jpg)\n![Unidentified Building (2)](img/ign-wl-unidentified-building-2.jpg)\n![Unidentified Building (3)](img/ign-wl-unidentified-building-3.jpg)"
+  },
+  {
+   "id": "wl-thicc-herbie",
+   "t": "**Thicc Herbie** · Marco",
+   "d": "Dirigível em Maroon Key, escaneado do estacionamento ao lado da Sunbelt Hwy em Abismo Key\n\n![Thicc Herbie](img/ign-wl-thicc-herbie-1.jpg)\n![Thicc Herbie (2)](img/ign-wl-thicc-herbie-2.jpg)\n![Thicc Herbie (3)](img/ign-wl-thicc-herbie-3.jpg)"
+  },
+  {
+   "id": "wl-riquezas-keys-radome",
+   "t": "**Riquezas Keys Radome** · Marco",
+   "d": "Radome na pequena instalação ao sul da ilha sul das Riquezas Keys\n\n![Riquezas Keys Radome](img/ign-wl-riquezas-keys-radome-1.jpg)\n![Riquezas Keys Radome (2)](img/ign-wl-riquezas-keys-radome-2.jpg)\n![Riquezas Keys Radome (3)](img/ign-wl-riquezas-keys-radome-3.jpg)"
+  },
+  {
+   "id": "wl-gellhorn-fun-fair",
+   "t": "**Gellhorn Fun Fair** · Marco",
+   "d": "Centro da roda-gigante do parque abandonado, sul de Port Gellhorn\n\n![Gellhorn Fun Fair](img/ign-wl-gellhorn-fun-fair-1.jpg)\n![Gellhorn Fun Fair (2)](img/ign-wl-gellhorn-fun-fair-2.jpg)\n![Gellhorn Fun Fair (3)](img/ign-wl-gellhorn-fun-fair-3.jpg)"
+  },
+  {
+   "id": "wl-downtown-periscope",
+   "t": "**Downtown Periscope** · Marco",
+   "d": "Topo do mirante, escaneado de baixo, na esquina da Mariner's Hwy com a Catalan Blvd (parque no sudeste de Downtown)\n\n![Downtown Periscope](img/ign-wl-downtown-periscope-1.jpg)\n![Downtown Periscope (2)](img/ign-wl-downtown-periscope-2.jpg)\n![Downtown Periscope (3)](img/ign-wl-downtown-periscope-3.jpg)"
+  },
+  {
+   "id": "wl-st-lucia-lighthouse",
+   "t": "**St. Lucia Lighthouse** · Marco",
+   "d": "Placa na base do farol, norte de Little Hardin Island\n\n![St. Lucia Lighthouse](img/ign-wl-st-lucia-lighthouse-1.jpg)\n![St. Lucia Lighthouse (2)](img/ign-wl-st-lucia-lighthouse-2.jpg)\n![St. Lucia Lighthouse (3)](img/ign-wl-st-lucia-lighthouse-3.jpg)"
+  },
+  {
+   "id": "wl-sky-ride",
+   "t": "**Sky Ride** · Marco",
+   "d": "Topo do brinquedo no parque à beira do Emerald River, Emerald Springs\n\n![Sky Ride](img/ign-wl-sky-ride-1.jpg)\n![Sky Ride (2)](img/ign-wl-sky-ride-2.jpg)\n![Sky Ride (3)](img/ign-wl-sky-ride-3.jpg)"
+  },
+  {
+   "id": "wl-pelican-valley-observation-tower",
+   "t": "**Pelican Valley Observation Tower** · Marco",
+   "d": "Torre vista da passarela, leste de Grassrivers (Sweetbay Rd)\n\n![Pelican Valley Observation Tower](img/ign-wl-pelican-valley-observation-tower-1.jpg)\n![Pelican Valley Observation Tower (2)](img/ign-wl-pelican-valley-observation-tower-2.jpg)\n![Pelican Valley Observation Tower (3)](img/ign-wl-pelican-valley-observation-tower-3.jpg)"
+  },
+  {
+   "id": "wl-outlaw-s-cabin",
+   "t": "**Outlaw's Cabin** · Marco",
+   "d": "Casa desabando numa rua lateral da Rockledge Rd, montanhas do centro de Moreau\n\n![Outlaw's Cabin](img/ign-wl-outlaw-s-cabin-1.jpg)\n![Outlaw's Cabin (2)](img/ign-wl-outlaw-s-cabin-2.jpg)\n![Outlaw's Cabin (3)](img/ign-wl-outlaw-s-cabin-3.jpg)"
+  },
+  {
+   "id": "wl-belpoint-lighthouse",
+   "t": "**Belpoint Lighthouse** · Marco",
+   "d": "Farol de metal na ponta sul de Belpoint\n\n![Belpoint Lighthouse](img/ign-wl-belpoint-lighthouse-1.jpg)\n![Belpoint Lighthouse (2)](img/ign-wl-belpoint-lighthouse-2.jpg)\n![Belpoint Lighthouse (3)](img/ign-wl-belpoint-lighthouse-3.jpg)"
+  },
+  {
+   "id": "wl-kalaga-lookout",
+   "t": "**Kalaga Lookout** · Marco",
+   "d": "Rocha pichada abaixo da borda, em ruínas no Mount Kalaga National Park\n\n![Kalaga Lookout](img/ign-wl-kalaga-lookout-1.jpg)\n![Kalaga Lookout (2)](img/ign-wl-kalaga-lookout-2.jpg)\n![Kalaga Lookout (3)](img/ign-wl-kalaga-lookout-3.jpg)"
+  },
+  {
+   "id": "wl-grayson-cairns",
+   "t": "**Grayson Cairns** · Marco",
+   "d": "Pilha de pedras no alto do morro entre quatro estradinhas, Mount Kalaga National Park\n\n![Grayson Cairns](img/ign-wl-grayson-cairns-1.jpg)\n![Grayson Cairns (2)](img/ign-wl-grayson-cairns-2.jpg)\n![Grayson Cairns (3)](img/ign-wl-grayson-cairns-3.jpg)"
+  },
+  {
+   "id": "wl-hoffman-observatory",
+   "t": "**Hoffman Observatory** · Marco",
+   "d": "Observatório abandonado na estrada de terra, oeste de North Kelly\n\n![Hoffman Observatory](img/ign-wl-hoffman-observatory-1.jpg)\n![Hoffman Observatory (2)](img/ign-wl-hoffman-observatory-2.jpg)\n![Hoffman Observatory (3)](img/ign-wl-hoffman-observatory-3.jpg)"
+  },
+  {
+   "id": "wl-dock-ring",
+   "t": "**Dock Ring** · Marco",
+   "d": "Roda-gigante sobre a água no fim do píer, leste de Downtown\n\n![Dock Ring](img/ign-wl-dock-ring-1.jpg)\n![Dock Ring (2)](img/ign-wl-dock-ring-2.jpg)\n![Dock Ring (3)](img/ign-wl-dock-ring-3.jpg)"
+  },
+  {
+   "id": "wl-grayson-assembly",
+   "t": "**Grayson Assembly** · Marco",
+   "d": "Porta da frente do prédio Grayson Assembly, centro de Grayson\n\n![Grayson Assembly](img/ign-wl-grayson-assembly-1.jpg)\n![Grayson Assembly (2)](img/ign-wl-grayson-assembly-2.jpg)\n![Grayson Assembly (3)](img/ign-wl-grayson-assembly-3.jpg)"
+  },
+  {
+   "id": "wl-wild-hog-point-radar-base",
+   "t": "**Wild Hog Point Radar Base** · Marco",
+   "d": "Cúpula da torre de radar perto do aeroporto de Wild Hog Point\n\n![Wild Hog Point Radar Base](img/ign-wl-wild-hog-point-radar-base-1.jpg)\n![Wild Hog Point Radar Base (2)](img/ign-wl-wild-hog-point-radar-base-2.jpg)\n![Wild Hog Point Radar Base (3)](img/ign-wl-wild-hog-point-radar-base-3.jpg)"
+  },
+  {
+   "id": "wl-howe-dairy-farm-s-big-udder",
+   "t": "**Howe Dairy Farm's Big Udder** · Marco",
+   "d": "Silo com estampa de vaca na Howe Dairy (CR 62), noroeste de Emerald Springs\n\n![Howe Dairy Farm's Big Udder](img/ign-wl-howe-dairy-farm-s-big-udder-1.jpg)\n![Howe Dairy Farm's Big Udder (2)](img/ign-wl-howe-dairy-farm-s-big-udder-2.jpg)\n![Howe Dairy Farm's Big Udder (3)](img/ign-wl-howe-dairy-farm-s-big-udder-3.jpg)"
+  },
+  {
+   "id": "wl-badger-r-d-tower",
+   "t": "**Badger R&D Tower** · Marco",
+   "d": "Torre de concreto no lado oeste do centro de Key Lento\n\n![Badger R&D Tower](img/ign-wl-badger-r-d-tower-1.jpg)\n![Badger R&D Tower (2)](img/ign-wl-badger-r-d-tower-2.jpg)\n![Badger R&D Tower (3)](img/ign-wl-badger-r-d-tower-3.jpg)"
+  },
+  {
+   "id": "wl-aqua-stadium",
+   "t": "**Aqua Stadium** · Marco",
+   "d": "Prédio comprido na costa da Catalan Bay, sul de Gloriana Key\n\n![Aqua Stadium](img/ign-wl-aqua-stadium-1.jpg)\n![Aqua Stadium (2)](img/ign-wl-aqua-stadium-2.jpg)\n![Aqua Stadium (3)](img/ign-wl-aqua-stadium-3.jpg)"
+  },
+  {
+   "id": "wl-tucker-s-citrus-farms-water-tower",
+   "t": "**Tucker's Citrus Farms Water Tower** · Marco",
+   "d": "Caixa-d'água vista de dentro da fazenda, norte de Emerald Springs\n\n![Tucker's Citrus Farms Water Tower](img/ign-wl-tucker-s-citrus-farms-water-tower-1.jpg)\n![Tucker's Citrus Farms Water Tower (2)](img/ign-wl-tucker-s-citrus-farms-water-tower-2.jpg)\n![Tucker's Citrus Farms Water Tower (3)](img/ign-wl-tucker-s-citrus-farms-water-tower-3.jpg)"
+  },
+  {
+   "id": "wl-sahara-arena",
+   "t": "**Sahara Arena** · Marco",
+   "d": "Letreiro da arena, costa leste de Downtown\n\n![Sahara Arena](img/ign-wl-sahara-arena-1.jpg)\n![Sahara Arena (2)](img/ign-wl-sahara-arena-2.jpg)\n![Sahara Arena (3)](img/ign-wl-sahara-arena-3.jpg)"
+  },
+  {
+   "id": "wl-fleeca-field",
+   "t": "**Fleeca Field** · Marco",
+   "d": "Placa em frente ao estádio, oeste de Rockridge\n\n![Fleeca Field](img/ign-wl-fleeca-field-1.jpg)\n![Fleeca Field (2)](img/ign-wl-fleeca-field-2.jpg)\n![Fleeca Field (3)](img/ign-wl-fleeca-field-3.jpg)"
+  },
+  {
+   "id": "wl-tallaloko-amphitheater",
+   "t": "**Tallaloko Amphitheater** · Marco",
+   "d": "Prédio central com sino nas ruínas do anfiteatro, leste do Mount Kalaga National Park\n\n![Tallaloko Amphitheater](img/ign-wl-tallaloko-amphitheater-1.jpg)\n![Tallaloko Amphitheater (2)](img/ign-wl-tallaloko-amphitheater-2.jpg)\n![Tallaloko Amphitheater (3)](img/ign-wl-tallaloko-amphitheater-3.jpg)"
+  },
+  {
+   "id": "wl-courtland-park-stadium",
+   "t": "**Courtland Park Stadium** · Marco",
+   "d": "Placa em frente ao estádio, no meio da ilha principal de Catalan Key\n\n![Courtland Park Stadium](img/ign-wl-courtland-park-stadium-1.jpg)\n![Courtland Park Stadium (2)](img/ign-wl-courtland-park-stadium-2.jpg)\n![Courtland Park Stadium (3)](img/ign-wl-courtland-park-stadium-3.jpg)"
+  },
+  {
+   "id": "wc-hovercraft-crash",
+   "t": "**Hovercraft Crash** · Curiosidade",
+   "d": "Hovercraft destruído no norte da ilha sul dos Sandbars, Golfo de Leonida\n\n![Hovercraft Crash](img/ign-wc-hovercraft-crash-1.jpg)\n![Hovercraft Crash (2)](img/ign-wc-hovercraft-crash-2.jpg)"
+  },
+  {
+   "id": "wc-wreck-of-the-meerwunder",
+   "t": "**Wreck of the Meerwunder** · Curiosidade",
+   "d": "Cargueiro virado nas ilhotas do centro das Featherstone Islands\n\n![Wreck of the Meerwunder](img/ign-wc-wreck-of-the-meerwunder-1.jpg)\n![Wreck of the Meerwunder (2)](img/ign-wc-wreck-of-the-meerwunder-2.jpg)\n![Wreck of the Meerwunder (3)](img/ign-wc-wreck-of-the-meerwunder-3.jpg)"
+  },
+  {
+   "id": "wc-anti-sugar-residence",
+   "t": "**Anti Sugar Residence** · Curiosidade",
+   "d": "Casa solitária numa obra a oeste de Ambrosia\n\n![Anti Sugar Residence](img/ign-wc-anti-sugar-residence-1.jpg)\n![Anti Sugar Residence (2)](img/ign-wc-anti-sugar-residence-2.jpg)\n![Anti Sugar Residence (3)](img/ign-wc-anti-sugar-residence-3.jpg)"
+  },
+  {
+   "id": "wc-derelict-spy-vessel",
+   "t": "**Derelict Spy Vessel** · Curiosidade",
+   "d": "Barco encalhado na praia sul da ilha sudeste das Permit Keys\n\n![Derelict Spy Vessel](img/ign-wc-derelict-spy-vessel-1.jpg)\n![Derelict Spy Vessel (2)](img/ign-wc-derelict-spy-vessel-2.jpg)\n![Derelict Spy Vessel (3)](img/ign-wc-derelict-spy-vessel-3.jpg)"
+  },
+  {
+   "id": "wc-camp-moonflower",
+   "t": "**Camp Moonflower** · Curiosidade",
+   "d": "Placa do acampamento na Emerald Springs Dr, entre Emerald Springs e Buckskin Swamp\n\n![Camp Moonflower](img/ign-wc-camp-moonflower-1.jpg)\n![Camp Moonflower (2)](img/ign-wc-camp-moonflower-2.jpg)\n![Camp Moonflower (3)](img/ign-wc-camp-moonflower-3.jpg)"
+  },
+  {
+   "id": "wc-dead-sharks",
+   "t": "**Dead Sharks** · Curiosidade",
+   "d": "Grupo de tubarões mortos na costa de uma ilha comprida em Wetman Bay\n\n![Dead Sharks](img/ign-wc-dead-sharks-1.jpg)\n![Dead Sharks (2)](img/ign-wc-dead-sharks-2.jpg)\n![Dead Sharks (3)](img/ign-wc-dead-sharks-3.jpg)"
+  },
+  {
+   "id": "wc-fossilized-prints",
+   "t": "**Fossilized Prints** · Curiosidade",
+   "d": "Pegadas fósseis na pedra, no vale sob uma ponte, sudoeste de Moreau\n\n![Fossilized Prints](img/ign-wc-fossilized-prints-1.jpg)\n![Fossilized Prints (2)](img/ign-wc-fossilized-prints-2.jpg)\n![Fossilized Prints (3)](img/ign-wc-fossilized-prints-3.jpg)"
+  },
+  {
+   "id": "wc-beach-party-site",
+   "t": "**Beach Party Site** · Curiosidade",
+   "d": "Plataforma de madeira na praia perto do píer, costa leste da ilha do meio das Permit Keys\n\n![Beach Party Site](img/ign-wc-beach-party-site-1.jpg)\n![Beach Party Site (2)](img/ign-wc-beach-party-site-2.jpg)\n![Beach Party Site (3)](img/ign-wc-beach-party-site-3.jpg)"
+  },
+  {
+   "id": "wc-fairy-lane",
+   "t": "**Fairy Lane** · Curiosidade",
+   "d": "Casinha de fada vermelha entre os dois arcos, na floresta de South West Lummox\n\n![Fairy Lane](img/ign-wc-fairy-lane-1.jpg)\n![Fairy Lane (2)](img/ign-wc-fairy-lane-2.jpg)\n![Fairy Lane (3)](img/ign-wc-fairy-lane-3.jpg)"
+  },
+  {
+   "id": "wc-mermaid-display",
+   "t": "**Mermaid Display** · Curiosidade",
+   "d": "Sereia e \"humanatee\" num tanque nos fundos de um armazém do Oceanarium (docas de Catalan Key)\n\n![Mermaid Display](img/ign-wc-mermaid-display-1.jpg)\n![Mermaid Display (2)](img/ign-wc-mermaid-display-2.jpg)\n![Mermaid Display (3)](img/ign-wc-mermaid-display-3.jpg)"
+  },
+  {
+   "id": "wc-imperial-spanish-ruins",
+   "t": "**Imperial Spanish Ruins** · Curiosidade",
+   "d": "Topo da torre, escaneado de dentro da base, ruínas no oeste do Mount Kalaga National Park\n\n![Imperial Spanish Ruins](img/ign-wc-imperial-spanish-ruins-1.jpg)\n![Imperial Spanish Ruins (2)](img/ign-wc-imperial-spanish-ruins-2.jpg)\n![Imperial Spanish Ruins (3)](img/ign-wc-imperial-spanish-ruins-3.jpg)"
+  },
+  {
+   "id": "wc-intriguing-substance",
+   "t": "**Intriguing Substance** · Curiosidade",
+   "d": "Gosma verde sob a escada do acesso ao esgoto, sul de East Lummox\n\n![Intriguing Substance](img/ign-wc-intriguing-substance-1.jpg)\n![Intriguing Substance (2)](img/ign-wc-intriguing-substance-2.jpg)\n![Intriguing Substance (3)](img/ign-wc-intriguing-substance-3.jpg)"
+  },
+  {
+   "id": "wc-halloween-house",
+   "t": "**Halloween House** · Curiosidade",
+   "d": "Casa toda decorada de Halloween, centro de Capri\n\n![Halloween House](img/ign-wc-halloween-house-1.jpg)\n![Halloween House (2)](img/ign-wc-halloween-house-2.jpg)\n![Halloween House (3)](img/ign-wc-halloween-house-3.jpg)"
+  },
+  {
+   "id": "wc-christmas-house",
+   "t": "**Christmas House** · Curiosidade",
+   "d": "Casa toda decorada de Natal, centro de Key Lento\n\n![Christmas House](img/ign-wc-christmas-house-1.jpg)\n![Christmas House (2)](img/ign-wc-christmas-house-2.jpg)\n![Christmas House (3)](img/ign-wc-christmas-house-3.jpg)"
+  },
+  {
+   "id": "wc-dino-golf",
+   "t": "**Dino Golf** · Curiosidade",
+   "d": "Placa do minigolfe abandonado Dino Adventure Golf, sul de Frogswater\n\n![Dino Golf](img/ign-wc-dino-golf-1.jpg)\n![Dino Golf (2)](img/ign-wc-dino-golf-2.jpg)\n![Dino Golf (3)](img/ign-wc-dino-golf-3.jpg)"
+  },
+  {
+   "id": "wc-noflusher-homestead",
+   "t": "**NoFlusher Homestead** · Curiosidade",
+   "d": "Casa principal numa ilha em forma de Y em Wetman Bay\n\n![NoFlusher Homestead](img/ign-wc-noflusher-homestead-1.jpg)\n![NoFlusher Homestead (2)](img/ign-wc-noflusher-homestead-2.jpg)\n![NoFlusher Homestead (3)](img/ign-wc-noflusher-homestead-3.jpg)"
+  },
+  {
+   "id": "wc-deserted-home",
+   "t": "**Deserted Home** · Curiosidade",
+   "d": "Casa abandonada coberta de folhas perto do pântano, sudoeste de Emerald Springs\n\n![Deserted Home](img/ign-wc-deserted-home-1.jpg)\n![Deserted Home (2)](img/ign-wc-deserted-home-2.jpg)\n![Deserted Home (3)](img/ign-wc-deserted-home-3.jpg)"
+  },
+  {
+   "id": "wc-lovers-lookout",
+   "t": "**Lovers Lookout** · Curiosidade",
+   "d": "Arco de madeira na beira do penhasco, sudoeste do Mount Kalaga National Park\n\n![Lovers Lookout](img/ign-wc-lovers-lookout-1.jpg)\n![Lovers Lookout (2)](img/ign-wc-lovers-lookout-2.jpg)\n![Lovers Lookout (3)](img/ign-wc-lovers-lookout-3.jpg)"
+  },
+  {
+   "id": "wc-pet-cemetery",
+   "t": "**Pet Cemetery** · Curiosidade",
+   "d": "Lápides no pequeno cemitério perto da SR-73, sul de Grayson\n\n![Pet Cemetery](img/ign-wc-pet-cemetery-1.jpg)\n![Pet Cemetery (2)](img/ign-wc-pet-cemetery-2.jpg)\n![Pet Cemetery (3)](img/ign-wc-pet-cemetery-3.jpg)"
+  },
+  {
+   "id": "wc-desert-island-piano",
+   "t": "**Desert Island Piano** · Curiosidade",
+   "d": "Piano no meio da ilhota mais a oeste das Shoeless Keys\n\n![Desert Island Piano](img/ign-wc-desert-island-piano-1.jpg)\n![Desert Island Piano (2)](img/ign-wc-desert-island-piano-2.jpg)\n![Desert Island Piano (3)](img/ign-wc-desert-island-piano-3.jpg)"
+  },
+  {
+   "id": "wc-promotional-sand-vehicles",
+   "t": "**Promotional Sand Vehicles** · Curiosidade",
+   "d": "Carros de areia na praia leste de Ocean Beach\n\n![Promotional Sand Vehicles](img/ign-wc-promotional-sand-vehicles-1.jpg)\n![Promotional Sand Vehicles (2)](img/ign-wc-promotional-sand-vehicles-2.jpg)\n![Promotional Sand Vehicles (3)](img/ign-wc-promotional-sand-vehicles-3.jpg)"
+  },
+  {
+   "id": "wc-belville-topiary",
+   "t": "**Belville Topiary** · Curiosidade",
+   "d": "Topiaria em forma de cobra no quintal de uma casa branca na Harmony Dr, sul de Belville\n\n![Belville Topiary](img/ign-wc-belville-topiary-1.jpg)\n![Belville Topiary (2)](img/ign-wc-belville-topiary-2.jpg)\n![Belville Topiary (3)](img/ign-wc-belville-topiary-3.jpg)"
+  },
+  {
+   "id": "wc-abismo-key-carcass",
+   "t": "**Abismo Key Carcass** · Curiosidade",
+   "d": "Carcaça de criatura estranha na praia sul de Abismo Key\n\n![Abismo Key Carcass](img/ign-wc-abismo-key-carcass-1.jpg)\n![Abismo Key Carcass (2)](img/ign-wc-abismo-key-carcass-2.jpg)\n![Abismo Key Carcass (3)](img/ign-wc-abismo-key-carcass-3.jpg)"
+  },
+  {
+   "id": "wc-wetman-bay-carcass",
+   "t": "**Wetman Bay Carcass** · Curiosidade",
+   "d": "Carcaça de criatura estranha na praia sul de uma ilha central de Wetman Bay\n\n![Wetman Bay Carcass](img/ign-wc-wetman-bay-carcass-1.jpg)\n![Wetman Bay Carcass (2)](img/ign-wc-wetman-bay-carcass-2.jpg)\n![Wetman Bay Carcass (3)](img/ign-wc-wetman-bay-carcass-3.jpg)"
+  },
+  {
+   "id": "wc-goose-key-carcass",
+   "t": "**Goose Key Carcass** · Curiosidade",
+   "d": "Carcaça de criatura estranha na praia norte da Mile Zero Air Station\n\n![Goose Key Carcass](img/ign-wc-goose-key-carcass-1.jpg)\n![Goose Key Carcass (2)](img/ign-wc-goose-key-carcass-2.jpg)\n![Goose Key Carcass (3)](img/ign-wc-goose-key-carcass-3.jpg)"
+  },
+  {
+   "id": "wc-c0-b8-engine",
+   "t": "**C0-B8 Engine** · Curiosidade",
+   "d": "Motor enterrado do foguete nas montanhas a oeste de Moreau, perto da MacAlister Gold Mine\n\n![C0-B8 Engine](img/ign-wc-c0-b8-engine-1.jpg)\n![C0-B8 Engine (2)](img/ign-wc-c0-b8-engine-2.jpg)\n![C0-B8 Engine (3)](img/ign-wc-c0-b8-engine-3.jpg)"
+  },
+  {
+   "id": "wc-c0-b8-debris",
+   "t": "**C0-B8 Debris** · Curiosidade",
+   "d": "Destroços enterrados do foguete numa ilhota das Featherstone Islands\n\n![C0-B8 Debris](img/ign-wc-c0-b8-debris-1.jpg)\n![C0-B8 Debris (2)](img/ign-wc-c0-b8-debris-2.jpg)\n![C0-B8 Debris (3)](img/ign-wc-c0-b8-debris-3.jpg)"
+  },
+  {
+   "id": "wc-c0-b8-fairing",
+   "t": "**C0-B8 Fairing** · Curiosidade",
+   "d": "Carenagem enterrada na costa oeste da ilha grande do leste, Featherstone Islands\n\n![C0-B8 Fairing](img/ign-wc-c0-b8-fairing-1.jpg)\n![C0-B8 Fairing (2)](img/ign-wc-c0-b8-fairing-2.jpg)\n![C0-B8 Fairing (3)](img/ign-wc-c0-b8-fairing-3.jpg)"
+  },
+  {
+   "id": "wc-big-entrance",
+   "t": "**Big Entrance** · Curiosidade",
+   "d": "Placa abaixo da escultura Big Entrance, centro de Dalton Island\n\n![Big Entrance](img/ign-wc-big-entrance-1.jpg)\n![Big Entrance (2)](img/ign-wc-big-entrance-2.jpg)\n![Big Entrance (3)](img/ign-wc-big-entrance-3.jpg)"
+  },
+  {
+   "id": "wc-fingerpost",
+   "t": "**Fingerpost** · Curiosidade",
+   "d": "Placa de direções no meio da ilha central das Permit Keys\n\n![Fingerpost](img/ign-wc-fingerpost-1.jpg)\n![Fingerpost (2)](img/ign-wc-fingerpost-2.jpg)\n![Fingerpost (3)](img/ign-wc-fingerpost-3.jpg)"
+  },
+  {
+   "id": "wc-spaceship-house",
+   "t": "**Spaceship House** · Curiosidade",
+   "d": "Módulo espacial em cima de uma casa, Maple Ln x Cedar St, oeste de Ambrosia\n\n![Spaceship House](img/ign-wc-spaceship-house-1.jpg)\n![Spaceship House (2)](img/ign-wc-spaceship-house-2.jpg)\n![Spaceship House (3)](img/ign-wc-spaceship-house-3.jpg)"
+  },
+  {
+   "id": "wc-vibrant-pond",
+   "t": "**Vibrant Pond** · Curiosidade",
+   "d": "Placa de aviso na lagoa com peixes mortos, ilha mais ao sul de Gullet Marsh\n\n![Vibrant Pond](img/ign-wc-vibrant-pond-1.jpg)\n![Vibrant Pond (2)](img/ign-wc-vibrant-pond-2.jpg)\n![Vibrant Pond (3)](img/ign-wc-vibrant-pond-3.jpg)"
+  },
+  {
+   "id": "wc-unidentified-animal-pen-uap",
+   "t": "**Unidentified Animal Pen (UAP)** · Curiosidade",
+   "d": "Curral em forma de disco voador no quintal de uma casa azul-clara na Kingston Rd, norte de Watson Bay\n\n![Unidentified Animal Pen (UAP)](img/ign-wc-unidentified-animal-pen-uap-1.jpg)\n![Unidentified Animal Pen (UAP) (2)](img/ign-wc-unidentified-animal-pen-uap-2.jpg)\n![Unidentified Animal Pen (UAP) (3)](img/ign-wc-unidentified-animal-pen-uap-3.jpg)"
+  },
+  {
+   "id": "wc-selkie-hole",
+   "t": "**Selkie Hole** · Curiosidade",
+   "d": "Feixe de luz, escaneado do píer dentro do Selkie Hole, oeste de Emerald Springs\n\n![Selkie Hole](img/ign-wc-selkie-hole-1.jpg)\n![Selkie Hole (2)](img/ign-wc-selkie-hole-2.jpg)\n![Selkie Hole (3)](img/ign-wc-selkie-hole-3.jpg)"
+  },
+  {
+   "id": "wc-plunge-masters-deep-sea-chalet",
+   "t": "**Plunge Masters Deep Sea Chalet** · Curiosidade",
+   "d": "Mural na lateral da escola de mergulho Plunge-Masters, sul de Key Lento\n\n![Plunge Masters Deep Sea Chalet](img/ign-wc-plunge-masters-deep-sea-chalet-1.jpg)\n![Plunge Masters Deep Sea Chalet (2)](img/ign-wc-plunge-masters-deep-sea-chalet-2.jpg)\n![Plunge Masters Deep Sea Chalet (3)](img/ign-wc-plunge-masters-deep-sea-chalet-3.jpg)"
+  },
+  {
+   "id": "ws-leonida-snow",
+   "t": "**Leonida Snow** · Escultura",
+   "d": "Escultura na esquina da Mariner's Hwy com a Catalan Blvd, parque no sudeste de Downtown\n\n![Leonida Snow](img/ign-ws-leonida-snow-1.jpg)\n![Leonida Snow (2)](img/ign-ws-leonida-snow-2.jpg)"
+  },
+  {
+   "id": "ws-gimme-all-your-oil",
+   "t": "**Gimme All Your Oil** · Escultura",
+   "d": "Estátua de arma gigante mirando o mural no chão, sul do Decor District\n\n![Gimme All Your Oil](img/ign-ws-gimme-all-your-oil-1.jpg)\n![Gimme All Your Oil (2)](img/ign-ws-gimme-all-your-oil-2.jpg)\n![Gimme All Your Oil (3)](img/ign-ws-gimme-all-your-oil-3.jpg)"
+  },
+  {
+   "id": "ws-flam-gummies",
+   "t": "**Flam Gummies** · Escultura",
+   "d": "Ursos flutuantes na água perto da Panos Plaza, Bayside\n\n![Flam Gummies](img/ign-ws-flam-gummies-1.jpg)\n![Flam Gummies (2)](img/ign-ws-flam-gummies-2.jpg)\n![Flam Gummies (3)](img/ign-ws-flam-gummies-3.jpg)"
+  },
+  {
+   "id": "ws-grassrivers-visitor-center-statue",
+   "t": "**Grassrivers Visitor Center Statue** · Escultura",
+   "d": "Estátua de animal entre as duas pistas da Old Fort Rd, em frente ao Visitor Center (Shoeless Keys)\n\n![Grassrivers Visitor Center Statue](img/ign-ws-grassrivers-visitor-center-statue-1.jpg)\n![Grassrivers Visitor Center Statue (2)](img/ign-ws-grassrivers-visitor-center-statue-2.jpg)\n![Grassrivers Visitor Center Statue (3)](img/ign-ws-grassrivers-visitor-center-statue-3.jpg)"
+  },
+  {
+   "id": "ws-junkyard-t-rex",
+   "t": "**Junkyard T-Rex** · Escultura",
+   "d": "Dinossauro de calotas no meio de uma estradinha da Sassafrass Rd, nordeste do Mount Kalaga National Park\n\n![Junkyard T-Rex](img/ign-ws-junkyard-t-rex-1.jpg)\n![Junkyard T-Rex (2)](img/ign-ws-junkyard-t-rex-2.jpg)\n![Junkyard T-Rex (3)](img/ign-ws-junkyard-t-rex-3.jpg)"
+  },
+  {
+   "id": "ws-fatal-incursion-plaque",
+   "t": "**Fatal Incursion Plaque** · Escultura",
+   "d": "Estátuas junto às placas na borda sul de Key Lento, à beira d'água\n\n![Fatal Incursion Plaque](img/ign-ws-fatal-incursion-plaque-1.jpg)\n![Fatal Incursion Plaque (2)](img/ign-ws-fatal-incursion-plaque-2.jpg)\n![Fatal Incursion Plaque (3)](img/ign-ws-fatal-incursion-plaque-3.jpg)"
+  },
+  {
+   "id": "ws-triangler-sculpture",
+   "t": "**Triangler Sculpture** · Escultura",
+   "d": "Marlim um pouco fora da costa sul de Corsair Key\n\n![Triangler Sculpture](img/ign-ws-triangler-sculpture-1.jpg)\n![Triangler Sculpture (2)](img/ign-ws-triangler-sculpture-2.jpg)\n![Triangler Sculpture (3)](img/ign-ws-triangler-sculpture-3.jpg)"
+  },
+  {
+   "id": "ws-chariot-to-valhalla",
+   "t": "**Chariot to Valhalla** · Escultura",
+   "d": "Memorial na beira da Rockledge Rd, South West Lummox\n\n![Chariot to Valhalla](img/ign-ws-chariot-to-valhalla-1.jpg)\n![Chariot to Valhalla (2)](img/ign-ws-chariot-to-valhalla-2.jpg)\n![Chariot to Valhalla (3)](img/ign-ws-chariot-to-valhalla-3.jpg)"
+  },
+  {
+   "id": "ws-monument-of-leonida",
+   "t": "**Monument of Leonida** · Escultura",
+   "d": "Pilar na beira do penhasco, floresta no norte de Gellhorn\n\n![Monument of Leonida](img/ign-ws-monument-of-leonida-1.jpg)\n![Monument of Leonida (2)](img/ign-ws-monument-of-leonida-2.jpg)\n![Monument of Leonida (3)](img/ign-ws-monument-of-leonida-3.jpg)"
+  },
+  {
+   "id": "ws-mother-rushwood",
+   "t": "**Mother Rushwood** · Escultura",
+   "d": "Estátua de madeira na esquina da Tallaloko Lake Rd com o pátio de cargas, nordeste de Millport\n\n![Mother Rushwood](img/ign-ws-mother-rushwood-1.jpg)\n![Mother Rushwood (2)](img/ign-ws-mother-rushwood-2.jpg)\n![Mother Rushwood (3)](img/ign-ws-mother-rushwood-3.jpg)"
+  },
+  {
+   "id": "ws-large-lure",
+   "t": "**Large Lure** · Escultura",
+   "d": "Isca gigante no parque da ponta sul de Ocean Beach\n\n![Large Lure](img/ign-ws-large-lure-1.jpg)\n![Large Lure (2)](img/ign-ws-large-lure-2.jpg)\n![Large Lure (3)](img/ign-ws-large-lure-3.jpg)"
+  },
+  {
+   "id": "ws-catalan-blvd-garden",
+   "t": "**Catalan Blvd Garden** · Escultura",
+   "d": "Mão com um pássaro no dedo, parque à beira-mar em Bayside\n\n![Catalan Blvd Garden](img/ign-ws-catalan-blvd-garden-1.jpg)\n![Catalan Blvd Garden (2)](img/ign-ws-catalan-blvd-garden-2.jpg)\n![Catalan Blvd Garden (3)](img/ign-ws-catalan-blvd-garden-3.jpg)"
+  },
+  {
+   "id": "ws-colossus",
+   "t": "**Colossus** · Escultura",
+   "d": "Bronze em forma de rocha crescendo, Marina Vista Cir x South Vice Ave, Peacock Bay\n\n![Colossus](img/ign-ws-colossus-1.jpg)\n![Colossus (2)](img/ign-ws-colossus-2.jpg)\n![Colossus (3)](img/ign-ws-colossus-3.jpg)"
+  },
+  {
+   "id": "ws-blanco-memorial",
+   "t": "**Blanco Memorial** · Escultura",
+   "d": "Monumento no centro da Salton Memorial Island\n\n![Blanco Memorial](img/ign-ws-blanco-memorial-1.jpg)\n![Blanco Memorial (2)](img/ign-ws-blanco-memorial-2.jpg)\n![Blanco Memorial (3)](img/ign-ws-blanco-memorial-3.jpg)"
+  },
+  {
+   "id": "ws-buckskin-swamp-totem",
+   "t": "**Buckskin Swamp Totem** · Escultura",
+   "d": "Totem atrás da placa numa ilha de Buckskin Swamp\n\n![Buckskin Swamp Totem](img/ign-ws-buckskin-swamp-totem-1.jpg)\n![Buckskin Swamp Totem (2)](img/ign-ws-buckskin-swamp-totem-2.jpg)\n![Buckskin Swamp Totem (3)](img/ign-ws-buckskin-swamp-totem-3.jpg)"
+  },
+  {
+   "id": "ws-pixel-fountain",
+   "t": "**Pixel Fountain** · Escultura",
+   "d": "Fonte de cubos, Catalan Blvd x South Vice Ave, Tequesta\n\n![Pixel Fountain](img/ign-ws-pixel-fountain-1.jpg)\n![Pixel Fountain (2)](img/ign-ws-pixel-fountain-2.jpg)\n![Pixel Fountain (3)](img/ign-ws-pixel-fountain-3.jpg)"
+  },
+  {
+   "id": "ws-thrillbilly-mascot",
+   "t": "**Thrillbilly Mascot** · Escultura",
+   "d": "Boneco de pneus ao lado da pista Thrillbilly, oeste de Frogswater\n\n![Thrillbilly Mascot](img/ign-ws-thrillbilly-mascot-1.jpg)\n![Thrillbilly Mascot (2)](img/ign-ws-thrillbilly-mascot-2.jpg)\n![Thrillbilly Mascot (3)](img/ign-ws-thrillbilly-mascot-3.jpg)"
+  },
+  {
+   "id": "ws-the-grand-turkey-of-capri",
+   "t": "**The Grand Turkey of Capri** · Escultura",
+   "d": "Peru no meio do parque à beira-mar, leste de Capri\n\n![The Grand Turkey of Capri](img/ign-ws-the-grand-turkey-of-capri-1.jpg)\n![The Grand Turkey of Capri (2)](img/ign-ws-the-grand-turkey-of-capri-2.jpg)\n![The Grand Turkey of Capri (3)](img/ign-ws-the-grand-turkey-of-capri-3.jpg)"
+  },
+  {
+   "id": "ws-neptune-rises",
+   "t": "**Neptune Rises** · Escultura",
+   "d": "Netuno gigante embaixo da ponte da Flamingo Pkwy\n\n![Neptune Rises](img/ign-ws-neptune-rises-1.jpg)\n![Neptune Rises (2)](img/ign-ws-neptune-rises-2.jpg)\n![Neptune Rises (3)](img/ign-ws-neptune-rises-3.jpg)"
+  },
+  {
+   "id": "ws-vice-museum-of-art-sculpture",
+   "t": "**Vice Museum of Art Sculpture** · Escultura",
+   "d": "Escultura de emojis na frente do Vice Museum of Art, sul de Washington Beach\n\n![Vice Museum of Art Sculpture](img/ign-ws-vice-museum-of-art-sculpture-1.jpg)\n![Vice Museum of Art Sculpture (2)](img/ign-ws-vice-museum-of-art-sculpture-2.jpg)\n![Vice Museum of Art Sculpture (3)](img/ign-ws-vice-museum-of-art-sculpture-3.jpg)"
+  },
+  {
+   "id": "ws-the-wonder-whale",
+   "t": "**The Wonder Whale** · Escultura",
+   "d": "Baleia gigante na Sunbelt Hwy x Lemon St, sul de Key Lento\n\n![The Wonder Whale](img/ign-ws-the-wonder-whale-1.jpg)\n![The Wonder Whale (2)](img/ign-ws-the-wonder-whale-2.jpg)\n![The Wonder Whale (3)](img/ign-ws-the-wonder-whale-3.jpg)"
+  },
+  {
+   "id": "ws-princess-robot-bubblegum-statue",
+   "t": "**Princess Robot Bubblegum Statue** · Escultura",
+   "d": "Três estátuas na frente do Y Hotel, junto ao estacionamento, sudeste de Washington Beach\n\n![Princess Robot Bubblegum Statue](img/ign-ws-princess-robot-bubblegum-statue-1.jpg)\n![Princess Robot Bubblegum Statue (2)](img/ign-ws-princess-robot-bubblegum-statue-2.jpg)\n![Princess Robot Bubblegum Statue (3)](img/ign-ws-princess-robot-bubblegum-statue-3.jpg)"
+  },
+  {
+   "id": "ws-monument-of-leonidan-supremacy",
+   "t": "**Monument of Leonidan Supremacy** · Escultura",
+   "d": "Monólito segurando a Terra, cercado de cavalos, perto da SR-73, oeste de Manifest Canyon\n\n![Monument of Leonidan Supremacy](img/ign-ws-monument-of-leonidan-supremacy-1.jpg)\n![Monument of Leonidan Supremacy (2)](img/ign-ws-monument-of-leonidan-supremacy-2.jpg)"
+  },
+  {
+   "id": "wp-1",
+   "t": "**Outdoor PeeWee de Vice-Dale**",
+   "d": "Sobre a rampa da US-10, oeste de Balsero\n\n![Outdoor PeeWee de Vice-Dale](img/ign-wp-1-1.jpg)\n![Outdoor PeeWee de Vice-Dale (2)](img/ign-wp-1-2.jpg)"
+  },
+  {
+   "id": "wp-2",
+   "t": "**Outdoor PeeWee de Mariana**",
+   "d": "No canteiro central da US-82, entre North Mariana e Grassrivers\n\n![Outdoor PeeWee de Mariana](img/ign-wp-2-1.jpg)\n![Outdoor PeeWee de Mariana (2)](img/ign-wp-2-2.jpg)\n![Outdoor PeeWee de Mariana (3)](img/ign-wp-2-3.jpg)"
+  },
+  {
+   "id": "wp-3",
+   "t": "**Outdoor PeeWee de Lummox**",
+   "d": "Sobre a US-628, divisa de South West Lummox com o Mount Kalaga National Park\n\n![Outdoor PeeWee de Lummox](img/ign-wp-3-1.jpg)\n![Outdoor PeeWee de Lummox (2)](img/ign-wp-3-2.jpg)\n![Outdoor PeeWee de Lummox (3)](img/ign-wp-3-3.jpg)"
+  },
+  {
+   "id": "wp-4",
+   "t": "**Outdoor PeeWee de Leonard**",
+   "d": "Entre a ferrovia e a SR-27, noroeste de Waning Sands\n\n![Outdoor PeeWee de Leonard](img/ign-wp-4-1.jpg)\n![Outdoor PeeWee de Leonard (2)](img/ign-wp-4-2.jpg)\n![Outdoor PeeWee de Leonard (3)](img/ign-wp-4-3.jpg)"
+  },
+  {
+   "id": "wn-1",
+   "t": "**NoFlusher Tag 1**",
+   "d": "Calçada numa rua lateral da Shorebeach Rd, em frente ao High Tide Hotel (leste de Washington Beach)\n\n![NoFlusher Tag 1](img/ign-wn-1-1.jpg)"
+  },
+  {
+   "id": "wn-2",
+   "t": "**NoFlusher Tag 2**",
+   "d": "Calçada do retorno da Harborside Ave, Maritime Court Luxury Apartments (noroeste de Ocean Beach)\n\n![NoFlusher Tag 2](img/ign-wn-2-1.jpg)\n![NoFlusher Tag 2 (2)](img/ign-wn-2-2.jpg)\n![NoFlusher Tag 2 (3)](img/ign-wn-2-3.jpg)\n![NoFlusher Tag 2 (4)](img/ign-wn-2-4.jpg)"
+  },
+  {
+   "id": "wn-3",
+   "t": "**NoFlusher Tag 3**",
+   "d": "Portside Ln, na curva do prédio azul e branco (oeste de Ocean Beach)\n\n![NoFlusher Tag 3](img/ign-wn-3-1.jpg)\n![NoFlusher Tag 3 (2)](img/ign-wn-3-2.jpg)\n![NoFlusher Tag 3 (3)](img/ign-wn-3-3.jpg)\n![NoFlusher Tag 3 (4)](img/ign-wn-3-4.jpg)"
+  },
+  {
+   "id": "wn-4",
+   "t": "**NoFlusher Tag 4**",
+   "d": "Shore Dr x Huevo St, em frente ao bar Banana Hole (leste de Ocean Beach)\n\n![NoFlusher Tag 4](img/ign-wn-4-1.jpg)\n![NoFlusher Tag 4 (2)](img/ign-wn-4-2.jpg)\n![NoFlusher Tag 4 (3)](img/ign-wn-4-3.jpg)\n![NoFlusher Tag 4 (4)](img/ign-wn-4-4.jpg)"
+  },
+  {
+   "id": "wn-5",
+   "t": "**NoFlusher Tag 5**",
+   "d": "D St x Atlantic Ave, em frente ao Fuji Kitchen (norte de Ocean Beach)\n\n![NoFlusher Tag 5](img/ign-wn-5-1.jpg)\n![NoFlusher Tag 5 (2)](img/ign-wn-5-2.jpg)\n![NoFlusher Tag 5 (3)](img/ign-wn-5-3.jpg)\n![NoFlusher Tag 5 (4)](img/ign-wn-5-4.jpg)"
+  },
+  {
+   "id": "wn-6",
+   "t": "**NoFlusher Tag 6**",
+   "d": "Mariposa Ave, em frente ao prédio bege e verde-água (norte de Washington Beach)\n\n![NoFlusher Tag 6](img/ign-wn-6-1.jpg)\n![NoFlusher Tag 6 (2)](img/ign-wn-6-2.jpg)\n![NoFlusher Tag 6 (3)](img/ign-wn-6-3.jpg)\n![NoFlusher Tag 6 (4)](img/ign-wn-6-4.jpg)"
+  },
+  {
+   "id": "wn-7",
+   "t": "**NoFlusher Tag 7**",
+   "d": "Shore Dr, em frente às Positano Towers (sul de Ocean Beach)\n\n![NoFlusher Tag 7](img/ign-wn-7-1.jpg)\n![NoFlusher Tag 7 (2)](img/ign-wn-7-2.jpg)\n![NoFlusher Tag 7 (3)](img/ign-wn-7-3.jpg)\n![NoFlusher Tag 7 (4)](img/ign-wn-7-4.jpg)"
+  },
+  {
+   "id": "wn-8",
+   "t": "**NoFlusher Tag 8**",
+   "d": "Oleander Blvd x SW 4th St, em frente ao Hotel Sapphire (Oldby Island)\n\n![NoFlusher Tag 8](img/ign-wn-8-1.jpg)\n![NoFlusher Tag 8 (2)](img/ign-wn-8-2.jpg)\n![NoFlusher Tag 8 (3)](img/ign-wn-8-3.jpg)\n![NoFlusher Tag 8 (4)](img/ign-wn-8-4.jpg)"
+  },
+  {
+   "id": "wn-9",
+   "t": "**NoFlusher Tag 9**",
+   "d": "Koko Blvd x Admiral Cswy, em frente ao Luxx Artemis Heights (sudoeste de Ocean Beach)\n\n![NoFlusher Tag 9](img/ign-wn-9-1.jpg)\n![NoFlusher Tag 9 (2)](img/ign-wn-9-2.jpg)\n![NoFlusher Tag 9 (3)](img/ign-wn-9-3.jpg)\n![NoFlusher Tag 9 (4)](img/ign-wn-9-4.jpg)"
+  },
+  {
+   "id": "wn-10",
+   "t": "**NoFlusher Tag 10**",
+   "d": "Seaview Blvd x Shore Dr, em frente aos Hathaway Apartments (Ocean Beach)\n\n![NoFlusher Tag 10](img/ign-wn-10-1.jpg)\n![NoFlusher Tag 10 (2)](img/ign-wn-10-2.jpg)\n![NoFlusher Tag 10 (3)](img/ign-wn-10-3.jpg)\n![NoFlusher Tag 10 (4)](img/ign-wn-10-4.jpg)"
+  },
+  {
+   "id": "wn-11",
+   "t": "**NoFlusher Tag 11**",
+   "d": "Grape St, em frente ao Jollies (Ocean Beach)\n\n![NoFlusher Tag 11](img/ign-wn-11-1.jpg)\n![NoFlusher Tag 11 (2)](img/ign-wn-11-2.jpg)\n![NoFlusher Tag 11 (3)](img/ign-wn-11-3.jpg)\n![NoFlusher Tag 11 (4)](img/ign-wn-11-4.jpg)"
+  },
+  {
+   "id": "wn-12",
+   "t": "**NoFlusher Tag 12**",
+   "d": "Cabega St, em frente ao Tootsie Katz Shrimp House (norte de Ocean Beach)\n\n![NoFlusher Tag 12](img/ign-wn-12-1.jpg)\n![NoFlusher Tag 12 (2)](img/ign-wn-12-2.jpg)\n![NoFlusher Tag 12 (3)](img/ign-wn-12-3.jpg)\n![NoFlusher Tag 12 (4)](img/ign-wn-12-4.jpg)"
+  },
+  {
+   "id": "wn-13",
+   "t": "**NoFlusher Tag 13**",
+   "d": "Barlow St perto da costa, em frente ao Sea Scoop Cafe (sudeste de Washington Beach)\n\n![NoFlusher Tag 13](img/ign-wn-13-1.jpg)\n![NoFlusher Tag 13 (2)](img/ign-wn-13-2.jpg)\n![NoFlusher Tag 13 (3)](img/ign-wn-13-3.jpg)\n![NoFlusher Tag 13 (4)](img/ign-wn-13-4.jpg)"
+  },
+  {
+   "id": "wn-14",
+   "t": "**NoFlusher Tag 14**",
+   "d": "Perto da Northside Ave, em frente ao Wash Haus (Washington Beach)\n\n![NoFlusher Tag 14](img/ign-wn-14-1.jpg)\n![NoFlusher Tag 14 (2)](img/ign-wn-14-2.jpg)\n![NoFlusher Tag 14 (3)](img/ign-wn-14-3.jpg)\n![NoFlusher Tag 14 (4)](img/ign-wn-14-4.jpg)"
+  },
+  {
+   "id": "wn-15",
+   "t": "**NoFlusher Tag 15**",
+   "d": "Huevo St, em frente ao Bean Machine Coffee (Ocean Beach)\n\n![NoFlusher Tag 15](img/ign-wn-15-1.jpg)\n![NoFlusher Tag 15 (2)](img/ign-wn-15-2.jpg)\n![NoFlusher Tag 15 (3)](img/ign-wn-15-3.jpg)\n![NoFlusher Tag 15 (4)](img/ign-wn-15-4.jpg)"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "waink",
+  "escanear",
+  "marco",
+  "curiosidade",
+  "escultura",
+  "noflusher",
+  "peewee"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "WAiNK: the 108 places to scan",
+  "sum": "31 landmarks, 35 curiosities, 23 sculptures, 4 PeeWee billboards and 15 NoFlusher tags.",
+  "body": "![Start](img/ign-colecao-waink-1.jpg)\n![Start (2)](img/ign-colecao-waink-2.jpg)\n![Start (3)](img/ign-colecao-waink-3.jpg)\n![Start (4)](img/ign-colecao-waink-4.jpg)\n![Start (5)](img/ign-colecao-waink-5.jpg)\n\n- **How to scan:** when the prompt shows up, {↑} opens the phone and **hold {R1}** in WAiNK.\n- Near a location your controller pulses, on the side it's on relative to the camera.\n- **PeeWee billboards:** one each in Vice-Dale, Mariana, Lummox and Leonard (the Find PeeWees Billboards scavenger hunt).\n- **NoFlusher Tags:** hard-to-spot chalk marks on the ground, part of the Vice Beach Utility Markings exploration quest.\n- To scan cars, see [[veiculos-waink]].\n- You need 100 for 100%. Scanning any 4 landmarks, curiosities or sculptures completes the WAiNK Locations challenge.",
+  "kw": [
+   "waink",
+   "scan",
+   "landmark",
+   "curiosity",
+   "sculpture",
+   "noflusher",
+   "peewee"
+  ],
+  "check": [
+   {
+    "id": "wl-old-goliath",
+    "t": "**Old Goliath** · Landmark",
+    "d": "Giant tree at Magnolia Rd and Sycamore Ave, northwest Ambrosia\n\n![Old Goliath](img/ign-wl-old-goliath-1.jpg)\n![Old Goliath (2)](img/ign-wl-old-goliath-2.jpg)"
+   },
+   {
+    "id": "wl-vice-city-sign",
+    "t": "**Vice City Sign** · Landmark",
+    "d": "Big Vice City sign between Three Toe Lake and VCIA (West Vice-Dale)\n\n![Vice City Sign](img/ign-wl-vice-city-sign-1.jpg)\n![Vice City Sign (2)](img/ign-wl-vice-city-sign-2.jpg)\n![Vice City Sign (3)](img/ign-wl-vice-city-sign-3.jpg)"
+   },
+   {
+    "id": "wl-bonanza-giant",
+    "t": "**Bonanza Giant** · Landmark",
+    "d": "Large wooden statue on a forest hill, south Bonanza\n\n![Bonanza Giant](img/ign-wl-bonanza-giant-1.jpg)\n![Bonanza Giant (2)](img/ign-wl-bonanza-giant-2.jpg)\n![Bonanza Giant (3)](img/ign-wl-bonanza-giant-3.jpg)"
+   },
+   {
+    "id": "wl-bobcat-key-experimental-home",
+    "t": "**Bobcat Key Experimental Home** · Landmark",
+    "d": "Remains of the sunken concrete house off Bobcat Key\n\n![Bobcat Key Experimental Home](img/ign-wl-bobcat-key-experimental-home-1.jpg)\n![Bobcat Key Experimental Home (2)](img/ign-wl-bobcat-key-experimental-home-2.jpg)\n![Bobcat Key Experimental Home (3)](img/ign-wl-bobcat-key-experimental-home-3.jpg)"
+   },
+   {
+    "id": "wl-lawton-co-paper-mill",
+    "t": "**Lawton Co. Paper Mill** · Landmark",
+    "d": "Paper mill ruins by the river, southwest Moreau\n\n![Lawton Co. Paper Mill](img/ign-wl-lawton-co-paper-mill-1.jpg)\n![Lawton Co. Paper Mill (2)](img/ign-wl-lawton-co-paper-mill-2.jpg)\n![Lawton Co. Paper Mill (3)](img/ign-wl-lawton-co-paper-mill-3.jpg)"
+   },
+   {
+    "id": "wl-farmer-scrumpy-s-apple-orchard",
+    "t": "**Farmer Scrumpy's Apple Orchard** · Landmark",
+    "d": "Big barn on the hill surrounded by the apple orchard\n\n![Farmer Scrumpy's Apple Orchard](img/ign-wl-farmer-scrumpy-s-apple-orchard-1.jpg)\n![Farmer Scrumpy's Apple Orchard (2)](img/ign-wl-farmer-scrumpy-s-apple-orchard-2.jpg)\n![Farmer Scrumpy's Apple Orchard (3)](img/ign-wl-farmer-scrumpy-s-apple-orchard-3.jpg)"
+   },
+   {
+    "id": "wl-iaa-s-friends-of-freedom",
+    "t": "**IAA's Friends of Freedom** · Landmark",
+    "d": "Dedication on the wall of countries in the small park in central Downtown\n\n![IAA's Friends of Freedom](img/ign-wl-iaa-s-friends-of-freedom-1.jpg)\n![IAA's Friends of Freedom (2)](img/ign-wl-iaa-s-friends-of-freedom-2.jpg)\n![IAA's Friends of Freedom (3)](img/ign-wl-iaa-s-friends-of-freedom-3.jpg)"
+   },
+   {
+    "id": "wl-unidentified-building",
+    "t": "**Unidentified Building** · Landmark",
+    "d": "Door to the underground tunnel on the southern Little Hardin island\n\n![Unidentified Building](img/ign-wl-unidentified-building-1.jpg)\n![Unidentified Building (2)](img/ign-wl-unidentified-building-2.jpg)\n![Unidentified Building (3)](img/ign-wl-unidentified-building-3.jpg)"
+   },
+   {
+    "id": "wl-thicc-herbie",
+    "t": "**Thicc Herbie** · Landmark",
+    "d": "Blimp on Maroon Key, scanned from the Sunbelt Hwy lot in Abismo Key\n\n![Thicc Herbie](img/ign-wl-thicc-herbie-1.jpg)\n![Thicc Herbie (2)](img/ign-wl-thicc-herbie-2.jpg)\n![Thicc Herbie (3)](img/ign-wl-thicc-herbie-3.jpg)"
+   },
+   {
+    "id": "wl-riquezas-keys-radome",
+    "t": "**Riquezas Keys Radome** · Landmark",
+    "d": "Radome at the small facility on the southern Riquezas Keys island\n\n![Riquezas Keys Radome](img/ign-wl-riquezas-keys-radome-1.jpg)\n![Riquezas Keys Radome (2)](img/ign-wl-riquezas-keys-radome-2.jpg)\n![Riquezas Keys Radome (3)](img/ign-wl-riquezas-keys-radome-3.jpg)"
+   },
+   {
+    "id": "wl-gellhorn-fun-fair",
+    "t": "**Gellhorn Fun Fair** · Landmark",
+    "d": "Center of the Ferris wheel at the abandoned fair, south Port Gellhorn\n\n![Gellhorn Fun Fair](img/ign-wl-gellhorn-fun-fair-1.jpg)\n![Gellhorn Fun Fair (2)](img/ign-wl-gellhorn-fun-fair-2.jpg)\n![Gellhorn Fun Fair (3)](img/ign-wl-gellhorn-fun-fair-3.jpg)"
+   },
+   {
+    "id": "wl-downtown-periscope",
+    "t": "**Downtown Periscope** · Landmark",
+    "d": "Top of the overlook, scanned from below, at Mariner's Hwy and Catalan Blvd (park in southeast Downtown)\n\n![Downtown Periscope](img/ign-wl-downtown-periscope-1.jpg)\n![Downtown Periscope (2)](img/ign-wl-downtown-periscope-2.jpg)\n![Downtown Periscope (3)](img/ign-wl-downtown-periscope-3.jpg)"
+   },
+   {
+    "id": "wl-st-lucia-lighthouse",
+    "t": "**St. Lucia Lighthouse** · Landmark",
+    "d": "Sign at the base of the lighthouse, northern Little Hardin Island\n\n![St. Lucia Lighthouse](img/ign-wl-st-lucia-lighthouse-1.jpg)\n![St. Lucia Lighthouse (2)](img/ign-wl-st-lucia-lighthouse-2.jpg)\n![St. Lucia Lighthouse (3)](img/ign-wl-st-lucia-lighthouse-3.jpg)"
+   },
+   {
+    "id": "wl-sky-ride",
+    "t": "**Sky Ride** · Landmark",
+    "d": "Top of the ride in the park along the Emerald River, Emerald Springs\n\n![Sky Ride](img/ign-wl-sky-ride-1.jpg)\n![Sky Ride (2)](img/ign-wl-sky-ride-2.jpg)\n![Sky Ride (3)](img/ign-wl-sky-ride-3.jpg)"
+   },
+   {
+    "id": "wl-pelican-valley-observation-tower",
+    "t": "**Pelican Valley Observation Tower** · Landmark",
+    "d": "Tower seen from the walkway, east Grassrivers (Sweetbay Rd)\n\n![Pelican Valley Observation Tower](img/ign-wl-pelican-valley-observation-tower-1.jpg)\n![Pelican Valley Observation Tower (2)](img/ign-wl-pelican-valley-observation-tower-2.jpg)\n![Pelican Valley Observation Tower (3)](img/ign-wl-pelican-valley-observation-tower-3.jpg)"
+   },
+   {
+    "id": "wl-outlaw-s-cabin",
+    "t": "**Outlaw's Cabin** · Landmark",
+    "d": "Collapsing house off Rockledge Rd, central Moreau mountains\n\n![Outlaw's Cabin](img/ign-wl-outlaw-s-cabin-1.jpg)\n![Outlaw's Cabin (2)](img/ign-wl-outlaw-s-cabin-2.jpg)\n![Outlaw's Cabin (3)](img/ign-wl-outlaw-s-cabin-3.jpg)"
+   },
+   {
+    "id": "wl-belpoint-lighthouse",
+    "t": "**Belpoint Lighthouse** · Landmark",
+    "d": "Metal lighthouse at the southern tip of Belpoint\n\n![Belpoint Lighthouse](img/ign-wl-belpoint-lighthouse-1.jpg)\n![Belpoint Lighthouse (2)](img/ign-wl-belpoint-lighthouse-2.jpg)\n![Belpoint Lighthouse (3)](img/ign-wl-belpoint-lighthouse-3.jpg)"
+   },
+   {
+    "id": "wl-kalaga-lookout",
+    "t": "**Kalaga Lookout** · Landmark",
+    "d": "Graffitied rock below the ledge in ruins, Mount Kalaga National Park\n\n![Kalaga Lookout](img/ign-wl-kalaga-lookout-1.jpg)\n![Kalaga Lookout (2)](img/ign-wl-kalaga-lookout-2.jpg)\n![Kalaga Lookout (3)](img/ign-wl-kalaga-lookout-3.jpg)"
+   },
+   {
+    "id": "wl-grayson-cairns",
+    "t": "**Grayson Cairns** · Landmark",
+    "d": "Rock stack on the hilltop between four side roads, Mount Kalaga National Park\n\n![Grayson Cairns](img/ign-wl-grayson-cairns-1.jpg)\n![Grayson Cairns (2)](img/ign-wl-grayson-cairns-2.jpg)\n![Grayson Cairns (3)](img/ign-wl-grayson-cairns-3.jpg)"
+   },
+   {
+    "id": "wl-hoffman-observatory",
+    "t": "**Hoffman Observatory** · Landmark",
+    "d": "Abandoned observatory on the dirt road, west North Kelly\n\n![Hoffman Observatory](img/ign-wl-hoffman-observatory-1.jpg)\n![Hoffman Observatory (2)](img/ign-wl-hoffman-observatory-2.jpg)\n![Hoffman Observatory (3)](img/ign-wl-hoffman-observatory-3.jpg)"
+   },
+   {
+    "id": "wl-dock-ring",
+    "t": "**Dock Ring** · Landmark",
+    "d": "Ferris wheel over the water at the end of the dock, east Downtown\n\n![Dock Ring](img/ign-wl-dock-ring-1.jpg)\n![Dock Ring (2)](img/ign-wl-dock-ring-2.jpg)\n![Dock Ring (3)](img/ign-wl-dock-ring-3.jpg)"
+   },
+   {
+    "id": "wl-grayson-assembly",
+    "t": "**Grayson Assembly** · Landmark",
+    "d": "Front door of the Grayson Assembly building, downtown Grayson\n\n![Grayson Assembly](img/ign-wl-grayson-assembly-1.jpg)\n![Grayson Assembly (2)](img/ign-wl-grayson-assembly-2.jpg)\n![Grayson Assembly (3)](img/ign-wl-grayson-assembly-3.jpg)"
+   },
+   {
+    "id": "wl-wild-hog-point-radar-base",
+    "t": "**Wild Hog Point Radar Base** · Landmark",
+    "d": "Dome atop the radar tower near the Wild Hog Point airfield\n\n![Wild Hog Point Radar Base](img/ign-wl-wild-hog-point-radar-base-1.jpg)\n![Wild Hog Point Radar Base (2)](img/ign-wl-wild-hog-point-radar-base-2.jpg)\n![Wild Hog Point Radar Base (3)](img/ign-wl-wild-hog-point-radar-base-3.jpg)"
+   },
+   {
+    "id": "wl-howe-dairy-farm-s-big-udder",
+    "t": "**Howe Dairy Farm's Big Udder** · Landmark",
+    "d": "Cow-print silo at Howe Dairy (CR 62), northwest Emerald Springs\n\n![Howe Dairy Farm's Big Udder](img/ign-wl-howe-dairy-farm-s-big-udder-1.jpg)\n![Howe Dairy Farm's Big Udder (2)](img/ign-wl-howe-dairy-farm-s-big-udder-2.jpg)\n![Howe Dairy Farm's Big Udder (3)](img/ign-wl-howe-dairy-farm-s-big-udder-3.jpg)"
+   },
+   {
+    "id": "wl-badger-r-d-tower",
+    "t": "**Badger R&D Tower** · Landmark",
+    "d": "Concrete tower on the west side of central Key Lento\n\n![Badger R&D Tower](img/ign-wl-badger-r-d-tower-1.jpg)\n![Badger R&D Tower (2)](img/ign-wl-badger-r-d-tower-2.jpg)\n![Badger R&D Tower (3)](img/ign-wl-badger-r-d-tower-3.jpg)"
+   },
+   {
+    "id": "wl-aqua-stadium",
+    "t": "**Aqua Stadium** · Landmark",
+    "d": "Long building on the Catalan Bay coast, south Gloriana Key\n\n![Aqua Stadium](img/ign-wl-aqua-stadium-1.jpg)\n![Aqua Stadium (2)](img/ign-wl-aqua-stadium-2.jpg)\n![Aqua Stadium (3)](img/ign-wl-aqua-stadium-3.jpg)"
+   },
+   {
+    "id": "wl-tucker-s-citrus-farms-water-tower",
+    "t": "**Tucker's Citrus Farms Water Tower** · Landmark",
+    "d": "Water tower seen from inside the farm, north Emerald Springs\n\n![Tucker's Citrus Farms Water Tower](img/ign-wl-tucker-s-citrus-farms-water-tower-1.jpg)\n![Tucker's Citrus Farms Water Tower (2)](img/ign-wl-tucker-s-citrus-farms-water-tower-2.jpg)\n![Tucker's Citrus Farms Water Tower (3)](img/ign-wl-tucker-s-citrus-farms-water-tower-3.jpg)"
+   },
+   {
+    "id": "wl-sahara-arena",
+    "t": "**Sahara Arena** · Landmark",
+    "d": "Arena sign, east coast of Downtown\n\n![Sahara Arena](img/ign-wl-sahara-arena-1.jpg)\n![Sahara Arena (2)](img/ign-wl-sahara-arena-2.jpg)\n![Sahara Arena (3)](img/ign-wl-sahara-arena-3.jpg)"
+   },
+   {
+    "id": "wl-fleeca-field",
+    "t": "**Fleeca Field** · Landmark",
+    "d": "Sign in front of the stadium, west Rockridge\n\n![Fleeca Field](img/ign-wl-fleeca-field-1.jpg)\n![Fleeca Field (2)](img/ign-wl-fleeca-field-2.jpg)\n![Fleeca Field (3)](img/ign-wl-fleeca-field-3.jpg)"
+   },
+   {
+    "id": "wl-tallaloko-amphitheater",
+    "t": "**Tallaloko Amphitheater** · Landmark",
+    "d": "Central bell building in the amphitheater ruins, east Mount Kalaga National Park\n\n![Tallaloko Amphitheater](img/ign-wl-tallaloko-amphitheater-1.jpg)\n![Tallaloko Amphitheater (2)](img/ign-wl-tallaloko-amphitheater-2.jpg)\n![Tallaloko Amphitheater (3)](img/ign-wl-tallaloko-amphitheater-3.jpg)"
+   },
+   {
+    "id": "wl-courtland-park-stadium",
+    "t": "**Courtland Park Stadium** · Landmark",
+    "d": "Sign in front of the stadium on the main Catalan Key island\n\n![Courtland Park Stadium](img/ign-wl-courtland-park-stadium-1.jpg)\n![Courtland Park Stadium (2)](img/ign-wl-courtland-park-stadium-2.jpg)\n![Courtland Park Stadium (3)](img/ign-wl-courtland-park-stadium-3.jpg)"
+   },
+   {
+    "id": "wc-hovercraft-crash",
+    "t": "**Hovercraft Crash** · Curiosity",
+    "d": "Wrecked hovercraft on the north of the southern Sandbars island, Gulf of Leonida\n\n![Hovercraft Crash](img/ign-wc-hovercraft-crash-1.jpg)\n![Hovercraft Crash (2)](img/ign-wc-hovercraft-crash-2.jpg)"
+   },
+   {
+    "id": "wc-wreck-of-the-meerwunder",
+    "t": "**Wreck of the Meerwunder** · Curiosity",
+    "d": "Capsized cargo ship on the central Featherstone islets\n\n![Wreck of the Meerwunder](img/ign-wc-wreck-of-the-meerwunder-1.jpg)\n![Wreck of the Meerwunder (2)](img/ign-wc-wreck-of-the-meerwunder-2.jpg)\n![Wreck of the Meerwunder (3)](img/ign-wc-wreck-of-the-meerwunder-3.jpg)"
+   },
+   {
+    "id": "wc-anti-sugar-residence",
+    "t": "**Anti Sugar Residence** · Curiosity",
+    "d": "Lone house in a construction area west of Ambrosia\n\n![Anti Sugar Residence](img/ign-wc-anti-sugar-residence-1.jpg)\n![Anti Sugar Residence (2)](img/ign-wc-anti-sugar-residence-2.jpg)\n![Anti Sugar Residence (3)](img/ign-wc-anti-sugar-residence-3.jpg)"
+   },
+   {
+    "id": "wc-derelict-spy-vessel",
+    "t": "**Derelict Spy Vessel** · Curiosity",
+    "d": "Beached boat on the south beach of the southeast Permit Keys island\n\n![Derelict Spy Vessel](img/ign-wc-derelict-spy-vessel-1.jpg)\n![Derelict Spy Vessel (2)](img/ign-wc-derelict-spy-vessel-2.jpg)\n![Derelict Spy Vessel (3)](img/ign-wc-derelict-spy-vessel-3.jpg)"
+   },
+   {
+    "id": "wc-camp-moonflower",
+    "t": "**Camp Moonflower** · Curiosity",
+    "d": "Camp sign on Emerald Springs Dr, between Emerald Springs and Buckskin Swamp\n\n![Camp Moonflower](img/ign-wc-camp-moonflower-1.jpg)\n![Camp Moonflower (2)](img/ign-wc-camp-moonflower-2.jpg)\n![Camp Moonflower (3)](img/ign-wc-camp-moonflower-3.jpg)"
+   },
+   {
+    "id": "wc-dead-sharks",
+    "t": "**Dead Sharks** · Curiosity",
+    "d": "Group of dead sharks on a long island's shore in Wetman Bay\n\n![Dead Sharks](img/ign-wc-dead-sharks-1.jpg)\n![Dead Sharks (2)](img/ign-wc-dead-sharks-2.jpg)\n![Dead Sharks (3)](img/ign-wc-dead-sharks-3.jpg)"
+   },
+   {
+    "id": "wc-fossilized-prints",
+    "t": "**Fossilized Prints** · Curiosity",
+    "d": "Fossil footprints in the rock, in the valley under a bridge, southwest Moreau\n\n![Fossilized Prints](img/ign-wc-fossilized-prints-1.jpg)\n![Fossilized Prints (2)](img/ign-wc-fossilized-prints-2.jpg)\n![Fossilized Prints (3)](img/ign-wc-fossilized-prints-3.jpg)"
+   },
+   {
+    "id": "wc-beach-party-site",
+    "t": "**Beach Party Site** · Curiosity",
+    "d": "Small wooden platform by the dock, east coast of the middle Permit Keys island\n\n![Beach Party Site](img/ign-wc-beach-party-site-1.jpg)\n![Beach Party Site (2)](img/ign-wc-beach-party-site-2.jpg)\n![Beach Party Site (3)](img/ign-wc-beach-party-site-3.jpg)"
+   },
+   {
+    "id": "wc-fairy-lane",
+    "t": "**Fairy Lane** · Curiosity",
+    "d": "Red fairy house between the two arches, forest of South West Lummox\n\n![Fairy Lane](img/ign-wc-fairy-lane-1.jpg)\n![Fairy Lane (2)](img/ign-wc-fairy-lane-2.jpg)\n![Fairy Lane (3)](img/ign-wc-fairy-lane-3.jpg)"
+   },
+   {
+    "id": "wc-mermaid-display",
+    "t": "**Mermaid Display** · Curiosity",
+    "d": "Mermaid and humanatee tank in a back-room warehouse at the Oceanarium (Catalan Key docks)\n\n![Mermaid Display](img/ign-wc-mermaid-display-1.jpg)\n![Mermaid Display (2)](img/ign-wc-mermaid-display-2.jpg)\n![Mermaid Display (3)](img/ign-wc-mermaid-display-3.jpg)"
+   },
+   {
+    "id": "wc-imperial-spanish-ruins",
+    "t": "**Imperial Spanish Ruins** · Curiosity",
+    "d": "Tower top, scanned from inside its base, ruins in west Mount Kalaga National Park\n\n![Imperial Spanish Ruins](img/ign-wc-imperial-spanish-ruins-1.jpg)\n![Imperial Spanish Ruins (2)](img/ign-wc-imperial-spanish-ruins-2.jpg)\n![Imperial Spanish Ruins (3)](img/ign-wc-imperial-spanish-ruins-3.jpg)"
+   },
+   {
+    "id": "wc-intriguing-substance",
+    "t": "**Intriguing Substance** · Curiosity",
+    "d": "Green ooze under the sewer-access staircase, south East Lummox\n\n![Intriguing Substance](img/ign-wc-intriguing-substance-1.jpg)\n![Intriguing Substance (2)](img/ign-wc-intriguing-substance-2.jpg)\n![Intriguing Substance (3)](img/ign-wc-intriguing-substance-3.jpg)"
+   },
+   {
+    "id": "wc-halloween-house",
+    "t": "**Halloween House** · Curiosity",
+    "d": "House decked out for Halloween, central Capri\n\n![Halloween House](img/ign-wc-halloween-house-1.jpg)\n![Halloween House (2)](img/ign-wc-halloween-house-2.jpg)\n![Halloween House (3)](img/ign-wc-halloween-house-3.jpg)"
+   },
+   {
+    "id": "wc-christmas-house",
+    "t": "**Christmas House** · Curiosity",
+    "d": "House decked out for Christmas, central Key Lento\n\n![Christmas House](img/ign-wc-christmas-house-1.jpg)\n![Christmas House (2)](img/ign-wc-christmas-house-2.jpg)\n![Christmas House (3)](img/ign-wc-christmas-house-3.jpg)"
+   },
+   {
+    "id": "wc-dino-golf",
+    "t": "**Dino Golf** · Curiosity",
+    "d": "Sign of the abandoned Dino Adventure Golf, south Frogswater\n\n![Dino Golf](img/ign-wc-dino-golf-1.jpg)\n![Dino Golf (2)](img/ign-wc-dino-golf-2.jpg)\n![Dino Golf (3)](img/ign-wc-dino-golf-3.jpg)"
+   },
+   {
+    "id": "wc-noflusher-homestead",
+    "t": "**NoFlusher Homestead** · Curiosity",
+    "d": "Main homestead building on a Y-shaped island in Wetman Bay\n\n![NoFlusher Homestead](img/ign-wc-noflusher-homestead-1.jpg)\n![NoFlusher Homestead (2)](img/ign-wc-noflusher-homestead-2.jpg)\n![NoFlusher Homestead (3)](img/ign-wc-noflusher-homestead-3.jpg)"
+   },
+   {
+    "id": "wc-deserted-home",
+    "t": "**Deserted Home** · Curiosity",
+    "d": "Leaf-covered abandoned house by the swamp, southwest Emerald Springs\n\n![Deserted Home](img/ign-wc-deserted-home-1.jpg)\n![Deserted Home (2)](img/ign-wc-deserted-home-2.jpg)\n![Deserted Home (3)](img/ign-wc-deserted-home-3.jpg)"
+   },
+   {
+    "id": "wc-lovers-lookout",
+    "t": "**Lovers Lookout** · Curiosity",
+    "d": "Wooden arch at the cliff edge, southwest Mount Kalaga National Park\n\n![Lovers Lookout](img/ign-wc-lovers-lookout-1.jpg)\n![Lovers Lookout (2)](img/ign-wc-lovers-lookout-2.jpg)\n![Lovers Lookout (3)](img/ign-wc-lovers-lookout-3.jpg)"
+   },
+   {
+    "id": "wc-pet-cemetery",
+    "t": "**Pet Cemetery** · Curiosity",
+    "d": "Gravestones in the small cemetery by SR-73, south Grayson\n\n![Pet Cemetery](img/ign-wc-pet-cemetery-1.jpg)\n![Pet Cemetery (2)](img/ign-wc-pet-cemetery-2.jpg)\n![Pet Cemetery (3)](img/ign-wc-pet-cemetery-3.jpg)"
+   },
+   {
+    "id": "wc-desert-island-piano",
+    "t": "**Desert Island Piano** · Curiosity",
+    "d": "Piano on the far-west islet of the Shoeless Keys\n\n![Desert Island Piano](img/ign-wc-desert-island-piano-1.jpg)\n![Desert Island Piano (2)](img/ign-wc-desert-island-piano-2.jpg)\n![Desert Island Piano (3)](img/ign-wc-desert-island-piano-3.jpg)"
+   },
+   {
+    "id": "wc-promotional-sand-vehicles",
+    "t": "**Promotional Sand Vehicles** · Curiosity",
+    "d": "Sand cars on Ocean Beach's east beach\n\n![Promotional Sand Vehicles](img/ign-wc-promotional-sand-vehicles-1.jpg)\n![Promotional Sand Vehicles (2)](img/ign-wc-promotional-sand-vehicles-2.jpg)\n![Promotional Sand Vehicles (3)](img/ign-wc-promotional-sand-vehicles-3.jpg)"
+   },
+   {
+    "id": "wc-belville-topiary",
+    "t": "**Belville Topiary** · Curiosity",
+    "d": "Snake topiary in a white house's back yard on Harmony Dr, south Belville\n\n![Belville Topiary](img/ign-wc-belville-topiary-1.jpg)\n![Belville Topiary (2)](img/ign-wc-belville-topiary-2.jpg)\n![Belville Topiary (3)](img/ign-wc-belville-topiary-3.jpg)"
+   },
+   {
+    "id": "wc-abismo-key-carcass",
+    "t": "**Abismo Key Carcass** · Curiosity",
+    "d": "Strange creature carcass on Abismo Key's south shore\n\n![Abismo Key Carcass](img/ign-wc-abismo-key-carcass-1.jpg)\n![Abismo Key Carcass (2)](img/ign-wc-abismo-key-carcass-2.jpg)\n![Abismo Key Carcass (3)](img/ign-wc-abismo-key-carcass-3.jpg)"
+   },
+   {
+    "id": "wc-wetman-bay-carcass",
+    "t": "**Wetman Bay Carcass** · Curiosity",
+    "d": "Strange creature carcass on a central Wetman Bay island's south shore\n\n![Wetman Bay Carcass](img/ign-wc-wetman-bay-carcass-1.jpg)\n![Wetman Bay Carcass (2)](img/ign-wc-wetman-bay-carcass-2.jpg)\n![Wetman Bay Carcass (3)](img/ign-wc-wetman-bay-carcass-3.jpg)"
+   },
+   {
+    "id": "wc-goose-key-carcass",
+    "t": "**Goose Key Carcass** · Curiosity",
+    "d": "Strange creature carcass on the north shore of Mile Zero Air Station\n\n![Goose Key Carcass](img/ign-wc-goose-key-carcass-1.jpg)\n![Goose Key Carcass (2)](img/ign-wc-goose-key-carcass-2.jpg)\n![Goose Key Carcass (3)](img/ign-wc-goose-key-carcass-3.jpg)"
+   },
+   {
+    "id": "wc-c0-b8-engine",
+    "t": "**C0-B8 Engine** · Curiosity",
+    "d": "Buried rocket engine in the western Moreau mountains, near MacAlister Gold Mine\n\n![C0-B8 Engine](img/ign-wc-c0-b8-engine-1.jpg)\n![C0-B8 Engine (2)](img/ign-wc-c0-b8-engine-2.jpg)\n![C0-B8 Engine (3)](img/ign-wc-c0-b8-engine-3.jpg)"
+   },
+   {
+    "id": "wc-c0-b8-debris",
+    "t": "**C0-B8 Debris** · Curiosity",
+    "d": "Buried rocket debris on a small Featherstone island\n\n![C0-B8 Debris](img/ign-wc-c0-b8-debris-1.jpg)\n![C0-B8 Debris (2)](img/ign-wc-c0-b8-debris-2.jpg)\n![C0-B8 Debris (3)](img/ign-wc-c0-b8-debris-3.jpg)"
+   },
+   {
+    "id": "wc-c0-b8-fairing",
+    "t": "**C0-B8 Fairing** · Curiosity",
+    "d": "Buried fairing on the west coast of the big eastern Featherstone island\n\n![C0-B8 Fairing](img/ign-wc-c0-b8-fairing-1.jpg)\n![C0-B8 Fairing (2)](img/ign-wc-c0-b8-fairing-2.jpg)\n![C0-B8 Fairing (3)](img/ign-wc-c0-b8-fairing-3.jpg)"
+   },
+   {
+    "id": "wc-big-entrance",
+    "t": "**Big Entrance** · Curiosity",
+    "d": "Plaque below the Big Entrance sculpture, central Dalton Island\n\n![Big Entrance](img/ign-wc-big-entrance-1.jpg)\n![Big Entrance (2)](img/ign-wc-big-entrance-2.jpg)\n![Big Entrance (3)](img/ign-wc-big-entrance-3.jpg)"
+   },
+   {
+    "id": "wc-fingerpost",
+    "t": "**Fingerpost** · Curiosity",
+    "d": "Signpost in the middle of the central Permit Keys island\n\n![Fingerpost](img/ign-wc-fingerpost-1.jpg)\n![Fingerpost (2)](img/ign-wc-fingerpost-2.jpg)\n![Fingerpost (3)](img/ign-wc-fingerpost-3.jpg)"
+   },
+   {
+    "id": "wc-spaceship-house",
+    "t": "**Spaceship House** · Curiosity",
+    "d": "Lander on a roof at Maple Ln and Cedar St, west Ambrosia\n\n![Spaceship House](img/ign-wc-spaceship-house-1.jpg)\n![Spaceship House (2)](img/ign-wc-spaceship-house-2.jpg)\n![Spaceship House (3)](img/ign-wc-spaceship-house-3.jpg)"
+   },
+   {
+    "id": "wc-vibrant-pond",
+    "t": "**Vibrant Pond** · Curiosity",
+    "d": "Advisory sign by the dead-fish pond, southernmost Gullet Marsh island\n\n![Vibrant Pond](img/ign-wc-vibrant-pond-1.jpg)\n![Vibrant Pond (2)](img/ign-wc-vibrant-pond-2.jpg)\n![Vibrant Pond (3)](img/ign-wc-vibrant-pond-3.jpg)"
+   },
+   {
+    "id": "wc-unidentified-animal-pen-uap",
+    "t": "**Unidentified Animal Pen (UAP)** · Curiosity",
+    "d": "UFO-shaped animal barn behind a light blue house on Kingston Rd, north Watson Bay\n\n![Unidentified Animal Pen (UAP)](img/ign-wc-unidentified-animal-pen-uap-1.jpg)\n![Unidentified Animal Pen (UAP) (2)](img/ign-wc-unidentified-animal-pen-uap-2.jpg)\n![Unidentified Animal Pen (UAP) (3)](img/ign-wc-unidentified-animal-pen-uap-3.jpg)"
+   },
+   {
+    "id": "wc-selkie-hole",
+    "t": "**Selkie Hole** · Curiosity",
+    "d": "The light beam, from the dock inside Selkie Hole, west Emerald Springs\n\n![Selkie Hole](img/ign-wc-selkie-hole-1.jpg)\n![Selkie Hole (2)](img/ign-wc-selkie-hole-2.jpg)\n![Selkie Hole (3)](img/ign-wc-selkie-hole-3.jpg)"
+   },
+   {
+    "id": "wc-plunge-masters-deep-sea-chalet",
+    "t": "**Plunge Masters Deep Sea Chalet** · Curiosity",
+    "d": "Mural on the Plunge-Masters dive center wall, south Key Lento\n\n![Plunge Masters Deep Sea Chalet](img/ign-wc-plunge-masters-deep-sea-chalet-1.jpg)\n![Plunge Masters Deep Sea Chalet (2)](img/ign-wc-plunge-masters-deep-sea-chalet-2.jpg)\n![Plunge Masters Deep Sea Chalet (3)](img/ign-wc-plunge-masters-deep-sea-chalet-3.jpg)"
+   },
+   {
+    "id": "ws-leonida-snow",
+    "t": "**Leonida Snow** · Sculpture",
+    "d": "Sculpture at Mariner's Hwy and Catalan Blvd, park in southeast Downtown\n\n![Leonida Snow](img/ign-ws-leonida-snow-1.jpg)\n![Leonida Snow (2)](img/ign-ws-leonida-snow-2.jpg)"
+   },
+   {
+    "id": "ws-gimme-all-your-oil",
+    "t": "**Gimme All Your Oil** · Sculpture",
+    "d": "Giant gun statue aimed at the ground mural, south Decor District\n\n![Gimme All Your Oil](img/ign-ws-gimme-all-your-oil-1.jpg)\n![Gimme All Your Oil (2)](img/ign-ws-gimme-all-your-oil-2.jpg)\n![Gimme All Your Oil (3)](img/ign-ws-gimme-all-your-oil-3.jpg)"
+   },
+   {
+    "id": "ws-flam-gummies",
+    "t": "**Flam Gummies** · Sculpture",
+    "d": "Floating bears in the water by Panos Plaza, Bayside\n\n![Flam Gummies](img/ign-ws-flam-gummies-1.jpg)\n![Flam Gummies (2)](img/ign-ws-flam-gummies-2.jpg)\n![Flam Gummies (3)](img/ign-ws-flam-gummies-3.jpg)"
+   },
+   {
+    "id": "ws-grassrivers-visitor-center-statue",
+    "t": "**Grassrivers Visitor Center Statue** · Sculpture",
+    "d": "Animal statue between the Old Fort Rd lanes, across from the Visitor Center (Shoeless Keys)\n\n![Grassrivers Visitor Center Statue](img/ign-ws-grassrivers-visitor-center-statue-1.jpg)\n![Grassrivers Visitor Center Statue (2)](img/ign-ws-grassrivers-visitor-center-statue-2.jpg)\n![Grassrivers Visitor Center Statue (3)](img/ign-ws-grassrivers-visitor-center-statue-3.jpg)"
+   },
+   {
+    "id": "ws-junkyard-t-rex",
+    "t": "**Junkyard T-Rex** · Sculpture",
+    "d": "Hubcap dinosaur on a side road off Sassafrass Rd, northeast Mount Kalaga National Park\n\n![Junkyard T-Rex](img/ign-ws-junkyard-t-rex-1.jpg)\n![Junkyard T-Rex (2)](img/ign-ws-junkyard-t-rex-2.jpg)\n![Junkyard T-Rex (3)](img/ign-ws-junkyard-t-rex-3.jpg)"
+   },
+   {
+    "id": "ws-fatal-incursion-plaque",
+    "t": "**Fatal Incursion Plaque** · Sculpture",
+    "d": "Statues by the plaques on Key Lento's southern waterfront\n\n![Fatal Incursion Plaque](img/ign-ws-fatal-incursion-plaque-1.jpg)\n![Fatal Incursion Plaque (2)](img/ign-ws-fatal-incursion-plaque-2.jpg)\n![Fatal Incursion Plaque (3)](img/ign-ws-fatal-incursion-plaque-3.jpg)"
+   },
+   {
+    "id": "ws-triangler-sculpture",
+    "t": "**Triangler Sculpture** · Sculpture",
+    "d": "Marlin sculpture just off south Corsair Key\n\n![Triangler Sculpture](img/ign-ws-triangler-sculpture-1.jpg)\n![Triangler Sculpture (2)](img/ign-ws-triangler-sculpture-2.jpg)\n![Triangler Sculpture (3)](img/ign-ws-triangler-sculpture-3.jpg)"
+   },
+   {
+    "id": "ws-chariot-to-valhalla",
+    "t": "**Chariot to Valhalla** · Sculpture",
+    "d": "Memorial by Rockledge Rd, South West Lummox\n\n![Chariot to Valhalla](img/ign-ws-chariot-to-valhalla-1.jpg)\n![Chariot to Valhalla (2)](img/ign-ws-chariot-to-valhalla-2.jpg)\n![Chariot to Valhalla (3)](img/ign-ws-chariot-to-valhalla-3.jpg)"
+   },
+   {
+    "id": "ws-monument-of-leonida",
+    "t": "**Monument of Leonida** · Sculpture",
+    "d": "Pillar at the cliff edge, forest in north Gellhorn\n\n![Monument of Leonida](img/ign-ws-monument-of-leonida-1.jpg)\n![Monument of Leonida (2)](img/ign-ws-monument-of-leonida-2.jpg)\n![Monument of Leonida (3)](img/ign-ws-monument-of-leonida-3.jpg)"
+   },
+   {
+    "id": "ws-mother-rushwood",
+    "t": "**Mother Rushwood** · Sculpture",
+    "d": "Wooden statue at Tallaloko Lake Rd and the shipping yard, northeast Millport\n\n![Mother Rushwood](img/ign-ws-mother-rushwood-1.jpg)\n![Mother Rushwood (2)](img/ign-ws-mother-rushwood-2.jpg)\n![Mother Rushwood (3)](img/ign-ws-mother-rushwood-3.jpg)"
+   },
+   {
+    "id": "ws-large-lure",
+    "t": "**Large Lure** · Sculpture",
+    "d": "Large lure in the park at Ocean Beach's southern tip\n\n![Large Lure](img/ign-ws-large-lure-1.jpg)\n![Large Lure (2)](img/ign-ws-large-lure-2.jpg)\n![Large Lure (3)](img/ign-ws-large-lure-3.jpg)"
+   },
+   {
+    "id": "ws-catalan-blvd-garden",
+    "t": "**Catalan Blvd Garden** · Sculpture",
+    "d": "Hand with a bird on its finger, waterfront park in Bayside\n\n![Catalan Blvd Garden](img/ign-ws-catalan-blvd-garden-1.jpg)\n![Catalan Blvd Garden (2)](img/ign-ws-catalan-blvd-garden-2.jpg)\n![Catalan Blvd Garden (3)](img/ign-ws-catalan-blvd-garden-3.jpg)"
+   },
+   {
+    "id": "ws-colossus",
+    "t": "**Colossus** · Sculpture",
+    "d": "Bronze 'growing rock' at Marina Vista Cir and South Vice Ave, Peacock Bay\n\n![Colossus](img/ign-ws-colossus-1.jpg)\n![Colossus (2)](img/ign-ws-colossus-2.jpg)\n![Colossus (3)](img/ign-ws-colossus-3.jpg)"
+   },
+   {
+    "id": "ws-blanco-memorial",
+    "t": "**Blanco Memorial** · Sculpture",
+    "d": "Monument at the center of Salton Memorial Island\n\n![Blanco Memorial](img/ign-ws-blanco-memorial-1.jpg)\n![Blanco Memorial (2)](img/ign-ws-blanco-memorial-2.jpg)\n![Blanco Memorial (3)](img/ign-ws-blanco-memorial-3.jpg)"
+   },
+   {
+    "id": "ws-buckskin-swamp-totem",
+    "t": "**Buckskin Swamp Totem** · Sculpture",
+    "d": "Totem pole behind the plaque on a Buckskin Swamp island\n\n![Buckskin Swamp Totem](img/ign-ws-buckskin-swamp-totem-1.jpg)\n![Buckskin Swamp Totem (2)](img/ign-ws-buckskin-swamp-totem-2.jpg)\n![Buckskin Swamp Totem (3)](img/ign-ws-buckskin-swamp-totem-3.jpg)"
+   },
+   {
+    "id": "ws-pixel-fountain",
+    "t": "**Pixel Fountain** · Sculpture",
+    "d": "Cube fountain at Catalan Blvd and South Vice Ave, Tequesta\n\n![Pixel Fountain](img/ign-ws-pixel-fountain-1.jpg)\n![Pixel Fountain (2)](img/ign-ws-pixel-fountain-2.jpg)\n![Pixel Fountain (3)](img/ign-ws-pixel-fountain-3.jpg)"
+   },
+   {
+    "id": "ws-thrillbilly-mascot",
+    "t": "**Thrillbilly Mascot** · Sculpture",
+    "d": "Tire man next to the Thrillbilly track, west Frogswater\n\n![Thrillbilly Mascot](img/ign-ws-thrillbilly-mascot-1.jpg)\n![Thrillbilly Mascot (2)](img/ign-ws-thrillbilly-mascot-2.jpg)\n![Thrillbilly Mascot (3)](img/ign-ws-thrillbilly-mascot-3.jpg)"
+   },
+   {
+    "id": "ws-the-grand-turkey-of-capri",
+    "t": "**The Grand Turkey of Capri** · Sculpture",
+    "d": "Turkey statue in the waterfront park, east Capri\n\n![The Grand Turkey of Capri](img/ign-ws-the-grand-turkey-of-capri-1.jpg)\n![The Grand Turkey of Capri (2)](img/ign-ws-the-grand-turkey-of-capri-2.jpg)\n![The Grand Turkey of Capri (3)](img/ign-ws-the-grand-turkey-of-capri-3.jpg)"
+   },
+   {
+    "id": "ws-neptune-rises",
+    "t": "**Neptune Rises** · Sculpture",
+    "d": "Giant Neptune under the Flamingo Pkwy bridge\n\n![Neptune Rises](img/ign-ws-neptune-rises-1.jpg)\n![Neptune Rises (2)](img/ign-ws-neptune-rises-2.jpg)\n![Neptune Rises (3)](img/ign-ws-neptune-rises-3.jpg)"
+   },
+   {
+    "id": "ws-vice-museum-of-art-sculpture",
+    "t": "**Vice Museum of Art Sculpture** · Sculpture",
+    "d": "Emoji sculpture outside the Vice Museum of Art, south Washington Beach\n\n![Vice Museum of Art Sculpture](img/ign-ws-vice-museum-of-art-sculpture-1.jpg)\n![Vice Museum of Art Sculpture (2)](img/ign-ws-vice-museum-of-art-sculpture-2.jpg)\n![Vice Museum of Art Sculpture (3)](img/ign-ws-vice-museum-of-art-sculpture-3.jpg)"
+   },
+   {
+    "id": "ws-the-wonder-whale",
+    "t": "**The Wonder Whale** · Sculpture",
+    "d": "Giant whale at Sunbelt Hwy and Lemon St, south Key Lento\n\n![The Wonder Whale](img/ign-ws-the-wonder-whale-1.jpg)\n![The Wonder Whale (2)](img/ign-ws-the-wonder-whale-2.jpg)\n![The Wonder Whale (3)](img/ign-ws-the-wonder-whale-3.jpg)"
+   },
+   {
+    "id": "ws-princess-robot-bubblegum-statue",
+    "t": "**Princess Robot Bubblegum Statue** · Sculpture",
+    "d": "Three statues outside the Y Hotel by the lot, southeast Washington Beach\n\n![Princess Robot Bubblegum Statue](img/ign-ws-princess-robot-bubblegum-statue-1.jpg)\n![Princess Robot Bubblegum Statue (2)](img/ign-ws-princess-robot-bubblegum-statue-2.jpg)\n![Princess Robot Bubblegum Statue (3)](img/ign-ws-princess-robot-bubblegum-statue-3.jpg)"
+   },
+   {
+    "id": "ws-monument-of-leonidan-supremacy",
+    "t": "**Monument of Leonidan Supremacy** · Sculpture",
+    "d": "Monolith holding up the Earth ringed by horses, near SR-73, west Manifest Canyon\n\n![Monument of Leonidan Supremacy](img/ign-ws-monument-of-leonidan-supremacy-1.jpg)\n![Monument of Leonidan Supremacy (2)](img/ign-ws-monument-of-leonidan-supremacy-2.jpg)"
+   },
+   {
+    "id": "wp-1",
+    "t": "**Vice-Dale PeeWee billboard**",
+    "d": "Over the US-10 ramp, west Balsero\n\n![Vice-Dale PeeWee billboard](img/ign-wp-1-1.jpg)\n![Vice-Dale PeeWee billboard (2)](img/ign-wp-1-2.jpg)"
+   },
+   {
+    "id": "wp-2",
+    "t": "**Mariana PeeWee billboard**",
+    "d": "In the US-82 median between North Mariana and Grassrivers\n\n![Mariana PeeWee billboard](img/ign-wp-2-1.jpg)\n![Mariana PeeWee billboard (2)](img/ign-wp-2-2.jpg)\n![Mariana PeeWee billboard (3)](img/ign-wp-2-3.jpg)"
+   },
+   {
+    "id": "wp-3",
+    "t": "**Lummox PeeWee billboard**",
+    "d": "Over US-628 on the South West Lummox / Mount Kalaga line\n\n![Lummox PeeWee billboard](img/ign-wp-3-1.jpg)\n![Lummox PeeWee billboard (2)](img/ign-wp-3-2.jpg)\n![Lummox PeeWee billboard (3)](img/ign-wp-3-3.jpg)"
+   },
+   {
+    "id": "wp-4",
+    "t": "**Leonard PeeWee billboard**",
+    "d": "Between the railroad and SR-27, northwest Waning Sands\n\n![Leonard PeeWee billboard](img/ign-wp-4-1.jpg)\n![Leonard PeeWee billboard (2)](img/ign-wp-4-2.jpg)\n![Leonard PeeWee billboard (3)](img/ign-wp-4-3.jpg)"
+   },
+   {
+    "id": "wn-1",
+    "t": "**NoFlusher Tag 1**",
+    "d": "Sidewalk off Shorebeach Rd outside the High Tide Hotel (east Washington Beach)\n\n![NoFlusher Tag 1](img/ign-wn-1-1.jpg)"
+   },
+   {
+    "id": "wn-2",
+    "t": "**NoFlusher Tag 2**",
+    "d": "Cul-de-sac off Harborside Ave, Maritime Court Luxury Apartments (northwest Ocean Beach)\n\n![NoFlusher Tag 2](img/ign-wn-2-1.jpg)\n![NoFlusher Tag 2 (2)](img/ign-wn-2-2.jpg)\n![NoFlusher Tag 2 (3)](img/ign-wn-2-3.jpg)\n![NoFlusher Tag 2 (4)](img/ign-wn-2-4.jpg)"
+   },
+   {
+    "id": "wn-3",
+    "t": "**NoFlusher Tag 3**",
+    "d": "Portside Ln, on the curve by the blue-and-white complex (west Ocean Beach)\n\n![NoFlusher Tag 3](img/ign-wn-3-1.jpg)\n![NoFlusher Tag 3 (2)](img/ign-wn-3-2.jpg)\n![NoFlusher Tag 3 (3)](img/ign-wn-3-3.jpg)\n![NoFlusher Tag 3 (4)](img/ign-wn-3-4.jpg)"
+   },
+   {
+    "id": "wn-4",
+    "t": "**NoFlusher Tag 4**",
+    "d": "Shore Dr and Huevo St outside the Banana Hole bar (east Ocean Beach)\n\n![NoFlusher Tag 4](img/ign-wn-4-1.jpg)\n![NoFlusher Tag 4 (2)](img/ign-wn-4-2.jpg)\n![NoFlusher Tag 4 (3)](img/ign-wn-4-3.jpg)\n![NoFlusher Tag 4 (4)](img/ign-wn-4-4.jpg)"
+   },
+   {
+    "id": "wn-5",
+    "t": "**NoFlusher Tag 5**",
+    "d": "D St and Atlantic Ave outside Fuji Kitchen (north Ocean Beach)\n\n![NoFlusher Tag 5](img/ign-wn-5-1.jpg)\n![NoFlusher Tag 5 (2)](img/ign-wn-5-2.jpg)\n![NoFlusher Tag 5 (3)](img/ign-wn-5-3.jpg)\n![NoFlusher Tag 5 (4)](img/ign-wn-5-4.jpg)"
+   },
+   {
+    "id": "wn-6",
+    "t": "**NoFlusher Tag 6**",
+    "d": "Mariposa Ave outside the tan-and-teal complex (north Washington Beach)\n\n![NoFlusher Tag 6](img/ign-wn-6-1.jpg)\n![NoFlusher Tag 6 (2)](img/ign-wn-6-2.jpg)\n![NoFlusher Tag 6 (3)](img/ign-wn-6-3.jpg)\n![NoFlusher Tag 6 (4)](img/ign-wn-6-4.jpg)"
+   },
+   {
+    "id": "wn-7",
+    "t": "**NoFlusher Tag 7**",
+    "d": "Shore Dr outside Positano Towers (south Ocean Beach)\n\n![NoFlusher Tag 7](img/ign-wn-7-1.jpg)\n![NoFlusher Tag 7 (2)](img/ign-wn-7-2.jpg)\n![NoFlusher Tag 7 (3)](img/ign-wn-7-3.jpg)\n![NoFlusher Tag 7 (4)](img/ign-wn-7-4.jpg)"
+   },
+   {
+    "id": "wn-8",
+    "t": "**NoFlusher Tag 8**",
+    "d": "Oleander Blvd and SW 4th St outside Hotel Sapphire (Oldby Island)\n\n![NoFlusher Tag 8](img/ign-wn-8-1.jpg)\n![NoFlusher Tag 8 (2)](img/ign-wn-8-2.jpg)\n![NoFlusher Tag 8 (3)](img/ign-wn-8-3.jpg)\n![NoFlusher Tag 8 (4)](img/ign-wn-8-4.jpg)"
+   },
+   {
+    "id": "wn-9",
+    "t": "**NoFlusher Tag 9**",
+    "d": "Koko Blvd and Admiral Cswy outside Luxx Artemis Heights (southwest Ocean Beach)\n\n![NoFlusher Tag 9](img/ign-wn-9-1.jpg)\n![NoFlusher Tag 9 (2)](img/ign-wn-9-2.jpg)\n![NoFlusher Tag 9 (3)](img/ign-wn-9-3.jpg)\n![NoFlusher Tag 9 (4)](img/ign-wn-9-4.jpg)"
+   },
+   {
+    "id": "wn-10",
+    "t": "**NoFlusher Tag 10**",
+    "d": "Seaview Blvd and Shore Dr outside the Hathaway Apartments (Ocean Beach)\n\n![NoFlusher Tag 10](img/ign-wn-10-1.jpg)\n![NoFlusher Tag 10 (2)](img/ign-wn-10-2.jpg)\n![NoFlusher Tag 10 (3)](img/ign-wn-10-3.jpg)\n![NoFlusher Tag 10 (4)](img/ign-wn-10-4.jpg)"
+   },
+   {
+    "id": "wn-11",
+    "t": "**NoFlusher Tag 11**",
+    "d": "Grape St outside Jollies (Ocean Beach)\n\n![NoFlusher Tag 11](img/ign-wn-11-1.jpg)\n![NoFlusher Tag 11 (2)](img/ign-wn-11-2.jpg)\n![NoFlusher Tag 11 (3)](img/ign-wn-11-3.jpg)\n![NoFlusher Tag 11 (4)](img/ign-wn-11-4.jpg)"
+   },
+   {
+    "id": "wn-12",
+    "t": "**NoFlusher Tag 12**",
+    "d": "Cabega St outside Tootsie Katz Shrimp House (north Ocean Beach)\n\n![NoFlusher Tag 12](img/ign-wn-12-1.jpg)\n![NoFlusher Tag 12 (2)](img/ign-wn-12-2.jpg)\n![NoFlusher Tag 12 (3)](img/ign-wn-12-3.jpg)\n![NoFlusher Tag 12 (4)](img/ign-wn-12-4.jpg)"
+   },
+   {
+    "id": "wn-13",
+    "t": "**NoFlusher Tag 13**",
+    "d": "Barlow St near the coast outside Sea Scoop Cafe (southeast Washington Beach)\n\n![NoFlusher Tag 13](img/ign-wn-13-1.jpg)\n![NoFlusher Tag 13 (2)](img/ign-wn-13-2.jpg)\n![NoFlusher Tag 13 (3)](img/ign-wn-13-3.jpg)\n![NoFlusher Tag 13 (4)](img/ign-wn-13-4.jpg)"
+   },
+   {
+    "id": "wn-14",
+    "t": "**NoFlusher Tag 14**",
+    "d": "Near Northside Ave in front of the Wash Haus (Washington Beach)\n\n![NoFlusher Tag 14](img/ign-wn-14-1.jpg)\n![NoFlusher Tag 14 (2)](img/ign-wn-14-2.jpg)\n![NoFlusher Tag 14 (3)](img/ign-wn-14-3.jpg)\n![NoFlusher Tag 14 (4)](img/ign-wn-14-4.jpg)"
+   },
+   {
+    "id": "wn-15",
+    "t": "**NoFlusher Tag 15**",
+    "d": "Huevo St outside Bean Machine Coffee (Ocean Beach)\n\n![NoFlusher Tag 15](img/ign-wn-15-1.jpg)\n![NoFlusher Tag 15 (2)](img/ign-wn-15-2.jpg)\n![NoFlusher Tag 15 (3)](img/ign-wn-15-3.jpg)\n![NoFlusher Tag 15 (4)](img/ign-wn-15-4.jpg)"
+   }
+  ]
+ }
+}

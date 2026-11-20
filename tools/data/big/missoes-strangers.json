@@ -1,0 +1,448 @@
+{
+ "kind": "card",
+ "id": "missoes-strangers",
+ "sec": "missoes",
+ "tipo": "dado",
+ "conf": "jogo",
+ "ch": [
+  "c1",
+  "c2",
+  "c3",
+  "c4",
+  "pos"
+ ],
+ "title": "Strangers & Freaks: as 14 linhas",
+ "sum": "Quem dá, quando abre e se conta para o troféu de 8 linhas.",
+ "body": "- O troféu **Strangers & Freaks** (prata) pede 8 linhas completas.\n- A próxima parte de uma linha pode demorar dias no jogo, ou só chegar num capítulo seguinte: o personagem liga quando estiver pronta.\n- Todas as que não são perdíveis continuam disponíveis depois da história.\n- O Kenton tem troféu próprio, mas a PowerPyx não o lista entre os Strangers & Freaks.\n- **Onde marcar:** Shirley em [[missoes-cap1]]; Kyle 1–2, Bret 1 e Billy 1–2 em [[missoes-cap2]]; Kyle 3, Billy 3 e Yago em [[missoes-cap3]]; Eddie em [[missoes-cap4]]. O passo a passo dessas partes está lá. Abaixo, o checklist e o passo a passo das outras.",
+ "table": {
+  "cols": [
+   "Quem",
+   "Cap.",
+   "Personagem",
+   "Partes",
+   "Conta?",
+   "Observação"
+  ],
+  "rows": [
+   [
+    "Shirley",
+    "1",
+    "—",
+    "Get Shirley's Rum, Steal the Scooter",
+    "Não",
+    "**Perdíveis**"
+   ],
+   [
+    "Kirk",
+    "1",
+    "Lucia na última",
+    "Skunk Ape, Tree Effigies, Mr. Mangrove",
+    "Sim",
+    "Skunk Ape e Mr. Mangrove só à noite"
+   ],
+   [
+    "Kyle",
+    "2",
+    "—",
+    "McKittrick Farm, Collect Chemicals, Buddy?",
+    "Sim",
+    "Termina no Cap. 3"
+   ],
+   [
+    "Moses",
+    "2",
+    "—",
+    "Roubos de carro",
+    "Provável",
+    "—"
+   ],
+   [
+    "Bret Vogel",
+    "2",
+    "Jason na 1ª",
+    "Veteran Hunted, Hunting Decks",
+    "Provável",
+    "Troféu “Fair Game”"
+   ],
+   [
+    "Billy",
+    "2",
+    "Solo na 3ª",
+    "Thrillbillies, Twist Wrist, Join Billy on a Job (Mall Rats), The Impaler, Hometown Heroes",
+    "Não",
+    "Troféu “The Lone Rider”"
+   ],
+   [
+    "Yago",
+    "3",
+    "Jason em 2",
+    "Street Race, Bumper to Bumper, Race Against Yago, Brother to Brother",
+    "Sim",
+    "Race Against Yago tem ampulheta e é perdível"
+   ],
+   [
+    "Andy",
+    "3",
+    "Lucia",
+    "Cellerichain, Cellerica Fee, Peach!, Read the Label, Puff Puff Pass",
+    "Não",
+    "Troféu “Road to Rehabilitation”"
+   ],
+   [
+    "Yasmani",
+    "3",
+    "—",
+    "Joalherias, ATMs, Payday Loans, seguir o carro-forte",
+    "Não",
+    "Dinheiro; veja [[dinheiro-receptadores]]"
+   ],
+   [
+    "Randy",
+    "3",
+    "—",
+    "Lista de desejos",
+    "Provável",
+    "Troféu “Supply & Demand”. Veja [[veiculos-randy]]"
+   ],
+   [
+    "Tyrone",
+    "3",
+    "—",
+    "Kitty Litter Labs, Spin On This",
+    "Não",
+    "Troféu “Spin On This!”"
+   ],
+   [
+    "Dunk",
+    "3",
+    "—",
+    "Dicas de roubo",
+    "Provável",
+    "—"
+   ],
+   [
+    "Eddie Acosta",
+    "4",
+    "Solo",
+    "A festa",
+    "Não",
+    "—"
+   ],
+   [
+    "Pilot Pete",
+    "4",
+    "Jason",
+    "The Last Mile (2), entregas do Pete (3)",
+    "Sim",
+    "—"
+   ]
+  ],
+  "sort": false
+ },
+ "div": "A PowerPyx confirma Kirk, Kyle, Yago e Pilot Pete como linhas que contam, e diz que Shirley, Billy, Andy, Yasmani, Tyrone e Eddie Acosta não contam. Moses, Bret, Randy e Dunk não aparecem classificados no texto; como são precisos 8, devem ser essas quatro. {{inferencia}}",
+ "src": [
+  "Eurogamer",
+  "IGN",
+  "PowerPyx"
+ ],
+ "kw": [
+  "strangers and freaks",
+  "strangers & freaks",
+  "side quests",
+  "missoes secundarias",
+  "estranhos",
+  "trofeu"
+ ],
+ "added": "2026-11-18",
+ "check": [
+  {
+   "id": "kirk1",
+   "t": "**Search for the Skunk Ape** — Kirk 1/3 · [passo a passo](https://www.powerpyx.com/gta-6-search-for-the-skunk-ape-walkthrough/)",
+   "d": "**Kirk 1/3 · conta** · **Início:** qualquer panfleto do Skunk Ape (tem um no bar Skeeter's, em Hamlet), depois ligue para o Kirk · **Quando:** só à noite · **Recompensa:** US$ 1.000\n\nEncontre o Kirk na caminhonete no pântano de Mariana County à noite (durma para passar o tempo). Siga-o com a **lanterna** (canto inferior direito da roda de armas). No ninho dá para esgotar os diálogos. Na área de busca, examine o **local de alimentação no centro** e as **marcas de garra na árvore logo a leste**. Persiga o Mr. Mangrove até a borda da mata e examine a **efígie** (dê zoom). Um javali enorme aparece: corra para a caminhonete; ele sempre te acerta e o Kirk te salva.\n\n![Início](img/kirk1-1.jpg)\n![Início (2)](img/kirk1-2.jpg)\n![Início (3)](img/kirk1-3.jpg)\n![Início (4)](img/kirk1-4.jpg)\n![Início (5)](img/kirk1-5.jpg)\n![Início (6)](img/kirk1-6.jpg)\n![Início (7)](img/kirk1-7.jpg)\n![Início (8)](img/kirk1-8.jpg)\n![Search for the Skunk Ape (9)](img/kirk1-9.jpg)\n![Search for the Skunk Ape (10)](img/kirk1-10.jpg)\n![Search for the Skunk Ape (11)](img/kirk1-11.jpg)\n![Search for the Skunk Ape (12)](img/kirk1-12.jpg)\n![Search for the Skunk Ape (13)](img/kirk1-13.jpg)\n![Search for the Skunk Ape (14)](img/kirk1-14.jpg)\n![Search for the Skunk Ape (15)](img/kirk1-15.jpg)\n![Search for the Skunk Ape (16)](img/kirk1-16.jpg)\n![Search for the Skunk Ape (17)](img/kirk1-17.jpg)\n\n#### Complemento (IGN)\nNa IGN esta linha aparece como **Skunk Apeology 101**: começa interagindo com um cartaz do Skunk Ape (o mais fácil fica no bar Rusty Anchor, em Key Lento) e termina em Pelican Bay. Recompensa total: **US$ 30.000** e o rifle **Mister Mangrove Laird 350** (variante única). Depois de acordar do esporo da efígie, repare na fumaça ao sul de Hamlet: é o avião caído (veja [[dinheiro-illegal-ops]])."
+  },
+  {
+   "id": "kirk2",
+   "t": "**Search for Tree Effigies** — Kirk 2/3 · [passo a passo](https://www.powerpyx.com/gta-6-search-for-tree-effigies-locations-walkthrough/)",
+   "d": "**Kirk 2/3 · conta** · **Início:** Pelican Valley (o Kirk manda mensagem depois da parte 1) · **Recompensa:** nenhuma\n\nExamine **3 efígies** em árvores dentro da grande área de busca do pântano, em qualquer ordem. A terceira encerra. Os pontos exatos estão nas imagens de mapa da página original.\n\n![Início](img/kirk2-1.jpg)\n![Início (2)](img/kirk2-2.jpg)\n![Início (3)](img/kirk2-3.jpg)\n![Search for Tree Effigies (4)](img/kirk2-4.jpg)\n![Search for Tree Effigies (5)](img/kirk2-5.jpg)\n![Search for Tree Effigies (6)](img/kirk2-6.jpg)\n![Search for Tree Effigies (7)](img/kirk2-7.jpg)\n![Search for Tree Effigies (8)](img/kirk2-8.jpg)\n![Search for Tree Effigies (9)](img/kirk2-9.jpg)\n![Search for Tree Effigies (10)](img/kirk2-10.jpg)\n![Search for Tree Effigies (11)](img/kirk2-11.jpg)\n![Search for Tree Effigies (12)](img/kirk2-12.jpg)"
+  },
+  {
+   "id": "kirk3",
+   "t": "**Help Kirk Find Mr. Mangrove** — Kirk 3/3 · [passo a passo](https://www.powerpyx.com/gta-6-help-kirk-find-mr-mangrove-walkthrough/)",
+   "d": "![Início](img/ign-kirk3-1.jpg)\n![Início (2)](img/ign-kirk3-2.jpg)\n![Início (3)](img/ign-kirk3-3.jpg)\n\n**Kirk 3/3 · conta** · **Início:** Cottonmouth Lake (mensagem depois da parte 2; Cap. 2 em diante) · **Personagem:** só Lucia, só à noite · **Recompensa:** rifle tranquilizante único **Mister Mangrove Laird 350**; US$ 10.000 no final 1\n\nDo helicóptero do Kirk, acompanhe o holofote; o Mr. Mangrove sempre foge para um barraco. A pé, entre no **barraco da direita**; ele desaba. Pegue-o e a Lucia desmaia com os esporos. Como **sapo**, coma as moscas sobre o javali morto, sob um lampião e junto à carcaça embaixo do cais. Como **mosca**, pouse no helicóptero do Kirk (a leste) e ouça que o Mr. Mangrove é **Harry Sherrick**, sumido há 10 anos.\n- **Atirar no Mr. Mangrove:** leve-o ao helicóptero, **US$ 10.000**; ele acorda e derruba o helicóptero.\n- **Atirar no Kirk** ou **em ninguém:** o Mr. Mangrove leva o Kirk para o pântano; sem dinheiro.\nQualquer final fecha a linha.\n\n![Início](img/kirk3-1.jpg)\n![Início (2)](img/kirk3-2.jpg)\n![Início (3)](img/kirk3-3.jpg)\n![Help Kirk Find Mr. Mangrove (4)](img/kirk3-4.jpg)\n![Help Kirk Find Mr. Mangrove (5)](img/kirk3-5.jpg)\n![Help Kirk Find Mr. Mangrove (6)](img/kirk3-6.jpg)\n![Help Kirk Find Mr. Mangrove (7)](img/kirk3-7.jpg)\n![Help Kirk Find Mr. Mangrove (8)](img/kirk3-8.jpg)\n![Help Kirk Find Mr. Mangrove (9)](img/kirk3-9.jpg)\n![Help Kirk Find Mr. Mangrove (10)](img/kirk3-10.jpg)\n![Help Kirk Find Mr. Mangrove (11)](img/kirk3-11.jpg)\n![Help Kirk Find Mr. Mangrove (12)](img/kirk3-12.jpg)\n![Help Kirk Find Mr. Mangrove (13)](img/kirk3-13.jpg)\n![Help Kirk Find Mr. Mangrove (14)](img/kirk3-14.jpg)\n\n#### Complemento (IGN)\n**Skunk Apeology 101 segundo a IGN (Kirk 1 a 3):** cartaz atrás da porta, à direita de quem entra no Rusty Anchor; ligue para o Kirk e vá a Pelican Bay por volta das 22h (siga as luzes dos drones). Lanterna: roda de armas > equipamentos. Basta achar **3 das 9 efígies** (brilham branco no Focus). Na caçada, do helicóptero, mire no holofote e use a luneta ({R3}); não precisa adiantar o tiro. Depois dos esporos você controla um sapo: coma as moscas seguindo as ondas de som e evite o cercado do jacaré.\n- **Final:** atirar no Mr. Mangrove (fica do lado do Kirk) ou **atirar no Kirk**. Os dois finais dão **US$ 30.000** e o **Mister Mangrove Laird 350**.\n\n![How to Find and Meet Kirk – Exact Location](img/ign-kirk3-4.jpg)\n![How to Find and Meet Kirk – Exact Location (2)](img/ign-kirk3-5.jpg)\n![How to Find and Meet Kirk – Exact Location (3)](img/ign-kirk3-6.jpg)\n![Search for Mr. Mangrove (4)](img/ign-kirk3-7.jpg)\n![Search for Mr. Mangrove (5)](img/ign-kirk3-8.jpg)\n![How to Find Three Effigies - All Locations (6)](img/ign-kirk3-9.jpg)\n![How to Find Three Effigies - All Locations (7)](img/ign-kirk3-10.jpg)\n![How to Find Three Effigies - All Locations (8)](img/ign-kirk3-11.jpg)\n![Hunting Mr. Mangrove (9)](img/ign-kirk3-12.jpg)\n![Hunting Mr. Mangrove (10)](img/ign-kirk3-13.jpg)\n![Hunting Mr. Mangrove (11)](img/ign-kirk3-14.jpg)\n![Hunting Mr. Mangrove (12)](img/ign-kirk3-15.jpg)\n![Hunting Mr. Mangrove (13)](img/ign-kirk3-16.jpg)\n![Controlling Animals (14)](img/ign-kirk3-17.jpg)\n![Controlling Animals (15)](img/ign-kirk3-18.jpg)\n![Controlling Animals (16)](img/ign-kirk3-19.jpg)\n![Controlling Animals (17)](img/ign-kirk3-20.jpg)\n![Controlling Animals (18)](img/ign-kirk3-21.jpg)\n![Ending 1 - Side with Kirk (19)](img/ign-kirk3-22.jpg)\n![Ending 1 - Side with Kirk (20)](img/ign-kirk3-23.jpg)\n![Ending 2 – Side with Mr. Mangrove (21)](img/ign-kirk3-24.jpg)\n![Ending 2 – Side with Mr. Mangrove (22)](img/ign-kirk3-25.jpg)"
+  },
+  {
+   "id": "impaler",
+   "t": "**The Impaler** — Billy 4/5 · [passo a passo](https://www.powerpyx.com/gta-6-the-impaler-steal-the-impaler-walkthrough/)",
+   "d": "**Billy 4/5 · não conta** · **Início:** pátio da polícia, Ambrosia (responda à mensagem do Wyman, dias depois de Mall Rats) · **Recompensa:** nenhuma\n\nPule a cerca; a **viatura preta e branca** no fundo tem dois policiais na frente: nocauteie ou atire. Aperte o **botão à esquerda do portão** e saia com **3 estrelas**. Fuga fácil: siga os **trilhos de trem até o túnel** ao norte de Ambrosia. Estacione com cuidado dentro do túnel de entrega.\n\n![Início](img/impaler-1.jpg)\n![Início (2)](img/impaler-2.jpg)\n![Início (3)](img/impaler-3.jpg)\n![Início (4)](img/impaler-4.jpg)\n![The Impaler (5)](img/impaler-5.jpg)\n![The Impaler (6)](img/impaler-6.jpg)\n![The Impaler (7)](img/impaler-7.jpg)\n![The Impaler (8)](img/impaler-8.jpg)\n![The Impaler (9)](img/impaler-9.jpg)"
+  },
+  {
+   "id": "hometown",
+   "t": "**Hometown Heroes** — Billy 5/5 · [passo a passo](https://www.powerpyx.com/gta-6-hometown-heroes-walkthrough/)",
+   "d": "**Billy 5/5 · não conta** · **Início:** Thrillbilly Mud Club · **Personagem:** os dois · **Recompensa:** US$ 10.000, troféu **The Lone Rider**\n\nCom o Jason no Impaler modificado, entre na pista e bata nos corredores até trocar. Com a Lucia, siga o Billy até o escritório e saqueie o cofre aberto enquanto ele pega o troféu. O **Final Chapter** mata Ricky e Ian: revide, vá de moto com Billy e Sam e proteja o Billy enquanto ele ajuda a Sara. Com o Jason, vá à **fábrica de açúcar**, suba até a Lucia, saia lutando com o Billy e fuja em qualquer veículo. A Sara sempre morre.\n\n![Início](img/hometown-1.jpg)\n![Início (2)](img/hometown-2.jpg)\n![Início (3)](img/hometown-3.jpg)\n![Início (4)](img/hometown-4.jpg)\n![Início (5)](img/hometown-5.jpg)\n![Hometown Heroes (6)](img/hometown-6.jpg)\n![Hometown Heroes (7)](img/hometown-7.jpg)\n![Hometown Heroes (8)](img/hometown-8.jpg)\n![Hometown Heroes (9)](img/hometown-9.jpg)\n![Hometown Heroes (10)](img/hometown-10.jpg)\n![Hometown Heroes (11)](img/hometown-11.jpg)\n![Hometown Heroes (12)](img/hometown-12.jpg)\n![Hometown Heroes (13)](img/hometown-13.jpg)"
+  },
+  {
+   "id": "andy1",
+   "t": "**Climbing the Cellerichain (1–3)** — Andy 1/5 · [passo a passo](https://www.powerpyx.com/gta-6-climbing-the-cellerichain-walkthrough/)",
+   "d": "**Andy 1/5 · não conta** · **Início:** casa da Andy, Belville (ligação para a Lucia no Cap. 3, depois de Mami Knows Best e Car Service) · **Personagem:** só Lucia · **Recompensa:** Pure Manifestick + Cellerica Cap\n\n1. Pegue o kit de boas-vindas no balcão da cozinha; entregue o pacote na mesa do quintal em **Waning Sands**.\n2. Fotografe a Andy com o celular; entregue na **barraca da Cellerica** no mercado do norte de Vice City.\n3. Pacote da garagem (com uma **revista colecionável** ao lado); entregue em **Ambrosia**. Um viciado finge ser o dono: **recuse** (ou persiga e empurre); o dono de verdade abre a garagem.\n\n![Início](img/andy1-1.jpg)\n![Início (2)](img/andy1-2.jpg)\n![Início (3)](img/andy1-3.jpg)\n![Início (4)](img/andy1-4.jpg)\n![Climbing the Cellerichain (1–3) (5)](img/andy1-5.jpg)\n![Climbing the Cellerichain (1–3) (6)](img/andy1-6.jpg)\n![Climbing the Cellerichain (1–3) (7)](img/andy1-7.jpg)\n![Climbing the Cellerichain (1–3) (8)](img/andy1-8.jpg)\n![Climbing the Cellerichain (1–3) (9)](img/andy1-9.jpg)\n![Climbing the Cellerichain (1–3) (10)](img/andy1-10.jpg)\n![Climbing the Cellerichain (1–3) (11)](img/andy1-11.jpg)\n![Climbing the Cellerichain (1–3) (12)](img/andy1-12.jpg)\n![Climbing the Cellerichain (1–3) (13)](img/andy1-13.jpg)\n![Climbing the Cellerichain (1–3) (14)](img/andy1-14.jpg)\n![Climbing the Cellerichain (1–3) (15)](img/andy1-15.jpg)\n![Climbing the Cellerichain (1–3) (16)](img/andy1-16.jpg)\n![Climbing the Cellerichain (1–3) (17)](img/andy1-17.jpg)\n![Climbing the Cellerichain (1–3) (18)](img/andy1-18.jpg)\n![Climbing the Cellerichain (1–3) (19)](img/andy1-19.jpg)\n![Climbing the Cellerichain (1–3) (20)](img/andy1-20.jpg)\n![Climbing the Cellerichain (1–3) (21)](img/andy1-21.jpg)\n![Climbing the Cellerichain (1–3) (22)](img/andy1-22.jpg)\n![Climbing the Cellerichain (1–3) (23)](img/andy1-23.jpg)\n![Climbing the Cellerichain (1–3) (24)](img/andy1-24.jpg)\n![Climbing the Cellerichain (1–3) (25)](img/andy1-25.jpg)"
+  },
+  {
+   "id": "andy2",
+   "t": "**Pay the Cellerica Fee** — Andy 2/5 · [passo a passo](https://www.powerpyx.com/gta-6-pay-the-cellerica-fee-walkthrough/)",
+   "d": "**Andy 2/5** · **Início:** qualquer lugar (Mapa > Story) · Só Lucia · Pague **US$ 5.000** à Andy pelo BuckMe. Volta no fim da linha.\n\n![Início](img/andy2-1.jpg)\n![Pay the Cellerica Fee (2)](img/andy2-2.jpg)"
+  },
+  {
+   "id": "andy3",
+   "t": "**Peach!** — Andy 3/5 · [passo a passo](https://www.powerpyx.com/gta-6-peach-join-the-cellerica-initiation-walkthrough/)",
+   "d": "**Andy 3/5** · **Início:** banco em Belville · Só Lucia\n\nSiga a Andy e troque de roupa na sala atrás da porta branca. Na iniciação, usar o vape ou acalmar a situação não muda nada; fazer as duas coisas sempre impressiona a Cecilia. Carrinho de golfe até a **mansão da Cecilia**; o Felix só deixa a Lucia entrar. Sente no sofá para a videochamada: ela deixa um **Cloud Manifestick**.\n\n![Início](img/andy3-1.jpg)\n![Início (2)](img/andy3-2.jpg)\n![Início (3)](img/andy3-3.jpg)\n![Início (4)](img/andy3-4.jpg)\n![Peach! (5)](img/andy3-5.jpg)\n![Peach! (6)](img/andy3-6.jpg)\n![Peach! (7)](img/andy3-7.jpg)\n![Peach! (8)](img/andy3-8.jpg)\n![Peach! (9)](img/andy3-9.jpg)\n![Peach! (10)](img/andy3-10.jpg)\n![Peach! (11)](img/andy3-11.jpg)\n![Peach! (12)](img/andy3-12.jpg)\n![Peach! (13)](img/andy3-13.jpg)\n![Peach! (14)](img/andy3-14.jpg)"
+  },
+  {
+   "id": "andy4",
+   "t": "**Read the Label** — Andy 4/5 · [passo a passo](https://www.powerpyx.com/gta-6-read-the-label-retrieve-the-cellerica-van-walkthrough/)",
+   "d": "**Andy 4/5** · **Início:** norte de Vice City · Só Lucia · **Recompensa:** US$ 1.800\n\nNocauteie os dois viciados, pegue a van e estacione na **vaga amarela** do galpão em Belville.\n\n![Início](img/andy4-1.jpg)\n![Início (2)](img/andy4-2.jpg)\n![Início (3)](img/andy4-3.jpg)\n![Read the Label (4)](img/andy4-4.jpg)\n![Read the Label (5)](img/andy4-5.jpg)\n![Read the Label (6)](img/andy4-6.jpg)"
+  },
+  {
+   "id": "andy5",
+   "t": "**Puff Puff Pass** — Andy 5/5 · [passo a passo](https://www.powerpyx.com/gta-6-puff-puff-pass-meet-at-the-warehouse-walkthrough/)",
+   "d": "**Andy 5/5** · **Início:** galpão de Belville · Só Lucia · **Recompensa:** US$ 10.000, troféu **Road to Rehabilitation**, taxa devolvida\n\nSiga o Felix: os Manifesticks levam crack. No andar de cima, a Cecilia quer a Andy morta por ter roubado a van. Defenda a Andy e limpe o galpão. Vá à mansão: porta da direita no saguão, escada acima, fim do corredor. A Cecilia de verdade parte para cima: **atire nela**.\n\n![Início](img/andy5-1.jpg)\n![Início (2)](img/andy5-2.jpg)\n![Início (3)](img/andy5-3.jpg)\n![Início (4)](img/andy5-4.jpg)\n![Puff Puff Pass (5)](img/andy5-5.jpg)\n![Puff Puff Pass (6)](img/andy5-6.jpg)\n![Puff Puff Pass (7)](img/andy5-7.jpg)\n![Puff Puff Pass (8)](img/andy5-8.jpg)\n![Puff Puff Pass (9)](img/andy5-9.jpg)\n![Puff Puff Pass (10)](img/andy5-10.jpg)\n![Puff Puff Pass (11)](img/andy5-11.jpg)"
+  },
+  {
+   "id": "labs",
+   "t": "**Kitty Litter Labs (14)** — Tyrone · [passo a passo](https://www.powerpyx.com/gta-6-all-kitty-litter-lab-locations/)",
+   "d": "**Tyrone · não conta** · **Libera depois de:** Here, Kitty Kitty · **Recompensa:** US$ 2.000 a 2.500 cada; laboratórios suficientes liberam Spin On This\n\nÁreas de busca roxas; procure a **fumaça rosa**. Atire nos botijões ou jogue um **molotov** pela porta. Locais com o Tyrone ou o Dook, ou é só ir. Não é perdível.\n- **Laboratório da história:** trailer no quarteirão central do sul.\n- **Balsero:** nº 1 garagem na borda norte (3 atiradores; papel logo na porta); nº 2 prédio do meio, código **1999** (num outdoor); nº 3 segundo trailer mais ao sul (Snap Gun).\n- **Central Rockridge:** garagem no centro, entrada pelo beco a oeste.\n- **Crosstown:** nº 1 apartamento no segundo andar, lado norte (o cozinheiro pode pôr fogo; não entre correndo); nº 2 garagem atrás da Cross My Heart Tattoos; nº 3 garagem no lado leste do prédio central (interrogue o cozinheiro).\n- **Decor District:** garagem no prédio do noroeste, junto à rodovia.\n- **Little Cuba:** prédio comprido no centro (Snap Gun).\n- **Salton:** entre pela janela aberta do lado leste.\n- **Tequesta:** andar de cima do motel em C do leste (o cozinheiro joga um béquer).\n- **Vice-Dale:** trailer no centro; entre pela janela leste; examine o cartão do Rocky Chavez.\n\n![Kitty Litter Labs (14) (1)](img/labs-1.jpg)\n![Kitty Litter Labs (14) (2)](img/labs-2.jpg)\n![Kitty Litter Labs (14) (3)](img/labs-3.jpg)\n![Kitty Litter Labs (14) (4)](img/labs-4.jpg)\n![Kitty Litter Labs (14) (5)](img/labs-5.jpg)\n![Kitty Litter Labs (14) (6)](img/labs-6.jpg)\n![Kitty Litter Labs (14) (7)](img/labs-7.jpg)\n![Kitty Litter Labs (14) (8)](img/labs-8.jpg)\n![Kitty Litter Labs (14) (9)](img/labs-9.jpg)\n![Kitty Litter Labs (14) (10)](img/labs-10.jpg)\n![Kitty Litter Labs (14) (11)](img/labs-11.jpg)\n![Kitty Litter Labs (14) (12)](img/labs-12.jpg)\n![Kitty Litter Labs (14) (13)](img/labs-13.jpg)\n![Kitty Litter Labs (14) (14)](img/labs-14.jpg)\n![Kitty Litter Labs (14) (15)](img/labs-15.jpg)\n![Kitty Litter Labs (14) (16)](img/labs-16.jpg)\n![Kitty Litter Labs (14) (17)](img/labs-17.jpg)\n![Kitty Litter Labs (14) (18)](img/labs-18.jpg)\n![Kitty Litter Labs (14) (19)](img/labs-19.jpg)\n![Kitty Litter Labs (14) (20)](img/labs-20.jpg)\n![Kitty Litter Labs (14) (21)](img/labs-21.jpg)\n![Kitty Litter Labs (14) (22)](img/labs-22.jpg)\n![Kitty Litter Labs (14) (23)](img/labs-23.jpg)\n![Kitty Litter Labs (14) (24)](img/labs-24.jpg)\n![Kitty Litter Labs (14) (25)](img/labs-25.jpg)\n![Kitty Litter Labs (14) (26)](img/labs-26.jpg)\n![Kitty Litter Labs (14) (27)](img/labs-27.jpg)\n![Kitty Litter Labs (14) (28)](img/labs-28.jpg)\n![Kitty Litter Labs (14) (29)](img/labs-29.jpg)\n![Kitty Litter Labs (14) (30)](img/labs-30.jpg)\n![Kitty Litter Labs (14) (31)](img/labs-31.jpg)\n![Kitty Litter Labs (14) (32)](img/labs-32.jpg)\n![Kitty Litter Labs (14) (33)](img/labs-33.jpg)\n![Kitty Litter Labs (14) (34)](img/labs-34.jpg)\n![Kitty Litter Labs (14) (35)](img/labs-35.jpg)\n![Kitty Litter Labs (14) (36)](img/labs-36.jpg)\n![Kitty Litter Labs (14) (37)](img/labs-37.jpg)\n![Kitty Litter Labs (14) (38)](img/labs-38.jpg)\n![Kitty Litter Labs (14) (39)](img/labs-39.jpg)\n![Kitty Litter Labs (14) (40)](img/labs-40.jpg)\n![Kitty Litter Labs (14) (41)](img/labs-41.jpg)\n![Kitty Litter Labs (14) (42)](img/labs-42.jpg)\n![Kitty Litter Labs (14) (43)](img/labs-43.jpg)\n![Kitty Litter Labs (14) (44)](img/labs-44.jpg)\n![Kitty Litter Labs (14) (45)](img/labs-45.jpg)\n![Kitty Litter Labs (14) (46)](img/labs-46.jpg)\n![Kitty Litter Labs (14) (47)](img/labs-47.jpg)\n![Kitty Litter Labs (14) (48)](img/labs-48.jpg)\n![Kitty Litter Labs (14) (49)](img/labs-49.jpg)\n![Kitty Litter Labs (14) (50)](img/labs-50.jpg)\n![Kitty Litter Labs (14) (51)](img/labs-51.jpg)\n![Kitty Litter Labs (14) (52)](img/labs-52.jpg)\n![Kitty Litter Labs (14) (53)](img/labs-53.jpg)\n![Kitty Litter Labs (14) (54)](img/labs-54.jpg)\n![Kitty Litter Labs (14) (55)](img/labs-55.jpg)\n![Kitty Litter Labs (14) (56)](img/labs-56.jpg)\n![Kitty Litter Labs (14) (57)](img/labs-57.jpg)\n![Kitty Litter Labs (14) (58)](img/labs-58.jpg)\n![Kitty Litter Labs (14) (59)](img/labs-59.jpg)\n![Kitty Litter Labs (14) (60)](img/labs-60.jpg)\n![Kitty Litter Labs (14) (61)](img/labs-61.jpg)\n![Kitty Litter Labs (14) (62)](img/labs-62.jpg)\n![Kitty Litter Labs (14) (63)](img/labs-63.jpg)\n![Kitty Litter Labs (14) (64)](img/labs-64.jpg)\n![Kitty Litter Labs (14) (65)](img/labs-65.jpg)\n![Kitty Litter Labs (14) (66)](img/labs-66.jpg)\n![Kitty Litter Labs (14) (67)](img/labs-67.jpg)"
+  },
+  {
+   "id": "spin",
+   "t": "**Spin On This** — Tyrone · [passo a passo](https://www.powerpyx.com/gta-6-spin-on-this-shut-down-the-labs-walkthrough/)",
+   "d": "**Tyrone** · **Início:** lanchonete fora de Grayson · **Personagem:** Jason · **Recompensa:** US$ 10.000, troféu **Spin On This!**\n\nEquipe colete e arma longa **antes** de chegar. No motel, desça a escada da esquerda até a porta verde (nocauteie o guarda), examine o alçapão e pegue a **chave com o recepcionista**. Limpe o laboratório, plante cargas nos **dois tanques** do andar de cima, enfrente a segunda leva, desça pelo cano que o Tyrone abre e persiga o **Rocky**; lá fora, atire nele.\n\n![Início](img/spin-1.jpg)\n![Início (2)](img/spin-2.jpg)\n![Início (3)](img/spin-3.jpg)\n![Spin On This (4)](img/spin-4.jpg)\n![Spin On This (5)](img/spin-5.jpg)\n![Spin On This (6)](img/spin-6.jpg)\n![Spin On This (7)](img/spin-7.jpg)\n![Spin On This (8)](img/spin-8.jpg)\n![Spin On This (9)](img/spin-9.jpg)\n![Spin On This (10)](img/spin-10.jpg)\n![Spin On This (11)](img/spin-11.jpg)\n![Spin On This (12)](img/spin-12.jpg)\n![Spin On This (13)](img/spin-13.jpg)\n![Spin On This (14)](img/spin-14.jpg)"
+  },
+  {
+   "id": "pete1",
+   "t": "**The Last Mile: Passing the Torch** — Pilot Pete 1 · [passo a passo](https://www.powerpyx.com/gta-6-the-last-mile-passing-the-torch-recover-petes-plane-walkthrough/)",
+   "d": "**Pilot Pete · conta** · **Início:** Sundown Private Airfield (ligação depois de Pool Day) · Só Jason · **Recompensa:** US$ 12.000 + fuzil **Pete's KZ-59**\n\nPorta vermelha até a sala dos fundos: pegue o **Pete's KZ-59** na mesa, cofre com código **3718**. Voe sobre os 3 pontos de entrega marcados e pouse na pista ao sul de Port Gellhorn.\n\n![Início](img/pete1-1.jpg)\n![Início (2)](img/pete1-2.jpg)\n![Início (3)](img/pete1-3.jpg)\n![The Last Mile: Passing the Torch (4)](img/pete1-4.jpg)\n![The Last Mile: Passing the Torch (5)](img/pete1-5.jpg)\n![The Last Mile: Passing the Torch (6)](img/pete1-6.jpg)\n![The Last Mile: Passing the Torch (7)](img/pete1-7.jpg)\n![The Last Mile: Passing the Torch (8)](img/pete1-8.jpg)\n![The Last Mile: Passing the Torch (9)](img/pete1-9.jpg)\n![The Last Mile: Passing the Torch (10)](img/pete1-10.jpg)"
+  },
+  {
+   "id": "pete2",
+   "t": "**The Last Mile: Backseat Pilot** — Pilot Pete 2 · [passo a passo](https://www.powerpyx.com/gta-6-the-last-mile-backseat-pilot-deliver-packages-walkthrough/)",
+   "d": "**Pilot Pete** · **Início:** pista Wild Hog/Gellhorn · Só Jason · **Recompensa:** US$ 20.000 dentro do prazo\n\n**2 horas no jogo** para **7 entregas**. Evite os **círculos vermelhos** (dão procurado). Pouse o hidroavião perto do fornecedor, faça as 7 entregas e volte ao hangar.\n\n![Início](img/pete2-1.jpg)\n![Início (2)](img/pete2-2.jpg)\n![Início (3)](img/pete2-3.jpg)\n![The Last Mile: Backseat Pilot (4)](img/pete2-4.jpg)\n![The Last Mile: Backseat Pilot (5)](img/pete2-5.jpg)\n![The Last Mile: Backseat Pilot (6)](img/pete2-6.jpg)"
+  },
+  {
+   "id": "pete3",
+   "t": "**Pete's Deliveries (3)** — Pilot Pete 3–5 · [passo a passo](https://www.powerpyx.com/gta-6-petes-deliveries-southpoint-airfield-avery-allen-co-walkthrough/)",
+   "d": "**Pilot Pete** · Só Jason · **Recompensa:** US$ 20.000 cada; fecha a linha\n- **Southpoint Airfield** (Mariana): tiroteio no fornecedor; pegue a sacola e saia. 7 entregas até **20h**.\n- **Avery Allen & Co.** (Kelly): hidroavião; 7 entregas antes das **14h**; evite os círculos vermelhos.\n- **Deliver Packages** (Leonard, dias depois): 7 entregas antes das **8h**.\n\n![Início](img/pete3-1.jpg)\n![Pete's Deliveries (3) (2)](img/pete3-2.jpg)\n![Pete's Deliveries (3) (3)](img/pete3-3.jpg)\n![Pete's Deliveries (3) (4)](img/pete3-4.jpg)\n![Pete's Deliveries (3) (5)](img/pete3-5.jpg)\n![Pete's Deliveries (3) (6)](img/pete3-6.jpg)\n![Pete's Deliveries (3) (7)](img/pete3-7.jpg)\n![Pete's Deliveries (3) (8)](img/pete3-8.jpg)\n![Pete's Deliveries (3) (9)](img/pete3-9.jpg)\n![Pete's Deliveries (3) (10)](img/pete3-10.jpg)\n![Pete's Deliveries (3) (11)](img/pete3-11.jpg)\n![Pete's Deliveries (3) (12)](img/pete3-12.jpg)\n![Pete's Deliveries (3) (13)](img/pete3-13.jpg)\n![Pete's Deliveries (3) (14)](img/pete3-14.jpg)\n![Pete's Deliveries (3) (15)](img/pete3-15.jpg)\n![Pete's Deliveries (3) (16)](img/pete3-16.jpg)\n![Pete's Deliveries (3) (17)](img/pete3-17.jpg)\n![Pete's Deliveries (3) (18)](img/pete3-18.jpg)"
+  }
+ ],
+ "en": {
+  "check": [
+   {
+    "id": "kirk1",
+    "t": "**Search for the Skunk Ape** — Kirk 1/3 · [full walkthrough](https://www.powerpyx.com/gta-6-search-for-the-skunk-ape-walkthrough/)",
+    "d": "**Kirk 1/3 · counts** · **Start:** any Skunk Ape flyer (one is at Skeeter's bar, Hamlet), then call Kirk · **When:** night only · **Reward:** $1,000\n\nMeet Kirk at his truck in the Mariana County swamps at night (sleep to skip time). Follow him with the **flashlight** (bottom-right of the weapon wheel). At the nesting site you can exhaust the dialogue. In the search area check the **feeding site in the center** and the **claw marks on the tree just east**. Chase Mr. Mangrove to the edge of the woods and inspect the **effigy** (zoom in). A huge boar appears: run for the truck; it always rams you and Kirk saves you.\n\n![Start](img/kirk1-1.jpg)\n![Start (2)](img/kirk1-2.jpg)\n![Start (3)](img/kirk1-3.jpg)\n![Start (4)](img/kirk1-4.jpg)\n![Start (5)](img/kirk1-5.jpg)\n![Start (6)](img/kirk1-6.jpg)\n![Start (7)](img/kirk1-7.jpg)\n![Start (8)](img/kirk1-8.jpg)\n![Investigate the sound / Search the area for Mr. Mangrove (9)](img/kirk1-9.jpg)\n![Investigate the sound / Search the area for Mr. Mangrove (10)](img/kirk1-10.jpg)\n![Investigate the sound / Search the area for Mr. Mangrove (11)](img/kirk1-11.jpg)\n![Investigate the sound / Search the area for Mr. Mangrove (12)](img/kirk1-12.jpg)\n![Investigate the sound / Search the area for Mr. Mangrove (13)](img/kirk1-13.jpg)\n![Inspect the tree (14)](img/kirk1-14.jpg)\n![Inspect the tree (15)](img/kirk1-15.jpg)\n![Return to the truck (16)](img/kirk1-16.jpg)\n![Return to the truck (17)](img/kirk1-17.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears.\n\n#### Extra (IGN)\nIGN lists this line as **Skunk Apeology 101**: it starts by interacting with a Skunk Ape poster (the easiest one is at the Rusty Anchor bar in Key Lento) and ends in Pelican Bay. Total reward: **$30,000** and the **Mister Mangrove Laird 350** unique weapon variant. After you wake up from the effigy spore, look for smoke south of Hamlet: it's the crashed plane (see [[dinheiro-illegal-ops]])."
+   },
+   {
+    "id": "kirk2",
+    "t": "**Search for Tree Effigies** — Kirk 2/3 · [full walkthrough](https://www.powerpyx.com/gta-6-search-for-tree-effigies-locations-walkthrough/)",
+    "d": "**Kirk 2/3 · counts** · **Start:** Pelican Valley (Kirk texts after part 1) · **Reward:** none\n\nInspect **3 tree effigies** inside the big swamp search area, any order. The third completes it. Exact spots are on the original page's map images.\n\n![Start](img/kirk2-1.jpg)\n![Start (2)](img/kirk2-2.jpg)\n![Start (3)](img/kirk2-3.jpg)\n![Find 3 Tree Effigies (4)](img/kirk2-4.jpg)\n![Find 3 Tree Effigies (5)](img/kirk2-5.jpg)\n![Find 3 Tree Effigies (6)](img/kirk2-6.jpg)\n![Find 3 Tree Effigies (7)](img/kirk2-7.jpg)\n![Find 3 Tree Effigies (8)](img/kirk2-8.jpg)\n![Find 3 Tree Effigies (9)](img/kirk2-9.jpg)\n![Find 3 Tree Effigies (10)](img/kirk2-10.jpg)\n![Find 3 Tree Effigies (11)](img/kirk2-11.jpg)\n![Find 3 Tree Effigies (12)](img/kirk2-12.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "kirk3",
+    "t": "**Help Kirk Find Mr. Mangrove** — Kirk 3/3 · [full walkthrough](https://www.powerpyx.com/gta-6-help-kirk-find-mr-mangrove-walkthrough/)",
+    "d": "![Start](img/ign-kirk3-1.jpg)\n![Start (2)](img/ign-kirk3-2.jpg)\n![Start (3)](img/ign-kirk3-3.jpg)\n\n**Kirk 3/3 · counts** · **Start:** Cottonmouth Lake (text after part 2; Chapter 2+) · **Character:** Lucia only, night only · **Reward:** unique **Mister Mangrove Laird 350** tranquilizer rifle; $10,000 with ending 1\n\nFrom Kirk's helicopter, follow the spotlight; Mr. Mangrove always flees to a shack. On foot, enter the **shack on the right**; he collapses. Pick him up and Lucia passes out from the spores. As a **frog**, eat the flies over the dead boar, under a lantern, and by the boar carcass below the docks. As a **fly**, land on Kirk's helicopter (east) and overhear that Mr. Mangrove is **Harry Sherrick**, missing for 10 years.\n- **Shoot Mr. Mangrove:** carry him to the chopper, **$10,000**; he wakes and brings it down.\n- **Shoot Kirk** or **shoot nobody:** Mr. Mangrove takes Kirk into the swamp; no money.\nAny ending completes the strand.\n\n![Start](img/kirk3-1.jpg)\n![Start (2)](img/kirk3-2.jpg)\n![Start (3)](img/kirk3-3.jpg)\n![Hunt Mr. Mangrove (4)](img/kirk3-4.jpg)\n![Search the area for Mr. Mangrove (5)](img/kirk3-5.jpg)\n![Search the area for Mr. Mangrove (6)](img/kirk3-6.jpg)\n![Search the area for Mr. Mangrove (7)](img/kirk3-7.jpg)\n![Find flies to eat (8)](img/kirk3-8.jpg)\n![Find flies to eat (9)](img/kirk3-9.jpg)\n![Find Kirk (10)](img/kirk3-10.jpg)\n![Find Kirk (11)](img/kirk3-11.jpg)\n![Shoot Mr. Mangrove -or – Shoot Kirk -or- Don’t Shoot (12)](img/kirk3-12.jpg)\n![Shoot Mr. Mangrove -or – Shoot Kirk -or- Don’t Shoot (13)](img/kirk3-13.jpg)\n![Shoot Mr. Mangrove -or – Shoot Kirk -or- Don’t Shoot (14)](img/kirk3-14.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears.\n\n#### Extra (IGN)\n**Skunk Apeology 101 per IGN (Kirk 1–3):** the poster is behind the door, to the right as you enter the Rusty Anchor; call Kirk and go to Pelican Bay around 10 PM (follow the drone lights). Flashlight: weapon wheel > equipment. You only need **3 of the 9 effigies** (they flash white in Focus). In the hunt, from the helicopter, aim at the spotlight and use the scope ({R3}); no need to lead shots. After the spores you control a frog: eat flies by following sound ripples and avoid the alligator pen.\n- **Ending:** shoot Mr. Mangrove (siding with Kirk) or **shoot Kirk**. Both endings pay **$30,000** and give the **Mister Mangrove Laird 350**.\n\n![How to Find and Meet Kirk – Exact Location](img/ign-kirk3-4.jpg)\n![How to Find and Meet Kirk – Exact Location (2)](img/ign-kirk3-5.jpg)\n![How to Find and Meet Kirk – Exact Location (3)](img/ign-kirk3-6.jpg)\n![Search for Mr. Mangrove (4)](img/ign-kirk3-7.jpg)\n![Search for Mr. Mangrove (5)](img/ign-kirk3-8.jpg)\n![How to Find Three Effigies - All Locations (6)](img/ign-kirk3-9.jpg)\n![How to Find Three Effigies - All Locations (7)](img/ign-kirk3-10.jpg)\n![How to Find Three Effigies - All Locations (8)](img/ign-kirk3-11.jpg)\n![Hunting Mr. Mangrove (9)](img/ign-kirk3-12.jpg)\n![Hunting Mr. Mangrove (10)](img/ign-kirk3-13.jpg)\n![Hunting Mr. Mangrove (11)](img/ign-kirk3-14.jpg)\n![Hunting Mr. Mangrove (12)](img/ign-kirk3-15.jpg)\n![Hunting Mr. Mangrove (13)](img/ign-kirk3-16.jpg)\n![Controlling Animals (14)](img/ign-kirk3-17.jpg)\n![Controlling Animals (15)](img/ign-kirk3-18.jpg)\n![Controlling Animals (16)](img/ign-kirk3-19.jpg)\n![Controlling Animals (17)](img/ign-kirk3-20.jpg)\n![Controlling Animals (18)](img/ign-kirk3-21.jpg)\n![Ending 1 - Side with Kirk (19)](img/ign-kirk3-22.jpg)\n![Ending 1 - Side with Kirk (20)](img/ign-kirk3-23.jpg)\n![Ending 2 – Side with Mr. Mangrove (21)](img/ign-kirk3-24.jpg)\n![Ending 2 – Side with Mr. Mangrove (22)](img/ign-kirk3-25.jpg)"
+   },
+   {
+    "id": "impaler",
+    "t": "**The Impaler** — Billy 4/5 · [full walkthrough](https://www.powerpyx.com/gta-6-the-impaler-steal-the-impaler-walkthrough/)",
+    "d": "**Billy 4/5 · doesn't count** · **Start:** police impound, Ambrosia (reply to Wyman's text, days after Mall Rats) · **Reward:** none\n\nClimb the fence; the **black-and-white police car** at the back has two cops in front: knock out or shoot. Press the **button left of the front gate** and drive off with **3 stars**. Easy escape: follow the **train tracks into the tunnel** north of Ambrosia. Park carefully inside the drop-off tunnel.\n\n![Start](img/impaler-1.jpg)\n![Start (2)](img/impaler-2.jpg)\n![Start (3)](img/impaler-3.jpg)\n![Start (4)](img/impaler-4.jpg)\n![Steal the Police Impaler (5)](img/impaler-5.jpg)\n![Steal the Police Impaler (6)](img/impaler-6.jpg)\n![Go to the drop-off location / Leave the Police Impaler in the tunnel (7)](img/impaler-7.jpg)\n![Go to the drop-off location / Leave the Police Impaler in the tunnel (8)](img/impaler-8.jpg)\n![Go to the drop-off location / Leave the Police Impaler in the tunnel (9)](img/impaler-9.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "hometown",
+    "t": "**Hometown Heroes** — Billy 5/5 · [full walkthrough](https://www.powerpyx.com/gta-6-hometown-heroes-walkthrough/)",
+    "d": "**Billy 5/5 · doesn't count** · **Start:** Thrillbilly Mud Club · **Character:** both · **Reward:** $10,000, trophy **The Lone Rider**\n\nAs Jason in the modified Impaler, drive into the raceway and ram racers until you switch. As Lucia, follow Billy into the office and loot the open safe while he grabs the trophy. The **Final Chapter** kill Ricky and Ian: shoot back, ride with Billy and Sam, protect Billy while he helps Sara. As Jason, drive to the **sugar factory**, go up to Lucia, then fight out with Billy and leave in any vehicle. Sara always dies.\n\n![Start](img/hometown-1.jpg)\n![Start (2)](img/hometown-2.jpg)\n![Start (3)](img/hometown-3.jpg)\n![Start (4)](img/hometown-4.jpg)\n![Start (5)](img/hometown-5.jpg)\n![Follow Billy (6)](img/hometown-6.jpg)\n![Drive onto the raceway track / Ram into other racers (7)](img/hometown-7.jpg)\n![Follow Billy & Loot the safe (8)](img/hometown-8.jpg)\n![Protect Billy (9)](img/hometown-9.jpg)\n![Get on the dirt bike & Follow Billy (10)](img/hometown-10.jpg)\n![Find Lucia (11)](img/hometown-11.jpg)\n![Escape from the factory building (12)](img/hometown-12.jpg)\n![Escape from the factory building (13)](img/hometown-13.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "andy1",
+    "t": "**Climbing the Cellerichain (1–3)** — Andy 1/5 · [full walkthrough](https://www.powerpyx.com/gta-6-climbing-the-cellerichain-walkthrough/)",
+    "d": "**Andy 1/5 · doesn't count** · **Start:** Andy's house, Belville (call to Lucia in Chapter 3, after Mami Knows Best and Car Service) · **Character:** Lucia only · **Reward:** Pure Manifestick + Cellerica Cap\n\n1. Take the welcome kit from the kitchen counter; deliver the package to the backyard table in **Waning Sands**.\n2. Photograph Andy with your phone; deliver to the **Cellerica stall** at the market in north Vice City.\n3. Package from the garage (**collectible magazine** next to it); deliver in **Ambrosia**. A junkie poses as the owner: **refuse** (or chase and shove him); the real owner opens the garage.\n\n![Start](img/andy1-1.jpg)\n![Start (2)](img/andy1-2.jpg)\n![Start (3)](img/andy1-3.jpg)\n![Start (4)](img/andy1-4.jpg)\n![Climbing the Cellerichain 1 (5)](img/andy1-5.jpg)\n![Open the essentials kit (6)](img/andy1-6.jpg)\n![Deliver the package to the homeowner (7)](img/andy1-7.jpg)\n![Deliver the package to the homeowner (8)](img/andy1-8.jpg)\n![Deliver the package to the homeowner (9)](img/andy1-9.jpg)\n![Deliver the package to the homeowner (10)](img/andy1-10.jpg)\n![Deliver the package to the homeowner (11)](img/andy1-11.jpg)\n![Deliver the package to the homeowner (12)](img/andy1-12.jpg)\n![Deliver the package to the homeowner (13)](img/andy1-13.jpg)\n![Deliver the package to the homeowner (14)](img/andy1-14.jpg)\n![Climbing the Cellerichain 2 (15)](img/andy1-15.jpg)\n![Climbing the Cellerichain 2 (16)](img/andy1-16.jpg)\n![Take photo of Andy (17)](img/andy1-17.jpg)\n![Take photo of Andy (18)](img/andy1-18.jpg)\n![Pick up the package (19)](img/andy1-19.jpg)\n![Deliver the package to the Cellerica stall (20)](img/andy1-20.jpg)\n![Deliver the package to the Cellerica stall (21)](img/andy1-21.jpg)\n![Deliver the package to the Cellerica stall (22)](img/andy1-22.jpg)\n![Climbing the Cellerichain 3 (23)](img/andy1-23.jpg)\n![Climbing the Cellerichain 3 (24)](img/andy1-24.jpg)\n![Climbing the Cellerichain 3 (25)](img/andy1-25.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "andy2",
+    "t": "**Pay the Cellerica Fee** — Andy 2/5 · [full walkthrough](https://www.powerpyx.com/gta-6-pay-the-cellerica-fee-walkthrough/)",
+    "d": "**Andy 2/5** · **Start:** anywhere (Map > Story) · Lucia only · Pay Andy **$5,000** in BuckMe. Refunded at the end of the strand.\n\n![Start](img/andy2-1.jpg)\n![Pay the Cellerica Initation Fee (2)](img/andy2-2.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "andy3",
+    "t": "**Peach!** — Andy 3/5 · [full walkthrough](https://www.powerpyx.com/gta-6-peach-join-the-cellerica-initiation-walkthrough/)",
+    "d": "**Andy 3/5** · **Start:** bench in Belville · Lucia only\n\nFollow Andy, change in the room behind the white door. During the initiation, vaping or defusing doesn't change anything; vaping and defusing every time impresses Cecilia. Golf cart to **Cecilia's mansion**; Felix lets only Lucia in. Sit on the sofa for the video call: she leaves you a **Cloud Manifestick**.\n\n![Start](img/andy3-1.jpg)\n![Start (2)](img/andy3-2.jpg)\n![Start (3)](img/andy3-3.jpg)\n![Start (4)](img/andy3-4.jpg)\n![Follow Andy (5)](img/andy3-5.jpg)\n![Follow Andy (6)](img/andy3-6.jpg)\n![Get changed in the changing room (7)](img/andy3-7.jpg)\n![Get changed in the changing room (8)](img/andy3-8.jpg)\n![Participate in Cellerica Initiation (9)](img/andy3-9.jpg)\n![Drive to Cecilia’s mansion (10)](img/andy3-10.jpg)\n![Drive to Cecilia’s mansion (11)](img/andy3-11.jpg)\n![Drive to Cecilia’s mansion (12)](img/andy3-12.jpg)\n![Enter the mansion (13)](img/andy3-13.jpg)\n![Sit on the sofa (14)](img/andy3-14.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "andy4",
+    "t": "**Read the Label** — Andy 4/5 · [full walkthrough](https://www.powerpyx.com/gta-6-read-the-label-retrieve-the-cellerica-van-walkthrough/)",
+    "d": "**Andy 4/5** · **Start:** north Vice City · Lucia only · **Reward:** $1,800\n\nKnock out the two junkies, take the van and park it in the **yellow spot** at the Belville warehouse.\n\n![Start](img/andy4-1.jpg)\n![Start (2)](img/andy4-2.jpg)\n![Start (3)](img/andy4-3.jpg)\n![Deliver the van to the warehouse (4)](img/andy4-4.jpg)\n![Deliver the van to the warehouse (5)](img/andy4-5.jpg)\n![Deliver the van to the warehouse (6)](img/andy4-6.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "andy5",
+    "t": "**Puff Puff Pass** — Andy 5/5 · [full walkthrough](https://www.powerpyx.com/gta-6-puff-puff-pass-meet-at-the-warehouse-walkthrough/)",
+    "d": "**Andy 5/5** · **Start:** Belville warehouse · Lucia only · **Reward:** $10,000, trophy **Road to Rehabilitation**, fee refunded\n\nFollow Felix: the Manifesticks are laced with crack. Upstairs, Cecilia wants Andy dead for stealing the van. Defend Andy and clear the warehouse. Drive to the mansion: right door in the lobby, upstairs, end of the hallway. The real Cecilia charges you: **shoot her**.\n\n![Start](img/andy5-1.jpg)\n![Start (2)](img/andy5-2.jpg)\n![Start (3)](img/andy5-3.jpg)\n![Start (4)](img/andy5-4.jpg)\n![Follow Felix (5)](img/andy5-5.jpg)\n![Enter the room (6)](img/andy5-6.jpg)\n![Escape the warehouse (7)](img/andy5-7.jpg)\n![Go to Cecilia’s mansion (8)](img/andy5-8.jpg)\n![Go to Cecilia’s mansion (9)](img/andy5-9.jpg)\n![Find Cecilia (10)](img/andy5-10.jpg)\n![Find Cecilia (11)](img/andy5-11.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "labs",
+    "t": "**Kitty Litter Labs (14)** — Tyrone · [full walkthrough](https://www.powerpyx.com/gta-6-all-kitty-litter-lab-locations/)",
+    "d": "**Tyrone · doesn't count** · **Unlocks after:** Here, Kitty Kitty · **Reward:** $2,000–2,500 each; enough labs unlock Spin On This\n\nPurple search areas; look for **pink smoke**. Shoot the propane/gas canisters or throw a **molotov** through the door. Locations from Tyrone or Dook, or just visit them. Not missable.\n- **Story lab:** trailer in the southern center block.\n- **Balsero:** #1 garage on the north edge (3 shooters; paper inside the door); #2 middle building, keypad code **1999** (on a billboard); #3 second-southernmost trailer (Snap Gun).\n- **Central Rockridge:** garage in the center, entered from the west alley.\n- **Crosstown:** #1 second-floor apartment, north side (the cook may set it alight; don't rush in); #2 garage behind Cross My Heart Tattoos; #3 garage on the east side of the central building (question the cook).\n- **Decor District:** garage, north-west building by the highway.\n- **Little Cuba:** long central building (Snap Gun).\n- **Salton:** climb the open window on the east side.\n- **Tequesta:** upper floor of the eastern C-shaped motel (the cook throws a beaker).\n- **Vice-Dale:** trailer in the center; climb the east window; inspect the Rocky Chavez card.\n\n![Story Lab](img/labs-1.jpg)\n![Story Lab (2)](img/labs-2.jpg)\n![Story Lab (3)](img/labs-3.jpg)\n![Story Lab (4)](img/labs-4.jpg)\n![Story Lab (5)](img/labs-5.jpg)\n![Balsero Labs (6)](img/labs-6.jpg)\n![Balsero Labs (7)](img/labs-7.jpg)\n![Balsero Labs (8)](img/labs-8.jpg)\n![Balsero Labs (9)](img/labs-9.jpg)\n![Balsero Labs (10)](img/labs-10.jpg)\n![Balsero Labs (11)](img/labs-11.jpg)\n![Balsero Labs (12)](img/labs-12.jpg)\n![Balsero Labs (13)](img/labs-13.jpg)\n![Balsero Labs (14)](img/labs-14.jpg)\n![Balsero Labs (15)](img/labs-15.jpg)\n![Balsero Labs (16)](img/labs-16.jpg)\n![Balsero Labs (17)](img/labs-17.jpg)\n![Balsero Labs (18)](img/labs-18.jpg)\n![Balsero Labs (19)](img/labs-19.jpg)\n![Balsero Labs (20)](img/labs-20.jpg)\n![Balsero Labs (21)](img/labs-21.jpg)\n![Balsero Labs (22)](img/labs-22.jpg)\n![Balsero Labs (23)](img/labs-23.jpg)\n![Central Rockridge Labs (24)](img/labs-24.jpg)\n![Central Rockridge Labs (25)](img/labs-25.jpg)\n![Central Rockridge Labs (26)](img/labs-26.jpg)\n![Central Rockridge Labs (27)](img/labs-27.jpg)\n![Crosstown Labs (28)](img/labs-28.jpg)\n![Crosstown Labs (29)](img/labs-29.jpg)\n![Crosstown Labs (30)](img/labs-30.jpg)\n![Crosstown Labs (31)](img/labs-31.jpg)\n![Crosstown Labs (32)](img/labs-32.jpg)\n![Crosstown Labs (33)](img/labs-33.jpg)\n![Crosstown Labs (34)](img/labs-34.jpg)\n![Crosstown Labs (35)](img/labs-35.jpg)\n![Crosstown Labs (36)](img/labs-36.jpg)\n![Crosstown Labs (37)](img/labs-37.jpg)\n![Crosstown Labs (38)](img/labs-38.jpg)\n![Crosstown Labs (39)](img/labs-39.jpg)\n![Crosstown Labs (40)](img/labs-40.jpg)\n![Crosstown Labs (41)](img/labs-41.jpg)\n![Decor District Labs (42)](img/labs-42.jpg)\n![Decor District Labs (43)](img/labs-43.jpg)\n![Decor District Labs (44)](img/labs-44.jpg)\n![Decor District Labs (45)](img/labs-45.jpg)\n![Decor District Labs (46)](img/labs-46.jpg)\n![Little Cuba Labs (47)](img/labs-47.jpg)\n![Little Cuba Labs (48)](img/labs-48.jpg)\n![Little Cuba Labs (49)](img/labs-49.jpg)\n![Little Cuba Labs (50)](img/labs-50.jpg)\n![Little Cuba Labs (51)](img/labs-51.jpg)\n![Salton Labs (52)](img/labs-52.jpg)\n![Salton Labs (53)](img/labs-53.jpg)\n![Salton Labs (54)](img/labs-54.jpg)\n![Salton Labs (55)](img/labs-55.jpg)\n![Tequesta Labs (56)](img/labs-56.jpg)\n![Tequesta Labs (57)](img/labs-57.jpg)\n![Tequesta Labs (58)](img/labs-58.jpg)\n![Tequesta Labs (59)](img/labs-59.jpg)\n![Tequesta Labs (60)](img/labs-60.jpg)\n![Vice-Dale Labs (61)](img/labs-61.jpg)\n![Vice-Dale Labs (62)](img/labs-62.jpg)\n![Vice-Dale Labs (63)](img/labs-63.jpg)\n![Vice-Dale Labs (64)](img/labs-64.jpg)\n![Vice-Dale Labs (65)](img/labs-65.jpg)\n![Vice-Dale Labs (66)](img/labs-66.jpg)\n![Vice-Dale Labs (67)](img/labs-67.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "spin",
+    "t": "**Spin On This** — Tyrone · [full walkthrough](https://www.powerpyx.com/gta-6-spin-on-this-shut-down-the-labs-walkthrough/)",
+    "d": "**Tyrone** · **Start:** diner outside Grayson · **Character:** Jason · **Reward:** $10,000, trophy **Spin On This!**\n\nGear up (armor, longarm) **before** approaching. At the motel, take the green door down the left stairs (knock out the guard), inspect the trapdoor, then get the **key from the clerk**. Clear the lab, plant charges on the **two vats** upstairs, clear the second wave, drop into the pipe Tyrone opens and chase **Rocky**; outside, shoot him.\n\n![Start](img/spin-1.jpg)\n![Start (2)](img/spin-2.jpg)\n![Start (3)](img/spin-3.jpg)\n![Go to the motel (4)](img/spin-4.jpg)\n![Go to the motel (5)](img/spin-5.jpg)\n![Go to the motel (6)](img/spin-6.jpg)\n![Find the synthetics lab in the motel (7)](img/spin-7.jpg)\n![Find the synthetics lab in the motel (8)](img/spin-8.jpg)\n![Break into the lab (9)](img/spin-9.jpg)\n![Clear out the lab (10)](img/spin-10.jpg)\n![Plant the explosives on the vats (11)](img/spin-11.jpg)\n![Plant the explosives on the vats (12)](img/spin-12.jpg)\n![Chase Rocky (13)](img/spin-13.jpg)\n![Chase Rocky (14)](img/spin-14.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "pete1",
+    "t": "**The Last Mile: Passing the Torch** — Pilot Pete 1 · [full walkthrough](https://www.powerpyx.com/gta-6-the-last-mile-passing-the-torch-recover-petes-plane-walkthrough/)",
+    "d": "**Pilot Pete · counts** · **Start:** Sundown Private Airfield (call after Pool Day) · Jason only · **Reward:** $12,000 + **Pete's KZ-59** assault rifle\n\nRed door to the back room: take **Pete's KZ-59** from the table, safe code **3718**. Fly the plane over the 3 marked drops, then land at the airstrip south of Port Gellhorn.\n\n![Start](img/pete1-1.jpg)\n![Start (2)](img/pete1-2.jpg)\n![Start (3)](img/pete1-3.jpg)\n![Search the hangar for Pete’s stash (4)](img/pete1-4.jpg)\n![Search the hangar for Pete’s stash (5)](img/pete1-5.jpg)\n![Search the hangar for Pete’s stash (6)](img/pete1-6.jpg)\n![Search the hangar for Pete’s stash (7)](img/pete1-7.jpg)\n![Deliver the cocaine to the buyers (8)](img/pete1-8.jpg)\n![Deliver the cocaine to the buyers (9)](img/pete1-9.jpg)\n![Deliver the cocaine to the buyers (10)](img/pete1-10.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "pete2",
+    "t": "**The Last Mile: Backseat Pilot** — Pilot Pete 2 · [full walkthrough](https://www.powerpyx.com/gta-6-the-last-mile-backseat-pilot-deliver-packages-walkthrough/)",
+    "d": "**Pilot Pete** · **Start:** Wild Hog/Gellhorn airfield · Jason only · **Reward:** $20,000 within the time limit\n\n**2 in-game hours** for **7 drops**. Avoid the **big red circles** (wanted level). Land the sea plane near the supplier, drop all 7, return to the hangar.\n\n![Start](img/pete2-1.jpg)\n![Start (2)](img/pete2-2.jpg)\n![Start (3)](img/pete2-3.jpg)\n![Land near the supplier (4)](img/pete2-4.jpg)\n![Deliver packages to the buyers (5)](img/pete2-5.jpg)\n![Deliver packages to the buyers (6)](img/pete2-6.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "pete3",
+    "t": "**Pete's Deliveries (3)** — Pilot Pete 3–5 · [full walkthrough](https://www.powerpyx.com/gta-6-petes-deliveries-southpoint-airfield-avery-allen-co-walkthrough/)",
+    "d": "**Pilot Pete** · Jason only · **Reward:** $20,000 each; completes the strand\n- **Southpoint Airfield** (Mariana): gunfight at the supplier; grab the bag and go. 7 drops by **20:00**.\n- **Avery Allen & Co.** (Kelly): sea plane; 7 drops before **14:00**; avoid red circles.\n- **Deliver Packages** (Leonard, days later): 7 drops before **08:00**.\n\n![Start](img/pete3-1.jpg)\n![Southpoint Airfield (2)](img/pete3-2.jpg)\n![Southpoint Airfield (3)](img/pete3-3.jpg)\n![Southpoint Airfield (4)](img/pete3-4.jpg)\n![Southpoint Airfield (5)](img/pete3-5.jpg)\n![Southpoint Airfield (6)](img/pete3-6.jpg)\n![Southpoint Airfield (7)](img/pete3-7.jpg)\n![Southpoint Airfield (8)](img/pete3-8.jpg)\n![Avery Allen & Co. (9)](img/pete3-9.jpg)\n![Avery Allen & Co. (10)](img/pete3-10.jpg)\n![Avery Allen & Co. (11)](img/pete3-11.jpg)\n![Avery Allen & Co. (12)](img/pete3-12.jpg)\n![Deliver Packages (13)](img/pete3-13.jpg)\n![Deliver Packages (14)](img/pete3-14.jpg)\n![Deliver Packages (15)](img/pete3-15.jpg)\n![Deliver Packages (16)](img/pete3-16.jpg)\n![Deliver Packages (17)](img/pete3-17.jpg)\n![Deliver Packages (18)](img/pete3-18.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   }
+  ],
+  "title": "Strangers & Freaks: the 14 strands",
+  "sum": "Who gives them, when they open and whether they count toward the 8-strand trophy.",
+  "body": "- The **Strangers & Freaks** trophy (silver) needs 8 complete strands.\n- A strand's next part can take in-game days, or only arrive in a later chapter: the character calls when it's ready.\n- All non-missable ones stay available after the story.\n- Kenton has his own trophy, but PowerPyx doesn't list him among Strangers & Freaks.\n- **Where to tick:** Shirley in [[missoes-cap1]]; Kyle 1–2, Bret 1 and Billy 1–2 in [[missoes-cap2]]; Kyle 3, Billy 3 and Yago in [[missoes-cap3]]; Eddie in [[missoes-cap4]]. The walkthrough for those parts is there. Below, the checklist and walkthrough for the rest.",
+  "div": "PowerPyx confirms Kirk, Kyle, Yago and Pilot Pete as counting strands, and says Shirley, Billy, Andy, Yasmani, Tyrone and Eddie Acosta don't. Moses, Bret, Randy and Dunk aren't classified in the text; since 8 are needed, it should be those four. {{inferencia}}",
+  "table": {
+   "cols": [
+    "Who",
+    "Ch.",
+    "Character",
+    "Parts",
+    "Counts?",
+    "Note"
+   ],
+   "rows": [
+    [
+     "Shirley",
+     "1",
+     "—",
+     "Get Shirley's Rum, Steal the Scooter",
+     "No",
+     "**Missable**"
+    ],
+    [
+     "Kirk",
+     "1",
+     "Lucia for the last",
+     "Skunk Ape, Tree Effigies, Mr. Mangrove",
+     "Yes",
+     "Skunk Ape and Mr. Mangrove night only"
+    ],
+    [
+     "Kyle",
+     "2",
+     "—",
+     "McKittrick Farm, Collect Chemicals, Buddy?",
+     "Yes",
+     "Ends in Ch. 3"
+    ],
+    [
+     "Moses",
+     "2",
+     "—",
+     "Car thefts",
+     "Likely",
+     "—"
+    ],
+    [
+     "Bret Vogel",
+     "2",
+     "Jason for the 1st",
+     "Veteran Hunted, Hunting Decks",
+     "Likely",
+     "Trophy “Fair Game”"
+    ],
+    [
+     "Billy",
+     "2",
+     "Solo for the 3rd",
+     "Thrillbillies, Twist Wrist, Join Billy on a Job (Mall Rats), The Impaler, Hometown Heroes",
+     "No",
+     "Trophy “The Lone Rider”"
+    ],
+    [
+     "Yago",
+     "3",
+     "Jason for 2",
+     "Street Race, Bumper to Bumper, Race Against Yago, Brother to Brother",
+     "Yes",
+     "Race Against Yago has an hourglass and is missable"
+    ],
+    [
+     "Andy",
+     "3",
+     "Lucia",
+     "Cellerichain, Cellerica Fee, Peach!, Read the Label, Puff Puff Pass",
+     "No",
+     "Trophy “Road to Rehabilitation”"
+    ],
+    [
+     "Yasmani",
+     "3",
+     "—",
+     "Jewelry, ATMs, Payday Loans, tail the security van",
+     "No",
+     "Money; see [[dinheiro-receptadores]]"
+    ],
+    [
+     "Randy",
+     "3",
+     "—",
+     "Wish List",
+     "Likely",
+     "Trophy “Supply & Demand”. See [[veiculos-randy]]"
+    ],
+    [
+     "Tyrone",
+     "3",
+     "—",
+     "Kitty Litter Labs, Spin On This",
+     "No",
+     "Trophy “Spin On This!”"
+    ],
+    [
+     "Dunk",
+     "3",
+     "—",
+     "Robbery tips",
+     "Likely",
+     "—"
+    ],
+    [
+     "Eddie Acosta",
+     "4",
+     "Solo",
+     "The party",
+     "No",
+     "—"
+    ],
+    [
+     "Pilot Pete",
+     "4",
+     "Jason",
+     "The Last Mile (2), Pete's Deliveries (3)",
+     "Yes",
+     "—"
+    ]
+   ],
+   "sort": false
+  },
+  "kw": [
+   "strangers and freaks",
+   "side quests",
+   "strangers",
+   "trophy"
+  ]
+ }
+}

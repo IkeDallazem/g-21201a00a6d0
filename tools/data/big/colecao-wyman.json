@@ -1,0 +1,96 @@
+{
+ "kind": "card",
+ "id": "colecao-wyman",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Wyman's Cars (só na Ultimate)",
+ "sum": "Escaneie carcaças de clássicos e o Wyman restaura por US$ 1.500 cada.",
+ "body": "- Só para quem tem a **Ultimate Edition**. Você conhece o Wyman no motel no Cap. 2; depois de **Thrillbillies** ele manda mensagem e marca a garagem do Paradise RV Park.\n- Escaneie cada carcaça com o WAiNK ({↑} a pé, depois {R1}). Com todas de um carro, o Wyman pede **US$ 1.500 pelo BuckMe**; depois de um tempo, busque no ferro-velho dele (ícone W).\n- Registre ou guarde numa garagem sua; se largar na rua, pode perder.",
+ "check": [
+  {
+   "id": "wy-transgressor",
+   "t": "**'67 Transgressor (3 scans, Port Gellhorn)**",
+   "d": "1. Trailer park atrás da McCarthy's Fresh Fruit & Veg (US-9), numa laje sob as árvores.\n2. Gellhorn Avenue, depois das quadras de tênis: casa azul com girassol no jardim; galpão aberto.\n3. Sul de Port Gellhorn: estrada de terra ao lado da Dirt Merchants até o trailer park; atrás do prédio com um RV na frente.\n\n!['67 Transgressor (3 scans, Port Gellhorn)](img/ign-wy-transgressor-1.jpg)\n\n!['67 Transgressor (3 scans, Port Gellhorn) (2)](img/ign-wy-transgressor-2.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (2) (2)](img/ign-wy-transgressor-3.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (2) (3)](img/ign-wy-transgressor-4.jpg)\n\n!['67 Transgressor (3 scans, Port Gellhorn) (3)](img/ign-wy-transgressor-5.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (3) (2)](img/ign-wy-transgressor-6.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (3) (3)](img/ign-wy-transgressor-7.jpg)\n\n!['67 Transgressor (3 scans, Port Gellhorn) (4)](img/ign-wy-transgressor-8.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (4) (2)](img/ign-wy-transgressor-9.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (4) (3)](img/ign-wy-transgressor-10.jpg)\n\n!['67 Transgressor (3 scans, Port Gellhorn) (5)](img/ign-wy-transgressor-11.jpg)"
+  },
+  {
+   "id": "wy-riata",
+   "t": "**'70 Riata (3 scans, sul do mapa)**",
+   "d": "1. Key Lento: casa em frente ao pátio da delegacia, ao lado de um jet ski na carreta.\n2. Southwind: no posto Xero, vire à direita até o fim da rua na água; carport embaixo da casa.\n3. Shoeless Keys: posto abandonado na Old Fort Road, sob a cobertura.\n\n!['70 Riata (3 scans, sul do mapa)](img/ign-wy-riata-1.jpg)\n\n!['70 Riata (3 scans, sul do mapa) (2)](img/ign-wy-riata-2.jpg)\n!['70 Riata (3 scans, sul do mapa) (2) (2)](img/ign-wy-riata-3.jpg)\n!['70 Riata (3 scans, sul do mapa) (2) (3)](img/ign-wy-riata-4.jpg)\n\n!['70 Riata (3 scans, sul do mapa) (3)](img/ign-wy-riata-5.jpg)\n!['70 Riata (3 scans, sul do mapa) (3) (2)](img/ign-wy-riata-6.jpg)\n!['70 Riata (3 scans, sul do mapa) (3) (3)](img/ign-wy-riata-7.jpg)\n\n!['70 Riata (3 scans, sul do mapa) (4)](img/ign-wy-riata-8.jpg)\n!['70 Riata (3 scans, sul do mapa) (4) (2)](img/ign-wy-riata-9.jpg)\n!['70 Riata (3 scans, sul do mapa) (4) (3)](img/ign-wy-riata-10.jpg)\n\n!['70 Riata (3 scans, sul do mapa) (5)](img/ign-wy-riata-11.jpg)"
+  },
+  {
+   "id": "wy-mamba",
+   "t": "**'64 Mamba GT (4 scans, Kelly e Moreau)**",
+   "d": "1. Ao norte da Leonida State Prison, vire à esquerda no Gruppe Sechs; garagem separada da casa no morro.\n2. Ambrosia: posto Xero sob o outdoor colorido da Tiny Frank; beco atrás das lojas, porta de garagem ao lado de um trailer verde.\n3. Thrillbilly Mud Club: lagoa à esquerda da pista de terra.\n4. Norte de Moreau: escombros da ponte quebrada, na água do pântano.\n\n!['64 Mamba GT (4 scans, Kelly e Moreau)](img/ign-wy-mamba-1.jpg)\n!['64 Mamba GT (4 scans, Kelly e Moreau) (2)](img/ign-wy-mamba-2.jpg)\n\n!['64 Mamba GT (4 scans, Kelly e Moreau) (2)](img/ign-wy-mamba-3.jpg)\n!['64 Mamba GT (4 scans, Kelly e Moreau) (2) (2)](img/ign-wy-mamba-4.jpg)\n!['64 Mamba GT (4 scans, Kelly e Moreau) (2) (3)](img/ign-wy-mamba-5.jpg)\n\n!['64 Mamba GT (4 scans, Kelly e Moreau) (3)](img/ign-wy-mamba-6.jpg)\n!['64 Mamba GT (4 scans, Kelly e Moreau) (3) (2)](img/ign-wy-mamba-7.jpg)\n!['64 Mamba GT (4 scans, Kelly e Moreau) (3) (3)](img/ign-wy-mamba-8.jpg)\n\n!['64 Mamba GT (4 scans, Kelly e Moreau) (4)](img/ign-wy-mamba-9.jpg)\n!['64 Mamba GT (4 scans, Kelly e Moreau) (4) (2)](img/ign-wy-mamba-10.jpg)\n!['64 Mamba GT (4 scans, Kelly e Moreau) (4) (3)](img/ign-wy-mamba-11.jpg)\n\n!['64 Mamba GT (4 scans, Kelly e Moreau) (5)](img/ign-wy-mamba-12.jpg)\n!['64 Mamba GT (4 scans, Kelly e Moreau) (5) (2)](img/ign-wy-mamba-13.jpg)\n\n!['64 Mamba GT (4 scans, Kelly e Moreau) (6)](img/ign-wy-mamba-14.jpg)"
+  },
+  {
+   "id": "wy-kitcar",
+   "t": "**Reynolds Kit Car (5 scans, Leonida toda)**",
+   "d": "1. Salton: Willie's Service Center (laranja e azul), oeste do estacionamento verde; quebre a porta lateral.\n2. Casanova Island (Rialto Islands): prédio ao lado do terreno vazio; empurre o portão da garagem.\n3. Wild Hog Point: praia depois da pista de pouso; contêiner laranja sozinho (esmerilhadeira).\n4. Watson Bay: atrás da Donnie's Auto Repair, na Seabell Avenue.\n5. Capri: mansão com dois cones caídos e duas lixeiras; garagem com acabamento de madeira.\n\n![Reynolds Kit Car (5 scans, Leonida toda)](img/ign-wy-kitcar-1.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (2)](img/ign-wy-kitcar-2.jpg)\n\n![Reynolds Kit Car (5 scans, Leonida toda) (2)](img/ign-wy-kitcar-3.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (2) (2)](img/ign-wy-kitcar-4.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (2) (3)](img/ign-wy-kitcar-5.jpg)\n\n![Reynolds Kit Car (5 scans, Leonida toda) (3)](img/ign-wy-kitcar-6.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (3) (2)](img/ign-wy-kitcar-7.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (3) (3)](img/ign-wy-kitcar-8.jpg)\n\n![Reynolds Kit Car (5 scans, Leonida toda) (4)](img/ign-wy-kitcar-9.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (4) (2)](img/ign-wy-kitcar-10.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (4) (3)](img/ign-wy-kitcar-11.jpg)\n\n![Reynolds Kit Car (5 scans, Leonida toda) (5)](img/ign-wy-kitcar-12.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (5) (2)](img/ign-wy-kitcar-13.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (5) (3)](img/ign-wy-kitcar-14.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (5) (4)](img/ign-wy-kitcar-15.jpg)\n\n![Reynolds Kit Car (5 scans, Leonida toda) (6)](img/ign-wy-kitcar-16.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (6) (2)](img/ign-wy-kitcar-17.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (6) (3)](img/ign-wy-kitcar-18.jpg)\n![Reynolds Kit Car (5 scans, Leonida toda) (6) (4)](img/ign-wy-kitcar-19.jpg)\n\n![Reynolds Kit Car (5 scans, Leonida toda) (7)](img/ign-wy-kitcar-20.jpg)"
+  },
+  {
+   "id": "wy-deviant",
+   "t": "**Born Free Deviant (presente do Wyman)**",
+   "d": "Depois dos 4 carros e de algum tempo, o Wyman liga. Pague US$ 1.500 e interaja com a porta do celeiro.\n\n![Born Free Deviant (presente do Wyman)](img/ign-wy-deviant-1.jpg)\n![Born Free Deviant (presente do Wyman) (2)](img/ign-wy-deviant-2.jpg)\n![Born Free Deviant (presente do Wyman) (3)](img/ign-wy-deviant-3.jpg)\n![Born Free Deviant (presente do Wyman) (4)](img/ign-wy-deviant-4.jpg)"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "wyman",
+  "ultimate",
+  "carros classicos",
+  "transgressor",
+  "riata",
+  "mamba",
+  "kit car",
+  "deviant"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Wyman's Cars (Ultimate only)",
+  "sum": "Scan wrecked classics and Wyman restores each for $1,500.",
+  "body": "- **Ultimate Edition** only. You meet Wyman at the motel in Ch. 2; after **Thrillbillies** he texts you and marks the Paradise RV Park garage.\n- Scan each wreck with WAiNK ({↑} on foot, then {R1}). Once a car's wrecks are done, Wyman asks for **$1,500 via BuckMe**; after a while, collect it at his scrapyard (W icon).\n- Register it or store it in your garage; left on the street, it can be lost.",
+  "kw": [
+   "wyman",
+   "ultimate",
+   "classic cars",
+   "transgressor",
+   "riata",
+   "mamba",
+   "kit car",
+   "deviant"
+  ],
+  "check": [
+   {
+    "id": "wy-transgressor",
+    "t": "**'67 Transgressor (3 scans, Port Gellhorn)**",
+    "d": "1. Trailer park behind McCarthy's Fresh Fruit & Veg (US-9), on a slab under the trees.\n2. Gellhorn Avenue past the tennis courts: blue house with a sunflower yard ornament; open shed.\n3. South Port Gellhorn: dirt road beside Dirt Merchants to the trailer park; behind the building with an RV out front.\n\n!['67 Transgressor (3 scans, Port Gellhorn)](img/ign-wy-transgressor-1.jpg)\n\n!['67 Transgressor (3 scans, Port Gellhorn) (2)](img/ign-wy-transgressor-2.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (2) (2)](img/ign-wy-transgressor-3.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (2) (3)](img/ign-wy-transgressor-4.jpg)\n\n!['67 Transgressor (3 scans, Port Gellhorn) (3)](img/ign-wy-transgressor-5.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (3) (2)](img/ign-wy-transgressor-6.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (3) (3)](img/ign-wy-transgressor-7.jpg)\n\n!['67 Transgressor (3 scans, Port Gellhorn) (4)](img/ign-wy-transgressor-8.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (4) (2)](img/ign-wy-transgressor-9.jpg)\n!['67 Transgressor (3 scans, Port Gellhorn) (4) (3)](img/ign-wy-transgressor-10.jpg)\n\n!['67 Transgressor (3 scans, Port Gellhorn) (5)](img/ign-wy-transgressor-11.jpg)"
+   },
+   {
+    "id": "wy-riata",
+    "t": "**'70 Riata (3 scans, south)**",
+    "d": "1. Key Lento: house across from the police impound, next to a jet ski on a trailer.\n2. Southwind: turn right at the Xero station to the road's end at the water; carport under the house.\n3. Shoeless Keys: abandoned gas station on Old Fort Road, under the canopy.\n\n!['70 Riata (3 scans, south)](img/ign-wy-riata-1.jpg)\n\n!['70 Riata (3 scans, south) (2)](img/ign-wy-riata-2.jpg)\n!['70 Riata (3 scans, south) (2) (2)](img/ign-wy-riata-3.jpg)\n!['70 Riata (3 scans, south) (2) (3)](img/ign-wy-riata-4.jpg)\n\n!['70 Riata (3 scans, south) (3)](img/ign-wy-riata-5.jpg)\n!['70 Riata (3 scans, south) (3) (2)](img/ign-wy-riata-6.jpg)\n!['70 Riata (3 scans, south) (3) (3)](img/ign-wy-riata-7.jpg)\n\n!['70 Riata (3 scans, south) (4)](img/ign-wy-riata-8.jpg)\n!['70 Riata (3 scans, south) (4) (2)](img/ign-wy-riata-9.jpg)\n!['70 Riata (3 scans, south) (4) (3)](img/ign-wy-riata-10.jpg)\n\n!['70 Riata (3 scans, south) (5)](img/ign-wy-riata-11.jpg)"
+   },
+   {
+    "id": "wy-mamba",
+    "t": "**'64 Mamba GT (4 scans, Kelly and Moreau)**",
+    "d": "1. North of Leonida State Prison, turn left at Gruppe Sechs; detached garage at the hilltop house.\n2. Ambrosia: Xero station under the rainbow Tiny Frank billboard; alley behind the shops, garage door by a green trailer.\n3. Thrillbilly Mud Club: pond left of the dirt track.\n4. North Moreau: broken bridge wreckage in the swamp water.\n\n!['64 Mamba GT (4 scans, Kelly and Moreau)](img/ign-wy-mamba-1.jpg)\n!['64 Mamba GT (4 scans, Kelly and Moreau) (2)](img/ign-wy-mamba-2.jpg)\n\n!['64 Mamba GT (4 scans, Kelly and Moreau) (2)](img/ign-wy-mamba-3.jpg)\n!['64 Mamba GT (4 scans, Kelly and Moreau) (2) (2)](img/ign-wy-mamba-4.jpg)\n!['64 Mamba GT (4 scans, Kelly and Moreau) (2) (3)](img/ign-wy-mamba-5.jpg)\n\n!['64 Mamba GT (4 scans, Kelly and Moreau) (3)](img/ign-wy-mamba-6.jpg)\n!['64 Mamba GT (4 scans, Kelly and Moreau) (3) (2)](img/ign-wy-mamba-7.jpg)\n!['64 Mamba GT (4 scans, Kelly and Moreau) (3) (3)](img/ign-wy-mamba-8.jpg)\n\n!['64 Mamba GT (4 scans, Kelly and Moreau) (4)](img/ign-wy-mamba-9.jpg)\n!['64 Mamba GT (4 scans, Kelly and Moreau) (4) (2)](img/ign-wy-mamba-10.jpg)\n!['64 Mamba GT (4 scans, Kelly and Moreau) (4) (3)](img/ign-wy-mamba-11.jpg)\n\n!['64 Mamba GT (4 scans, Kelly and Moreau) (5)](img/ign-wy-mamba-12.jpg)\n!['64 Mamba GT (4 scans, Kelly and Moreau) (5) (2)](img/ign-wy-mamba-13.jpg)\n\n!['64 Mamba GT (4 scans, Kelly and Moreau) (6)](img/ign-wy-mamba-14.jpg)"
+   },
+   {
+    "id": "wy-kitcar",
+    "t": "**Reynolds Kit Car (5 scans, all of Leonida)**",
+    "d": "1. Salton: Willie's Service Center (orange and blue), west of the green parking garage; smash the side door.\n2. Casanova Island (Rialto Islands): building next to the vacant lot; push the driveway gates.\n3. Wild Hog Point: beach past the airstrip; the lone orange container (angle grinder).\n4. Watson Bay: behind Donnie's Auto Repair on Seabell Avenue.\n5. Capri: mansion with two knocked-over cones and two bins; wood-trimmed garage.\n\n![Reynolds Kit Car (5 scans, all of Leonida)](img/ign-wy-kitcar-1.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (2)](img/ign-wy-kitcar-2.jpg)\n\n![Reynolds Kit Car (5 scans, all of Leonida) (2)](img/ign-wy-kitcar-3.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (2) (2)](img/ign-wy-kitcar-4.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (2) (3)](img/ign-wy-kitcar-5.jpg)\n\n![Reynolds Kit Car (5 scans, all of Leonida) (3)](img/ign-wy-kitcar-6.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (3) (2)](img/ign-wy-kitcar-7.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (3) (3)](img/ign-wy-kitcar-8.jpg)\n\n![Reynolds Kit Car (5 scans, all of Leonida) (4)](img/ign-wy-kitcar-9.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (4) (2)](img/ign-wy-kitcar-10.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (4) (3)](img/ign-wy-kitcar-11.jpg)\n\n![Reynolds Kit Car (5 scans, all of Leonida) (5)](img/ign-wy-kitcar-12.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (5) (2)](img/ign-wy-kitcar-13.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (5) (3)](img/ign-wy-kitcar-14.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (5) (4)](img/ign-wy-kitcar-15.jpg)\n\n![Reynolds Kit Car (5 scans, all of Leonida) (6)](img/ign-wy-kitcar-16.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (6) (2)](img/ign-wy-kitcar-17.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (6) (3)](img/ign-wy-kitcar-18.jpg)\n![Reynolds Kit Car (5 scans, all of Leonida) (6) (4)](img/ign-wy-kitcar-19.jpg)\n\n![Reynolds Kit Car (5 scans, all of Leonida) (7)](img/ign-wy-kitcar-20.jpg)"
+   },
+   {
+    "id": "wy-deviant",
+    "t": "**Born Free Deviant (Wyman's gift)**",
+    "d": "After the 4 cars and some time, Wyman calls. Pay $1,500 and interact with the barn door.\n\n![Born Free Deviant (Wyman's gift)](img/ign-wy-deviant-1.jpg)\n![Born Free Deviant (Wyman's gift) (2)](img/ign-wy-deviant-2.jpg)\n![Born Free Deviant (Wyman's gift) (3)](img/ign-wy-deviant-3.jpg)\n![Born Free Deviant (Wyman's gift) (4)](img/ign-wy-deviant-4.jpg)"
+   }
+  ]
+ }
+}

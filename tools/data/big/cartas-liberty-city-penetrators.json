@@ -1,0 +1,274 @@
+{
+ "kind": "card",
+ "id": "cartas-liberty-city-penetrators",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Liberty City Penetrators",
+ "sum": "24 cartas de basquete, com o local de cada uma.",
+ "body": "- Basquete, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-liberty-city-penetrators-alexander-avain-bright-orange",
+   "t": "**Alexander Avain - Bright Orange**",
+   "d": "Embaixo de um sofá na sacada do 2º andar em frente ao apartamento 16 do prédio azul e branco na Harborside Ave x Huevo St, Ocean Beach"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-alexander-avain-navy-blue",
+   "t": "**Alexander Avain - Navy Blue**",
+   "d": "Na copa nos fundos do posto LTD da Cicada Ave, Hamlet"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-alexander-avain-silver",
+   "t": "**Alexander Avain - Silver**",
+   "d": "No chão de um armarinho entre o banheiro e o quarto do apartamento 204, último andar do prédio laranja e branco na Mirimar Dr, norte de Crosstown"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-asher-rodriguez-standard",
+   "t": "**Asher Rodriguez - Standard**",
+   "d": "Na mureta do último piso do estacionamento, junto a um quiosque, sob o Vice Seven Condominiums, SW 4th St, Tequesta"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-d-angelou-miles-standard",
+   "t": "**D'Angelou Miles - Standard**",
+   "d": "Num sofá em L na sacada do último andar, nos fundos da casa bege à beira-mar na Catalan Blvd, Waning Sands"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-demario-richardson-bronze",
+   "t": "**Demario Richardson - Bronze**",
+   "d": "Numa prateleira do meio na parede lateral do depósito mais a leste perto da SW 7th Ave, sul de Salton"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-demario-richardson-gold",
+   "t": "**Demario Richardson - Gold**",
+   "d": "Na prateleira do meio de um armário no depósito dos fundos da Buck's Pawn Shop, Orchard Ave, sul de Port Gellhorn"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-demario-richardson-silver",
+   "t": "**Demario Richardson - Silver**",
+   "d": "Embaixo de uma cadeira dobrável junto à porta do telhado do prédio comercial grande na Thompson Ave, Ocean Beach"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-dimitri-petrov-standard",
+   "t": "**Dimitri Petrov - Standard**",
+   "d": "No degrau mais baixo da arquibancada mais ao sul, ao lado das duas quadras de basquete do parque do norte de Belville"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-lamont-berry-standard",
+   "t": "**Lamont Berry - Standard**",
+   "d": "Na lateral da geladeira da casa azul e branca na Northbrook Dr, Little Cuba"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-lev-volkov-bronze",
+   "t": "**Lev Volkov - Bronze**",
+   "d": "Na segunda prateleira de baixo, ao lado da TV, no 4º apartamento do 3º andar do Imperial Plaza (olhando para sudeste), NW 9th Ave, La Perle"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-lev-volkov-gold",
+   "t": "**Lev Volkov - Gold**",
+   "d": "Embaixo de uma cadeira dobrável na quadra de basquete do jardim de uma mansão no sudeste da Delamore Dr, em frente ao Leaf Links"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-lev-volkov-silver",
+   "t": "**Lev Volkov - Silver**",
+   "d": "No canto do balcão da garagem com academia de uma villa grande na península a noroeste de Capri"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-noah-marcus-bronze",
+   "t": "**Noah Marcus - Bronze**",
+   "d": "Numa pasta em cima da mesa de sinuca na garagem de uma mansão amarela na costa leste de Vespucci Island"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-noah-marcus-gold",
+   "t": "**Noah Marcus - Gold**",
+   "d": "Embaixo de uma cadeira azul no alto de uma torre solitária perto da costa oeste da ilha mais ao sul das Riquezas Keys"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-noah-marcus-silver",
+   "t": "**Noah Marcus - Silver**",
+   "d": "No canto de uma mesa sob um gazebo no pátio de um quarto junto à rotatória do prédio Lotus Two, Bayside Dr, norte de Tequesta Retreat"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-remy-herbert-bright-orange",
+   "t": "**Remy Herbert - Bright Orange**",
+   "d": "No chão ao lado de uma mochila branca numa quadrinha atrás do Crastenburg Key Lento Resort, sul de Key Lento"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-remy-herbert-navy-blue",
+   "t": "**Remy Herbert - Navy Blue**",
+   "d": "No balcão da garagem com academia de uma villa bege na Clovis Way, noroeste de Capri"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-remy-herbert-silver",
+   "t": "**Remy Herbert - Silver**",
+   "d": "Numa mesa em frente a um setup de videogame no 2º apartamento da esquerda, 2º andar do El Lado Soleado Condominiums, NW 3rd Ave, Little Cuba"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-rion-yapa-bright-orange",
+   "t": "**Rion Yapa - Bright Orange**",
+   "d": "Na mureta de pedra sobre a água, junto a uma escada e um gazebo, na ponta sul da ilha leste de Waning Sands"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-rion-yapa-navy-blue",
+   "t": "**Rion Yapa - Navy Blue**",
+   "d": "Embaixo de uma cadeira azul na entrada dos fundos da Hawthorne Wing do St. Vitus Medical Center, Penmarch Isle"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-rion-yapa-silver",
+   "t": "**Rion Yapa - Silver**",
+   "d": "Ao lado de uma revista na prateleira do meio, atrás da porta do box nº 10 do Lock 'N' Store Self Storage, sob a ponte da I-97, oeste de Crosstown"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-taylor-blanc-standard",
+   "t": "**Taylor Blanc - Standard**",
+   "d": "Numa mesa em frente a um computador de tela roxa no escritório do posto Xero da SW 3rd Ave, Southside"
+  },
+  {
+   "id": "cc-liberty-city-penetrators-wenyen-deng-standard",
+   "t": "**Wenyen Deng - Standard**",
+   "d": "Numa caixa elétrica no canto da plataforma sobre a água entre o Yellow Jack Sports Bar e um galpão atrás do caixa eletrônico, Longship Dr, sudoeste de Watson Bay"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Liberty City Penetrators"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Liberty City Penetrators",
+  "sum": "24 basketball cards, with every location.",
+  "body": "- Basketball, 24 cards. Locations from IGN's list; tick each one as you grab it.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Liberty City Penetrators"
+  ],
+  "check": [
+   {
+    "id": "cc-liberty-city-penetrators-alexander-avain-bright-orange",
+    "t": "**Alexander Avain - Bright Orange**",
+    "d": "Underneath an outdoor couch on the second floor balcony in front of apartment 16 in the blue and white apartment complex on the corner of Harborside Ave and Huevo St in Ocean Beach"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-alexander-avain-navy-blue",
+    "t": "**Alexander Avain - Navy Blue**",
+    "d": "Inside the employee break room in the back of the LTD gas station on Cicada Ave in Hamlet"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-alexander-avain-silver",
+    "t": "**Alexander Avain - Silver**",
+    "d": "On the ground in a small closet between the bathroom and the bedroom in apartment 204 on the top floor of the orange and white apartment complex on Mirimar Dr in northern Crosstown"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-asher-rodriguez-standard",
+    "t": "**Asher Rodriguez - Standard**",
+    "d": "On the ledge surrounding the top level of the parking garage next to a parking kiosk under the Vice Seven Condominiums building on SW 4th St in Tequesta"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-d-angelou-miles-standard",
+    "t": "**D'Angelou Miles - Standard**",
+    "d": "On top of an outdoor, L-shaped couch on the top floor balcony in the back of the tan, waterfront house on Catalan Blvd in Waning Sands"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-demario-richardson-bronze",
+    "t": "**Demario Richardson - Bronze**",
+    "d": "On top of a middle shelf on the side wall of the farthest east storage container off of SW 7th Ave in southern Salton"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-demario-richardson-gold",
+    "t": "**Demario Richardson - Gold**",
+    "d": "On the middle shelf of a storage cabinet in the back storage room of Buck's Pawn Shop on Orchard Ave in southern Port Gellhorn"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-demario-richardson-silver",
+    "t": "**Demario Richardson - Silver**",
+    "d": "Under a folding chair next to the roof access door on top of the large commercial building on Thompson Ave in Ocean Beach"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-dimitri-petrov-standard",
+    "t": "**Dimitri Petrov - Standard**",
+    "d": "On top of the lowest seat of the southernmost bleachers next to the two basketball courts in the park in northern Belville"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-lamont-berry-standard",
+    "t": "**Lamont Berry - Standard**",
+    "d": "On the side of a fridge in the kitchen of the blue and white house on Northbrook Dr in Little Cuba"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-lev-volkov-bronze",
+    "t": "**Lev Volkov - Bronze**",
+    "d": "On the second lowest shelf next to the TV inside of the fourth apartment on the third floor of the Imperial Plaza when facing southeast on NW 9th Ave in La Perle"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-lev-volkov-gold",
+    "t": "**Lev Volkov - Gold**",
+    "d": "Underneath a folding chair in a basketball court in the front lawn of a mansion on the southeastern section of Delamore Dr across from the Leaf Links"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-lev-volkov-silver",
+    "t": "**Lev Volkov - Silver**",
+    "d": "On the corner of the counter inside the detached garage containing a home gym in front of a large villa on the peninsula northwest of Capri"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-noah-marcus-bronze",
+    "t": "**Noah Marcus - Bronze**",
+    "d": "In a folder on top of a pool table inside the garage of a yellow mansion on the east coast of Vespucci Island"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-noah-marcus-gold",
+    "t": "**Noah Marcus - Gold**",
+    "d": "Underneath a blue chair on top of a lonesome tower near the western coast of the southernmost island of the Riquezas Keys"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-noah-marcus-silver",
+    "t": "**Noah Marcus - Silver**",
+    "d": "On the corner of an outdoor table under a gazebo on the patio of a room next to the roundabout heading into the Lotus Two building on Bayside Dr in the northern corner of Tequesta Retreat"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-remy-herbert-bright-orange",
+    "t": "**Remy Herbert - Bright Orange**",
+    "d": "On the ground next to a white backpack in a small basketball court behind the Crastenburg Key Lento Resort on the coast in southern Key Lento"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-remy-herbert-navy-blue",
+    "t": "**Remy Herbert - Navy Blue**",
+    "d": "On top of the counter in the garage containing a home gym of a tan villa on Clovis Way in northwestern Capri"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-remy-herbert-silver",
+    "t": "**Remy Herbert - Silver**",
+    "d": "On top of a table in front of a gaming setup in the second apartment from the left on the second floor of the El Lado Soleado Condominiums on NW 3rd Ave in central Little Cuba"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-rion-yapa-bright-orange",
+    "t": "**Rion Yapa - Bright Orange**",
+    "d": "On top of the stone ledge over the water next to a ladder and a gazebo on the southern tip of eastern island of the Waning Sands"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-rion-yapa-navy-blue",
+    "t": "**Rion Yapa - Navy Blue**",
+    "d": "Underneath a blue chair at the back entrance to the Hawthorne Wing of the St. Vitus Medical Center on Penmarch Isle"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-rion-yapa-silver",
+    "t": "**Rion Yapa - Silver**",
+    "d": "Next to a magazine on the middle shelf of a storage rack behind the garage door leading into storage unit #10 in the Lock 'N' Store Self Storage garage underneath the I-97 bridge in western Crosstown"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-taylor-blanc-standard",
+    "t": "**Taylor Blanc - Standard**",
+    "d": "On a desk in front of a purple-screening computer in the back office of the Xero gas station on SW 3rd Ave in Southside"
+   },
+   {
+    "id": "cc-liberty-city-penetrators-wenyen-deng-standard",
+    "t": "**Wenyen Deng - Standard**",
+    "d": "On top of an electrical box in the corner of the platform over the water between Yellow Jack Sports Bar and a small shed behind the ATM on Longship Dr in southwestern Watson Bay"
+   }
+  ]
+ }
+}

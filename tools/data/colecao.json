@@ -1,0 +1,3189 @@
+[
+ {
+  "kind": "card",
+  "id": "colecao-100",
+  "sec": "colecao",
+  "sub": "geral",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "100%: metas e pesos",
+  "sum": "35 categorias. A história vale 50% e quase nenhuma categoria exige tudo. Cada linha leva ao card onde se faz.",
+  "body": "- O progresso dos 100% só aparece **depois de zerar a história**: mapa → aba Progress → Stats.\n- Quase nenhuma categoria exige tudo: 15 de 18 coleções de cartas, 90 de 100 cestas, 300 de 397 stunts, 70 de 80 desafios.\n- Nada do 100% é perdível ([[perdiveis-tranquilo]]).\n- A platina sai com o troféu **The Long Road** (100%), junto com todos os outros troféus: [[perdiveis-trofeus-planejar]] e [[perdiveis-trofeus-faceis]].\n- Fora da tabela, mas com lista própria: [[mundo-pesca]], [[armas-unicas]] e [[colecao-wyman]].\n- A IGN ainda está completando detalhes de algumas categorias (revistas, meditação, playlists, baralhos do Bret).\n\n#### O que libera cada parte\n- Bancos, Payday Loans, cofres e notas marcadas: depois de ||Credit Check|| (Cap. 3), que dá o bloqueador de tinta.\n- Kenton e Descobertas submarinas: depois de ||Island Dreams|| (Cap. 1).\n- Jogos de console e arcade: depois de ||Feng Shui|| (Cap. 1).\n- Baralhos-alvo do Bret: depois da opcional ||Veteran Hunted||; o Bret Vogel manda os pedidos de animais por mensagem.\n\n#### Detalhes de algumas metas\n- **Bancos:** os 22 são 14 pequenos e 8 grandes. Os 8 grandes (Big Banks) têm também o cofre que conta na linha Cofres.\n- **Payday Loan:** cada loja tem 1 caixa eletrônico para arrombar (US$ 5 mil a 25 mil).\n- **Notas marcadas** precisam ser processadas antes de vender.\n- **WAiNK:** só contam marcos, curiosidades, esculturas, PeeWees e NoFlusher.\n- **Kenton:** a meta fala em conjuntos, não em tesouros soltos. As Descobertas submarinas são outra linha.\n- **Corridas únicas (39):** Ambrosia Raceway 2, Gellhorn Raceway 10, Boone Speedway 2, Animal Crackers 8, Thrillbilly Mud Club 8, Hit 'N' Run VC 9.\n- **Estandes:** 42 ouros, em todos os níveis e classes.\n- **Golfe:** os campos são particulares; fuja dos seguranças. Basta jogar uma partida em cada.\n- **Veículos:** 200 dos 277 modelos-base, escaneados com o WAiNK.\n- **Animais:** 100 de 255, estudados com os binóculos.\n- **Armas:** 50 das 66 “Standard Issue Weapons” (53 de fogo, 9 corpo a corpo, 4 explosivos). Segurar a arma uma vez já conta.\n- **Desafios de gasto e de venda** (Nest Egg, Heavily Armed, oficina): [[colecao-desafios]].",
+  "table": {
+   "cols": [
+    "Categoria",
+    "Meta",
+    "Peso",
+    "Onde fazer"
+   ],
+   "rows": [
+    [
+     "Concluir a história",
+     "100%",
+     "50%",
+     "[[missoes-cap1|Missões por capítulo]]"
+    ],
+    [
+     "Missões opcionais",
+     "100%",
+     "6%",
+     "[[missoes-strangers]]"
+    ],
+    [
+     "Illegal Operations",
+     "39",
+     "3%",
+     "[[dinheiro-illegal-ops]]"
+    ],
+    [
+     "Roubos a banco (caixa + cofre)",
+     "22",
+     "2%",
+     "[[dinheiro-alvos]]"
+    ],
+    [
+     "Payday Loan",
+     "7",
+     "2%",
+     "[[dinheiro-alvos]]"
+    ],
+    [
+     "Smash 'n' Grab",
+     "34",
+     "2%",
+     "[[dinheiro-fontes]]"
+    ],
+    [
+     "Stick Ups (assaltos a loja)",
+     "100",
+     "2%",
+     "[[dinheiro-fontes]]"
+    ],
+    [
+     "Narcóticos vendidos a receptador",
+     "US$ 100.000",
+     "2%",
+     "[[dinheiro-receptadores]]"
+    ],
+    [
+     "Joias vendidas",
+     "US$ 100.000",
+     "2%",
+     "[[dinheiro-receptadores]]"
+    ],
+    [
+     "Notas marcadas vendidas",
+     "US$ 100.000",
+     "2%",
+     "[[dinheiro-notas]]"
+    ],
+    [
+     "Cofres (Big Banks)",
+     "8",
+     "2%",
+     "[[dinheiro-cofres]]"
+    ],
+    [
+     "Veículos vendidos",
+     "US$ 200.000",
+     "2%",
+     "[[veiculos-venda]]"
+    ],
+    [
+     "Conjuntos do Kenton",
+     "5 de 7",
+     "1%",
+     "[[colecao-kenton]]"
+    ],
+    [
+     "Coleções de cartas",
+     "15 de 18",
+     "1%",
+     "[[colecao-cartas]]"
+    ],
+    [
+     "Locais escaneados no WAiNK",
+     "100 de 108",
+     "1%",
+     "[[colecao-waink]]"
+    ],
+    [
+     "Descobertas submarinas",
+     "33",
+     "1%",
+     "[[colecao-exploracao]]"
+    ],
+    [
+     "Revistas",
+     "30",
+     "1%",
+     "[[colecao-exploracao]]"
+    ],
+    [
+     "Pontos de meditação",
+     "15 de 18",
+     "1%",
+     "[[colecao-exploracao]]"
+    ],
+    [
+     "Flamingos de cocaína destruídos",
+     "100 de 125",
+     "1%",
+     "[[colecao-exploracao]]"
+    ],
+    [
+     "Playlists únicas",
+     "2",
+     "1%",
+     "[[colecao-exploracao]]"
+    ],
+    [
+     "Estilos descobertos",
+     "70",
+     "1%",
+     "[[colecao-exploracao]]"
+    ],
+    [
+     "Corridas únicas vencidas",
+     "30 de 39",
+     "1%",
+     "[[mundo-atividades]]"
+    ],
+    [
+     "Ouro em desafios de corrida",
+     "10 de 13",
+     "1%",
+     "[[mundo-atividades]]"
+    ],
+    [
+     "Ouro nos estandes de tiro",
+     "42",
+     "1%",
+     "[[mundo-atividades]]"
+    ],
+    [
+     "Jogos de arcade",
+     "4",
+     "1%",
+     "[[mundo-jogos]]"
+    ],
+    [
+     "Adversários de sinuca",
+     "5 de 7",
+     "1%",
+     "[[mundo-atividades]]"
+    ],
+    [
+     "Campos de golfe jogados",
+     "2",
+     "1%",
+     "[[mundo-atividades]]"
+    ],
+    [
+     "Cestas de basquete",
+     "90 de 100",
+     "1%",
+     "[[colecao-cestas]]"
+    ],
+    [
+     "Corridas de drone (Top Fun)",
+     "42",
+     "1%",
+     "[[colecao-drones]]"
+    ],
+    [
+     "Stunts",
+     "300 de 397",
+     "1%",
+     "[[colecao-stunts]]"
+    ],
+    [
+     "Desafios",
+     "70 de 80",
+     "1%",
+     "[[colecao-desafios]]"
+    ],
+    [
+     "Baralhos-alvo do Bret",
+     "15",
+     "1%",
+     "[[mundo-fauna]]"
+    ],
+    [
+     "Veículos descobertos",
+     "200 de 277",
+     "1%",
+     "[[veiculos-categorias]]"
+    ],
+    [
+     "Armas descobertas",
+     "50 de 66",
+     "1%",
+     "[[armas-gratis]]"
+    ],
+    [
+     "Animais descobertos",
+     "100 de 255",
+     "—",
+     "[[mundo-fauna]]"
+    ]
+   ],
+   "sort": true
+  },
+  "src": [
+   "IGN",
+   "PowerPyx",
+   "Press Start",
+   "Insider Gaming"
+  ],
+  "kw": [
+   "100%",
+   "cem por cento",
+   "platina",
+   "long road",
+   "completar",
+   "progresso",
+   "checklist",
+   "colecionaveis",
+   "desafios",
+   "nest egg",
+   "quantas armas",
+   "metas"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "100%: targets and weights",
+   "sum": "35 categories. The story is worth 50% and almost no category needs everything. Each row links to the card where you do it.",
+   "body": "- 100% progress only shows **after you finish the story**: map → Progress tab → Stats.\n- Almost no category needs everything: 15 of 18 card sets, 90 of 100 hoops, 300 of 397 stunts, 70 of 80 challenges.\n- Nothing in the 100% is missable ([[perdiveis-tranquilo]]).\n- The platinum comes with **The Long Road** (100%) plus every other trophy: [[perdiveis-trofeus-planejar]] and [[perdiveis-trofeus-faceis]].\n- Not in the table, but with their own lists: [[mundo-pesca]], [[armas-unicas]] and [[colecao-wyman]].\n- IGN is still filling in details for some categories (magazines, meditation, playlists, Bret's decks).\n\n#### What unlocks each part\n- Banks, Payday Loans, vaults and marked bills: after ||Credit Check|| (Ch. 3), which gives you the dye pack jammer.\n- Kenton and Underwater Discoveries: after ||Island Dreams|| (Ch. 1).\n- Console and arcade games: after ||Feng Shui|| (Ch. 1).\n- Bret's Target Decks: after the optional ||Veteran Hunted||; Bret Vogel texts you the animal requests.\n\n#### Details on some targets\n- **Banks:** the 22 are 14 small and 8 big. The 8 Big Banks also have the vault that counts on the Vaults row.\n- **Payday Loan:** each store has 1 ATM to crack ($5k–25k).\n- **Marked bills** must be processed before you sell them.\n- **WAiNK:** only landmarks, curiosities, sculptures, PeeWees and NoFlusher count.\n- **Kenton:** the target is in sets, not loose treasures. Underwater Discoveries are a separate row.\n- **Unique races (39):** Ambrosia Raceway 2, Gellhorn Raceway 10, Boone Speedway 2, Animal Crackers 8, Thrillbilly Mud Club 8, Hit 'N' Run VC 9.\n- **Shooting ranges:** 42 golds, across every level and class.\n- **Golf:** the courses are private; dodge the security. One round at each is enough.\n- **Vehicles:** 200 of the 277 base models, scanned with WAiNK.\n- **Animals:** 100 of 255, studied with the binoculars.\n- **Weapons:** 50 of the 66 “Standard Issue Weapons” (53 firearms, 9 melee, 4 explosives). Holding a gun once counts.\n- **Spending and selling challenges** (Nest Egg, Heavily Armed, mod shop): [[colecao-desafios]].",
+   "kw": [
+    "100%",
+    "platinum",
+    "long road",
+    "completion",
+    "progress",
+    "checklist",
+    "collectibles",
+    "targets",
+    "how many weapons"
+   ],
+   "table": {
+    "cols": [
+     "Category",
+     "Target",
+     "Weight",
+     "Where"
+    ],
+    "rows": [
+     [
+      "Finish the story",
+      "100%",
+      "50%",
+      "[[missoes-cap1|Missions by chapter]]"
+     ],
+     [
+      "Optional missions",
+      "100%",
+      "6%",
+      "[[missoes-strangers]]"
+     ],
+     [
+      "Illegal Operations",
+      "39",
+      "3%",
+      "[[dinheiro-illegal-ops]]"
+     ],
+     [
+      "Bank jobs (drawer + safe)",
+      "22",
+      "2%",
+      "[[dinheiro-alvos]]"
+     ],
+     [
+      "Payday Loan jobs",
+      "7",
+      "2%",
+      "[[dinheiro-alvos]]"
+     ],
+     [
+      "Smash 'n' Grabs",
+      "34",
+      "2%",
+      "[[dinheiro-fontes]]"
+     ],
+     [
+      "Stick Ups",
+      "100",
+      "2%",
+      "[[dinheiro-fontes]]"
+     ],
+     [
+      "Narcotics fenced",
+      "$100,000",
+      "2%",
+      "[[dinheiro-receptadores]]"
+     ],
+     [
+      "Jewelry fenced",
+      "$100,000",
+      "2%",
+      "[[dinheiro-receptadores]]"
+     ],
+     [
+      "Marked bills fenced",
+      "$100,000",
+      "2%",
+      "[[dinheiro-notas]]"
+     ],
+     [
+      "Vaults (Big Banks)",
+      "8",
+      "2%",
+      "[[dinheiro-cofres]]"
+     ],
+     [
+      "Vehicles fenced",
+      "$200,000",
+      "2%",
+      "[[veiculos-venda]]"
+     ],
+     [
+      "Kenton sets",
+      "5 of 7",
+      "1%",
+      "[[colecao-kenton]]"
+     ],
+     [
+      "Collectible card sets",
+      "15 of 18",
+      "1%",
+      "[[colecao-cartas]]"
+     ],
+     [
+      "WAiNK locations scanned",
+      "100 of 108",
+      "1%",
+      "[[colecao-waink]]"
+     ],
+     [
+      "Underwater Discoveries",
+      "33",
+      "1%",
+      "[[colecao-exploracao]]"
+     ],
+     [
+      "Magazines",
+      "30",
+      "1%",
+      "[[colecao-exploracao]]"
+     ],
+     [
+      "Meditation spots",
+      "15 of 18",
+      "1%",
+      "[[colecao-exploracao]]"
+     ],
+     [
+      "Cocaine Flamingos destroyed",
+      "100 of 125",
+      "1%",
+      "[[colecao-exploracao]]"
+     ],
+     [
+      "Unique Playlists",
+      "2",
+      "1%",
+      "[[colecao-exploracao]]"
+     ],
+     [
+      "Discovered Styles",
+      "70",
+      "1%",
+      "[[colecao-exploracao]]"
+     ],
+     [
+      "Unique races won",
+      "30 of 39",
+      "1%",
+      "[[mundo-atividades]]"
+     ],
+     [
+      "Race Challenge gold medals",
+      "10 of 13",
+      "1%",
+      "[[mundo-atividades]]"
+     ],
+     [
+      "Shooting range gold medals",
+      "42",
+      "1%",
+      "[[mundo-atividades]]"
+     ],
+     [
+      "Arcade games",
+      "4",
+      "1%",
+      "[[mundo-jogos]]"
+     ],
+     [
+      "Pool opponents beaten",
+      "5 of 7",
+      "1%",
+      "[[mundo-atividades]]"
+     ],
+     [
+      "Golf courses played",
+      "2",
+      "1%",
+      "[[mundo-atividades]]"
+     ],
+     [
+      "Basketball hoops",
+      "90 of 100",
+      "1%",
+      "[[colecao-cestas]]"
+     ],
+     [
+      "Top Fun Drone races",
+      "42",
+      "1%",
+      "[[colecao-drones]]"
+     ],
+     [
+      "Stunts",
+      "300 of 397",
+      "1%",
+      "[[colecao-stunts]]"
+     ],
+     [
+      "Challenges",
+      "70 of 80",
+      "1%",
+      "[[colecao-desafios]]"
+     ],
+     [
+      "Bret's Target Decks",
+      "15",
+      "1%",
+      "[[mundo-fauna]]"
+     ],
+     [
+      "Vehicles discovered",
+      "200 of 277",
+      "1%",
+      "[[veiculos-categorias]]"
+     ],
+     [
+      "Weapons discovered",
+      "50 of 66",
+      "1%",
+      "[[armas-gratis]]"
+     ],
+     [
+      "Animals discovered",
+      "100 of 255",
+      "—",
+      "[[mundo-fauna]]"
+     ]
+    ],
+    "sort": true
+   },
+   "div": "The table follows IGN. PowerPyx gives other numbers: Stick Ups 91, Smash 'n' Grab 35, marked bills $250k, flamingos 125 (IGN counts 125 on the map with a target of 100), optional missions as 100 missions, and it cites both $100k and $200k for narcotics. Magazines: 30 in the table, 27 to 30 in IGN's list."
+  },
+  "div": "A tabela segue a IGN. A PowerPyx dá outros números: Stick Ups 91, Smash 'n' Grab 35, notas marcadas US$ 250 mil, flamingos 125 (a IGN conta 125 no mapa e meta de 100), missões opcionais como 100 missões, e cita tanto US$ 100 mil quanto US$ 200 mil para os narcóticos. Revistas: 30 na tabela, 27 a 30 na lista da IGN."
+ },
+ {
+  "kind": "card",
+  "id": "colecao-desafios",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "geral",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Os 80 desafios",
+  "sum": "8 categorias de 10. Para os 100% bastam 70.",
+  "src": [
+   "IGN",
+   "PowerPyx"
+  ],
+  "kw": [
+   "desafios",
+   "challenges",
+   "progress",
+   "metas"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "The 80 challenges",
+   "sum": "8 categories of 10. You need 70 for 100%.",
+   "kw": [
+    "challenges",
+    "progress",
+    "goals"
+   ]
+  },
+  "$info": {
+   "sizeKB": 18,
+   "checkItems": 80,
+   "checkTitles": [
+    "d-speed-kills: **Speed Kills** (Combate) — Matar 3 inimigos em menos de 30 s",
+    "d-melee-combat: **Melee Combat** (Combate) — Matar ou nocautear 5 seguidos no corpo a corpo sem morrer",
+    "d-explosive-combat: **Explosive Combat** (Combate) — Matar ou ferir 3 com um só explosivo",
+    "d-headshots: **Headshots** (Combate) — 4 tiros na cabeça num só uso do Focus de combate",
+    "d-drive-bys: **Drive-Bys** (Combate) — Matar 5 atirando do carro em menos de 1 min, sem sair",
+    "d-stealth-sniping: **Stealth Sniping** (Combate) — Matar 7 desavisados com fuzil de mira, sem morrer nem ser ",
+    "d-incendiary: **Incendiary** (Combate) — Matar ou ferir 5 com fogo em menos de 15 s",
+    "d-revolver-headshots: **Revolver Headshots** (Combate) — 6 tiros na cabeça de revólver sem recarregar nem trocar",
+    "d-long-range-sniping: **Long-Range Sniping** (Combate) — 3 mortes em menos de 10 s com fuzil de mira a 300 pés (",
+    "d-high-explosive: **High Explosive** (Combate) — Matar ou ferir 8 com explosivos em menos de 20 s sem levar ",
+    "d-mugging: **Mugging** (Crime) — Roubar 5 pedestres",
+    "d-stick-ups: **Stick Ups** (Crime) — Assaltar 3 lojas num dia*",
+    "d-car-jacking: **Car Jacking** (Crime) — Tomar 3 carros e levá-los ao Pay 'n' Spray num dia*",
+    "d-mugging-spree: **Mugging Spree** (Crime) — US$ 500 roubados de pedestres num dia*"
+   ],
+   "bodyStart": "Ficam no menu Progress. Marque aqui o que já fez. * = sem morrer nem ser preso.\n- **Fáceis de fazer cedo:** Gym Member, Mugging, Vehicle Discovery, WAiNK Locations, Basketball Rookie, Alligator Kills.\n- **Planeje:** Nest Egg (US$ 1,5 milhão na conta corrente), Pro Angler, Legendary Hunter, Basketball Pro e Helipad Flyovers."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-trofeus-faceis",
+  "sec": "colecao",
+  "sub": "trofeus",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "Troféus fáceis do começo",
+  "sum": "Saem naturalmente nas primeiras horas.",
+  "body": "Comece o Master of None por pesca ([[mundo-pesca]]) e sinuca em Key Lento: elas também sobem o Focus.\n\nOs troféus longos estão em [[perdiveis-trofeus-planejar]].",
+  "check": [
+   {
+    "id": "paradise",
+    "t": "Just Like Paradise: concluir Gone Fishing"
+   },
+   {
+    "id": "lost",
+    "t": "Paradise Lost: concluir o Cap. 1"
+   },
+   {
+    "id": "trust",
+    "t": "Trust: concluir Breakfast Run (Cap. 2)"
+   },
+   {
+    "id": "pma",
+    "t": "Positive Mental Attitude: a meditação do Cap. 1"
+   },
+   {
+    "id": "master",
+    "t": "Master of None: fazer uma vez cada um dos 9 tipos de atividade (pesca, caça, golfe, estande de tiro, sinuca, basquete, videogame, corrida ou desafio, acrobacia)"
+   }
+  ],
+  "src": [
+   "PowerPyx"
+  ],
+  "kw": [
+   "trofeu",
+   "trophy",
+   "conquista",
+   "achievement",
+   "master of none",
+   "facil"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Easy early trophies",
+   "sum": "They come naturally in the first hours.",
+   "body": "Start Master of None with fishing ([[mundo-pesca]]) and pool in Key Lento: they also raise Focus.\n\nThe long trophies are in [[perdiveis-trofeus-planejar]].",
+   "check": [
+    {
+     "id": "paradise",
+     "t": "Just Like Paradise: finish Gone Fishing"
+    },
+    {
+     "id": "lost",
+     "t": "Paradise Lost: finish Ch. 1"
+    },
+    {
+     "id": "trust",
+     "t": "Trust: finish Breakfast Run (Ch. 2)"
+    },
+    {
+     "id": "pma",
+     "t": "Positive Mental Attitude: the Ch. 1 meditation"
+    },
+    {
+     "id": "master",
+     "t": "Master of None: do each of the 9 activity types once (fishing, hunting, golf, shooting range, pool, basketball, video game, race or challenge, stunt)"
+    }
+   ],
+   "kw": [
+    "trophy",
+    "achievement",
+    "master of none",
+    "easy"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-trofeus-planejar",
+  "sec": "colecao",
+  "sub": "trofeus",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Troféus longos: comece cedo",
+  "sum": "A platina tem 55 troféus, todos offline: dificuldade 4 de 10, cerca de 200 horas. Estes pedem planejamento.",
+  "body": "- Nenhum troféu é online e nada do 100% é perdível ([[perdiveis-tranquilo]]).\n- A platina exige também o 100% (**The Long Road**): metas em [[colecao-100]].\n- Os que saem sozinhos no começo estão em [[perdiveis-trofeus-faceis]].\n- Sem spoiler. Nomes tirados de listas de sites de guia.",
+  "src": [
+   "PowerPyx",
+   "PC Gamer",
+   "Insider Gaming",
+   "Press Start"
+  ],
+  "kw": [
+   "trofeus",
+   "platina",
+   "cunning stunts",
+   "shootist",
+   "drone",
+   "corridas",
+   "55 trofeus",
+   "dificuldade",
+   "horas",
+   "offline"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Long trophies: start early",
+   "sum": "The platinum has 55 trophies, all offline: difficulty 4/10, about 200 hours. These ones need planning.",
+   "body": "- No trophy is online and nothing in the 100% is missable ([[perdiveis-tranquilo]]).\n- The platinum also needs 100% (**The Long Road**): targets in [[colecao-100]].\n- The ones that pop on their own early are in [[perdiveis-trofeus-faceis]].\n- Spoiler-free. Names taken from guide sites' lists.",
+   "kw": [
+    "trophies",
+    "platinum",
+    "cunning stunts",
+    "shootist",
+    "drone",
+    "races",
+    "55 trophies",
+    "difficulty",
+    "hours",
+    "offline"
+   ],
+   "table": {
+    "cols": [
+     "Trophy",
+     "Requirement",
+     "Where to tick"
+    ],
+    "rows": [
+     [
+      "Cunning Stunts",
+      "250 stunt jumps and stunts of any kind",
+      "[[colecao-stunts]]"
+     ],
+     [
+      "Strangers & Freaks",
+      "8 stranger mission strands (the game has 14)",
+      "[[missoes-strangers]]"
+     ],
+     [
+      "The Shootist",
+      "Gold in every shooting range challenge",
+      "[[colecao-100]]"
+     ],
+     [
+      "Top Fun",
+      "Win the drone race at every location",
+      "[[colecao-drones]]"
+     ],
+     [
+      "Earn Cash, Not Kudos",
+      "Win 20 different races",
+      "[[colecao-100]]"
+     ],
+     [
+      "WAiNK trophy",
+      "Scan 100 locations",
+      "[[colecao-waink]]"
+     ],
+     [
+      "Card trophy",
+      "Collectible card sets",
+      "[[colecao-cartas]]"
+     ]
+    ]
+   }
+  },
+  "table": {
+   "cols": [
+    "Troféu",
+    "Requisito",
+    "Onde marcar"
+   ],
+   "rows": [
+    [
+     "Cunning Stunts",
+     "250 saltos e manobras de dublê, de qualquer tipo",
+     "[[colecao-stunts]]"
+    ],
+    [
+     "Strangers & Freaks",
+     "8 linhas de missões de estranhos (o jogo tem 14)",
+     "[[missoes-strangers]]"
+    ],
+    [
+     "The Shootist",
+     "Ouro em todos os desafios do estande de tiro",
+     "[[colecao-100]]"
+    ],
+    [
+     "Top Fun",
+     "Vencer a corrida de drone em todos os locais",
+     "[[colecao-drones]]"
+    ],
+    [
+     "Earn Cash, Not Kudos",
+     "Vencer 20 corridas diferentes",
+     "[[colecao-100]]"
+    ],
+    [
+     "Troféu do WAiNK",
+     "Escanear 100 locais",
+     "[[colecao-waink]]"
+    ],
+    [
+     "Troféu das cartas",
+     "Conjuntos de cartas colecionáveis",
+     "[[colecao-cartas]]"
+    ]
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "colecao-stunts",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "stunts",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Stunts: visão geral e os 130 saltos",
+  "sum": "397 no total. 250 dão Cunning Stunts; 300 contam para os 100%. A lista tem 129 dos 130 saltos.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "stunt",
+   "salto",
+   "rampa",
+   "under the bridge",
+   "ponte",
+   "cunning stunts"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Stunts: overview and the 130 jumps",
+   "sum": "397 in total. 250 unlock Cunning Stunts; 300 count toward 100%. The list has 129 of the 130 jumps.",
+   "kw": [
+    "stunt jump",
+    "ramp",
+    "under the bridge",
+    "cunning stunts"
+   ]
+  },
+  "$info": {
+   "sizeKB": 85,
+   "checkItems": 129,
+   "checkTitles": [
+    "sj-starlet-motel-construction: **Starlet Motel Construction** — desafio: Pousar com 2 estrelas usando um Maibatsu Sanchez",
+    "sj-saputka-river: **Saputka River** — desafio: Pousar a mais de 80 km/h (50 mph) com 3 estrelas",
+    "sj-lake-leonida-lock-west: **Lake Leonida Lock West** — desafio: Pousar usando um JoBuilt Rubble",
+    "sj-mud-club-pond: **Mud Club Pond** — desafio: Pousar usando um Vapid Marshall",
+    "sj-gellhorn-hilltop: **Gellhorn Hilltop** — desafio: Pousar usando um Mer-Can Outlaw",
+    "sj-vcia-storage-facility: **VCIA Storage Facility** — desafio: Pousar com um veículo da categoria Vans",
+    "sj-apollo-aggregates-quarry: **Apollo Aggregates Quarry** — desafio: Mortal para trás por cima da Calderone Avenue",
+    "sj-blackwell-sandrock: **Blackwell Sandrock** — desafio: Pousar com o parceiro junto",
+    "sj-interstate-404: **Interstate 404** — desafio: Mortal para trás por cima da Interstate 404",
+    "sj-west-vice-dale-county-broken-bridge: **West Vice-Dale County Broken Bridge** — desafio: Pousar com veículo roubado",
+    "sj-howe-dairy: **Howe Dairy** — desafio: Pousar por cima do celeiro da Howe Dairy ouvindo a Gloriana Blue",
+    "sj-richard-barebone-overpass-north: **Richard Barebone Overpass North** — desafio: Pousar a mais de 113 km/h (70 mph) e com mo",
+    "sj-schlott-construction-west-vice-dale-county: **Schlott Construction West Vice-Dale County** — desafio: Pousar com mais de 76 m (250 pés",
+    "sj-county-route-62-roadworks: **County Route 62 Roadworks** — desafio: Pousar a mais de 121 km/h (75 mph) com um veículo"
+   ],
+   "bodyStart": "- **Stunt Jumps (130):** rampa com desafio opcional (lista abaixo).\n- **Under the Bridge (202):** passar por baixo da ponte de avião ou helicóptero.\n- **Knife Flights (40):** avião inclinado 90° entre duas torres ([[colecao-knife]]).\n- **Base Jumps (25):** saltar entre dois cones amarelos e passar pelos checkpoints no tempo ([[colecao-base]]).\n- Stunt Jumps por condado: Vice-Dale 53, Kelly 29, Lummox 19, Mariana 16, Leonard 13.\n- O desafio de cada salto é um extra: estrelas, carro certo, velocidade, mortal, rádio ou parceiro junto.\n- 250 stunts de qualquer tipo dão **Cunning Stunts**; 300 fecham o item dos 100%.\n- A lista da IGN tem 129 dos 130 saltos.\n- **Controles do Stunt Jump:** analógic"
+  }
+ },
+ {
+  "kind": "card",
+  "id": "colecao-knife",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "stunts",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Os 40 Knife Flights",
+  "sum": "Avião de lado, a 90°, entre duas torres. Todos em Vice City e Vice Beach.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "knife flight",
+   "faca",
+   "aviao de lado",
+   "stunt"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "The 40 Knife Flights",
+   "sum": "Plane on its side, at 90°, between two towers. All in Vice City and Vice Beach.",
+   "kw": [
+    "knife flight",
+    "plane",
+    "stunt"
+   ]
+  },
+  "$info": {
+   "sizeKB": 21,
+   "checkItems": 40,
+   "checkTitles": [
+    "kf-positano-towers: **Positano Towers**",
+    "kf-harrison-harbor: **Harrison Harbor**",
+    "kf-the-amalfi: **The Amalfi**",
+    "kf-lampedusa: **Lampedusa**",
+    "kf-the-zaffre: **The Zaffre**",
+    "kf-jia-luxury-condos: **Jia Luxury Condos**",
+    "kf-the-wash-haus: **The Wash Haus**",
+    "kf-maison-estaque: **Maison Estaque**",
+    "kf-peacock-bay-luxury-condominiums-north: **Peacock Bay Luxury Condominiums North**",
+    "kf-peacock-bay-luxury-condominiums-south: **Peacock Bay Luxury Condominiums South**",
+    "kf-the-fitz-gerald: **The Fitz-Gerald**",
+    "kf-peacock-bay-luxury-condominiums-east: **Peacock Bay Luxury Condominiums East**",
+    "kf-dock-of-the-bay-condominiums: **Dock of the Bay Condominiums**",
+    "kf-grand-majestic-aparthotel: **Grand Majestic Aparthotel**"
+   ],
+   "bodyStart": "- Ficam em Vice Beach, Ocean Beach, Peacock Bay, Tequesta, Downtown, Bayside e Washington Beach.\n- Use um avião pequeno e ágil; incline 90° só na aproximação.\n- Contam para os stunts de [[colecao-stunts]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "colecao-base",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "stunts",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Os 25 Base Jumps",
+  "sum": "Saltos de paraquedas com tempo-alvo. Checkpoint perdido = +10 s. Alguns tempos ainda não foram publicados.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "base jump",
+   "paraquedas",
+   "salto"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "The 25 Base Jumps",
+   "sum": "Timed parachute jumps. A missed checkpoint adds 10 s. Some par times aren't published yet.",
+   "kw": [
+    "base jump",
+    "parachute"
+   ]
+  },
+  "$info": {
+   "sizeKB": 14,
+   "checkItems": 25,
+   "checkTitles": [
+    "bj-bluegrass-antenna-mast: **Bluegrass Antenna Mast** — par 1:10",
+    "bj-pike-financial-center: **Pike Financial Center** — par 0:56",
+    "bj-heath-bank: **Heath Bank** — par 0:42",
+    "bj-vice-civic-center: **Vice Civic Center**",
+    "bj-crimson-palms: **Crimson Palms** — par 0:46",
+    "bj-la-villette: **La Villette** — par 0:35",
+    "bj-kalaga-outcrop: **Kalaga Outcrop** — par 0:33",
+    "bj-mount-kalaga: **Mount Kalaga** — par 1:07",
+    "bj-providence-canyon-antenna-mast: **Providence Canyon Antenna Mast** — par 0:59",
+    "bj-eternity-apartments: **Eternity Apartments** — par 0:40",
+    "bj-maven-residences: **Maven Residences** — par 0:41",
+    "bj-one-stracathro-tower: **One Stracathro Tower** — par 0:36",
+    "bj-rico-huxley-hotels: **Rico Huxley Hotels** — par 0:37",
+    "bj-the-borough-condominiums: **The Borough Condominiums** — par 0:30"
+   ],
+   "bodyStart": "- A largada fica entre **dois cones amarelos**, quase sempre na borda de um heliponto ou de um mastro de antena.\n- Errar um checkpoint soma **10 segundos** ao tempo.\n- O tempo-alvo (par) é da IGN; “?” = ainda não publicado."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "colecao-drones",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "stunts",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "As 42 corridas de drone (Top Fun Drones)",
+  "sum": "14 áreas com 3 corridas cada. Todas contam para os 100%.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "drone",
+   "top fun",
+   "corrida de drone"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "The 42 drone races (Top Fun Drones)",
+   "sum": "14 areas with 3 races each. All count toward 100%.",
+   "kw": [
+    "drone",
+    "top fun",
+    "drone race"
+   ]
+  },
+  "$info": {
+   "sizeKB": 27,
+   "checkItems": 42,
+   "checkTitles": [
+    "dr-ambrosia-captain-o-malley-marina: **Ambrosia 1: Captain O'Malley Marina** · par 2:03",
+    "dr-ambrosia-allied-crystal: **Ambrosia 2: Allied Crystal** · par 2:02",
+    "dr-ambrosia-waste-transfer-services: **Ambrosia 3: Waste Transfer Services** · par 1:55",
+    "dr-balsero-navitrak: **Balsero 1: Navitrak** · par 1:29",
+    "dr-balsero-apollo-aggregates: **Balsero 2: Apollo Aggregates** · par 1:27",
+    "dr-balsero-tisha-wocka-flea-market: **Balsero 3: Tisha-Wocka Flea Market** · par 1:08",
+    "dr-buckskin-swamp-kowaachobee-village: **Buckskin Swamp 1: Kowaachobee Village** · par 1:24",
+    "dr-buckskin-swamp-swampy-sal-s-safari-park: **Buckskin Swamp 2: Swampy Sal's Safari Park** · par 1:40",
+    "dr-buckskin-swamp-camp-moonflower: **Buckskin Swamp 3: Camp Moonflower** · par 1:48",
+    "dr-capri-capri-train-station: **Capri 1: Capri Train Station** · par 1:50",
+    "dr-capri-ravella-drive: **Capri 2: Ravella Drive** · par 1:51",
+    "dr-capri-capri-lake: **Capri 3: Capri Lake** · par 2:01",
+    "dr-dalton-island-avarice-petroleum: **Dalton Island 1: Avarice Petroleum** · par 1:53",
+    "dr-dalton-island-the-jamaica: **Dalton Island 2: The Jamaica** · par 1:16"
+   ],
+   "bodyStart": "- Começam numa **van da Top Fun**: você paga uma taxa fixa e pode repetir à vontade depois de pagar.\n- Passe por todos os **anéis rosa**, sem pular nenhum, abaixo do tempo-alvo. Vencer abaixo do par libera a corrida seguinte da área.\n- Prêmio (exemplo de Ambrosia): US$ 750 na 1ª, US$ 1.500 na 2ª e US$ 3.000 na 3ª.\n- Tentar uma corrida já dá o troféu **Master of None**."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "colecao-waink",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "mapa",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "WAiNK: os 108 locais para escanear",
+  "sum": "31 marcos, 35 curiosidades, 23 esculturas, 4 outdoors PeeWee e 15 marcas NoFlusher.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "waink",
+   "escanear",
+   "marco",
+   "curiosidade",
+   "escultura",
+   "noflusher",
+   "peewee"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "WAiNK: the 108 places to scan",
+   "sum": "31 landmarks, 35 curiosities, 23 sculptures, 4 PeeWee billboards and 15 NoFlusher tags.",
+   "kw": [
+    "waink",
+    "scan",
+    "landmark",
+    "curiosity",
+    "sculpture",
+    "noflusher",
+    "peewee"
+   ]
+  },
+  "$info": {
+   "sizeKB": 31,
+   "checkItems": 108,
+   "checkTitles": [
+    "wl-old-goliath: **Old Goliath** · Marco",
+    "wl-vice-city-sign: **Vice City Sign** · Marco",
+    "wl-bonanza-giant: **Bonanza Giant** · Marco",
+    "wl-bobcat-key-experimental-home: **Bobcat Key Experimental Home** · Marco",
+    "wl-lawton-co-paper-mill: **Lawton Co. Paper Mill** · Marco",
+    "wl-farmer-scrumpy-s-apple-orchard: **Farmer Scrumpy's Apple Orchard** · Marco",
+    "wl-iaa-s-friends-of-freedom: **IAA's Friends of Freedom** · Marco",
+    "wl-unidentified-building: **Unidentified Building** · Marco",
+    "wl-thicc-herbie: **Thicc Herbie** · Marco",
+    "wl-riquezas-keys-radome: **Riquezas Keys Radome** · Marco",
+    "wl-gellhorn-fun-fair: **Gellhorn Fun Fair** · Marco",
+    "wl-downtown-periscope: **Downtown Periscope** · Marco",
+    "wl-st-lucia-lighthouse: **St. Lucia Lighthouse** · Marco",
+    "wl-sky-ride: **Sky Ride** · Marco"
+   ],
+   "bodyStart": "- **Como escanear:** quando aparecer o aviso, {↑} abre o celular e **segure {R1}** no WAiNK.\n- Perto de um local, o controle vibra em pulsos, do lado de onde ele está em relação à câmera.\n- **Outdoors PeeWee:** um em Vice-Dale, Mariana, Lummox e Leonard (caça ao tesouro Find PeeWees Billboards).\n- **NoFlusher Tags:** marcas de giz no chão, difíceis de ver; fazem parte da missão de exploração Vice Beach Utility Markings.\n- Para os 100% bastam 100. Escanear 4 marcos, curiosidades ou esculturas fecha o desafio WAiNK Locations."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "colecao-cestas",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "mapa",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "As 100 cestas de basquete",
+  "sum": "Cada tabela tem uma bola por perto. Para os 100% bastam 90.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "basquete",
+   "cesta",
+   "tabela",
+   "hoop"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "The 100 basketball hoops",
+   "sum": "Each hoop has a ball nearby. You need 90 for 100%.",
+   "kw": [
+    "basketball",
+    "hoop"
+   ]
+  },
+  "$info": {
+   "sizeKB": 39,
+   "checkItems": 100,
+   "checkTitles": [
+    "h000: **1** (Vice-Dale) — Pátio da Slator Towing (desmanche), na viga junto ao Phoenix; bola no ",
+    "h001: **2** (Mariana) — Estacionamento NO da pista Jackal's; bola do outro lado da pista, perto ",
+    "h002: **3** (Lummox) — Casa verde na Chestnut Dr, perto da I-297; bola embaixo",
+    "h003: **4** (Vice-Dale) — Pátio de prédio em U, junto à mesa de piquenique; bola perto da escada",
+    "h004: **5** (Kelly) — Duplex verde na Magnolia Rd; bola na grama entre as calçadas",
+    "h005: **6** (Mariana) — Casa amarela na Clovis Way, Capri; bola na grade sob a calha",
+    "h006: **7** (Mariana) — Fundos da The Red Lotus, sul de Key Lento; bola entre contêiner verde e ",
+    "h007: **8** (Kelly) — Casa de apoiador do Henshaw, Reservoir St, leste de Ambrosia; bola no quin",
+    "h008: **9** (Vice-Dale) — Mansão no oeste de Catalan Island; bola na cerca viva à direita",
+    "h009: **10** (Mariana) — Mansão na península NO de Capri; bola na lateral da casa",
+    "h010: **11** (Vice-Dale) — Casinha azul na NW 24th Pl, sudoeste de Balsero; bola sob a garagem c",
+    "h011: **12** (Mariana) — Quadra perto da praia, leste de Key Lento",
+    "h012: **13** (Leonard) — Fim da Fairview Dr, Waning Sands; bola na grama atrás",
+    "h013: **14** (Mariana) — Casa de praia na Coconut Cove Ct, oeste de Capri"
+   ],
+   "bodyStart": "- Ache a bola perto da tabela e enterre ou acerte a cesta.\n- Por condado: Vice-Dale 49, Mariana 18, Kelly 14, Leonard 14, Lummox 5.\n- Ajuda nos desafios Basketball Rookie, Basketball Tour e Basketball Pro ([[colecao-desafios]]).\n- **Focus:** cada cesta dá +2% de Focus, até 5 cestas a cada 30 min reais.\n- **Prêmios:** 10 cestas = boné dos Narcos (Eris) · 50 = 3 tatuagens · 100 = uniforme alternativo (Eris)."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "colecao-exploracao",
+  "sec": "colecao",
+  "sub": "mapa",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Outras coleções",
+  "sum": "Arte de lixo, murais 1010, Book Swaps, revistas, meditação, flamingos, playlists e estilos.",
+  "body": "![Início](img/ign-colecao-exploracao-1.jpg)\n\nMetas e pesos de cada uma: [[colecao-100]]. Os locais do WAiNK têm card próprio: [[colecao-waink]].\n\n- **Ahol Street Art (Geographies of Trash):** 112 peças do artista “Ahol Sniffs Glue”, só em Vice City, em 11 tipos: colchões 10, pneus 8, rodas 9, geladeiras 9, poltronas 7, TVs 8, contêineres 15, cones 13, baldes 11, paletes 13 e cadeiras 9. Escaneie com o WAiNK e os moradores recolhem como arte.\n- **Murais 1010:** desafio de um artista no Snapmatic. São 5 marcas em telhados de Vice City; pise e fotografe o marco que aparece com a **câmera do celular**, não com o WAiNK. Os 5 liberam um **'95 Grotti Cheetah** pintado.\n- **Descobertas submarinas:** 33 (naufrágios, carros submersos e lugares curiosos).\n- **Revistas, livros e HQs:** 27 a 30 na lista da IGN, pegos do chão (a meta dos 100% é 30).\n- **Book Swaps:** 7 casinhas de troca de livros; interaja com {△} e devolva o livro para marcar. Locais e fotos abaixo.\n- **Meditação:** liberada no Cap. 1, depois do convite da Lucia; 18 pontos, alguns a dois e outros sozinho (bastam 15).\n- **Flamingos de cocaína:** flamingos de jardim de **bico branco**; quebre para achar cocaína. A IGN conta **125** no mapa; bastam 100.\n- **Playlists únicas:** escaneie 4 pôsteres em Vice City para liberar uma série de podcast; outro pôster libera uma rádio escondida.\n- **Estilos descobertos:** escanear capas de revista libera cortes, barbas, maquiagem e tatuagens (bastam 70). Os **relógios de luxo** das Illegal Ops também contam e viram acessório no guarda-roupa ([[dinheiro-illegal-ops]]).\n- **Fora das coleções:** dobrões no oceano (o Kenton paga US$ 400 cada; pawn shops, US$ 200) e **meteoritos**, centenas em terra e na água, que não contam para nada.\n- Veja também [[colecao-kenton]] e [[colecao-wyman]].\n\n#### Book Swaps: os 7 locais\n1. Watson Bay (Beaumont Ave x Longship Dr, casa branca com bandeira).\n2. Nordeste de Key Lento, Dolphin Dr (estante de tartaruga, casa azul).\n3. Southside (SW 3rd Ave x SW 12th Ave, casa vermelha).\n4. Sul de Waning Sands, Mamey Cir (estante de cogumelo).\n5. Ambrosia, Reservoir St, margem sudoeste do Lake Leonida (estante de barco).\n6. Vespucci Island, Neptune Cir x Rialto Cswy (estante de farol).\n7. Capri, Fortuna St x Viola St, em frente à Halloween House (estante de caixão).\n\n![Book Swap 1](img/ign-colecao-exploracao-2.jpg)\n![Book Swap 1 (2)](img/ign-colecao-exploracao-3.jpg)\n![Book Swap 1 (3)](img/ign-colecao-exploracao-4.jpg)\n![Book Swap 2](img/ign-colecao-exploracao-5.jpg)\n![Book Swap 2 (2)](img/ign-colecao-exploracao-6.jpg)\n![Book Swap 2 (3)](img/ign-colecao-exploracao-7.jpg)\n![Book Swap 3](img/ign-colecao-exploracao-8.jpg)\n![Book Swap 3 (2)](img/ign-colecao-exploracao-9.jpg)\n![Book Swap 3 (3)](img/ign-colecao-exploracao-10.jpg)\n![Book Swap 4](img/ign-colecao-exploracao-11.jpg)\n![Book Swap 4 (2)](img/ign-colecao-exploracao-12.jpg)\n![Book Swap 4 (3)](img/ign-colecao-exploracao-13.jpg)\n![Book Swap 5](img/ign-colecao-exploracao-14.jpg)\n![Book Swap 5 (2)](img/ign-colecao-exploracao-15.jpg)\n![Book Swap 5 (3)](img/ign-colecao-exploracao-16.jpg)\n![Book Swap 6](img/ign-colecao-exploracao-17.jpg)\n![Book Swap 6 (2)](img/ign-colecao-exploracao-18.jpg)\n![Book Swap 6 (3)](img/ign-colecao-exploracao-19.jpg)\n![Book Swap 7](img/ign-colecao-exploracao-20.jpg)\n![Book Swap 7 (2)](img/ign-colecao-exploracao-21.jpg)\n![Book Swap 7 (3)](img/ign-colecao-exploracao-22.jpg)",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "ahol",
+   "arte de rua",
+   "1010",
+   "murais",
+   "book swap",
+   "livros",
+   "meditacao",
+   "flamingo",
+   "playlist",
+   "estilos",
+   "meteorito",
+   "dobrao",
+   "revistas",
+   "relogios"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Other collections",
+   "sum": "Trash art, 1010 murals, Book Swaps, magazines, meditation, flamingos, playlists and styles.",
+   "body": "![Start](img/ign-colecao-exploracao-1.jpg)\n\nTargets and weights for each: [[colecao-100]]. The WAiNK locations have their own card: [[colecao-waink]].\n\n- **Ahol Street Art (Geographies of Trash):** 112 pieces by the artist “Ahol Sniffs Glue”, Vice City only, in 11 types: mattresses 10, tires 8, wheels 9, fridges 9, armchairs 7, TVs 8, containers 15, cones 13, buckets 11, pallets 13 and chairs 9. Scan them with WAiNK and residents collect them as art.\n- **1010 Murals:** an artist's challenge on Snapmatic. Five marks on Vice City rooftops; stand on one and photograph the landmark it frames with the **phone camera**, not WAiNK. All 5 unlock a custom-painted **'95 Grotti Cheetah**.\n- **Underwater Discoveries:** 33 (wrecks, sunken cars and odd places).\n- **Magazines, books and comics:** 27 to 30 in IGN's list, picked up off the ground (the 100% target is 30).\n- **Book Swaps:** 7 book-swap sheds; interact with {△} and put the book back to complete it. Locations and photos below.\n- **Meditation:** unlocked in Ch. 1 after Lucia invites Jason; 18 spots, some as a couple and some solo (15 needed).\n- **Cocaine Flamingos:** lawn flamingos with a **white beak**; break them for cocaine. IGN counts **125** on the map; 100 needed.\n- **Unique Playlists:** scan 4 posters in Vice City to unlock a podcast series; another poster unlocks a hidden radio station.\n- **Discovered Styles:** scanning magazine covers unlocks haircuts, beards, makeup and tattoos (70 needed). **Luxury watches** from Illegal Ops also count and become wardrobe accessories ([[dinheiro-illegal-ops]]).\n- **Outside the collections:** ocean doubloons (Kenton pays $400 each; pawn shops $200) and **meteorites**, hundreds on land and underwater, which don't count toward anything.\n- See also [[colecao-kenton]] and [[colecao-wyman]].\n\n#### Book Swaps: all 7 locations\n1. Watson Bay (Beaumont Ave & Longship Dr, white house with flag).\n2. Northeast Key Lento, Dolphin Dr (turtle shelf, blue house).\n3. Southside (SW 3rd Ave & SW 12th Ave, red house).\n4. South Waning Sands, Mamey Cir (mushroom shelf).\n5. Ambrosia, Reservoir St, southwest shore of Lake Leonida (boat shelf).\n6. Vespucci Island, Neptune Cir & Rialto Cswy (lighthouse shelf).\n7. Capri, Fortuna St & Viola St, across from the Halloween House (coffin shelf).\n\n![Book Swap 1](img/ign-colecao-exploracao-2.jpg)\n![Book Swap 1 (2)](img/ign-colecao-exploracao-3.jpg)\n![Book Swap 1 (3)](img/ign-colecao-exploracao-4.jpg)\n![Book Swap 2](img/ign-colecao-exploracao-5.jpg)\n![Book Swap 2 (2)](img/ign-colecao-exploracao-6.jpg)\n![Book Swap 2 (3)](img/ign-colecao-exploracao-7.jpg)\n![Book Swap 3](img/ign-colecao-exploracao-8.jpg)\n![Book Swap 3 (2)](img/ign-colecao-exploracao-9.jpg)\n![Book Swap 3 (3)](img/ign-colecao-exploracao-10.jpg)\n![Book Swap 4](img/ign-colecao-exploracao-11.jpg)\n![Book Swap 4 (2)](img/ign-colecao-exploracao-12.jpg)\n![Book Swap 4 (3)](img/ign-colecao-exploracao-13.jpg)\n![Book Swap 5](img/ign-colecao-exploracao-14.jpg)\n![Book Swap 5 (2)](img/ign-colecao-exploracao-15.jpg)\n![Book Swap 5 (3)](img/ign-colecao-exploracao-16.jpg)\n![Book Swap 6](img/ign-colecao-exploracao-17.jpg)\n![Book Swap 6 (2)](img/ign-colecao-exploracao-18.jpg)\n![Book Swap 6 (3)](img/ign-colecao-exploracao-19.jpg)\n![Book Swap 7](img/ign-colecao-exploracao-20.jpg)\n![Book Swap 7 (2)](img/ign-colecao-exploracao-21.jpg)\n![Book Swap 7 (3)](img/ign-colecao-exploracao-22.jpg)",
+   "kw": [
+    "ahol",
+    "street art",
+    "1010",
+    "murals",
+    "book swap",
+    "meditation",
+    "flamingo",
+    "playlist",
+    "styles",
+    "meteorite",
+    "doubloon",
+    "magazines",
+    "watches",
+    "books"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "colecao-kenton",
+  "sec": "colecao",
+  "sub": "mapa",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Mergulho e tesouros do Kenton",
+  "sum": "41 tesouros em 7 pontos de mergulho perto de Key Lento. A lista tem o lugar de cada um em 6 deles.",
+  "body": "![Início](img/ign-colecao-kenton-1.jpg)\n\n#### Como funciona\n- Libera depois de Island Dreams (Cap. 1), quando o Kenton passa os pontos de mergulho. Eles aparecem no mapa como **baú roxo**; depois o Kenton manda novos.\n- O equipamento de mergulho só aparece em barcos que o carregam; o do Kenton e o do Jason (Cap. 1) têm.\n- Use o detector de metais ({L1} no inventário; mire com {L2}/{R2}) e cave quando o bipe acelerar.\n- Pegue um tesouro com {△}.\n- **Baú enterrado:** com o detector, segure {L2}+{R2} e toque {✕} para cavar.\n- Os tesouros vendem bem em pawn shops, mesmo depois que o Kenton sai de cena.\n- **Rival:** Sir Todd Bancroft, outro caçador de tesouros, tem uma linha de história opcional.\n\n#### Quanto precisa\n- A IGN conta 7 pontos com 41 tesouros; o primeiro, da história, só tem dobrões. A lista abaixo cobre 6 dos 7 pontos: o sétimo ainda não foi publicado.\n- Para os 100% bastam **5 de 7 conjuntos** ([[colecao-100]]). As fontes não dizem se “conjunto” é o mesmo que ponto de mergulho.\n- As 33 Descobertas submarinas (Underwater Discoveries) são outra categoria: [[colecao-exploracao]].",
+  "check": [
+   {
+    "id": "kn-nuestra-se-ora-del-ocio",
+    "t": "**Nuestra Señora del Ocio** — primeiro ponto, na história",
+    "d": "Só dobrões de ouro: ao norte da proa num baú com cerâmica · dentro da abertura do porão · ao norte, na base do coral cogumelo · a nordeste, sob um coral (tem mais um perto)"
+   },
+   {
+    "id": "kn-urca-de-cinco-torres",
+    "t": "**Urca de Cinco Torres** — oeste do penúltimo banco de areia de Key Lento",
+    "d": "Onde está cada tesouro: Máscara no capim ao sul · Colar a sudeste, na areia com cerâmica · Luva a leste, perto de um coral · Dobrão enferrujado no meio do navio, lado sul · Prato ao norte, contra uma rocha de coral · Taça com olho de jade na frente, lado oeste"
+   },
+   {
+    "id": "kn-urca-de-santa-sierra",
+    "t": "**Urca de Santa Sierra** — Leonida Straits, a leste do banco de areia sul de Key Lento",
+    "d": "Onde está cada tesouro: Compasso entre os destroços e as velas vermelhas, a oeste do casco · Sino a noroeste, na frente, ao norte das velas · Relógio de bolso na parte da popa, ao norte · Luneta na proa sul, lado oeste · Cantil a leste, perto de pedras e corais · Dobrão gasto ao norte, junto a uma rocha com coral"
+   },
+   {
+    "id": "kn-nuestra-se-ora-lujuriosa",
+    "t": "**Nuestra Señora Lujuriosa** — sudeste de Key Lento, entre os dois bancos de areia",
+    "d": "Onde está cada tesouro: Tigela na popa, sudeste · Lhama a nordeste, nas pedras · Estatueta no lado norte, meio do navio, perto do mastro dianteiro · Faca na proa, nas pedras · Dobrão brilhante a noroeste, perto de um coral · Caneca de jade no meio da frente do casco, lado sul, nas pedras"
+   },
+   {
+    "id": "kn-nuestra-se-ora-de-la-noche",
+    "t": "**Nuestra Señora de la Noche** — perto de Key Lento",
+    "d": "Onde está cada tesouro: Castiçal ao sul (o mastro quebrado aponta para ele) · Santo de marfim colado ao casco, ao norte · Gema roxa na popa · Cachimbo de dragão no lado sul, perto do mastro principal · Dobrão manchado num baú a oeste da popa · Manopla na proa, lado norte · Estátua serpentina na frente\n\n![Antique Candlestick](img/ign-kn-nuestra-se-ora-de-la-noche-1.jpg)\n![Antique Candlestick (2)](img/ign-kn-nuestra-se-ora-de-la-noche-2.jpg)\n![Antique Candlestick (3)](img/ign-kn-nuestra-se-ora-de-la-noche-3.jpg)\n![Ivory Saint](img/ign-kn-nuestra-se-ora-de-la-noche-4.jpg)\n![Ivory Saint (2)](img/ign-kn-nuestra-se-ora-de-la-noche-5.jpg)\n![Ivory Saint (3)](img/ign-kn-nuestra-se-ora-de-la-noche-6.jpg)\n![Purple Gemstone](img/ign-kn-nuestra-se-ora-de-la-noche-7.jpg)\n![Purple Gemstone (2)](img/ign-kn-nuestra-se-ora-de-la-noche-8.jpg)\n![Purple Gemstone (3)](img/ign-kn-nuestra-se-ora-de-la-noche-9.jpg)\n![Dragon Pipe](img/ign-kn-nuestra-se-ora-de-la-noche-10.jpg)\n![Dragon Pipe (2)](img/ign-kn-nuestra-se-ora-de-la-noche-11.jpg)\n![Dragon Pipe (3)](img/ign-kn-nuestra-se-ora-de-la-noche-12.jpg)\n![Stained Doubloon](img/ign-kn-nuestra-se-ora-de-la-noche-13.jpg)\n![Stained Doubloon (2)](img/ign-kn-nuestra-se-ora-de-la-noche-14.jpg)\n![Stained Doubloon (3)](img/ign-kn-nuestra-se-ora-de-la-noche-15.jpg)\n![Pewter Gauntlet](img/ign-kn-nuestra-se-ora-de-la-noche-16.jpg)\n![Pewter Gauntlet (2)](img/ign-kn-nuestra-se-ora-de-la-noche-17.jpg)\n![Pewter Gauntlet (3)](img/ign-kn-nuestra-se-ora-de-la-noche-18.jpg)\n![Serpentine Statue](img/ign-kn-nuestra-se-ora-de-la-noche-19.jpg)\n![Serpentine Statue (2)](img/ign-kn-nuestra-se-ora-de-la-noche-20.jpg)\n![Serpentine Statue (3)](img/ign-kn-nuestra-se-ora-de-la-noche-21.jpg)"
+   },
+   {
+    "id": "kn-nuestra-se-ora-de-la-tica-laxa",
+    "t": "**Nuestra Señora de la Ética Laxa** — na costa de Key Lento (a missão fala em relíquias de ouro)",
+    "d": "Onde está cada tesouro: Caixa de rapé a sudoeste, perto do mastro · Pingente de ouro dentro do casco, lado sul, numa caixa quebrada · Cálice de ouro no fundo, ao lado de uma caixa, lado sul · Colher cerimonial: varra a areia a sudeste · Dobrão batido: baú enterrado ao sul, perto dos corais\n\n![Ancient Snuff Box](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-1.jpg)\n![Ancient Snuff Box (2)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-2.jpg)\n![Ancient Snuff Box (3)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-3.jpg)\n![Golden Pendant](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-4.jpg)\n![Golden Pendant (2)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-5.jpg)\n![Golden Pendant (3)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-6.jpg)\n![Golden Chalice](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-7.jpg)\n![Golden Chalice (2)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-8.jpg)\n![Golden Chalice (3)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-9.jpg)\n![Ceremonial Spoon](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-10.jpg)\n![Ceremonial Spoon (2)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-11.jpg)\n![Ceremonial Spoon (3)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-12.jpg)\n![Battered Doubloon](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-13.jpg)\n![Battered Doubloon (2)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-14.jpg)\n![Battered Doubloon (3)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-15.jpg)\n![Battered Doubloon (4)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-16.jpg)"
+   }
+  ],
+  "src": [
+   "IGN",
+   "Eurogamer",
+   "PowerPyx"
+  ],
+  "kw": [
+   "kenton",
+   "naufragio",
+   "tesouro",
+   "mergulho",
+   "dobrao",
+   "equipamento de mergulho",
+   "detector",
+   "sir todd"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Diving and Kenton's treasures",
+   "sum": "41 treasures across 7 dive sites near Key Lento. The list has each one's spot for 6 of them.",
+   "body": "![Start](img/ign-colecao-kenton-1.jpg)\n\n#### How it works\n- Unlocks after Island Dreams (Ch. 1), when Kenton gives you the dive sites. They show on the map as a **purple chest**; later Kenton sends new ones.\n- Dive gear only appears on boats that carry it; Kenton's and Jason's (Ch. 1) both do.\n- Use the metal detector ({L1} loadout; aim with {L2}/{R2}) and dig when the beep speeds up.\n- Grab a treasure with {△}.\n- **Buried chest:** with the detector, hold {L2}+{R2} and tap {✕} to dig.\n- Treasures sell well at pawn shops, even after Kenton is gone.\n- **Rival:** Sir Todd Bancroft, another treasure hunter, has an optional storyline.\n\n#### How much you need\n- IGN counts 7 sites with 41 treasures; the first, story-driven one holds only doubloons. The list below covers 6 of the 7 sites: the seventh isn't published yet.\n- 100% only needs **5 of 7 sets** ([[colecao-100]]). The sources don't say whether a “set” is the same as a dive site.\n- The 33 Underwater Discoveries are a separate category: [[colecao-exploracao]].",
+   "kw": [
+    "kenton",
+    "shipwreck",
+    "treasure",
+    "diving",
+    "doubloon",
+    "scuba",
+    "dive gear",
+    "detector",
+    "sir todd"
+   ],
+   "check": [
+    {
+     "id": "kn-nuestra-se-ora-del-ocio",
+     "t": "**Nuestra Señora del Ocio** — first site, in the story",
+     "d": "Gold doubloons only: north of the bow in a chest with pottery · inside the hold opening · north, at the base of the mushroom coral · northeast under a coral (another one nearby)"
+    },
+    {
+     "id": "kn-urca-de-cinco-torres",
+     "t": "**Urca de Cinco Torres** — west of the second-to-last Key Lento sandbar",
+     "d": "Where each treasure is: Mask in the grass to the south · Necklace southeast, in the sand with pottery · Glove east, near a coral · Rusty doubloon mid-ship, south side · Plate north, against a coral rock · Jade-eye goblet at the front, west side"
+    },
+    {
+     "id": "kn-urca-de-santa-sierra",
+     "t": "**Urca de Santa Sierra** — Leonida Straits, east of Key Lento's southern sandbar",
+     "d": "Where each treasure is: Compass between the debris and red sails, west of the hull · Bell northwest at the front, north of the sails · Pocket watch at the stern section, north · Spyglass at the south bow, west side · Canteen east, near rocks and corals · Worn doubloon north, by a coral rock"
+    },
+    {
+     "id": "kn-nuestra-se-ora-lujuriosa",
+     "t": "**Nuestra Señora Lujuriosa** — southeast of Key Lento, between the two sandbars",
+     "d": "Where each treasure is: Bowl at the stern, southeast · Llama northeast, on the rocks · Figurine on the north side mid-ship near the foremast · Knife at the bow, on the rocks · Shiny doubloon northwest by a coral · Jade mug mid-front of the hull, south side, on the rocks"
+    },
+    {
+     "id": "kn-nuestra-se-ora-de-la-noche",
+     "t": "**Nuestra Señora de la Noche** — near Key Lento",
+     "d": "Where each treasure is: Candlestick to the south (the broken mast points at it) · Ivory saint hugging the hull, north · Purple gem at the stern · Dragon pipe on the south side near the main mast · Tarnished doubloon in a chest west of the stern · Gauntlet at the bow, north side · Serpentine statue at the front\n\n![Antique Candlestick](img/ign-kn-nuestra-se-ora-de-la-noche-1.jpg)\n![Antique Candlestick (2)](img/ign-kn-nuestra-se-ora-de-la-noche-2.jpg)\n![Antique Candlestick (3)](img/ign-kn-nuestra-se-ora-de-la-noche-3.jpg)\n![Ivory Saint](img/ign-kn-nuestra-se-ora-de-la-noche-4.jpg)\n![Ivory Saint (2)](img/ign-kn-nuestra-se-ora-de-la-noche-5.jpg)\n![Ivory Saint (3)](img/ign-kn-nuestra-se-ora-de-la-noche-6.jpg)\n![Purple Gemstone](img/ign-kn-nuestra-se-ora-de-la-noche-7.jpg)\n![Purple Gemstone (2)](img/ign-kn-nuestra-se-ora-de-la-noche-8.jpg)\n![Purple Gemstone (3)](img/ign-kn-nuestra-se-ora-de-la-noche-9.jpg)\n![Dragon Pipe](img/ign-kn-nuestra-se-ora-de-la-noche-10.jpg)\n![Dragon Pipe (2)](img/ign-kn-nuestra-se-ora-de-la-noche-11.jpg)\n![Dragon Pipe (3)](img/ign-kn-nuestra-se-ora-de-la-noche-12.jpg)\n![Stained Doubloon](img/ign-kn-nuestra-se-ora-de-la-noche-13.jpg)\n![Stained Doubloon (2)](img/ign-kn-nuestra-se-ora-de-la-noche-14.jpg)\n![Stained Doubloon (3)](img/ign-kn-nuestra-se-ora-de-la-noche-15.jpg)\n![Pewter Gauntlet](img/ign-kn-nuestra-se-ora-de-la-noche-16.jpg)\n![Pewter Gauntlet (2)](img/ign-kn-nuestra-se-ora-de-la-noche-17.jpg)\n![Pewter Gauntlet (3)](img/ign-kn-nuestra-se-ora-de-la-noche-18.jpg)\n![Serpentine Statue](img/ign-kn-nuestra-se-ora-de-la-noche-19.jpg)\n![Serpentine Statue (2)](img/ign-kn-nuestra-se-ora-de-la-noche-20.jpg)\n![Serpentine Statue (3)](img/ign-kn-nuestra-se-ora-de-la-noche-21.jpg)"
+    },
+    {
+     "id": "kn-nuestra-se-ora-de-la-tica-laxa",
+     "t": "**Nuestra Señora de la Ética Laxa** — off the coast of Key Lento (rumored gold relics)",
+     "d": "Where each treasure is: Snuff box southwest, near the mast · Golden pendant inside the hull, south side, in a broken crate · Golden chalice on the floor beside a crate, south side · Ceremonial spoon: sweep the sand to the southeast · Battered doubloon: buried chest to the south, near the corals\n\n![Ancient Snuff Box](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-1.jpg)\n![Ancient Snuff Box (2)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-2.jpg)\n![Ancient Snuff Box (3)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-3.jpg)\n![Golden Pendant](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-4.jpg)\n![Golden Pendant (2)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-5.jpg)\n![Golden Pendant (3)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-6.jpg)\n![Golden Chalice](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-7.jpg)\n![Golden Chalice (2)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-8.jpg)\n![Golden Chalice (3)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-9.jpg)\n![Ceremonial Spoon](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-10.jpg)\n![Ceremonial Spoon (2)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-11.jpg)\n![Ceremonial Spoon (3)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-12.jpg)\n![Battered Doubloon](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-13.jpg)\n![Battered Doubloon (2)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-14.jpg)\n![Battered Doubloon (3)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-15.jpg)\n![Battered Doubloon (4)](img/ign-kn-nuestra-se-ora-de-la-tica-laxa-16.jpg)"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "mundo-pesca",
+  "sec": "colecao",
+  "sub": "mapa",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Pesca: as 35 espécies",
+  "sum": "Isca certa e melhor lugar de cada peixe.",
+  "body": "- Veja em Progress → aba Fishing. Os peixes em vermelho são das **Fishing Rivalries** do Cal.\n- **Iscas:** só em algumas Ammu-Nations (ícone de peixe em Features). Média de água doce US$ 40, média de água salgada US$ 50, grande de água salgada US$ 112. A isca **Candy Cane** fica na garagem de uma casa em Ambrosia.\n- Pescar todas dá o desafio Pro Angler ([[colecao-desafios]]).\n- Ao pescar, o ponto fica marcado no mapa com um peixe roxo.",
+  "table": {
+   "cols": [
+    "Espécie",
+    "Isca",
+    "Melhor lugar"
+   ],
+   "rows": [
+    [
+     "American Eel",
+     "Média, água doce",
+     "Cottonmouth Lake"
+    ],
+    [
+     "Atlantic Spadefish",
+     "Média, água salgada",
+     "Leonida Straits, ao sul de Mariana"
+    ],
+    [
+     "Atlantic Spanish Mackerel",
+     "Água salgada",
+     "Ao sul de Key Lento"
+    ],
+    [
+     "Atlantic Tarpon",
+     "Grande, água salgada",
+     "Noroeste de Port Gellhorn"
+    ],
+    [
+     "Atlantic Thread Herring",
+     "Grande, água salgada",
+     "Atlântico, nordeste de Vice Beach"
+    ],
+    [
+     "Bluegill",
+     "Pequena, água doce",
+     "Nehrling River"
+    ],
+    [
+     "Candy Fish",
+     "Candy Cane",
+     "Lake Leonida"
+    ],
+    [
+     "Channel Catfish",
+     "Média, água doce",
+     "Buckskin Swamp"
+    ],
+    [
+     "Lake Chubsucker",
+     "Pequena, água doce",
+     "Lake Tallaloko"
+    ],
+    [
+     "Greater Amberjack",
+     "Pequena, água salgada",
+     "Sudeste de Dalton Island"
+    ],
+    [
+     "Great Barracuda",
+     "Grande, água salgada",
+     "Leonida Straits, perto de Key Lento"
+    ],
+    [
+     "Largemouth Bass",
+     "Pequena, água doce",
+     "Gullet Marsh"
+    ],
+    [
+     "Rock Sea Bass",
+     "Pequena, água salgada",
+     "Oeste de Watson Bay"
+    ],
+    [
+     "Striped Bass",
+     "Média, água salgada",
+     "Patridge Bay (norte de Lummox)"
+    ],
+    [
+     "Cobia",
+     "Grande, água salgada",
+     "Leste de Vice Beach"
+    ],
+    [
+     "Black Drum",
+     "Não informada",
+     "Okchiloha Bay (noroeste de Lummox)"
+    ],
+    [
+     "Green Moray Eel",
+     "Grande, água salgada",
+     "Millport Basin"
+    ],
+    [
+     "Spotted Moray Eel",
+     "Média, água salgada",
+     "Atlântico, leste de Leonard"
+    ],
+    [
+     "Leonida Gar",
+     "Média, água doce",
+     "Grassrivers, oeste de Hamlet"
+    ],
+    [
+     "Black Grouper",
+     "Média, água salgada",
+     "Leonida Bay, ao norte da Mile Zero"
+    ],
+    [
+     "Tiger Grouper",
+     "Média, água salgada",
+     "Oeste de Draper Bay"
+    ],
+    [
+     "Bluestriped Grunt",
+     "Pequena, água salgada",
+     "Abismo Key"
+    ],
+    [
+     "Hogfish",
+     "Média, água salgada",
+     "Leonida Straits, nordeste de Key Lento"
+    ],
+    [
+     "Red Lionfish",
+     "Média, água salgada",
+     "Golfo, oeste de Bobcat Bight e Tola Bay"
+    ],
+    [
+     "Mahi Mahi",
+     "Grande, água salgada",
+     "Ao sul das Riquezas Keys"
+    ],
+    [
+     "Stoplight Parrotfish",
+     "Pequena, água salgada",
+     "Sudeste das Shoeless Keys"
+    ],
+    [
+     "Permit",
+     "Grande, água salgada",
+     "Leonida Straits, ao sul de Vice-Dale"
+    ],
+    [
+     "Redfin Pickerel",
+     "Pequena, água doce",
+     "Sudoeste de South Kelly / Buckskin"
+    ],
+    [
+     "Littlehead Porgy",
+     "Pequena, água salgada",
+     "Ao sul das Crude Islands"
+    ],
+    [
+     "Salt Fish",
+     "Média, água doce",
+     "Lake Leonida"
+    ],
+    [
+     "Northern Red Snapper",
+     "Média, água salgada",
+     "Noroeste da Leonida Bay"
+    ],
+    [
+     "Yellowtail Snapper",
+     "Pequena, água salgada",
+     "Entre a Mile Zero e Abismo Key"
+    ],
+    [
+     "Common Snook",
+     "Média, água salgada",
+     "Norte de Waxman/Starfish, Vice Beach"
+    ],
+    [
+     "Redbreast Sunfish",
+     "Pequena, água doce",
+     "Norte do Emerald River"
+    ],
+    [
+     "Yellowfin Tuna",
+     "Grande, água salgada",
+     "Golfo, oeste de Tola Bay"
+    ]
+   ],
+   "sort": true
+  },
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "pesca",
+   "peixes",
+   "iscas"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Fishing: all 35 species",
+   "sum": "The right lure and best spot for each fish.",
+   "body": "- Check Progress → Fishing tab. Fish in red belong to Cal's **Fishing Rivalries**.\n- **Lures:** only at some Ammu-Nations (fish icon under Features). Medium freshwater $40, medium saltwater $50, large saltwater $112. The **Candy Cane** lure is in a house garage in Ambrosia.\n- Catching them all completes the Pro Angler challenge ([[colecao-desafios]]).\n- Once you catch one, the spot is marked on the map with a purple fish.",
+   "kw": [
+    "fishing",
+    "lures"
+   ],
+   "table": {
+    "cols": [
+     "Species",
+     "Lure",
+     "Best spot"
+    ],
+    "rows": [
+     [
+      "American Eel",
+      "Medium freshwater",
+      "Cottonmouth Lake"
+     ],
+     [
+      "Atlantic Spadefish",
+      "Medium saltwater",
+      "Leonida Straits, south of Mariana"
+     ],
+     [
+      "Atlantic Spanish Mackerel",
+      "Saltwater",
+      "South of Key Lento"
+     ],
+     [
+      "Atlantic Tarpon",
+      "Large saltwater",
+      "Northwest of Port Gellhorn"
+     ],
+     [
+      "Atlantic Thread Herring",
+      "Large saltwater",
+      "Atlantic, northeast of Vice Beach"
+     ],
+     [
+      "Bluegill",
+      "Small freshwater",
+      "Nehrling River"
+     ],
+     [
+      "Candy Fish",
+      "Candy Cane",
+      "Lake Leonida"
+     ],
+     [
+      "Channel Catfish",
+      "Medium freshwater",
+      "Buckskin Swamp"
+     ],
+     [
+      "Lake Chubsucker",
+      "Small freshwater",
+      "Lake Tallaloko"
+     ],
+     [
+      "Greater Amberjack",
+      "Small saltwater",
+      "Southeast of Dalton Island"
+     ],
+     [
+      "Great Barracuda",
+      "Large saltwater",
+      "Leonida Straits, near Key Lento"
+     ],
+     [
+      "Largemouth Bass",
+      "Small freshwater",
+      "Gullet Marsh"
+     ],
+     [
+      "Rock Sea Bass",
+      "Small saltwater",
+      "West of Watson Bay"
+     ],
+     [
+      "Striped Bass",
+      "Medium saltwater",
+      "Patridge Bay (north Lummox)"
+     ],
+     [
+      "Cobia",
+      "Large saltwater",
+      "East of Vice Beach"
+     ],
+     [
+      "Black Drum",
+      "Not listed",
+      "Okchiloha Bay (northwest Lummox)"
+     ],
+     [
+      "Green Moray Eel",
+      "Large saltwater",
+      "Millport Basin"
+     ],
+     [
+      "Spotted Moray Eel",
+      "Medium saltwater",
+      "Atlantic, east of Leonard"
+     ],
+     [
+      "Leonida Gar",
+      "Medium freshwater",
+      "Grassrivers, west of Hamlet"
+     ],
+     [
+      "Black Grouper",
+      "Medium saltwater",
+      "Leonida Bay, north of Mile Zero"
+     ],
+     [
+      "Tiger Grouper",
+      "Medium saltwater",
+      "West of Draper Bay"
+     ],
+     [
+      "Bluestriped Grunt",
+      "Small saltwater",
+      "Abismo Key"
+     ],
+     [
+      "Hogfish",
+      "Medium saltwater",
+      "Leonida Straits, northeast of Key Lento"
+     ],
+     [
+      "Red Lionfish",
+      "Medium saltwater",
+      "Gulf, west of Bobcat Bight and Tola Bay"
+     ],
+     [
+      "Mahi Mahi",
+      "Large saltwater",
+      "South of the Riquezas Keys"
+     ],
+     [
+      "Stoplight Parrotfish",
+      "Small saltwater",
+      "Southeast of the Shoeless Keys"
+     ],
+     [
+      "Permit",
+      "Large saltwater",
+      "Leonida Straits, south of Vice-Dale"
+     ],
+     [
+      "Redfin Pickerel",
+      "Small freshwater",
+      "Southwest South Kelly / Buckskin"
+     ],
+     [
+      "Littlehead Porgy",
+      "Small saltwater",
+      "South of the Crude Islands"
+     ],
+     [
+      "Salt Fish",
+      "Medium freshwater",
+      "Lake Leonida"
+     ],
+     [
+      "Northern Red Snapper",
+      "Medium saltwater",
+      "Northwest Leonida Bay"
+     ],
+     [
+      "Yellowtail Snapper",
+      "Small saltwater",
+      "Between Mile Zero and Abismo Key"
+     ],
+     [
+      "Common Snook",
+      "Medium saltwater",
+      "North of Waxman/Starfish, Vice Beach"
+     ],
+     [
+      "Redbreast Sunfish",
+      "Small freshwater",
+      "North Emerald River"
+     ],
+     [
+      "Yellowfin Tuna",
+      "Large saltwater",
+      "Gulf, west of Tola Bay"
+     ]
+    ],
+    "sort": true
+   }
+  }
+ },
+ {
+  "kind": "card",
+  "id": "mundo-jogos",
+  "sec": "colecao",
+  "sub": "jogos",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Arcade e console: os 4 jogos e seus desafios",
+  "sum": "Liberam no Cap. 1. 26 desafios para marcar; os 4 jogos contam para os 100%.",
+  "body": "- Ficam jogáveis no console de casa depois de ||Feng Shui|| (Cap. 1). Bang For Your Buck e Street Trash 3 também estão nos arcades.\n- **Bang For Your Buck:** Tiro em primeira pessoa de caça contra o relógio; cada abate dá dinheiro e as caixas aumentam o total.\n- **Street Trash 3: Dezombifier:** Visão de cima contra zumbis em Freedom City; junte 6 engrenagens para a extração e use Perk Cards.\n- **Tenebrae Lux:** Exploração com quebra-cabeças numa ilha, até o farol.\n- **Time Jackers: Rewind:** Twin-stick em 2084 contra a DominiCorp, com tempo limitado.",
+  "check": [
+   {
+    "id": "jg-bang-for-your-buck-0",
+    "t": "**Bang For Your Buck** — Nota A++ em todas as fases"
+   },
+   {
+    "id": "jg-bang-for-your-buck-1",
+    "t": "**Bang For Your Buck** — Ficar no topo em todos os gabinetes"
+   },
+   {
+    "id": "jg-bang-for-your-buck-2",
+    "t": "**Bang For Your Buck** — Nota B em todas as fases só com o rifle"
+   },
+   {
+    "id": "jg-bang-for-your-buck-3",
+    "t": "**Bang For Your Buck** — Fechar uma fase matando todas as corças"
+   },
+   {
+    "id": "jg-bang-for-your-buck-4",
+    "t": "**Bang For Your Buck** — 100% de precisão em todas as fases"
+   },
+   {
+    "id": "jg-street-trash-3-dezombifier-0",
+    "t": "**Street Trash 3: Dezombifier** — Extrair"
+   },
+   {
+    "id": "jg-street-trash-3-dezombifier-1",
+    "t": "**Street Trash 3: Dezombifier** — Extrair com “Trusting the Process”"
+   },
+   {
+    "id": "jg-street-trash-3-dezombifier-2",
+    "t": "**Street Trash 3: Dezombifier** — Extrair depois de uma sequência de 666"
+   },
+   {
+    "id": "jg-street-trash-3-dezombifier-3",
+    "t": "**Street Trash 3: Dezombifier** — Só pistola, sem Redraws"
+   },
+   {
+    "id": "jg-street-trash-3-dezombifier-4",
+    "t": "**Street Trash 3: Dezombifier** — Modo 666"
+   },
+   {
+    "id": "jg-street-trash-3-dezombifier-5",
+    "t": "**Street Trash 3: Dezombifier** — Modo 666 com “Trusting the Process”"
+   },
+   {
+    "id": "jg-street-trash-3-dezombifier-6",
+    "t": "**Street Trash 3: Dezombifier** — Code Cards"
+   },
+   {
+    "id": "jg-street-trash-3-dezombifier-7",
+    "t": "**Street Trash 3: Dezombifier** — Obsidian Cards"
+   },
+   {
+    "id": "jg-tenebrae-lux-0",
+    "t": "**Tenebrae Lux** — Abrir a porta para o Além"
+   },
+   {
+    "id": "jg-tenebrae-lux-1",
+    "t": "**Tenebrae Lux** — Achar as páginas do caderno"
+   },
+   {
+    "id": "jg-tenebrae-lux-2",
+    "t": "**Tenebrae Lux** — Quebrar a quarta parede"
+   },
+   {
+    "id": "jg-tenebrae-lux-3",
+    "t": "**Tenebrae Lux** — Resolver os quebra-cabeças"
+   },
+   {
+    "id": "jg-tenebrae-lux-4",
+    "t": "**Tenebrae Lux** — Ver “The End”"
+   },
+   {
+    "id": "jg-tenebrae-lux-5",
+    "t": "**Tenebrae Lux** — Ver todos os créditos"
+   },
+   {
+    "id": "jg-tenebrae-lux-6",
+    "t": "**Tenebrae Lux** — Não errar nenhum quebra-cabeça"
+   },
+   {
+    "id": "jg-tenebrae-lux-7",
+    "t": "**Tenebrae Lux** — Ver todas as aparições da criatura das sombras"
+   },
+   {
+    "id": "jg-time-jackers-rewind-0",
+    "t": "**Time Jackers: Rewind** — Zerar em menos de 20 min"
+   },
+   {
+    "id": "jg-time-jackers-rewind-1",
+    "t": "**Time Jackers: Rewind** — Zerar sem Uplink Chambers"
+   },
+   {
+    "id": "jg-time-jackers-rewind-2",
+    "t": "**Time Jackers: Rewind** — Fazer The Past só com pistola"
+   },
+   {
+    "id": "jg-time-jackers-rewind-3",
+    "t": "**Time Jackers: Rewind** — Ir ao Data Vault Uplink e voltar"
+   },
+   {
+    "id": "jg-time-jackers-rewind-4",
+    "t": "**Time Jackers: Rewind** — Concluir as zonas"
+   }
+  ],
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "jogos",
+   "arcade",
+   "console",
+   "fliperama"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Arcade and console: the 4 games and their challenges",
+   "sum": "They unlock in Ch. 1. 26 challenges to tick; the 4 games count toward 100%.",
+   "body": "- Playable on the home console after ||Feng Shui|| (Ch. 1). Bang For Your Buck and Street Trash 3 are also in arcades.\n- **Bang For Your Buck:** First-person hunting shooter against the clock; every kill pays and crates raise your total.\n- **Street Trash 3: Dezombifier:** Top-down zombie shooter in Freedom City; collect 6 gears to extract, with Perk Cards.\n- **Tenebrae Lux:** Walking sim with puzzles on an island, all the way to the lighthouse.\n- **Time Jackers: Rewind:** Twin-stick shooter set in 2084 against DominiCorp, on a time limit.",
+   "kw": [
+    "arcade",
+    "console",
+    "minigames"
+   ],
+   "check": [
+    {
+     "id": "jg-bang-for-your-buck-0",
+     "t": "**Bang For Your Buck** — A++ on every stage"
+    },
+    {
+     "id": "jg-bang-for-your-buck-1",
+     "t": "**Bang For Your Buck** — Top score on every cabinet"
+    },
+    {
+     "id": "jg-bang-for-your-buck-2",
+     "t": "**Bang For Your Buck** — B on every stage with the rifle only"
+    },
+    {
+     "id": "jg-bang-for-your-buck-3",
+     "t": "**Bang For Your Buck** — Clear a stage killing every doe"
+    },
+    {
+     "id": "jg-bang-for-your-buck-4",
+     "t": "**Bang For Your Buck** — 100% accuracy on every stage"
+    },
+    {
+     "id": "jg-street-trash-3-dezombifier-0",
+     "t": "**Street Trash 3: Dezombifier** — Extract"
+    },
+    {
+     "id": "jg-street-trash-3-dezombifier-1",
+     "t": "**Street Trash 3: Dezombifier** — Extract with “Trusting the Process”"
+    },
+    {
+     "id": "jg-street-trash-3-dezombifier-2",
+     "t": "**Street Trash 3: Dezombifier** — Extract after a 666 streak"
+    },
+    {
+     "id": "jg-street-trash-3-dezombifier-3",
+     "t": "**Street Trash 3: Dezombifier** — Pistol only, no Redraws"
+    },
+    {
+     "id": "jg-street-trash-3-dezombifier-4",
+     "t": "**Street Trash 3: Dezombifier** — 666 mode"
+    },
+    {
+     "id": "jg-street-trash-3-dezombifier-5",
+     "t": "**Street Trash 3: Dezombifier** — 666 mode with “Trusting the Process”"
+    },
+    {
+     "id": "jg-street-trash-3-dezombifier-6",
+     "t": "**Street Trash 3: Dezombifier** — Code Cards"
+    },
+    {
+     "id": "jg-street-trash-3-dezombifier-7",
+     "t": "**Street Trash 3: Dezombifier** — Obsidian Cards"
+    },
+    {
+     "id": "jg-tenebrae-lux-0",
+     "t": "**Tenebrae Lux** — Open the door to the Beyond"
+    },
+    {
+     "id": "jg-tenebrae-lux-1",
+     "t": "**Tenebrae Lux** — Find the notebook pages"
+    },
+    {
+     "id": "jg-tenebrae-lux-2",
+     "t": "**Tenebrae Lux** — Break the fourth wall"
+    },
+    {
+     "id": "jg-tenebrae-lux-3",
+     "t": "**Tenebrae Lux** — Solve the puzzles"
+    },
+    {
+     "id": "jg-tenebrae-lux-4",
+     "t": "**Tenebrae Lux** — See “The End”"
+    },
+    {
+     "id": "jg-tenebrae-lux-5",
+     "t": "**Tenebrae Lux** — Watch all the credits"
+    },
+    {
+     "id": "jg-tenebrae-lux-6",
+     "t": "**Tenebrae Lux** — Fail no puzzle"
+    },
+    {
+     "id": "jg-tenebrae-lux-7",
+     "t": "**Tenebrae Lux** — See every appearance of the shadow creature"
+    },
+    {
+     "id": "jg-time-jackers-rewind-0",
+     "t": "**Time Jackers: Rewind** — Finish in under 20 min"
+    },
+    {
+     "id": "jg-time-jackers-rewind-1",
+     "t": "**Time Jackers: Rewind** — Finish without Uplink Chambers"
+    },
+    {
+     "id": "jg-time-jackers-rewind-2",
+     "t": "**Time Jackers: Rewind** — Clear The Past with the pistol only"
+    },
+    {
+     "id": "jg-time-jackers-rewind-3",
+     "t": "**Time Jackers: Rewind** — Reach the Data Vault Uplink and return"
+    },
+    {
+     "id": "jg-time-jackers-rewind-4",
+     "t": "**Time Jackers: Rewind** — Clear the zones"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "colecao-cartas",
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "As 18 coleções de cartas",
+  "sum": "480 cartas em 18 coleções. Para os 100% bastam 15 completas. Cada item abre a lista de locais da coleção.",
+  "body": "- Ficam em lugares variados: garagens, casas, prateleiras de lojas de penhores, até no banheiro da recepção do motel e na geladeira do restaurante do motel (Cap. 2).\n- Cada jogador tem variantes: Standard, Bronze, Silver e Gold, ou cores (Deep Red, Navy Blue, Light Blue, Pink).\n- Guarde numa caixa em casa e venda quando quiser em qualquer **pawn shop**: cor e raridade definem o preço.\n- Desafio Collectible Cards: 3 cartas em cada um dos 5 condados ([[colecao-desafios]]).\n- **Cofres:** algumas cartas ficam em cofres. O código sai do assalto ao lugar (na Uncle Jack's Liquor é 7869); sem ele, use sticky bomb.\n- Cada coleção tem a sua lista com os locais da IGN: o link está em cada item abaixo. Marque o item aqui quando fechar a coleção lá.",
+  "check": [
+   {
+    "id": "cc-los-santos-corkers",
+    "t": "**Los Santos Corkers** — Beisebol, 24 cartas",
+    "d": "Locais carta por carta: [[cartas-los-santos-corkers|abrir lista]]"
+   },
+   {
+    "id": "cc-vice-city-flamingos",
+    "t": "**Vice City Flamingos** — Beisebol, 24 cartas",
+    "d": "Locais carta por carta: [[cartas-vice-city-flamingos|abrir lista]]"
+   },
+   {
+    "id": "cc-liberty-swingers",
+    "t": "**Liberty Swingers** — Beisebol, 24 cartas",
+    "d": "Locais carta por carta: [[cartas-liberty-swingers|abrir lista]]"
+   },
+   {
+    "id": "cc-los-santos-panic",
+    "t": "**Los Santos Panic** — Basquete, 24 cartas",
+    "d": "Locais carta por carta: [[cartas-los-santos-panic|abrir lista]]"
+   },
+   {
+    "id": "cc-liberty-city-penetrators",
+    "t": "**Liberty City Penetrators** — Basquete, 24 cartas",
+    "d": "Locais carta por carta: [[cartas-liberty-city-penetrators|abrir lista]]"
+   },
+   {
+    "id": "cc-vice-city-narcos",
+    "t": "**Vice City Narcos** — Basquete, 24 cartas",
+    "d": "Locais carta por carta: [[cartas-vice-city-narcos|abrir lista]]"
+   },
+   {
+    "id": "cc-vice-city-manatees",
+    "t": "**Vice City Manatees** — Futebol americano, 24 cartas",
+    "d": "Locais carta por carta: [[cartas-vice-city-manatees|abrir lista]]"
+   },
+   {
+    "id": "cc-los-santos-pounders",
+    "t": "**Los Santos Pounders** — Futebol americano, 24 cartas",
+    "d": "Locais carta por carta: [[cartas-los-santos-pounders|abrir lista]]"
+   },
+   {
+    "id": "cc-liberty-city-wrath",
+    "t": "**Liberty City Wrath** — Futebol americano, 24 cartas",
+    "d": "Locais carta por carta: [[cartas-liberty-city-wrath|abrir lista]]"
+   },
+   {
+    "id": "cc-vice-city-club-de-futbol",
+    "t": "**Vice City Club de Futbol** — Futebol, 30 cartas",
+    "d": "Locais carta por carta: [[cartas-vice-city-club-de-futbol|abrir lista]]"
+   },
+   {
+    "id": "cc-b-a-m-backyard-wrestling",
+    "t": "**B.A.M. Backyard Wrestling** — Novidade, 12 cartas",
+    "d": "Locais carta por carta: [[cartas-b-a-m-backyard-wrestling|abrir lista]]"
+   },
+   {
+    "id": "cc-america-s-next-top-hooker",
+    "t": "**America's Next Top Hooker** — Novidade, 24 cartas",
+    "d": "Locais carta por carta: [[cartas-america-s-next-top-hooker|abrir lista]]"
+   },
+   {
+    "id": "cc-jack-of-hearts",
+    "t": "**Jack of Hearts** — Dançarinas, 36 cartas",
+    "d": "Locais carta por carta: [[cartas-jack-of-hearts|abrir lista]]"
+   },
+   {
+    "id": "cc-delights",
+    "t": "**Delights** — Dançarinas, 18 cartas",
+    "d": "Locais carta por carta: [[cartas-delights|abrir lista]]"
+   },
+   {
+    "id": "cc-nine1nine",
+    "t": "**Nine1Nine** — Dançarinas, 36 cartas",
+    "d": "Locais carta por carta: [[cartas-nine1nine|abrir lista]]"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero",
+    "t": "**Right Wing: America's Hero** — HQ, 36 cartas",
+    "d": "Locais carta por carta: [[cartas-right-wing-america-s-hero|abrir lista]]"
+   },
+   {
+    "id": "cc-ed-universe",
+    "t": "**Ed Universe** — HQ, 36 cartas",
+    "d": "Locais carta por carta: [[cartas-ed-universe|abrir lista]]"
+   },
+   {
+    "id": "cc-legends-of-ratface",
+    "t": "**Legends of Ratface** — HQ, 36 cartas",
+    "d": "Locais carta por carta: [[cartas-legends-of-ratface|abrir lista]]"
+   }
+  ],
+  "src": [
+   "IGN",
+   "Eurogamer"
+  ],
+  "kw": [
+   "cartas",
+   "cards",
+   "colecionaveis",
+   "figurinhas"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "The 18 card sets",
+   "sum": "480 cards in 18 sets. You need 15 complete sets for 100%. Each item opens that set's location list.",
+   "body": "- They turn up everywhere: garages, homes, pawn shop shelves, even the motel reception bathroom and the motel diner fridge (Ch. 2).\n- Each player has variants: Standard, Bronze, Silver and Gold, or colors (Deep Red, Navy Blue, Light Blue, Pink).\n- Keep them in a box at home and sell whenever you like at any **pawn shop**: color and rarity set the price.\n- Collectible Cards challenge: 3 cards in each of the 5 counties ([[colecao-desafios]]).\n- **Safes:** some cards are in safes. The code comes from robbing that place (Uncle Jack's Liquor is 7869); otherwise use a sticky bomb.\n- Every set has its own list with IGN's locations: the link is on each item below. Tick the item here once you finish the set there.",
+   "kw": [
+    "cards",
+    "collectible cards",
+    "trading cards"
+   ],
+   "check": [
+    {
+     "id": "cc-los-santos-corkers",
+     "t": "**Los Santos Corkers** — Baseball, 24 cards",
+     "d": "Card-by-card locations: [[cartas-los-santos-corkers|open list]]"
+    },
+    {
+     "id": "cc-vice-city-flamingos",
+     "t": "**Vice City Flamingos** — Baseball, 24 cards",
+     "d": "Card-by-card locations: [[cartas-vice-city-flamingos|open list]]"
+    },
+    {
+     "id": "cc-liberty-swingers",
+     "t": "**Liberty Swingers** — Baseball, 24 cards",
+     "d": "Card-by-card locations: [[cartas-liberty-swingers|open list]]"
+    },
+    {
+     "id": "cc-los-santos-panic",
+     "t": "**Los Santos Panic** — Basketball, 24 cards",
+     "d": "Card-by-card locations: [[cartas-los-santos-panic|open list]]"
+    },
+    {
+     "id": "cc-liberty-city-penetrators",
+     "t": "**Liberty City Penetrators** — Basketball, 24 cards",
+     "d": "Card-by-card locations: [[cartas-liberty-city-penetrators|open list]]"
+    },
+    {
+     "id": "cc-vice-city-narcos",
+     "t": "**Vice City Narcos** — Basketball, 24 cards",
+     "d": "Card-by-card locations: [[cartas-vice-city-narcos|open list]]"
+    },
+    {
+     "id": "cc-vice-city-manatees",
+     "t": "**Vice City Manatees** — Football, 24 cards",
+     "d": "Card-by-card locations: [[cartas-vice-city-manatees|open list]]"
+    },
+    {
+     "id": "cc-los-santos-pounders",
+     "t": "**Los Santos Pounders** — Football, 24 cards",
+     "d": "Card-by-card locations: [[cartas-los-santos-pounders|open list]]"
+    },
+    {
+     "id": "cc-liberty-city-wrath",
+     "t": "**Liberty City Wrath** — Football, 24 cards",
+     "d": "Card-by-card locations: [[cartas-liberty-city-wrath|open list]]"
+    },
+    {
+     "id": "cc-vice-city-club-de-futbol",
+     "t": "**Vice City Club de Futbol** — Soccer, 30 cards",
+     "d": "Card-by-card locations: [[cartas-vice-city-club-de-futbol|open list]]"
+    },
+    {
+     "id": "cc-b-a-m-backyard-wrestling",
+     "t": "**B.A.M. Backyard Wrestling** — Novelty, 12 cards",
+     "d": "Card-by-card locations: [[cartas-b-a-m-backyard-wrestling|open list]]"
+    },
+    {
+     "id": "cc-america-s-next-top-hooker",
+     "t": "**America's Next Top Hooker** — Novelty, 24 cards",
+     "d": "Card-by-card locations: [[cartas-america-s-next-top-hooker|open list]]"
+    },
+    {
+     "id": "cc-jack-of-hearts",
+     "t": "**Jack of Hearts** — Dancers, 36 cards",
+     "d": "Card-by-card locations: [[cartas-jack-of-hearts|open list]]"
+    },
+    {
+     "id": "cc-delights",
+     "t": "**Delights** — Dancers, 18 cards",
+     "d": "Card-by-card locations: [[cartas-delights|open list]]"
+    },
+    {
+     "id": "cc-nine1nine",
+     "t": "**Nine1Nine** — Dancers, 36 cards",
+     "d": "Card-by-card locations: [[cartas-nine1nine|open list]]"
+    },
+    {
+     "id": "cc-right-wing-america-s-hero",
+     "t": "**Right Wing: America's Hero** — Comic, 36 cards",
+     "d": "Card-by-card locations: [[cartas-right-wing-america-s-hero|open list]]"
+    },
+    {
+     "id": "cc-ed-universe",
+     "t": "**Ed Universe** — Comic, 36 cards",
+     "d": "Card-by-card locations: [[cartas-ed-universe|open list]]"
+    },
+    {
+     "id": "cc-legends-of-ratface",
+     "t": "**Legends of Ratface** — Comic, 36 cards",
+     "d": "Card-by-card locations: [[cartas-legends-of-ratface|open list]]"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-los-santos-corkers",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Los Santos Corkers",
+  "sum": "Beisebol · 24 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Los Santos Corkers"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Los Santos Corkers",
+   "sum": "Baseball · 24 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Los Santos Corkers"
+   ]
+  },
+  "$info": {
+   "sizeKB": 10,
+   "checkItems": 24,
+   "checkTitles": [
+    "cc-los-santos-corkers-anthony-herndon-bronze: **Anthony Herndon - Bronze**",
+    "cc-los-santos-corkers-anthony-herndon-gold: **Anthony Herndon - Gold**",
+    "cc-los-santos-corkers-anthony-herndon-silver: **Anthony Herndon - Silver**",
+    "cc-los-santos-corkers-aoi-watanabe-standard: **Aoi Watanabe - Standard**",
+    "cc-los-santos-corkers-carlos-larios-bronze: **Carlos Larios - Bronze**",
+    "cc-los-santos-corkers-carlos-larios-gold: **Carlos Larios - Gold**",
+    "cc-los-santos-corkers-carlos-larios-silver: **Carlos Larios - Silver**",
+    "cc-los-santos-corkers-franklin-turner-bronze: **Franklin Turner - Bronze**",
+    "cc-los-santos-corkers-franklin-turner-gold: **Franklin Turner - Gold**",
+    "cc-los-santos-corkers-franklin-turner-silver: **Franklin Turner - Silver**",
+    "cc-los-santos-corkers-jesus-de-fuente-standard: **Jesus De Fuente - Standard**",
+    "cc-los-santos-corkers-jonah-clemmons-deep-red: **Jonah Clemmons - Deep Red**",
+    "cc-los-santos-corkers-jonah-clemmons-navy-blue: **Jonah Clemmons - Navy Blue**",
+    "cc-los-santos-corkers-jonah-clemmons-silver: **Jonah Clemmons - Silver**"
+   ],
+   "bodyStart": "- Beisebol, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 1 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-vice-city-flamingos",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Vice City Flamingos",
+  "sum": "Beisebol · 24 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Vice City Flamingos"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Vice City Flamingos",
+   "sum": "Baseball · 24 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Vice City Flamingos"
+   ]
+  },
+  "$info": {
+   "sizeKB": 10,
+   "checkItems": 24,
+   "checkTitles": [
+    "cc-vice-city-flamingos-angel-cienfuegos-light-blue: **Angel Cienfuegos - Light Blue**",
+    "cc-vice-city-flamingos-angel-cienfuegos-pink: **Angel Cienfuegos - Pink**",
+    "cc-vice-city-flamingos-angel-cienfuegos-silver: **Angel Cienfuegos - Silver**",
+    "cc-vice-city-flamingos-bill-norton-standard: **Bill Norton - Standard**",
+    "cc-vice-city-flamingos-charlie-spears-standard: **Charlie Spears - Standard**",
+    "cc-vice-city-flamingos-elias-delgado-light-blue: **Elias Delgado - Light Blue**",
+    "cc-vice-city-flamingos-elias-delgado-pink: **Elias Delgado - Pink**",
+    "cc-vice-city-flamingos-elias-delgado-silver: **Elias Delgado - Silver**",
+    "cc-vice-city-flamingos-harold-toye-light-blue: **Harold Toye - Light Blue**",
+    "cc-vice-city-flamingos-harold-toye-pink: **Harold Toye - Pink**",
+    "cc-vice-city-flamingos-harold-toye-silver: **Harold Toye - Silver**",
+    "cc-vice-city-flamingos-jude-flores-standard: **Jude Flores - Standard**",
+    "cc-vice-city-flamingos-julian-cruz-bronze: **Julian Cruz - Bronze**",
+    "cc-vice-city-flamingos-julian-cruz-gold: **Julian Cruz - Gold**"
+   ],
+   "bodyStart": "- Beisebol, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-liberty-swingers",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Liberty Swingers",
+  "sum": "Beisebol · 24 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Liberty Swingers"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Liberty Swingers",
+   "sum": "Baseball · 24 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Liberty Swingers"
+   ]
+  },
+  "$info": {
+   "sizeKB": 10,
+   "checkItems": 24,
+   "checkTitles": [
+    "cc-liberty-swingers-blake-balls-bronze: **Blake Balls - Bronze**",
+    "cc-liberty-swingers-blake-balls-gold: **Blake Balls - Gold**",
+    "cc-liberty-swingers-blake-balls-silver: **Blake Balls - Silver**",
+    "cc-liberty-swingers-christian-delgado-standard: **Christian Delgado - Standard**",
+    "cc-liberty-swingers-christian-freeman-deep-red: **Christian Freeman - Deep Red**",
+    "cc-liberty-swingers-christian-freeman-navy-blue: **Christian Freeman - Navy Blue**",
+    "cc-liberty-swingers-christian-freeman-silver: **Christian Freeman - Silver**",
+    "cc-liberty-swingers-duke-king-deep-red: **Duke King - Deep Red**",
+    "cc-liberty-swingers-duke-king-navy-blue: **Duke King - Navy Blue**",
+    "cc-liberty-swingers-duke-king-silver: **Duke King - Silver**",
+    "cc-liberty-swingers-garth-buxton-standard: **Garth Buxton - Standard**",
+    "cc-liberty-swingers-ichiro-yamada-bronze: **Ichiro Yamada - Bronze**",
+    "cc-liberty-swingers-ichiro-yamada-gold: **Ichiro Yamada - Gold**",
+    "cc-liberty-swingers-ichiro-yamada-silver: **Ichiro Yamada - Silver**"
+   ],
+   "bodyStart": "- Beisebol, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-los-santos-panic",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Los Santos Panic",
+  "sum": "Basquete · 24 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Los Santos Panic"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Los Santos Panic",
+   "sum": "Basketball · 24 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Los Santos Panic"
+   ]
+  },
+  "$info": {
+   "sizeKB": 10,
+   "checkItems": 24,
+   "checkTitles": [
+    "cc-los-santos-panic-carl-camp-standard: **Carl Camp - Standard**",
+    "cc-los-santos-panic-chibuike-bello-bronze: **Chibuike Bello - Bronze**",
+    "cc-los-santos-panic-chibuike-bello-gold: **Chibuike Bello - Gold**",
+    "cc-los-santos-panic-chibuike-bello-silver: **Chibuike Bello - Silver**",
+    "cc-los-santos-panic-damarion-carter-purple: **Damarion Carter - Purple**",
+    "cc-los-santos-panic-damarion-carter-silver: **Damarion Carter - Silver**",
+    "cc-los-santos-panic-damarion-carter-yellow: **Damarion Carter - Yellow**",
+    "cc-los-santos-panic-jackson-belton-standard: **Jackson Belton - Standard**",
+    "cc-los-santos-panic-jakob-markic-purple: **Jakob Markic - Purple**",
+    "cc-los-santos-panic-jakob-markic-silver: **Jakob Markic - Silver**",
+    "cc-los-santos-panic-jakob-markic-yellow: **Jakob Markic - Yellow**",
+    "cc-los-santos-panic-lloyd-robinson-standard: **Lloyd Robinson - Standard**",
+    "cc-los-santos-panic-marquise-bernard-standard: **Marquise Bernard - Standard**",
+    "cc-los-santos-panic-nikkander-orlov-purple: **Nikkander Orlov - Purple**"
+   ],
+   "bodyStart": "- Basquete, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 3 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-liberty-city-penetrators",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Liberty City Penetrators",
+  "sum": "Basquete · 24 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Liberty City Penetrators"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Liberty City Penetrators",
+   "sum": "Basketball · 24 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Liberty City Penetrators"
+   ]
+  },
+  "$info": {
+   "sizeKB": 11,
+   "checkItems": 24,
+   "checkTitles": [
+    "cc-liberty-city-penetrators-alexander-avain-bright-orange: **Alexander Avain - Bright Orange**",
+    "cc-liberty-city-penetrators-alexander-avain-navy-blue: **Alexander Avain - Navy Blue**",
+    "cc-liberty-city-penetrators-alexander-avain-silver: **Alexander Avain - Silver**",
+    "cc-liberty-city-penetrators-asher-rodriguez-standard: **Asher Rodriguez - Standard**",
+    "cc-liberty-city-penetrators-d-angelou-miles-standard: **D'Angelou Miles - Standard**",
+    "cc-liberty-city-penetrators-demario-richardson-bronze: **Demario Richardson - Bronze**",
+    "cc-liberty-city-penetrators-demario-richardson-gold: **Demario Richardson - Gold**",
+    "cc-liberty-city-penetrators-demario-richardson-silver: **Demario Richardson - Silver**",
+    "cc-liberty-city-penetrators-dimitri-petrov-standard: **Dimitri Petrov - Standard**",
+    "cc-liberty-city-penetrators-lamont-berry-standard: **Lamont Berry - Standard**",
+    "cc-liberty-city-penetrators-lev-volkov-bronze: **Lev Volkov - Bronze**",
+    "cc-liberty-city-penetrators-lev-volkov-gold: **Lev Volkov - Gold**",
+    "cc-liberty-city-penetrators-lev-volkov-silver: **Lev Volkov - Silver**",
+    "cc-liberty-city-penetrators-noah-marcus-bronze: **Noah Marcus - Bronze**"
+   ],
+   "bodyStart": "- Basquete, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-vice-city-narcos",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Vice City Narcos",
+  "sum": "Basquete · 24 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Vice City Narcos"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Vice City Narcos",
+   "sum": "Basketball · 24 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Vice City Narcos"
+   ]
+  },
+  "$info": {
+   "sizeKB": 10,
+   "checkItems": 24,
+   "checkTitles": [
+    "cc-vice-city-narcos-andre-stevenson-standard: **Andre Stevenson - Standard**",
+    "cc-vice-city-narcos-antoine-bello-standard: **Antoine Bello - Standard**",
+    "cc-vice-city-narcos-beck-r-heffer-orange: **Beck R. Heffer - Orange**",
+    "cc-vice-city-narcos-beck-r-heffer-silver: **Beck R. Heffer - Silver**",
+    "cc-vice-city-narcos-beck-r-heffer-teal: **Beck R. Heffer - Teal**",
+    "cc-vice-city-narcos-branko-roncevic-standard: **Branko Roncevic - Standard**",
+    "cc-vice-city-narcos-bryson-powers-standard: **Bryson Powers - Standard**",
+    "cc-vice-city-narcos-carl-kasey-standard: **Carl Kasey - Standard**",
+    "cc-vice-city-narcos-christoph-schulz-standard: **Christoph Schulz - Standard**",
+    "cc-vice-city-narcos-dylan-ezequiel-mack-jr-bronze: **Dylan Ezequiel Mack Jr. - Bronze**",
+    "cc-vice-city-narcos-dylan-ezequiel-mack-jr-gold: **Dylan Ezequiel Mack Jr. - Gold**",
+    "cc-vice-city-narcos-dylan-ezequiel-mack-jr-silver: **Dylan Ezequiel Mack Jr. - Silver**",
+    "cc-vice-city-narcos-kyle-lewicki-orange: **Kyle Lewicki - Orange**",
+    "cc-vice-city-narcos-kyle-lewicki-silver: **Kyle Lewicki - Silver**"
+   ],
+   "bodyStart": "- Basquete, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 3 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-vice-city-manatees",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Vice City Manatees",
+  "sum": "Futebol americano · 24 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Vice City Manatees"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Vice City Manatees",
+   "sum": "Football · 24 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Vice City Manatees"
+   ]
+  },
+  "$info": {
+   "sizeKB": 11,
+   "checkItems": 24,
+   "checkTitles": [
+    "cc-vice-city-manatees-ali-zeidan-standard: **Ali Zeidan - Standard**",
+    "cc-vice-city-manatees-anthony-ross-dusty-pink: **Anthony Ross - Dusty Pink**",
+    "cc-vice-city-manatees-anthony-ross-green: **Anthony Ross - Green**",
+    "cc-vice-city-manatees-anthony-ross-silver: **Anthony Ross - Silver**",
+    "cc-vice-city-manatees-delord-nathan-alford-standard: **Delord Nathan Alford - Standard**",
+    "cc-vice-city-manatees-dominic-brizzolato-bronze: **Dominic Brizzolato - Bronze**",
+    "cc-vice-city-manatees-dominic-brizzolato-gold: **Dominic Brizzolato - Gold**",
+    "cc-vice-city-manatees-dominic-brizzolato-silver: **Dominic Brizzolato - Silver**",
+    "cc-vice-city-manatees-georgie-macklerath-bronze: **Georgie Macklerath - Bronze**",
+    "cc-vice-city-manatees-georgie-macklerath-gold: **Georgie Macklerath - Gold**",
+    "cc-vice-city-manatees-georgie-macklerath-silver: **Georgie Macklerath - Silver**",
+    "cc-vice-city-manatees-gouwan-marcus-standard: **Gouwan Marcus - Standard**",
+    "cc-vice-city-manatees-jacob-schneeman-standard: **Jacob Schneeman - Standard**",
+    "cc-vice-city-manatees-john-morgan-dusty-pink: **John Morgan - Dusty Pink**"
+   ],
+   "bodyStart": "- Futebol americano, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 2 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-los-santos-pounders",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Los Santos Pounders",
+  "sum": "Futebol americano · 24 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Los Santos Pounders"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Los Santos Pounders",
+   "sum": "Football · 24 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Los Santos Pounders"
+   ]
+  },
+  "$info": {
+   "sizeKB": 11,
+   "checkItems": 24,
+   "checkTitles": [
+    "cc-los-santos-pounders-benjamin-quintana-standard: **Benjamin Quintana - Standard**",
+    "cc-los-santos-pounders-bingo-johnson-standard: **Bingo Johnson - Standard**",
+    "cc-los-santos-pounders-dravy-mease-deep-red: **Dravy Mease - Deep Red**",
+    "cc-los-santos-pounders-dravy-mease-silver: **Dravy Mease - Silver**",
+    "cc-los-santos-pounders-dravy-mease-yellow: **Dravy Mease - Yellow**",
+    "cc-los-santos-pounders-granian-beach-standard: **Granian Beach - Standard**",
+    "cc-los-santos-pounders-laki-maivia-bronze: **Laki Maivia - Bronze**",
+    "cc-los-santos-pounders-laki-maivia-gold: **Laki Maivia - Gold**",
+    "cc-los-santos-pounders-laki-maivia-silver: **Laki Maivia - Silver**",
+    "cc-los-santos-pounders-lionel-taber-standard: **Lionel Taber - Standard**",
+    "cc-los-santos-pounders-maximus-goldbart-deep-red: **Maximus Goldbart - Deep Red**",
+    "cc-los-santos-pounders-maximus-goldbart-silver: **Maximus Goldbart - Silver**",
+    "cc-los-santos-pounders-maximus-goldbart-yellow: **Maximus Goldbart - Yellow**",
+    "cc-los-santos-pounders-randolph-topolski-bronze: **Randolph Topolski - Bronze**"
+   ],
+   "bodyStart": "- Futebol americano, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 1 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-liberty-city-wrath",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Liberty City Wrath",
+  "sum": "Futebol americano · 24 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Liberty City Wrath"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Liberty City Wrath",
+   "sum": "Football · 24 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Liberty City Wrath"
+   ]
+  },
+  "$info": {
+   "sizeKB": 11,
+   "checkItems": 24,
+   "checkTitles": [
+    "cc-liberty-city-wrath-alvin-orlowski-standard: **Alvin Orlowski - Standard**",
+    "cc-liberty-city-wrath-anthony-poke-ii-deep-red: **Anthony Poke II - Deep Red**",
+    "cc-liberty-city-wrath-anthony-poke-ii-navy-blue: **Anthony Poke II - Navy Blue**",
+    "cc-liberty-city-wrath-anthony-poke-ii-silver: **Anthony Poke II - Silver**",
+    "cc-liberty-city-wrath-armando-ibarra-jr-standard: **Armando Ibarra JR. - Standard**",
+    "cc-liberty-city-wrath-atonga-alaalatoa-standard: **Atonga Alaalatoa - Standard**",
+    "cc-liberty-city-wrath-bruce-goosen-standard: **Bruce Goosen - Standard**",
+    "cc-liberty-city-wrath-b-ryan-barnett-bronze: **B'ryan Barnett - Bronze**",
+    "cc-liberty-city-wrath-b-ryan-barnett-gold: **B'ryan Barnett - Gold**",
+    "cc-liberty-city-wrath-b-ryan-barnett-silver: **B'ryan Barnett - Silver**",
+    "cc-liberty-city-wrath-christian-yee-deep-red: **Christian Yee - Deep Red**",
+    "cc-liberty-city-wrath-christian-yee-navy-blue: **Christian Yee - Navy Blue**",
+    "cc-liberty-city-wrath-christian-yee-silver: **Christian Yee - Silver**",
+    "cc-liberty-city-wrath-dartanyon-pearson-standard: **Dartanyon Pearson - Standard**"
+   ],
+   "bodyStart": "- Futebol americano, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 1 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-vice-city-club-de-futbol",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Vice City Club de Futbol",
+  "sum": "Futebol · 30 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Vice City Club de Futbol"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Vice City Club de Futbol",
+   "sum": "Soccer · 30 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Vice City Club de Futbol"
+   ]
+  },
+  "$info": {
+   "sizeKB": 12,
+   "checkItems": 30,
+   "checkTitles": [
+    "cc-vice-city-club-de-futbol-anne-florence-dusty-pink: **Anne Florence - Dusty Pink**",
+    "cc-vice-city-club-de-futbol-anne-florence-silver: **Anne Florence - Silver**",
+    "cc-vice-city-club-de-futbol-anne-florence-teal: **Anne Florence - Teal**",
+    "cc-vice-city-club-de-futbol-ayokunumi-kasimu-standard: **Ayokunumi Kasimu - Standard**",
+    "cc-vice-city-club-de-futbol-badge-bronze: **Badge - Bronze**",
+    "cc-vice-city-club-de-futbol-badge-dusty-pink: **Badge - Dusty Pink**",
+    "cc-vice-city-club-de-futbol-badge-gold: **Badge - Gold**",
+    "cc-vice-city-club-de-futbol-badge-silver: **Badge - Silver**",
+    "cc-vice-city-club-de-futbol-badge-teal: **Badge - Teal**",
+    "cc-vice-city-club-de-futbol-ellie-burke-dusty-pink: **Ellie Burke - Dusty Pink**",
+    "cc-vice-city-club-de-futbol-ellie-burke-silver: **Ellie Burke - Silver**",
+    "cc-vice-city-club-de-futbol-ellie-burke-teal: **Ellie Burke - Teal**",
+    "cc-vice-city-club-de-futbol-emma-croydon-dusty-pink: **Emma Croydon - Dusty Pink**",
+    "cc-vice-city-club-de-futbol-emma-croydon-gold: **Emma Croydon - Gold**"
+   ],
+   "bodyStart": "- Futebol, 30 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-b-a-m-backyard-wrestling",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: B.A.M. Backyard Wrestling",
+  "sum": "Novidade · 12 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "B.A.M. Backyard Wrestling"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: B.A.M. Backyard Wrestling",
+   "sum": "Novelty · 12 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "B.A.M. Backyard Wrestling"
+   ]
+  },
+  "$info": {
+   "sizeKB": 5,
+   "checkItems": 12,
+   "checkTitles": [
+    "cc-b-a-m-backyard-wrestling-axel-hughes-standard: **Axel Hughes - Standard**",
+    "cc-b-a-m-backyard-wrestling-blood-smith-standard: **Blood Smith - Standard**",
+    "cc-b-a-m-backyard-wrestling-cherry-o-glade-standard: **Cherry O'Glade - Standard**",
+    "cc-b-a-m-backyard-wrestling-chico-bonez-standard: **Chico Bonez - Standard**",
+    "cc-b-a-m-backyard-wrestling-chrissy-deangelo-standard: **Chrissy Deangelo - Standard**",
+    "cc-b-a-m-backyard-wrestling-danny-mclean-standard: **Danny McLean - Standard**",
+    "cc-b-a-m-backyard-wrestling-j-d-wild-standard: **J.D. Wild - Standard**",
+    "cc-b-a-m-backyard-wrestling-judas-sterling-standard: **Judas Sterling - Standard**",
+    "cc-b-a-m-backyard-wrestling-katie-k-standard: **Katie K - Standard**",
+    "cc-b-a-m-backyard-wrestling-l-heavy-standard: **L.Heavy - Standard**",
+    "cc-b-a-m-backyard-wrestling-luke-x-standard: **Luke X - Standard**",
+    "cc-b-a-m-backyard-wrestling-shovel-standard: **Shovel - Standard**"
+   ],
+   "bodyStart": "- Novidade, 12 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-america-s-next-top-hooker",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: America's Next Top Hooker",
+  "sum": "Novidade · 24 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "America's Next Top Hooker"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: America's Next Top Hooker",
+   "sum": "Novelty · 24 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "America's Next Top Hooker"
+   ]
+  },
+  "$info": {
+   "sizeKB": 9,
+   "checkItems": 24,
+   "checkTitles": [
+    "cc-america-s-next-top-hooker-angel-bronze: **Angel - Bronze**",
+    "cc-america-s-next-top-hooker-angel-gold: **Angel - Gold**",
+    "cc-america-s-next-top-hooker-angel-silver: **Angel - Silver**",
+    "cc-america-s-next-top-hooker-bambi-standard: **Bambi - Standard**",
+    "cc-america-s-next-top-hooker-boris-bronze: **Boris - Bronze**",
+    "cc-america-s-next-top-hooker-boris-gold: **Boris - Gold**",
+    "cc-america-s-next-top-hooker-boris-silver: **Boris - Silver**",
+    "cc-america-s-next-top-hooker-beverly-bronze: **Beverly - Bronze**",
+    "cc-america-s-next-top-hooker-beverly-gold: **Beverly - Gold**",
+    "cc-america-s-next-top-hooker-beverly-silver: **Beverly - Silver**",
+    "cc-america-s-next-top-hooker-chastity-standard: **Chastity - Standard**",
+    "cc-america-s-next-top-hooker-crystal-standard: **Crystal - Standard**",
+    "cc-america-s-next-top-hooker-diego-standard: **Diego - Standard**",
+    "cc-america-s-next-top-hooker-drake-bronze: **Drake - Bronze**"
+   ],
+   "bodyStart": "- Novidade, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-jack-of-hearts",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Jack of Hearts",
+  "sum": "Dançarinas · 36 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Jack of Hearts"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Jack of Hearts",
+   "sum": "Dancers · 36 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Jack of Hearts"
+   ]
+  },
+  "$info": {
+   "sizeKB": 14,
+   "checkItems": 36,
+   "checkTitles": [
+    "cc-jack-of-hearts-brianna-blue-deep-red: **Brianna Blue - Deep Red**",
+    "cc-jack-of-hearts-brianna-blue-pink: **Brianna Blue - Pink**",
+    "cc-jack-of-hearts-brianna-blue-purple: **Brianna Blue - Purple**",
+    "cc-jack-of-hearts-christel-deep-red: **Christel - Deep Red**",
+    "cc-jack-of-hearts-christel-pink: **Christel - Pink**",
+    "cc-jack-of-hearts-christel-purple: **Christel - Purple**",
+    "cc-jack-of-hearts-jada-watts-bronze: **Jada Watts - Bronze**",
+    "cc-jack-of-hearts-jada-watts-gold: **Jada Watts - Gold**",
+    "cc-jack-of-hearts-jada-watts-silver: **Jada Watts - Silver**",
+    "cc-jack-of-hearts-jemila-deep-red: **Jemila - Deep Red**",
+    "cc-jack-of-hearts-jemila-pink: **Jemila - Pink**",
+    "cc-jack-of-hearts-jemila-purple: **Jemila - Purple**",
+    "cc-jack-of-hearts-kadisha-deep-red: **Kadisha - Deep Red**",
+    "cc-jack-of-hearts-kadisha-pink: **Kadisha - Pink**"
+   ],
+   "bodyStart": "- Dançarinas, 36 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 2 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-delights",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Delights",
+  "sum": "Dançarinas · 18 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Delights"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Delights",
+   "sum": "Dancers · 18 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Delights"
+   ]
+  },
+  "$info": {
+   "sizeKB": 7,
+   "checkItems": 18,
+   "checkTitles": [
+    "cc-delights-amber-standard: **Amber - Standard**",
+    "cc-delights-chip-standard: **Chip - Standard**",
+    "cc-delights-cleo-standard: **Cleo - Standard**",
+    "cc-delights-crystal-standard: **Crystal - Standard**",
+    "cc-delights-cyrus-standard: **Cyrus - Standard**",
+    "cc-delights-daisy-standard: **Daisy - Standard**",
+    "cc-delights-harley-standard: **Harley - Standard**",
+    "cc-delights-jason-standard: **Jason - Standard**",
+    "cc-delights-kandi-standard: **Kandi - Standard**",
+    "cc-delights-lance-standard: **Lance - Standard**",
+    "cc-delights-lucky-standard: **Lucky - Standard**",
+    "cc-delights-mario-standard: **Mario - Standard**",
+    "cc-delights-nevaeh-standard: **Nevaeh - Standard**",
+    "cc-delights-nicole-standard: **Nicole - Standard**"
+   ],
+   "bodyStart": "- Dançarinas, 18 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-nine1nine",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Nine1Nine",
+  "sum": "Dançarinas · 36 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Nine1Nine"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Nine1Nine",
+   "sum": "Dancers · 36 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Nine1Nine"
+   ]
+  },
+  "$info": {
+   "sizeKB": 13,
+   "checkItems": 36,
+   "checkTitles": [
+    "cc-nine1nine-amie-deep-red: **Amie - Deep Red**",
+    "cc-nine1nine-amie-pink: **Amie - Pink**",
+    "cc-nine1nine-amie-purple: **Amie - Purple**",
+    "cc-nine1nine-braelynn-deep-red: **Braelynn - Deep Red**",
+    "cc-nine1nine-braelynn-pink: **Braelynn - Pink**",
+    "cc-nine1nine-braelynn-purple: **Braelynn - Purple**",
+    "cc-nine1nine-chrissie-deep-red: **Chrissie - Deep Red**",
+    "cc-nine1nine-chrissie-pink: **Chrissie - Pink**",
+    "cc-nine1nine-chrissie-purple: **Chrissie - Purple**",
+    "cc-nine1nine-clarissa-bronze: **Clarissa - Bronze**",
+    "cc-nine1nine-clarissa-gold: **Clarissa - Gold**",
+    "cc-nine1nine-clarissa-silver: **Clarissa - Silver**",
+    "cc-nine1nine-georgia-deep-red: **Georgia - Deep Red**",
+    "cc-nine1nine-georgia-pink: **Georgia - Pink**"
+   ],
+   "bodyStart": "- Dançarinas, 36 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-right-wing-america-s-hero",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Right Wing: America's Hero",
+  "sum": "HQ · 36 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Right Wing: America's Hero"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Right Wing: America's Hero",
+   "sum": "Comics · 36 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Right Wing: America's Hero"
+   ]
+  },
+  "$info": {
+   "sizeKB": 15,
+   "checkItems": 36,
+   "checkTitles": [
+    "cc-right-wing-america-s-hero-flamer-blue: **Flamer - Blue**",
+    "cc-right-wing-america-s-hero-flamer-red: **Flamer - Red**",
+    "cc-right-wing-america-s-hero-flamer-white: **Flamer - White**",
+    "cc-right-wing-america-s-hero-flamer-right-wing-blue: **Flamer & Right Wing - Blue**",
+    "cc-right-wing-america-s-hero-flamer-right-wing-red: **Flamer & Right Wing - Red**",
+    "cc-right-wing-america-s-hero-flamer-right-wing-white: **Flamer & Right Wing - White**",
+    "cc-right-wing-america-s-hero-great-uncle-sam-blue: **Great Uncle Sam - Blue**",
+    "cc-right-wing-america-s-hero-great-uncle-sam-red: **Great Uncle Sam - Red**",
+    "cc-right-wing-america-s-hero-great-uncle-sam-white: **Great Uncle Sam - White**",
+    "cc-right-wing-america-s-hero-great-uncle-sam-president-blunt-blue: **Great Uncle Sam & President Blunt - Blue**",
+    "cc-right-wing-america-s-hero-great-uncle-sam-president-blunt-red: **Great Uncle Sam & President Blunt - Red**",
+    "cc-right-wing-america-s-hero-great-uncle-sam-president-blunt-white: **Great Uncle Sam & President Blunt - White**",
+    "cc-right-wing-america-s-hero-immigrintasma-blue: **Immigrintasma - Blue**",
+    "cc-right-wing-america-s-hero-immigrintasma-red: **Immigrintasma - Red**"
+   ],
+   "bodyStart": "- HQ, 36 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-ed-universe",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Ed Universe",
+  "sum": "HQ · 36 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Ed Universe"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Ed Universe",
+   "sum": "Comics · 36 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Ed Universe"
+   ]
+  },
+  "$info": {
+   "sizeKB": 14,
+   "checkItems": 36,
+   "checkTitles": [
+    "cc-ed-universe-capsule-light-blue: **Capsule - Light Blue**",
+    "cc-ed-universe-capsule-orange: **Capsule - Orange**",
+    "cc-ed-universe-capsule-pink: **Capsule - Pink**",
+    "cc-ed-universe-diagnosis-light-blue: **Diagnosis - Light Blue**",
+    "cc-ed-universe-diagnosis-orange: **Diagnosis - Orange**",
+    "cc-ed-universe-diagnosis-pink: **Diagnosis - Pink**",
+    "cc-ed-universe-dr-placebo-light-blue: **Dr. Placebo - Light Blue**",
+    "cc-ed-universe-dr-placebo-orange: **Dr. Placebo - Orange**",
+    "cc-ed-universe-dr-placebo-pink: **Dr. Placebo - Pink**",
+    "cc-ed-universe-femi-nemesis-bronze: **Femi-Nemesis - Bronze**",
+    "cc-ed-universe-femi-nemesis-gold: **Femi-Nemesis - Gold**",
+    "cc-ed-universe-femi-nemesis-silver: **Femi-Nemesis - Silver**",
+    "cc-ed-universe-fornicator-light-blue: **Fornicator - Light Blue**",
+    "cc-ed-universe-fornicator-orange: **Fornicator - Orange**"
+   ],
+   "bodyStart": "- HQ, 36 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "cartas-legends-of-ratface",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "cartas",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Cartas: Legends of Ratface",
+  "sum": "HQ · 36 cartas, com o local de cada uma.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "cartas",
+   "Legends of Ratface"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Cards: Legends of Ratface",
+   "sum": "Comics · 36 cards, with each one's location.",
+   "kw": [
+    "cards",
+    "Legends of Ratface"
+   ]
+  },
+  "$info": {
+   "sizeKB": 15,
+   "checkItems": 36,
+   "checkTitles": [
+    "cc-legends-of-ratface-captain-krueks-blue: **Captain Krueks - Blue**",
+    "cc-legends-of-ratface-captain-krueks-maroon: **Captain Krueks - Maroon**",
+    "cc-legends-of-ratface-captain-krueks-purple: **Captain Krueks - Purple**",
+    "cc-legends-of-ratface-death-of-swallow-blue: **Death of Swallow - Blue**",
+    "cc-legends-of-ratface-death-of-swallow-maroon: **Death of Swallow - Maroon**",
+    "cc-legends-of-ratface-death-of-swallow-purple: **Death of Swallow - Purple**",
+    "cc-legends-of-ratface-diddler-blue: **Diddler - Blue**",
+    "cc-legends-of-ratface-diddler-maroon: **Diddler - Maroon**",
+    "cc-legends-of-ratface-diddler-purple: **Diddler - Purple**",
+    "cc-legends-of-ratface-disastrous-duo-blue: **Disastrous Duo - Blue**",
+    "cc-legends-of-ratface-disastrous-duo-maroon: **Disastrous Duo - Maroon**",
+    "cc-legends-of-ratface-disastrous-duo-purple: **Disastrous Duo - Purple**",
+    "cc-legends-of-ratface-ifred-blue: **iFred - Blue**",
+    "cc-legends-of-ratface-ifred-maroon: **iFred - Maroon**"
+   ],
+   "bodyStart": "- HQ, 36 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]]."
+  }
+ },
+ {
+  "kind": "card",
+  "id": "armas-unicas",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "itens",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Armas únicas: onde achar",
+  "sum": "Cerca de 130 variantes amarelas (a IGN fala em 127 + 2 da Ultimate). Pegou uma, Jason e Lucia ficam com ela para sempre.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "armas unicas",
+   "variantes",
+   "amarela",
+   "unique weapon",
+   "colecionavel"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Unique weapons: where to find them",
+   "sum": "About 130 yellow variants (IGN says 127 + 2 Ultimate). Grab one and Jason and Lucia keep it for good.",
+   "kw": [
+    "unique weapons",
+    "variants",
+    "yellow",
+    "collectible"
+   ]
+  },
+  "$info": {
+   "sizeKB": 47,
+   "checkItems": 0,
+   "bodyStart": "- **Ícone e nome amarelos** no mundo e nos menus.\n- **Não aceitam modificação** nem cosmético: o visual e os acessórios já vêm travados.\n- Pegou uma vez, fica liberada **para Jason e Lucia** para sempre e volta pelo porta-malas ou pelo armário se você morrer.\n- Vêm de quatro jeitos: escondidas no mapa, nas Illegal Operations, na vitrine de lojas da Ammu-Nation (caras) ou como prêmio de missão.\n- Lista parcial da IGN, ainda em montagem: faltam os locais de várias. Veja também [[dinheiro-illegal-ops]].\n\n#### Imagens\n",
+   "tableCols": [
+    "Arma",
+    "Tipo",
+    "Origem",
+    "Onde"
+   ],
+   "tableRows": 92
+  }
+ },
+ {
+  "kind": "card",
+  "id": "veiculos-categorias",
+  "sec": "colecao",
+  "sub": "itens",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Veículos para os 100%",
+  "sum": "Escaneie 200 dos 277 modelos comuns. Há mais 281 de destaque (amarelos).",
+  "body": "- **Descobrir** = escanear com o WAiNK; não precisa dirigir. Como escanear: [[veiculos-waink]]. Meta e peso: [[colecao-100]].\n- **Comuns (277):** 29 sedãs, 29 motos, 28 embarcações, 26 muscle, 23 SUVs, 18 cupês, 17 picapes, 16 aeronaves, 14 vans, 13 esportivos, 11 caminhões, 9 supercarros, 9 utilitários, 8 off-road, 8 militares, 7 de emergência, 6 industriais e 6 de transporte.\n- **De destaque (281, em amarelo):** pintura ou acessório exclusivo e já vêm modificados. São 25 categorias, como Leonida Man (30), Retro (20), Ultra-Luxe (19), Street Racers, All-Terrain e Fine Art (17 cada), Girlypop (16) e Blinged Up (15).\n- A ficha de cada carro mostra **valor de venda** e **custo de registro** (ex.: um '19 Buffalo vende por US$ 3.555 e custa US$ 11.250 para registrar) e o **comprador especialista** (Tuner, Donks, Hot Rods, Lowriders).",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "veiculos",
+   "quantos carros",
+   "standout",
+   "destaque",
+   "amarelo",
+   "descobrir"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Vehicles for 100%",
+   "sum": "Scan 200 of the 277 regular models. There are 281 more standout (yellow) ones.",
+   "body": "- **Discover** = scan with WAiNK; no need to drive it. How to scan: [[veiculos-waink]]. Target and weight: [[colecao-100]].\n- **Regular (277):** 29 sedans, 29 bikes, 28 watercraft, 26 muscle, 23 SUVs, 18 coupes, 17 pickups, 16 aircraft, 14 vans, 13 sports, 11 trucks, 9 supercars, 9 utility, 8 off-road, 8 military, 7 emergency, 6 industrial and 6 transport.\n- **Standout (281, in yellow):** exclusive paint or accessories and they come pre-modded. 25 categories, like Leonida Man (30), Retro (20), Ultra-Luxe (19), Street Racers, All-Terrain and Fine Art (17 each), Girlypop (16) and Blinged Up (15).\n- Each car's card shows **sell value** and **registration cost** (e.g. a '19 Buffalo sells for $3,555 and costs $11,250 to register) and its **specialist buyer** (Tuner, Donks, Hot Rods, Lowriders).",
+   "kw": [
+    "vehicles",
+    "how many cars",
+    "standout",
+    "yellow",
+    "discover"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "colecao-wyman",
+  "$big": true,
+  "sec": "colecao",
+  "sub": "itens",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Wyman's Cars (só na Ultimate)",
+  "sum": "Escaneie carcaças de clássicos e o Wyman restaura por US$ 1.500 cada.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "wyman",
+   "ultimate",
+   "carros classicos",
+   "transgressor",
+   "riata",
+   "mamba",
+   "kit car",
+   "deviant"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Wyman's Cars (Ultimate only)",
+   "sum": "Scan wrecked classics and Wyman restores each for $1,500.",
+   "kw": [
+    "wyman",
+    "ultimate",
+    "classic cars",
+    "transgressor",
+    "riata",
+    "mamba",
+    "kit car",
+    "deviant"
+   ]
+  },
+  "$info": {
+   "sizeKB": 14,
+   "checkItems": 5,
+   "checkTitles": [
+    "wy-transgressor: **'67 Transgressor (3 scans, Port Gellhorn)**",
+    "wy-riata: **'70 Riata (3 scans, sul do mapa)**",
+    "wy-mamba: **'64 Mamba GT (4 scans, Kelly e Moreau)**",
+    "wy-kitcar: **Reynolds Kit Car (5 scans, Leonida toda)**",
+    "wy-deviant: **Born Free Deviant (presente do Wyman)**"
+   ],
+   "bodyStart": "- Só para quem tem a **Ultimate Edition**. Você conhece o Wyman no motel no Cap. 2; depois de **Thrillbillies** ele manda mensagem e marca a garagem do Paradise RV Park.\n- Escaneie cada carcaça com o WAiNK ({↑} a pé, depois {R1}). Com todas de um carro, o Wyman pede **US$ 1.500 pelo BuckMe**; depois de um tempo, busque no ferro-velho dele (ícone W).\n- Registre ou guarde numa garagem sua; se largar na rua, pode perder."
+  }
+ }
+]

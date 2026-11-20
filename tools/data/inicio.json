@@ -1,0 +1,1019 @@
+[
+ {
+  "kind": "card",
+  "id": "inicio-regras",
+  "sec": "inicio",
+  "sub": "fazer",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "As 10 regras de ouro",
+  "sum": "Save por capítulo, dinheiro no banco, compre pouco e não deixe a polícia te reconhecer.",
+  "body": "1. **Save manual no início e no fim de cada capítulo.** Não dá para rejogar uma missão já concluída. O jogo tem 15 espaços de save manual e 1 save automático. Lista de saves em [[perdiveis-saves]].\n2. **Morrer ou ser preso leva todo o dinheiro vivo, o saque não vendido e um pouco da conta.** Passe no caixa eletrônico depois de cada golpe. Com o bolso zerado, as compras saem direto da conta. Veja [[policia-preso]].\n3. **Poupança BuckMe: só o que a missão exige (US$ 5.000, até Don Gone).** A história trava por falta de dinheiro em alguns pontos, e pôr o saldo todo na poupança já travou jogadores. O excedente só entra logo antes de “Tourist Trap”, com save manual, como manda [[dinheiro-reset]].\n4. **O save mais importante é o de antes de “Tourist Trap”**, no fim do Cap. 1. Na passagem para o Cap. 2 o casal fica sem dinheiro. Veja [[dinheiro-reset]].\n5. **Compre pouco e útil:** silenciador, colete e munição. Garagem, carro caro e cosmético ficam para depois do Cap. 2. Veja [[compras-prioridade]].\n6. **Você só fica procurado se alguém ou algo te dedurar:** uma testemunha, um alarme, uma câmera ou o rastreador de um carro roubado. Antes de um roubo, ponha a máscara, destrua as câmeras e desligue o alarme. Passo a passo em [[dinheiro-rotina-roubo]].\n7. **Para despistar a polícia, mude o que ela sabe sobre você.** Ela guarda a sua roupa, o seu carro, a sua arma e se vocês estavam em dois. Troque a roupa inteira e o carro, guarde a arma e separe o Jason da Lucia. Só correr em círculos não resolve. Veja [[policia-fuga-rotina]].\n8. **Evite matar sem necessidade.** O jogo avalia o seu estilo no Perfil Criminal: quem atira nos braços e pernas e não mata à toa é visto como “Profissional”. Matar demais deixa a polícia mais agressiva, e se o perfil chegar ao pior nível (Estilhaçado) não tem volta naquele save. Veja [[policia-perfil]].\n9. **Faça opcionais e missões com ampulheta assim que aparecerem.** Algumas do Cap. 1 somem. Lista em [[perdiveis-lista]].\n10. **Não perca tempo juntando dinheiro nos Capítulos 1 e 2.** A renda sobe no Cap. 3 e explode no Cap. 4. Se a história pedir dinheiro no Cap. 2, uma Illegal Operation resolve ([[dinheiro-illegal-ops]]). Plano completo em [[dinheiro-fases]].",
+  "src": [
+   "PowerPyx",
+   "GameSpot",
+   "Press Start",
+   "Rockstar (Rob Nelson)"
+  ],
+  "kw": [
+   "dicas",
+   "resumo",
+   "tldr",
+   "essencial"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "The 10 golden rules",
+   "sum": "Save every chapter, bank your money, buy little and never let the police recognize you.",
+   "body": "1. **Manual save at the start and end of every chapter.** There's no mission replay. 15 manual slots and 1 autosave. Save list in [[perdiveis-saves]].\n2. **Dying or getting arrested takes all your pocket cash, any unsold loot and a bit of your account.** Hit an ATM after every job. With empty pockets, purchases come straight from the bank. See [[policia-preso]].\n3. **BuckMe savings: only what the mission requires ($5,000, by Don Gone).** The story gates on cash at a few points, and putting the whole balance into savings has stuck players. The surplus only goes in right before “Tourist Trap”, with a manual save, as laid out in [[dinheiro-reset]].\n4. **Your most important save is the one before “Tourist Trap”**, at the end of Ch. 1. Moving into Ch. 2 the couple loses their money. See [[dinheiro-reset]].\n5. **Buy little and useful:** suppressor, armor and ammo. Garages, expensive cars and cosmetics wait until after Ch. 2. See [[compras-prioridade]].\n6. **You only get a wanted level if someone or something reports you:** a witness, an alarm, a camera or a stolen car's tracker. Before a robbery, put on a mask, destroy the cameras and turn off the alarm. Step by step in [[dinheiro-rotina-roubo]].\n7. **To lose the police, change what they know about you.** They remember your outfit, your car, your weapon and whether there were two of you. Change your whole outfit and your car, put the gun away and split Jason and Lucia up. Just driving in circles doesn't work. See [[policia-fuga-rotina]].\n8. **Don't kill when you don't have to.** The game rates your style in the Criminal Profile: shooting arms and legs and not killing needlessly keeps you “Professional”. Killing too much makes the police more aggressive, and if your profile hits the worst level (Irredeemable) there's no going back on that save. See [[policia-perfil]].\n9. **Do optionals and hourglass missions as soon as they appear.** Some Ch. 1 ones vanish. List in [[perdiveis-lista]].\n10. **Don't grind in Chapters 1 and 2.** Income rises in Ch. 3 and explodes in Ch. 4. If the story asks for cash in Ch. 2, one Illegal Operation covers it ([[dinheiro-illegal-ops]]). Full plan in [[dinheiro-fases]].",
+   "kw": [
+    "tips",
+    "summary",
+    "tldr",
+    "essentials",
+    "rules"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "config-tela-inicial",
+  "sec": "inicio",
+  "sub": "fazer",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "pre"
+  ],
+  "title": "As 5 perguntas da primeira tela",
+  "sum": "Antes do Prólogo o jogo pergunta 5 coisas. As legendas vêm desligadas.",
+  "body": "Tudo pode ser mudado depois no menu. Fonte: nettoge (Japão), a partir de transmissões do jogo real.",
+  "table": {
+   "cols": [
+    "Opção",
+    "Padrão",
+    "Recomendação"
+   ],
+   "rows": [
+    [
+     "Leitura de tela",
+     "Desligada",
+     "Deixe desligada, salvo necessidade"
+    ],
+    [
+     "Minimapa e navegação",
+     "Dinâmico (só aparece quando precisa)",
+     "**Sempre ligado**. Clássico ou com bússola também servem"
+    ],
+    [
+     "Tamanho do texto",
+     "Pequeno",
+     "Maior se a TV estiver longe"
+    ],
+    [
+     "Legendas",
+     "**Desligadas**",
+     "**Ligar**, em todos os diálogos (há opção que mostra só nas missões)"
+    ],
+    [
+     "Brilho",
+     "15",
+     "Perto de 20"
+    ]
+   ],
+   "sort": true
+  },
+  "src": [
+   "nettoge (JP)"
+  ],
+  "kw": [
+   "legenda",
+   "minimapa",
+   "brilho",
+   "texto",
+   "acessibilidade"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "The 5 questions on the first screen",
+   "sum": "Before the Prologue the game asks 5 things. Subtitles start off.",
+   "body": "Everything can be changed later in the menu. Source: nettoge (Japan), from streams of the actual game.",
+   "table": {
+    "cols": [
+     "Option",
+     "Default",
+     "Recommendation"
+    ],
+    "rows": [
+     [
+      "Screen reader",
+      "Off",
+      "Leave it off unless you need it"
+     ],
+     [
+      "Minimap and navigation",
+      "Dynamic (only shows when needed)",
+      "**Always on**. Classic or compass also work"
+     ],
+     [
+      "Text size",
+      "Small",
+      "Larger if the TV is far away"
+     ],
+     [
+      "Subtitles",
+      "**Off**",
+      "**Turn on**, for all dialogue (there's an option that shows them only in missions)"
+     ],
+     [
+      "Brightness",
+      "15",
+      "Around 20"
+     ]
+    ],
+    "sort": true
+   },
+   "kw": [
+    "subtitles",
+    "minimap",
+    "brightness",
+    "text",
+    "accessibility"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "config-recomendada",
+  "sec": "inicio",
+  "sub": "fazer",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "pre"
+  ],
+  "title": "Configuração recomendada",
+  "sum": "Legendas, mira, HUD e câmeras: o que mudar antes do Prólogo e por quê.",
+  "table": {
+   "cols": [
+    "Opção",
+    "Recomendação",
+    "Por quê"
+   ],
+   "rows": [
+    [
+     "Legendas",
+     "PT-BR, ligadas em todas as falas",
+     "Não há dublagem, e sem isso você perde os diálogos do mundo aberto"
+    ],
+    [
+     "Minimapa",
+     "Sempre ligado. Clássico ou com bússola também servem",
+     "Para nunca perder a navegação"
+    ],
+    [
+     "Assistência de mira",
+     "Padrão. Se vier do GTA V, moderada ou mais nas primeiras horas, depois reduza",
+     "A mira automática forte do GTA V acabou"
+    ],
+    [
+     "Notificações de HUD",
+     "Todas ligadas: progresso, colecionáveis e Perfil Criminal (Settings > UI > HUD Notifications)",
+     "Mostram como suas ações mexem no perfil"
+    ],
+    [
+     "Câmeras cinematográficas",
+     "Batida e abate desligadas",
+     "Atrapalham a leitura da fuga"
+    ],
+    [
+     "Esquema de controles",
+     "**Classic**, se você vem do GTA V e quer correr tocando {✕} (Opções → Settings)",
+     "No padrão, correr é {L3}. Veja [[controles-cola]]"
+    ],
+    [
+     "Sensibilidade de câmera e mira",
+     "Padrão 7. Suba de um em um até 10 se estiver lenta",
+     "Guias japoneses acharam a câmera lenta"
+    ],
+    [
+     "Voz do GPS",
+     "Ligar se quiser, em Settings > Audio > GPS Voice",
+     "Direções faladas"
+    ],
+    [
+     "Motion blur",
+     "Baixar ou zerar (padrão 5)",
+     "Cansa a vista"
+    ],
+    [
+     "HDR",
+     "Calibrar no console; ajustar brilho máximo, nível de preto e “papel branco” (começam em 50)",
+     "Imagem correta"
+    ],
+    [
+     "Unidades",
+     "Métrico, se preferir (vem em milhas, mph e °F)",
+     "Dica de comunidade, confiança baixa"
+    ],
+    [
+     "Música licenciada e Modo Streamer",
+     "Só mexa se for transmitir ou gravar",
+     "Desliga as músicas"
+    ],
+    [
+     "DualSense",
+     "Gatilhos adaptativos ajustáveis nas opções de acessibilidade",
+     "Conforto"
+    ],
+    [
+     "TV",
+     "Modo Jogo ligado",
+     "Menos atraso"
+    ]
+   ],
+   "sort": false
+  },
+  "div": "Mira padrão: fontes ocidentais falam em mira livre com pouca “aderência”. O nettoge (Japão) relata assistência “parcial” na intensidade 4, com assistência de tiro em veículo e “saque rápido” ligados. Confira no seu menu.",
+  "src": [
+   "PowerPyx",
+   "Skycoach",
+   "TechWiser",
+   "nettoge (JP)",
+   "fmkorea (KR)",
+   "Eurogamer"
+  ],
+  "kw": [
+   "mira",
+   "aim assist",
+   "sensibilidade",
+   "hud",
+   "motion blur",
+   "hdr",
+   "unidades",
+   "km",
+   "configuracao",
+   "classic",
+   "controles classicos",
+   "correr",
+   "gps"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Recommended settings",
+   "sum": "Subtitles, aim, HUD and cameras: what to change before the Prologue and why.",
+   "table": {
+    "cols": [
+     "Option",
+     "Recommendation",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Subtitles",
+      "On for all dialogue (pick your language)",
+      "There's no dub, and without them you miss open-world dialogue"
+     ],
+     [
+      "Minimap",
+      "Always on. Classic or compass also work",
+      "So you never lose navigation"
+     ],
+     [
+      "Aim assist",
+      "Default. Coming from GTA V, moderate or higher for the first hours, then lower it",
+      "GTA V's strong lock-on is gone"
+     ],
+     [
+      "HUD notifications",
+      "All on: progress, collectibles and Criminal Profile (Settings > UI > HUD Notifications)",
+      "They show how your actions move your profile"
+     ],
+     [
+      "Cinematic cameras",
+      "Crash and takedown off",
+      "They get in the way of reading the escape"
+     ],
+     [
+      "Control scheme",
+      "**Classic**, if you come from GTA V and want to run by tapping {✕} (Options → Settings)",
+      "By default, running is {L3}. See [[controles-cola]]"
+     ],
+     [
+      "Camera and aim sensitivity",
+      "Default 7. Raise one step at a time up to 10 if it feels slow",
+      "Japanese guides found the camera slow"
+     ],
+     [
+      "GPS voice",
+      "Turn on if you like, in Settings > Audio > GPS Voice",
+      "Spoken directions"
+     ],
+     [
+      "Motion blur",
+      "Lower or zero (default 5)",
+      "Tiring on the eyes"
+     ],
+     [
+      "HDR",
+      "Calibrate on the console; adjust peak brightness, black level and “paper white” (start at 50)",
+      "Correct image"
+     ],
+     [
+      "Units",
+      "Metric if you prefer (defaults to miles, mph and °F)",
+      "Community tip, low confidence"
+     ],
+     [
+      "Licensed music and Streamer Mode",
+      "Only touch it if you stream or record",
+      "Turns off the songs"
+     ],
+     [
+      "DualSense",
+      "Adaptive triggers adjustable in accessibility options",
+      "Comfort"
+     ],
+     [
+      "TV",
+      "Game Mode on",
+      "Less input lag"
+     ]
+    ],
+    "sort": false
+   },
+   "div": "Default aim: Western sources describe free aim with little “stickiness”. nettoge (Japan) reports “partial” assist at strength 4, with vehicle aim assist and “quick draw” on. Check your own menu.",
+   "kw": [
+    "aim",
+    "aim assist",
+    "sensitivity",
+    "hud",
+    "motion blur",
+    "hdr",
+    "units",
+    "settings",
+    "classic",
+    "classic controls",
+    "run",
+    "gps"
+   ],
+   "body": "The first five rows are the essentials; the rest is taste. Subtitles and minimap are already asked on the first screen ([[config-tela-inicial]])."
+  },
+  "body": "As cinco primeiras linhas são as essenciais; o resto é gosto. Legendas e minimapa já são perguntados na primeira tela ([[config-tela-inicial]])."
+ },
+ {
+  "kind": "card",
+  "id": "inicio-primeira-sessao",
+  "sec": "inicio",
+  "sub": "fazer",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "pre",
+   "p",
+   "c1"
+  ],
+  "title": "Checklist: do Prólogo ao fim do Cap. 1",
+  "sum": "12 passos em ordem, do menu inicial ao save antes de Tourist Trap. Marque conforme fizer.",
+  "check": [
+   {
+    "id": "config",
+    "t": "Antes do Prólogo: fazer os ajustes de [[config-tela-inicial]] e [[config-recomendada]] (legendas PT-BR em todas as falas, minimapa sempre ligado, notificações de HUD ligadas, câmeras cinematográficas desligadas e Modo Jogo na TV)"
+   },
+   {
+    "id": "prologo",
+    "t": "Jogar o Prólogo direto: a fuga da polícia é roteirizada"
+   },
+   {
+    "id": "fishing",
+    "t": "Fazer Gone Fishing usando o Focus ({L3} + {R3}) e furtividade"
+   },
+   {
+    "id": "slot1",
+    "t": "Save manual no espaço 1, “Início Cap. 1”. Nunca sobrescreva"
+   },
+   {
+    "id": "gearup",
+    "t": "Gear Up: escolher a escopeta e gastar o resto só em colete e munição"
+   },
+   {
+    "id": "silenc",
+    "t": "Comprar um silenciador assim que der e guardar uma muda de roupa no porta-malas"
+   },
+   {
+    "id": "opcionais",
+    "t": "Fazer cada opcional quando aparecer, principalmente as que somem: “Get Shirley's Rum”, “Steal the Scooter” e as outras de [[perdiveis-lista]]"
+   },
+   {
+    "id": "buckme",
+    "t": "Buck Me: abrir a conta e depositar todo o dinheiro vivo. Na poupança, só o que a missão exige (US$ 5.000, até Don Gone)"
+   },
+   {
+    "id": "medita",
+    "t": "Depois de “Down to Earth”: meditar com a Lucia de manhã (troféu)"
+   },
+   {
+    "id": "scan",
+    "t": "Escanear carros com o Waink e estudar animais com os binóculos sempre que aparecer algo novo"
+   },
+   {
+    "id": "rotina",
+    "t": "Pesca, sinuca e academia em Key Lento entre missões; à noite, procurar o Kirk (Skunk Ape)"
+   },
+   {
+    "id": "tourist",
+    "t": "Save manual “Antes de Tourist Trap”, com o dinheiro já depositado. O que fazer com o excedente: [[dinheiro-reset]]"
+   }
+  ],
+  "src": [
+   "PowerPyx",
+   "GameSpot",
+   "nettoge"
+  ],
+  "kw": [
+   "comecar",
+   "inicio",
+   "primeiras horas",
+   "checklist"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Checklist: Prologue to the end of Ch. 1",
+   "sum": "12 steps in order, from the first menu to the save before Tourist Trap. Tick as you go.",
+   "check": [
+    {
+     "id": "config",
+     "t": "Before the Prologue: apply the settings in [[config-tela-inicial]] and [[config-recomendada]] (subtitles on for all dialogue, minimap always on, HUD notifications on, cinematic cameras off and Game Mode on the TV)"
+    },
+    {
+     "id": "prologo",
+     "t": "Play the Prologue straight through: the police chase is scripted"
+    },
+    {
+     "id": "fishing",
+     "t": "Do Gone Fishing using Focus ({L3} + {R3}) and stealth"
+    },
+    {
+     "id": "slot1",
+     "t": "Manual save in slot 1, “Start Ch. 1”. Never overwrite it"
+    },
+    {
+     "id": "gearup",
+     "t": "Gear Up: pick the shotgun and spend the rest only on armor and ammo"
+    },
+    {
+     "id": "silenc",
+     "t": "Buy a suppressor as soon as you can and keep a spare outfit in the trunk"
+    },
+    {
+     "id": "opcionais",
+     "t": "Do every optional as it appears, especially the ones that vanish: “Get Shirley's Rum”, “Steal the Scooter” and the others in [[perdiveis-lista]]"
+    },
+    {
+     "id": "buckme",
+     "t": "Buck Me: open the account and deposit all pocket cash. In savings, only what the mission requires ($5,000, by Don Gone)"
+    },
+    {
+     "id": "medita",
+     "t": "After “Down to Earth”: meditate with Lucia in the morning (trophy)"
+    },
+    {
+     "id": "scan",
+     "t": "Scan cars with WAiNK and study animals with the binoculars whenever something new shows up"
+    },
+    {
+     "id": "rotina",
+     "t": "Fishing, pool and the gym in Key Lento between missions; at night, look for Kirk (Skunk Ape)"
+    },
+    {
+     "id": "tourist",
+     "t": "Manual save “Before Tourist Trap”, with your money already deposited. What to do with the surplus: [[dinheiro-reset]]"
+    }
+   ],
+   "kw": [
+    "start",
+    "beginning",
+    "first hours",
+    "checklist"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "inicio-ritmo",
+  "sec": "inicio",
+  "sub": "saber",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "O começo é lento de propósito",
+  "sum": "O jogo abre de verdade no Cap. 3, por volta de 25 horas. Não force a saída das Keys.",
+  "body": "- Os primeiros ~20% da história se passam em Key Lento. Análises como ScreenHub, Worthplaying e Console Creatures chamam a abertura de “queima lenta”, no estilo de Red Dead Redemption 2.\n- Encare o Cap. 1 como tutorial e “simulador de vida”, sem forçar a saída das Keys.\n- Faça as opcionais quando aparecerem, mas não fique repetindo atividades só por dinheiro: a renda sobe de verdade no Cap. 3. No Cap. 2, o que paga bem são as Illegal Operations de Port Gellhorn ([[dinheiro-illegal-ops]]).",
+  "div": "A GameSpot recomenda explorar bem Key Lento. A análise da GNN (Taiwan) recomenda não se demorar nos dois primeiros capítulos. Meio-termo: faça o conteúdo que aparece, sem ficar repetindo atividades só por dinheiro.",
+  "src": [
+   "GameSpot",
+   "ScreenHub",
+   "GNN/Bahamut",
+   "Ruliweb"
+  ],
+  "kw": [
+   "lento",
+   "chato",
+   "demora",
+   "ritmo"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "The slow start is on purpose",
+   "sum": "The game really opens up in Ch. 3, around 25 hours in. Don't force your way out of the Keys.",
+   "body": "- The first ~20% of the story takes place in Key Lento. Reviews like ScreenHub, Worthplaying and Console Creatures call the opening a “slow burn”, Red Dead Redemption 2 style.\n- Treat Ch. 1 as a tutorial and “life sim”, without forcing your way out of the Keys.\n- Do optionals as they appear, but don't grind for money: income really rises in Ch. 3. In Ch. 2, what pays well is the Port Gellhorn Illegal Operations ([[dinheiro-illegal-ops]]).",
+   "div": "GameSpot recommends exploring Key Lento thoroughly. GNN's review (Taiwan) recommends not lingering in the first two chapters. Middle ground: do the content that shows up, no grinding.",
+   "kw": [
+    "slow",
+    "boring",
+    "pacing"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "inicio-dicas-ign",
+  "sec": "inicio",
+  "sub": "saber",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "Truques das primeiras horas",
+  "sum": "Avião caído, yard sales, sacolas, pets e o motel do Cap. 2: o que o jogo não explica.",
+  "body": "#### Saque e achados\n- **Sacolas:** até 2; o círculo ao lado do contador de ilegais enche quando a sacola lota.\n- **Avião caído** ao sul de Hamlet: dá para vê-lo cair cruzando a ponte de Key Lento para Hamlet. Use o Focus para achar tudo; depois chega uma caminhonete armada. Mais em [[dinheiro-illegal-ops]].\n- **Placas de yard sale** levam a coisas boas.\n- Os bicos do Brian e do Cal costumam pagar em dinheiro ou mercadoria.\n#### Casa e encontros\n- **Consertar a casa** é grátis, sobe o relacionamento e a história exige mais tarde. Lista em [[personagens-casa]].\n- **Gritos ou conversa alta** = encontro de Strangers & Freaks; o Focus mostra de onde vem o som. Pagam em dinheiro ou prêmio. Veja [[missoes-strangers]].\n- **Missão com ampulheta** tem prazo; os ícones estão em [[controles-mapa]].\n#### Animais e pets\n- **Pets:** elogie; se vier e sentar, agache e faça carinho. Aceitam até 2 petiscos. Gentilezas (carinho, lixo no lixo) dão Focus temporário.\n- **Estudar animais:** o comando está em [[controles-cola]].\n#### Motel (Cap. 2)\n- Foque os gatos ({L2}) e elogie; se não vierem, insista.\n- Hóspedes que passam têm pedidos.\n- Sujo? Banho ou “Freshen up” na pia.",
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "dicas",
+   "começo",
+   "aviao caido",
+   "yard sale",
+   "sacolas",
+   "pets",
+   "gatos",
+   "motel"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Early-game tricks",
+   "sum": "Crashed plane, yard sales, bags, pets and the Ch. 2 motel: what the game doesn't explain.",
+   "body": "#### Loot and finds\n- **Bags:** up to 2; the circle by the illegal counter fills when a bag is full.\n- **Crashed plane** south of Hamlet: you can watch it go down crossing the Key Lento–Hamlet bridge. Use Focus to find everything; an armed pickup shows up after. More in [[dinheiro-illegal-ops]].\n- **Yard sale signs** lead to good stuff.\n- Brian's and Cal's odd jobs usually pay in cash or goods.\n#### Home and encounters\n- **Fixing the house** is free, raises the relationship and the story requires it later. List in [[personagens-casa]].\n- **Shouting or loud talk** = a Strangers & Freaks encounter; Focus shows where the sound comes from. They pay cash or a prize. See [[missoes-strangers]].\n- **Hourglass missions** have a deadline; the icons are in [[controles-mapa]].\n#### Animals and pets\n- **Pets:** praise them; if one comes and sits, crouch and pet it. They take up to 2 treats. Kind acts (petting, binning trash) give temporary Focus.\n- **Studying animals:** the input is in [[controles-cola]].\n#### Motel (Ch. 2)\n- Focus the cats ({L2}) and praise them; keep trying if they don't come.\n- Passing guests have requests.\n- Dirty? Shower or “Freshen up” at the sink.",
+   "kw": [
+    "tips",
+    "early game",
+    "crashed plane",
+    "yard sale",
+    "bags",
+    "pets",
+    "cats",
+    "motel"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "inicio-status",
+  "sec": "inicio",
+  "sub": "jogo",
+  "tipo": "dado",
+  "conf": "oficial",
+  "ch": [
+   "pre"
+  ],
+  "title": "Ficha técnica: plataformas, desempenho e preço",
+  "sum": "PS5 e Xbox Series, 30 fps sem modo desempenho, até 212 GB, legendas em PT-BR. Se tiver PS5 Pro, jogue nele.",
+  "table": {
+   "cols": [
+    "Item",
+    "Situação"
+   ],
+   "rows": [
+    [
+     "Plataformas",
+     "PS5, PS5 Pro e Xbox Series X|S. Xbox One só pelo Xbox Cloud Gaming. Sem PS4 e sem PC"
+    ],
+    [
+     "Idioma",
+     "Menus e legendas em português do Brasil, áudio só em inglês"
+    ],
+    [
+     "Preço no Brasil",
+     "R$ 449,90 (Standard) e R$ 549,90 (Ultimate). Nos EUA, US$ 79,99 e US$ 99,99. O que vem em cada edição: [[compras-edicoes]]"
+    ],
+    [
+     "Online",
+     "Não existe no lançamento. O GTA Online do V continua"
+    ],
+    [
+     "Duração",
+     "5 capítulos e 91 a 93 missões principais. De 50 a 80 h de história (outra conta do guia fala em 60 a 80 h, veja [[missoes-como]]) e ~200 h para a platina"
+    ],
+    [
+     "Nota",
+     "99 no Metacritic"
+    ],
+    [
+     "Data",
+     "19/11/2026, meia-noite no horário local de cada país. Já liberado nos primeiros fusos (a Nova Zelândia abriu primeiro)"
+    ],
+    [
+     "Brasil",
+     "0h de 19/11, horário de Brasília. A PlayStation Store marca “19/11/2026 00:00 BRT”"
+    ]
+   ],
+   "sort": false
+  },
+  "div": "Bônus de pré-venda: algumas fontes dizem compras digitais “até 20/11”, outras “antes de 20/11”. Para garantir, compre até 19/11.",
+  "src": [
+   "Rockstar Support",
+   "Take-Two",
+   "PlayStation Store",
+   "Digital Foundry",
+   "Insider Gaming",
+   "Rockstar (Marc Chambers à Kotaku)",
+   "Gcores"
+  ],
+  "kw": [
+   "data",
+   "lancamento",
+   "preco",
+   "reais",
+   "ps5",
+   "xbox",
+   "pc",
+   "horario",
+   "brasilia",
+   "tamanho",
+   "gb",
+   "fps",
+   "60 fps",
+   "ps5 pro",
+   "resolucao",
+   "4k",
+   "performance",
+   "desempenho",
+   "ficha tecnica"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Tech sheet: platforms, performance and price",
+   "sum": "PS5 and Xbox Series, 30 fps with no performance mode, up to 212 GB, Brazilian Portuguese subtitles. If you have a PS5 Pro, play on it.",
+   "table": {
+    "cols": [
+     "Item",
+     "Status"
+    ],
+    "rows": [
+     [
+      "Platforms",
+      "PS5, PS5 Pro and Xbox Series X|S. Xbox One only via Xbox Cloud Gaming. No PS4, no PC"
+     ],
+     [
+      "Language",
+      "Menus and subtitles in Brazilian Portuguese, audio in English only"
+     ],
+     [
+      "Price in Brazil",
+      "R$ 449.90 (Standard) and R$ 549.90 (Ultimate). In the US, $79.99 and $99.99. What each edition includes: [[compras-edicoes]]"
+     ],
+     [
+      "Online",
+      "Not at launch. GTA V's GTA Online continues"
+     ],
+     [
+      "Length",
+      "5 chapters and 91–93 main missions. 50–80 h of story (another count in the guide says 60–80 h, see [[missoes-como]]), ~200 h for the platinum"
+     ],
+     [
+      "Score",
+      "99 on Metacritic"
+     ],
+     [
+      "Date",
+      "11/19/2026, midnight local time in each country. Already live in the first time zones (New Zealand opened first)"
+     ],
+     [
+      "Brazil",
+      "0h on 11/19, Brasília time. PlayStation Store shows “19/11/2026 00:00 BRT”"
+     ]
+    ],
+    "sort": false
+   },
+   "div": "Pre-order bonus: some sources say digital purchases “by 11/20”, others “before 11/20”. To be safe, buy by 11/19.",
+   "kw": [
+    "date",
+    "release",
+    "price",
+    "ps5",
+    "xbox",
+    "pc",
+    "time",
+    "size",
+    "gb",
+    "launch",
+    "fps",
+    "60 fps",
+    "ps5 pro",
+    "resolution",
+    "4k",
+    "performance",
+    "tech sheet"
+   ],
+   "body": "- **30 fps locked on every console, PS5 Pro included**, with no performance mode. Don't expect a 60 fps patch: per Rockstar, the Pro's CPU can't handle the simulation at higher rates. {{oficial}}\n- **PS5 Pro:** stable 30 fps, PSSR upscaling that passes for native 4K and exclusive ray-traced shadows. Most reviews played here.\n- **Base PS5:** ~1440p internal, dipping to 23–25 fps in rain, dense traffic and explosions (Digital Foundry, Gcores).\n- **Storage:** the download goes up to 212 GB depending on console. Keep **at least 212 GB** free. Update 1.002.000 is already out."
+  },
+  "body": "- **30 fps travados em todos os consoles, PS5 Pro incluído**, sem modo desempenho. Não espere patch de 60 fps: segundo a Rockstar, a CPU do Pro não dá conta da simulação em taxas maiores. {{oficial}}\n- **PS5 Pro:** 30 fps estáveis, upscaling PSSR que passa por 4K nativo e sombras com ray tracing exclusivas. Foi onde a maioria das análises jogou.\n- **PS5 base:** ~1440p interno, com quedas até 23–25 fps em chuva, trânsito denso e explosões (Digital Foundry, Gcores).\n- **Espaço:** o download vai até 212 GB, conforme o console. Reserve **pelo menos 212 GB** livres. Já existe a atualização 1.002.000."
+ },
+ {
+  "kind": "card",
+  "id": "compras-edicoes",
+  "sec": "inicio",
+  "sub": "jogo",
+  "tipo": "dado",
+  "conf": "oficial",
+  "ch": [
+   "pre",
+   "c1",
+   "c2",
+   "c3",
+   "c4"
+  ],
+  "title": "Ultimate e bônus: quando cada item aparece",
+  "sum": "Enduro, caiaque e Ganado retrô só existem no Cap. 1. O resto, por capítulo.",
+  "body": "Em dinheiro de jogo, a Ultimate acrescenta um alvo de roubo e alguns veículos. Ajuda, mas não muda a economia. Preços das edições: [[inicio-status]].\n\nA tabela segue a ordem em que os itens aparecem no jogo (Eurogamer).",
+  "table": {
+   "cols": [
+    "Quando",
+    "Item",
+    "Onde e como",
+    "Edição"
+   ],
+   "rows": [
+    [
+     "**Só no Cap. 1**; depois somem",
+     "Dinka Enduro camuflada e caiaque Crest",
+     "Na casa do Jason",
+     "Ultimate"
+    ],
+    [
+     "**Só no Cap. 1**",
+     "Ganado Retro Build (kit retrô do Ganado)",
+     "Coastal Auto Care, menu **Pro Builds** (grátis para a Ultimate)",
+     "Ultimate"
+    ],
+    [
+     "Cap. 1",
+     "Girardi ES9 gravada (Jason)",
+     "—",
+     "Ultimate"
+    ],
+    [
+     "Desde o Cap. 1",
+     "Lojas Stock 305 (roupas) e Electric Fang (tatuagens)",
+     "Stockyard",
+     "Ultimate"
+    ],
+    [
+     "Desde o Cap. 1",
+     "Sara's Unisex Salon",
+     "Hamlet. Estilos exclusivos no Cap. 2",
+     "Ultimate"
+    ],
+    [
+     "Desde o Cap. 1",
+     "Goodtime Gear",
+     "Manequins da The Wonder Whale, Key Lento",
+     "Ultimate"
+    ],
+    [
+     "Desde o Cap. 1; o roubo vem com as Illegal Operations",
+     "PTT Youngin$ Illegal Goods Store",
+     "Esconderijo extra para assaltar em Southside, Vice City",
+     "Ultimate"
+    ],
+    [
+     "Cap. 2",
+     "Scooter Bros Premium",
+     "Veja [[compras-scooter]]",
+     "Assinatura GTA+"
+    ],
+    [
+     "Cap. 2, depois de Moses",
+     "Oficinas Rideout Customs e One-Eyed Willie's (off-road, Lake Leonida)",
+     "Ícone dourado no mapa",
+     "Ultimate"
+    ],
+    [
+     "Cap. 2, depois de Coffee Break",
+     "Klose K17 gravada (Lucia)",
+     "No porta-malas ou no armário",
+     "Ultimate"
+    ],
+    [
+     "Cap. 2, depois de Coffee Break",
+     "Revólveres Hawk & Little Morgan, com luneta (“do Vercetti Estate”)",
+     "No porta-malas ou no armário da Ammu-Nation",
+     "Ultimate"
+    ],
+    [
+     "Cap. 2, depois de Coffee Break e do Mud Club com o Wyman",
+     "Vapid Dominator Buggy ’67 e Paradise Garage",
+     "Watson Bay. O Wyman avisa por mensagem",
+     "Ultimate"
+    ],
+    [
+     "Cap. 2, sem prazo",
+     "Coleção de carros clássicos do Wyman",
+     "O Wyman avisa por mensagem depois de Coffee Break. Veja [[colecao-wyman]]",
+     "Ultimate"
+    ],
+    [
+     "Cap. 3",
+     "Vintage Vice City Pack: Vapid Stanier ’55 e Shore Court Garage",
+     "Sem a Ultimate, dá para comprá-lo na loja do menu nesse ponto",
+     "Compra digital antecipada (até 19/11 para garantir)"
+    ],
+    [
+     "Cap. 4",
+     "Vice City Style",
+     "—",
+     "Ultimate"
+    ],
+    [
+     "Cap. 4",
+     "Lancha Shitzu Squalo com caixa de explosivos",
+     "Washington Beach",
+     "Ultimate"
+    ],
+    [
+     "Cap. 5",
+     "Grotti Cheetah ’95",
+     "Pegassi Residences",
+     "Ultimate"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "17173 (CN)",
+   "Eurogamer",
+   "GameSpot",
+   "IGN",
+   "PC Gamer",
+   "Rockstar"
+  ],
+  "kw": [
+   "ultimate",
+   "edicao",
+   "pre venda",
+   "bonus",
+   "vintage vice city pack",
+   "gta+",
+   "standard"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Ultimate and bonuses: when each item shows up",
+   "sum": "The Enduro, kayak and retro Ganado only exist in Ch. 1. Everything else, by chapter.",
+   "body": "In in-game money, Ultimate adds one robbery target and a few vehicles. It helps, but doesn't change the economy. Edition prices: [[inicio-status]].\n\nThe table follows the order in which items show up in the game (Eurogamer).",
+   "table": {
+    "cols": [
+     "When",
+     "Item",
+     "Where and how",
+     "Edition"
+    ],
+    "rows": [
+     [
+      "**Ch. 1 only**; gone afterward",
+      "Camo Dinka Enduro and Crest kayak",
+      "At Jason's house",
+      "Ultimate"
+     ],
+     [
+      "**Ch. 1 only**",
+      "Ganado Retro Build (retro Ganado kit)",
+      "Coastal Auto Care, **Pro Builds** menu (free with Ultimate)",
+      "Ultimate"
+     ],
+     [
+      "Ch. 1",
+      "Engraved Girardi ES9 (Jason)",
+      "—",
+      "Ultimate"
+     ],
+     [
+      "From Ch. 1",
+      "Stock 305 (clothes) and Electric Fang (tattoos) stores",
+      "Stockyard",
+      "Ultimate"
+     ],
+     [
+      "From Ch. 1",
+      "Sara's Unisex Salon",
+      "Hamlet. Signature looks in Ch. 2",
+      "Ultimate"
+     ],
+     [
+      "From Ch. 1",
+      "Goodtime Gear",
+      "Mannequins at The Wonder Whale, Key Lento",
+      "Ultimate"
+     ],
+     [
+      "From Ch. 1; the raid comes with the Illegal Operations",
+      "PTT Youngin$ Illegal Goods Store",
+      "Extra hideout to raid in Southside, Vice City",
+      "Ultimate"
+     ],
+     [
+      "Ch. 2",
+      "Scooter Bros Premium",
+      "See [[compras-scooter]]",
+      "GTA+ subscription"
+     ],
+     [
+      "Ch. 2, after Moses",
+      "Rideout Customs and One-Eyed Willie's mod shops (off-road, Lake Leonida)",
+      "Gold icon on the map",
+      "Ultimate"
+     ],
+     [
+      "Ch. 2, after Coffee Break",
+      "Engraved Klose K17 (Lucia)",
+      "In your trunk or locker",
+      "Ultimate"
+     ],
+     [
+      "Ch. 2, after Coffee Break",
+      "Scoped Hawk & Little Morgan revolvers (“from the Vercetti Estate”)",
+      "In your trunk or the Ammu-Nation locker",
+      "Ultimate"
+     ],
+     [
+      "Ch. 2, after Coffee Break and the Mud Club with Wyman",
+      "Vapid Dominator Buggy ’67 and Paradise Garage",
+      "Watson Bay. Wyman texts you",
+      "Ultimate"
+     ],
+     [
+      "Ch. 2, no deadline",
+      "Wyman's Classic Car Collection",
+      "Wyman texts you after Coffee Break. See [[colecao-wyman]]",
+      "Ultimate"
+     ],
+     [
+      "Ch. 3",
+      "Vintage Vice City Pack: Vapid Stanier ’55 and Shore Court Garage",
+      "Without Ultimate, you can buy it from the in-game store at this point",
+      "Early digital purchase (by 11/19 to be safe)"
+     ],
+     [
+      "Ch. 4",
+      "Vice City Style",
+      "—",
+      "Ultimate"
+     ],
+     [
+      "Ch. 4",
+      "Shitzu Squalo speedboat with explosives crate",
+      "Washington Beach",
+      "Ultimate"
+     ],
+     [
+      "Ch. 5",
+      "Grotti Cheetah ’95",
+      "Pegassi Residences",
+      "Ultimate"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "ultimate",
+    "edition",
+    "pre-order",
+    "bonus",
+    "vintage vice city pack",
+    "gta+",
+    "standard"
+   ],
+   "div": "Other lists had the Vintage Vice City Pack “from the start” and the mod shops “from Ch. 1 onward”; this card follows Eurogamer, which plays in order. The extra target also shows up as “PTT Youngin$ Compound”. Morgan revolvers: one source just says “Ch. 2”, GameSpot says “from Coffee Break”."
+  },
+  "div": "Outras listas davam o Vintage Vice City Pack “desde o início” e as oficinas “do Cap. 1 em diante”; aqui vale a Eurogamer, que joga na ordem. O alvo extra também aparece com o nome “PTT Youngin$ Compound”. Revólveres Morgan: uma fonte fala só em “Cap. 2”, a GameSpot em “a partir de Coffee Break”."
+ }
+]

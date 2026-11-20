@@ -1,0 +1,285 @@
+{
+ "kind": "card",
+ "id": "colecao-base",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Os 25 Base Jumps",
+ "sum": "Saltos de paraquedas com tempo-alvo. Checkpoint perdido = +10 s.",
+ "body": "- A largada fica entre **dois cones amarelos**, quase sempre na borda de um heliponto ou de um mastro de antena.\n- Errar um checkpoint soma **10 segundos** ao tempo.\n- O tempo-alvo (par) é da IGN; “?” = ainda não publicado.",
+ "check": [
+  {
+   "id": "bj-bluegrass-antenna-mast",
+   "t": "**Bluegrass Antenna Mast** — par 1:10",
+   "d": "![Bluegrass Antenna Mast](img/ign-bj-bluegrass-antenna-mast-1.jpg)\n![Bluegrass Antenna Mast (2)](img/ign-bj-bluegrass-antenna-mast-2.jpg)"
+  },
+  {
+   "id": "bj-pike-financial-center",
+   "t": "**Pike Financial Center** — par 0:56",
+   "d": "![Pike Financial Center](img/ign-bj-pike-financial-center-1.jpg)\n![Pike Financial Center (2)](img/ign-bj-pike-financial-center-2.jpg)\n![Pike Financial Center (3)](img/ign-bj-pike-financial-center-3.jpg)"
+  },
+  {
+   "id": "bj-heath-bank",
+   "t": "**Heath Bank** — par 0:42",
+   "d": "![Heath Bank](img/ign-bj-heath-bank-1.jpg)\n![Heath Bank (2)](img/ign-bj-heath-bank-2.jpg)\n![Heath Bank (3)](img/ign-bj-heath-bank-3.jpg)"
+  },
+  {
+   "id": "bj-vice-civic-center",
+   "t": "**Vice Civic Center**",
+   "d": "![Vice Civic Center](img/ign-bj-vice-civic-center-1.jpg)\n![Vice Civic Center (2)](img/ign-bj-vice-civic-center-2.jpg)\n![Vice Civic Center (3)](img/ign-bj-vice-civic-center-3.jpg)"
+  },
+  {
+   "id": "bj-crimson-palms",
+   "t": "**Crimson Palms** — par 0:46",
+   "d": "![Crimson Palms](img/ign-bj-crimson-palms-1.jpg)\n![Crimson Palms (2)](img/ign-bj-crimson-palms-2.jpg)\n![Crimson Palms (3)](img/ign-bj-crimson-palms-3.jpg)"
+  },
+  {
+   "id": "bj-la-villette",
+   "t": "**La Villette** — par 0:35",
+   "d": "![La Villette](img/ign-bj-la-villette-1.jpg)\n![La Villette (2)](img/ign-bj-la-villette-2.jpg)\n![La Villette (3)](img/ign-bj-la-villette-3.jpg)"
+  },
+  {
+   "id": "bj-kalaga-outcrop",
+   "t": "**Kalaga Outcrop** — par 0:33",
+   "d": "![Kalaga Outcrop](img/ign-bj-kalaga-outcrop-1.jpg)\n![Kalaga Outcrop (2)](img/ign-bj-kalaga-outcrop-2.jpg)\n![Kalaga Outcrop (3)](img/ign-bj-kalaga-outcrop-3.jpg)"
+  },
+  {
+   "id": "bj-mount-kalaga",
+   "t": "**Mount Kalaga** — par 1:07",
+   "d": "![Mount Kalaga](img/ign-bj-mount-kalaga-1.jpg)\n![Mount Kalaga (2)](img/ign-bj-mount-kalaga-2.jpg)\n![Mount Kalaga (3)](img/ign-bj-mount-kalaga-3.jpg)"
+  },
+  {
+   "id": "bj-providence-canyon-antenna-mast",
+   "t": "**Providence Canyon Antenna Mast** — par 0:59",
+   "d": "![Providence Canyon Antenna Mast](img/ign-bj-providence-canyon-antenna-mast-1.jpg)\n![Providence Canyon Antenna Mast (2)](img/ign-bj-providence-canyon-antenna-mast-2.jpg)\n![Providence Canyon Antenna Mast (3)](img/ign-bj-providence-canyon-antenna-mast-3.jpg)"
+  },
+  {
+   "id": "bj-eternity-apartments",
+   "t": "**Eternity Apartments** — par 0:40",
+   "d": "![Eternity Apartments](img/ign-bj-eternity-apartments-1.jpg)\n![Eternity Apartments (2)](img/ign-bj-eternity-apartments-2.jpg)\n![Eternity Apartments (3)](img/ign-bj-eternity-apartments-3.jpg)"
+  },
+  {
+   "id": "bj-maven-residences",
+   "t": "**Maven Residences** — par 0:41",
+   "d": "![Maven Residences](img/ign-bj-maven-residences-1.jpg)\n![Maven Residences (2)](img/ign-bj-maven-residences-2.jpg)\n![Maven Residences (3)](img/ign-bj-maven-residences-3.jpg)"
+  },
+  {
+   "id": "bj-one-stracathro-tower",
+   "t": "**One Stracathro Tower** — par 0:36",
+   "d": "![One Stracathro Tower](img/ign-bj-one-stracathro-tower-1.jpg)\n![One Stracathro Tower (2)](img/ign-bj-one-stracathro-tower-2.jpg)\n![One Stracathro Tower (3)](img/ign-bj-one-stracathro-tower-3.jpg)"
+  },
+  {
+   "id": "bj-rico-huxley-hotels",
+   "t": "**Rico Huxley Hotels** — par 0:37",
+   "d": "![Rico Huxley Hotels](img/ign-bj-rico-huxley-hotels-1.jpg)\n![Rico Huxley Hotels (2)](img/ign-bj-rico-huxley-hotels-2.jpg)\n![Rico Huxley Hotels (3)](img/ign-bj-rico-huxley-hotels-3.jpg)"
+  },
+  {
+   "id": "bj-the-borough-condominiums",
+   "t": "**The Borough Condominiums** — par 0:30",
+   "d": "![The Borough Condominiums](img/ign-bj-the-borough-condominiums-1.jpg)\n![The Borough Condominiums (2)](img/ign-bj-the-borough-condominiums-2.jpg)\n![The Borough Condominiums (3)](img/ign-bj-the-borough-condominiums-3.jpg)"
+  },
+  {
+   "id": "bj-sahara-tower",
+   "t": "**Sahara Tower** — par 0:34",
+   "d": "![Sahara Tower](img/ign-bj-sahara-tower-1.jpg)\n![Sahara Tower (2)](img/ign-bj-sahara-tower-2.jpg)\n![Sahara Tower (3)](img/ign-bj-sahara-tower-3.jpg)"
+  },
+  {
+   "id": "bj-valdemar-on-the-river",
+   "t": "**Valdemar on the River** — par 0:32",
+   "d": "![Valdemar on the River](img/ign-bj-valdemar-on-the-river-1.jpg)\n![Valdemar on the River (2)](img/ign-bj-valdemar-on-the-river-2.jpg)\n![Valdemar on the River (3)](img/ign-bj-valdemar-on-the-river-3.jpg)"
+  },
+  {
+   "id": "bj-archipelago-apartments-north",
+   "t": "**Archipelago Apartments North**",
+   "d": "![Archipelago Apartments North](img/ign-bj-archipelago-apartments-north-1.jpg)\n![Archipelago Apartments North (2)](img/ign-bj-archipelago-apartments-north-2.jpg)\n![Archipelago Apartments North (3)](img/ign-bj-archipelago-apartments-north-3.jpg)"
+  },
+  {
+   "id": "bj-high-life-hotel",
+   "t": "**High Life Hotel**",
+   "d": "![High Life Hotel](img/ign-bj-high-life-hotel-1.jpg)\n![High Life Hotel (2)](img/ign-bj-high-life-hotel-2.jpg)\n![High Life Hotel (3)](img/ign-bj-high-life-hotel-3.jpg)"
+  },
+  {
+   "id": "bj-the-sumerian",
+   "t": "**The Sumerian**",
+   "d": "![The Sumerian](img/ign-bj-the-sumerian-1.jpg)\n![The Sumerian (2)](img/ign-bj-the-sumerian-2.jpg)\n![The Sumerian (3)](img/ign-bj-the-sumerian-3.jpg)"
+  },
+  {
+   "id": "bj-arcadia-towers-south",
+   "t": "**Arcadia Towers South**",
+   "d": "![Arcadia Towers South](img/ign-bj-arcadia-towers-south-1.jpg)\n![Arcadia Towers South (2)](img/ign-bj-arcadia-towers-south-2.jpg)\n![Arcadia Towers South (3)](img/ign-bj-arcadia-towers-south-3.jpg)"
+  },
+  {
+   "id": "bj-arcadia-towers-east",
+   "t": "**Arcadia Towers East**",
+   "d": "![Arcadia Towers East](img/ign-bj-arcadia-towers-east-1.jpg)\n![Arcadia Towers East (2)](img/ign-bj-arcadia-towers-east-2.jpg)\n![Arcadia Towers East (3)](img/ign-bj-arcadia-towers-east-3.jpg)"
+  },
+  {
+   "id": "bj-tequesta-tides-hotel-spa-south",
+   "t": "**Tequesta Tides Hotel & Spa South** — par 0:45",
+   "d": "![Tequesta Tides Hotel & Spa South](img/ign-bj-tequesta-tides-hotel-spa-south-1.jpg)\n![Tequesta Tides Hotel & Spa South (2)](img/ign-bj-tequesta-tides-hotel-spa-south-2.jpg)\n![Tequesta Tides Hotel & Spa South (3)](img/ign-bj-tequesta-tides-hotel-spa-south-3.jpg)"
+  },
+  {
+   "id": "bj-tequesta-tides-hotel-spa-north",
+   "t": "**Tequesta Tides Hotel & Spa North** — par 0:44",
+   "d": "![Tequesta Tides Hotel & Spa North](img/ign-bj-tequesta-tides-hotel-spa-north-1.jpg)\n![Tequesta Tides Hotel & Spa North (2)](img/ign-bj-tequesta-tides-hotel-spa-north-2.jpg)\n![Tequesta Tides Hotel & Spa North (3)](img/ign-bj-tequesta-tides-hotel-spa-north-3.jpg)"
+  },
+  {
+   "id": "bj-tequesta-tides-hotel-spa-west",
+   "t": "**Tequesta Tides Hotel & Spa West** — par 0:47",
+   "d": "![Tequesta Tides Hotel & Spa West](img/ign-bj-tequesta-tides-hotel-spa-west-1.jpg)\n![Tequesta Tides Hotel & Spa West (2)](img/ign-bj-tequesta-tides-hotel-spa-west-2.jpg)\n![Tequesta Tides Hotel & Spa West (3)](img/ign-bj-tequesta-tides-hotel-spa-west-3.jpg)"
+  },
+  {
+   "id": "bj-fenestra-plaza",
+   "t": "**Fenestra Plaza**",
+   "d": "![Fenestra Plaza](img/ign-bj-fenestra-plaza-1.jpg)\n![Fenestra Plaza (2)](img/ign-bj-fenestra-plaza-2.jpg)\n![Fenestra Plaza (3)](img/ign-bj-fenestra-plaza-3.jpg)"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "base jump",
+  "paraquedas",
+  "salto"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "The 25 Base Jumps",
+  "sum": "Timed parachute jumps. A missed checkpoint adds 10 s.",
+  "body": "- The start is between **two yellow cones**, usually on the edge of a helipad or an antenna mast.\n- Missing a checkpoint adds **10 seconds**.\n- Par times are IGN's; no time listed = not published yet.",
+  "kw": [
+   "base jump",
+   "parachute"
+  ],
+  "check": [
+   {
+    "id": "bj-bluegrass-antenna-mast",
+    "t": "**Bluegrass Antenna Mast** — par 1:10",
+    "d": "![Bluegrass Antenna Mast](img/ign-bj-bluegrass-antenna-mast-1.jpg)\n![Bluegrass Antenna Mast (2)](img/ign-bj-bluegrass-antenna-mast-2.jpg)"
+   },
+   {
+    "id": "bj-pike-financial-center",
+    "t": "**Pike Financial Center** — par 0:56",
+    "d": "![Pike Financial Center](img/ign-bj-pike-financial-center-1.jpg)\n![Pike Financial Center (2)](img/ign-bj-pike-financial-center-2.jpg)\n![Pike Financial Center (3)](img/ign-bj-pike-financial-center-3.jpg)"
+   },
+   {
+    "id": "bj-heath-bank",
+    "t": "**Heath Bank** — par 0:42",
+    "d": "![Heath Bank](img/ign-bj-heath-bank-1.jpg)\n![Heath Bank (2)](img/ign-bj-heath-bank-2.jpg)\n![Heath Bank (3)](img/ign-bj-heath-bank-3.jpg)"
+   },
+   {
+    "id": "bj-vice-civic-center",
+    "t": "**Vice Civic Center**",
+    "d": "![Vice Civic Center](img/ign-bj-vice-civic-center-1.jpg)\n![Vice Civic Center (2)](img/ign-bj-vice-civic-center-2.jpg)\n![Vice Civic Center (3)](img/ign-bj-vice-civic-center-3.jpg)"
+   },
+   {
+    "id": "bj-crimson-palms",
+    "t": "**Crimson Palms** — par 0:46",
+    "d": "![Crimson Palms](img/ign-bj-crimson-palms-1.jpg)\n![Crimson Palms (2)](img/ign-bj-crimson-palms-2.jpg)\n![Crimson Palms (3)](img/ign-bj-crimson-palms-3.jpg)"
+   },
+   {
+    "id": "bj-la-villette",
+    "t": "**La Villette** — par 0:35",
+    "d": "![La Villette](img/ign-bj-la-villette-1.jpg)\n![La Villette (2)](img/ign-bj-la-villette-2.jpg)\n![La Villette (3)](img/ign-bj-la-villette-3.jpg)"
+   },
+   {
+    "id": "bj-kalaga-outcrop",
+    "t": "**Kalaga Outcrop** — par 0:33",
+    "d": "![Kalaga Outcrop](img/ign-bj-kalaga-outcrop-1.jpg)\n![Kalaga Outcrop (2)](img/ign-bj-kalaga-outcrop-2.jpg)\n![Kalaga Outcrop (3)](img/ign-bj-kalaga-outcrop-3.jpg)"
+   },
+   {
+    "id": "bj-mount-kalaga",
+    "t": "**Mount Kalaga** — par 1:07",
+    "d": "![Mount Kalaga](img/ign-bj-mount-kalaga-1.jpg)\n![Mount Kalaga (2)](img/ign-bj-mount-kalaga-2.jpg)\n![Mount Kalaga (3)](img/ign-bj-mount-kalaga-3.jpg)"
+   },
+   {
+    "id": "bj-providence-canyon-antenna-mast",
+    "t": "**Providence Canyon Antenna Mast** — par 0:59",
+    "d": "![Providence Canyon Antenna Mast](img/ign-bj-providence-canyon-antenna-mast-1.jpg)\n![Providence Canyon Antenna Mast (2)](img/ign-bj-providence-canyon-antenna-mast-2.jpg)\n![Providence Canyon Antenna Mast (3)](img/ign-bj-providence-canyon-antenna-mast-3.jpg)"
+   },
+   {
+    "id": "bj-eternity-apartments",
+    "t": "**Eternity Apartments** — par 0:40",
+    "d": "![Eternity Apartments](img/ign-bj-eternity-apartments-1.jpg)\n![Eternity Apartments (2)](img/ign-bj-eternity-apartments-2.jpg)\n![Eternity Apartments (3)](img/ign-bj-eternity-apartments-3.jpg)"
+   },
+   {
+    "id": "bj-maven-residences",
+    "t": "**Maven Residences** — par 0:41",
+    "d": "![Maven Residences](img/ign-bj-maven-residences-1.jpg)\n![Maven Residences (2)](img/ign-bj-maven-residences-2.jpg)\n![Maven Residences (3)](img/ign-bj-maven-residences-3.jpg)"
+   },
+   {
+    "id": "bj-one-stracathro-tower",
+    "t": "**One Stracathro Tower** — par 0:36",
+    "d": "![One Stracathro Tower](img/ign-bj-one-stracathro-tower-1.jpg)\n![One Stracathro Tower (2)](img/ign-bj-one-stracathro-tower-2.jpg)\n![One Stracathro Tower (3)](img/ign-bj-one-stracathro-tower-3.jpg)"
+   },
+   {
+    "id": "bj-rico-huxley-hotels",
+    "t": "**Rico Huxley Hotels** — par 0:37",
+    "d": "![Rico Huxley Hotels](img/ign-bj-rico-huxley-hotels-1.jpg)\n![Rico Huxley Hotels (2)](img/ign-bj-rico-huxley-hotels-2.jpg)\n![Rico Huxley Hotels (3)](img/ign-bj-rico-huxley-hotels-3.jpg)"
+   },
+   {
+    "id": "bj-the-borough-condominiums",
+    "t": "**The Borough Condominiums** — par 0:30",
+    "d": "![The Borough Condominiums](img/ign-bj-the-borough-condominiums-1.jpg)\n![The Borough Condominiums (2)](img/ign-bj-the-borough-condominiums-2.jpg)\n![The Borough Condominiums (3)](img/ign-bj-the-borough-condominiums-3.jpg)"
+   },
+   {
+    "id": "bj-sahara-tower",
+    "t": "**Sahara Tower** — par 0:34",
+    "d": "![Sahara Tower](img/ign-bj-sahara-tower-1.jpg)\n![Sahara Tower (2)](img/ign-bj-sahara-tower-2.jpg)\n![Sahara Tower (3)](img/ign-bj-sahara-tower-3.jpg)"
+   },
+   {
+    "id": "bj-valdemar-on-the-river",
+    "t": "**Valdemar on the River** — par 0:32",
+    "d": "![Valdemar on the River](img/ign-bj-valdemar-on-the-river-1.jpg)\n![Valdemar on the River (2)](img/ign-bj-valdemar-on-the-river-2.jpg)\n![Valdemar on the River (3)](img/ign-bj-valdemar-on-the-river-3.jpg)"
+   },
+   {
+    "id": "bj-archipelago-apartments-north",
+    "t": "**Archipelago Apartments North**",
+    "d": "![Archipelago Apartments North](img/ign-bj-archipelago-apartments-north-1.jpg)\n![Archipelago Apartments North (2)](img/ign-bj-archipelago-apartments-north-2.jpg)\n![Archipelago Apartments North (3)](img/ign-bj-archipelago-apartments-north-3.jpg)"
+   },
+   {
+    "id": "bj-high-life-hotel",
+    "t": "**High Life Hotel**",
+    "d": "![High Life Hotel](img/ign-bj-high-life-hotel-1.jpg)\n![High Life Hotel (2)](img/ign-bj-high-life-hotel-2.jpg)\n![High Life Hotel (3)](img/ign-bj-high-life-hotel-3.jpg)"
+   },
+   {
+    "id": "bj-the-sumerian",
+    "t": "**The Sumerian**",
+    "d": "![The Sumerian](img/ign-bj-the-sumerian-1.jpg)\n![The Sumerian (2)](img/ign-bj-the-sumerian-2.jpg)\n![The Sumerian (3)](img/ign-bj-the-sumerian-3.jpg)"
+   },
+   {
+    "id": "bj-arcadia-towers-south",
+    "t": "**Arcadia Towers South**",
+    "d": "![Arcadia Towers South](img/ign-bj-arcadia-towers-south-1.jpg)\n![Arcadia Towers South (2)](img/ign-bj-arcadia-towers-south-2.jpg)\n![Arcadia Towers South (3)](img/ign-bj-arcadia-towers-south-3.jpg)"
+   },
+   {
+    "id": "bj-arcadia-towers-east",
+    "t": "**Arcadia Towers East**",
+    "d": "![Arcadia Towers East](img/ign-bj-arcadia-towers-east-1.jpg)\n![Arcadia Towers East (2)](img/ign-bj-arcadia-towers-east-2.jpg)\n![Arcadia Towers East (3)](img/ign-bj-arcadia-towers-east-3.jpg)"
+   },
+   {
+    "id": "bj-tequesta-tides-hotel-spa-south",
+    "t": "**Tequesta Tides Hotel & Spa South** — par 0:45",
+    "d": "![Tequesta Tides Hotel & Spa South](img/ign-bj-tequesta-tides-hotel-spa-south-1.jpg)\n![Tequesta Tides Hotel & Spa South (2)](img/ign-bj-tequesta-tides-hotel-spa-south-2.jpg)\n![Tequesta Tides Hotel & Spa South (3)](img/ign-bj-tequesta-tides-hotel-spa-south-3.jpg)"
+   },
+   {
+    "id": "bj-tequesta-tides-hotel-spa-north",
+    "t": "**Tequesta Tides Hotel & Spa North** — par 0:44",
+    "d": "![Tequesta Tides Hotel & Spa North](img/ign-bj-tequesta-tides-hotel-spa-north-1.jpg)\n![Tequesta Tides Hotel & Spa North (2)](img/ign-bj-tequesta-tides-hotel-spa-north-2.jpg)\n![Tequesta Tides Hotel & Spa North (3)](img/ign-bj-tequesta-tides-hotel-spa-north-3.jpg)"
+   },
+   {
+    "id": "bj-tequesta-tides-hotel-spa-west",
+    "t": "**Tequesta Tides Hotel & Spa West** — par 0:47",
+    "d": "![Tequesta Tides Hotel & Spa West](img/ign-bj-tequesta-tides-hotel-spa-west-1.jpg)\n![Tequesta Tides Hotel & Spa West (2)](img/ign-bj-tequesta-tides-hotel-spa-west-2.jpg)\n![Tequesta Tides Hotel & Spa West (3)](img/ign-bj-tequesta-tides-hotel-spa-west-3.jpg)"
+   },
+   {
+    "id": "bj-fenestra-plaza",
+    "t": "**Fenestra Plaza**",
+    "d": "![Fenestra Plaza](img/ign-bj-fenestra-plaza-1.jpg)\n![Fenestra Plaza (2)](img/ign-bj-fenestra-plaza-2.jpg)\n![Fenestra Plaza (3)](img/ign-bj-fenestra-plaza-3.jpg)"
+   }
+  ]
+ }
+}
