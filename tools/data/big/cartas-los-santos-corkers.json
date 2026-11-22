@@ -1,0 +1,274 @@
+{
+ "kind": "card",
+ "id": "cartas-los-santos-corkers",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Los Santos Corkers",
+ "sum": "24 cartas de beisebol, com o local de cada uma.",
+ "body": "- Beisebol, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 1 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-los-santos-corkers-anthony-herndon-bronze",
+   "t": "**Anthony Herndon - Bronze**",
+   "d": "Bancada da garagem em forma de celeiro ao lado de uma casa de fazenda grande na US-70, oeste de Frogswater"
+  },
+  {
+   "id": "cc-los-santos-corkers-anthony-herndon-gold",
+   "t": "**Anthony Herndon - Gold**",
+   "d": "Dentro do cofre da garagem sul do Sunrise Motel, Bayside Dr, Tequesta"
+  },
+  {
+   "id": "cc-los-santos-corkers-anthony-herndon-silver",
+   "t": "**Anthony Herndon - Silver**",
+   "d": "Embaixo de uma pasta nas mesas do meio da sala atrás do Achados e Perdidos, terminais do VCIA"
+  },
+  {
+   "id": "cc-los-santos-corkers-aoi-watanabe-standard",
+   "t": "**Aoi Watanabe - Standard**",
+   "d": "No parapeito da torre mais alta do Aurora Theaters, Peacock Bay"
+  },
+  {
+   "id": "cc-los-santos-corkers-carlos-larios-bronze",
+   "t": "**Carlos Larios - Bronze**",
+   "d": "No chão do banco de reservas de um campo de beisebol, ao lado de uma bolsa de academia, no parque grande de Ocean Beach"
+  },
+  {
+   "id": "cc-los-santos-corkers-carlos-larios-gold",
+   "t": "**Carlos Larios - Gold**",
+   "d": "Embaixo de uma cadeira de praia no telhado de um prédio amarelo na NW 9th St, leste de Rockridge"
+  },
+  {
+   "id": "cc-los-santos-corkers-carlos-larios-silver",
+   "t": "**Carlos Larios - Silver**",
+   "d": "Numa mesa ao lado da entrada do armazém U.S. National Mail, NW 17th St, sul de Balsero"
+  },
+  {
+   "id": "cc-los-santos-corkers-franklin-turner-bronze",
+   "t": "**Franklin Turner - Bronze**",
+   "d": "No balcão da parede lateral da garagem de uma casa branca na Grace Ave, oeste de Belville"
+  },
+  {
+   "id": "cc-los-santos-corkers-franklin-turner-gold",
+   "t": "**Franklin Turner - Gold**",
+   "d": "Numa cômoda ao lado da escada, 2º andar de uma mansão na Coconut Cove Ct, oeste de Capri"
+  },
+  {
+   "id": "cc-los-santos-corkers-franklin-turner-silver",
+   "t": "**Franklin Turner - Silver**",
+   "d": "Num balcão no canto da garagem de uma mansão na Catalan Blvd, sul de Waning Sands"
+  },
+  {
+   "id": "cc-los-santos-corkers-jesus-de-fuente-standard",
+   "t": "**Jesus De Fuente - Standard**",
+   "d": "Na ponta do parapeito da sacada do 2º andar do prédio amarelo grande na Galerina St, centro de Hamlet"
+  },
+  {
+   "id": "cc-los-santos-corkers-jonah-clemmons-deep-red",
+   "t": "**Jonah Clemmons - Deep Red**",
+   "d": "Num suporte ao lado de um tabuleiro de xadrez, sob uma área de lazer azul de um prédio na SW 4th St, sul de Salton"
+  },
+  {
+   "id": "cc-los-santos-corkers-jonah-clemmons-navy-blue",
+   "t": "**Jonah Clemmons - Navy Blue**",
+   "d": "No telhado do Sloppy Joe's Steakhouse, junto à porta de acesso e a uma cadeira dobrável, perto da SW 10th Ave, Southside"
+  },
+  {
+   "id": "cc-los-santos-corkers-jonah-clemmons-silver",
+   "t": "**Jonah Clemmons - Silver**",
+   "d": "Numa mesa encostada na parede de um quarto de uma casa à beira-rio na ilha norte de Watson Bay"
+  },
+  {
+   "id": "cc-los-santos-corkers-miguel-ayala-standard",
+   "t": "**Miguel Ayala - Standard**",
+   "d": "No parapeito de pedra do pátio da Moreau Pass State Park Ranger Station, perto do rio, leste de Moreau"
+  },
+  {
+   "id": "cc-los-santos-corkers-samuel-buono-deep-red",
+   "t": "**Samuel Buono - Deep Red**",
+   "d": "No banco mais ao norte do lado oeste da estação de trem do norte de Tequesta"
+  },
+  {
+   "id": "cc-los-santos-corkers-samuel-buono-navy-blue",
+   "t": "**Samuel Buono - Navy Blue**",
+   "d": "Num banco do pátio de uma casa de madeira, ao lado de um gnomo, na Seabell Ave, Watson Bay"
+  },
+  {
+   "id": "cc-los-santos-corkers-samuel-buono-silver",
+   "t": "**Samuel Buono - Silver**",
+   "d": "Numa caixa elétrica no topo da torre de rádio do Mariana County Sheriff's Office, US-82, Grassrivers"
+  },
+  {
+   "id": "cc-los-santos-corkers-si-woo-choo-standard",
+   "t": "**Si-Woo Choo - Standard**",
+   "d": "Na borda do quiosque fechado Sandy Snacks, Washington Beach"
+  },
+  {
+   "id": "cc-los-santos-corkers-terrence-jackson-deep-red",
+   "t": "**Terrence Jackson - Deep Red**",
+   "d": "No chão ao lado da piscina, entre duas espreguiçadeiras, atrás de uma casa rosa a leste de Belville"
+  },
+  {
+   "id": "cc-los-santos-corkers-terrence-jackson-navy-blue",
+   "t": "**Terrence Jackson - Navy Blue**",
+   "d": "No chão entre uma bolsa vermelha e um banco, na estação de trem entre Grassrivers e North Mariana"
+  },
+  {
+   "id": "cc-los-santos-corkers-terrence-jackson-silver",
+   "t": "**Terrence Jackson - Silver**",
+   "d": "Num canto de uma pilha de madeira dentro de um contêiner no jardim de um rancho na Tallaloko Lake Rd, East Lummox"
+  },
+  {
+   "id": "cc-los-santos-corkers-victor-maravilla-standard",
+   "t": "**Victor Maravilla - Standard**",
+   "d": "Na ponta de um banco do banco de reservas de um campo de beisebol no lado oeste de Ambrosia"
+  },
+  {
+   "id": "cc-los-santos-corkers-xavier-gomez-standard",
+   "t": "**Xavier Gomez - Standard**",
+   "d": "Na lateral da geladeira da sala de funcionários do Hamlet Car Wash, Vine St, oeste de Hamlet"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Los Santos Corkers"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Los Santos Corkers",
+  "sum": "24 baseball cards, with every location.",
+  "body": "- Baseball, 24 cards. Locations from IGN's list; tick each one as you grab it.\n- 1 card(s) sit in a **safe**: open it with the code from robbing that place, or a sticky bomb.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Los Santos Corkers"
+  ],
+  "check": [
+   {
+    "id": "cc-los-santos-corkers-anthony-herndon-bronze",
+    "t": "**Anthony Herndon - Bronze**",
+    "d": "Inside a detached garage shaped like a barn on top of a workbench next to a large farmhouse on US-70 in western Frogswater"
+   },
+   {
+    "id": "cc-los-santos-corkers-anthony-herndon-gold",
+    "t": "**Anthony Herndon - Gold**",
+    "d": "Inside a safe in the southern garage of the Sunrise Motel on Bayside Dr in Tequesta"
+   },
+   {
+    "id": "cc-los-santos-corkers-anthony-herndon-silver",
+    "t": "**Anthony Herndon - Silver**",
+    "d": "Underneath a folder on top of the tables in the middle of the room behind the Lost & Found at the VCIA terminals"
+   },
+   {
+    "id": "cc-los-santos-corkers-aoi-watanabe-standard",
+    "t": "**Aoi Watanabe - Standard**",
+    "d": "On top of the railing of the top tower of the Aurora Theaters in Peacock Bay"
+   },
+   {
+    "id": "cc-los-santos-corkers-carlos-larios-bronze",
+    "t": "**Carlos Larios - Bronze**",
+    "d": "In the dugout of a baseball field on the ground next to a gym bag in the large park in Ocean Beach"
+   },
+   {
+    "id": "cc-los-santos-corkers-carlos-larios-gold",
+    "t": "**Carlos Larios - Gold**",
+    "d": "Under a lawn chair on the roof of a yellow apartment complex on NW 9th St in eastern Rockridge"
+   },
+   {
+    "id": "cc-los-santos-corkers-carlos-larios-silver",
+    "t": "**Carlos Larios - Silver**",
+    "d": "On top of a desk next to the entrance to the U.S. National Mail warehouse on NW 17th St in southern Balsero"
+   },
+   {
+    "id": "cc-los-santos-corkers-franklin-turner-bronze",
+    "t": "**Franklin Turner - Bronze**",
+    "d": "On top of the counter on the side wall of a garage in a white house on Grave Ave in western Belville"
+   },
+   {
+    "id": "cc-los-santos-corkers-franklin-turner-gold",
+    "t": "**Franklin Turner - Gold**",
+    "d": "On top of a dresser next to the staircase on the second floor of a mansion on Coconut Cove Ct in western Capri"
+   },
+   {
+    "id": "cc-los-santos-corkers-franklin-turner-silver",
+    "t": "**Franklin Turner - Silver**",
+    "d": "On top of a counter in the corner of the garage of a mansion on Catalan Blvd in southern Waning Sands"
+   },
+   {
+    "id": "cc-los-santos-corkers-jesus-de-fuente-standard",
+    "t": "**Jesus De Fuente - Standard**",
+    "d": "At the end of the railing of the second floor balcony for the large yellow apartment complex on Galerina St in central Hamlet"
+   },
+   {
+    "id": "cc-los-santos-corkers-jonah-clemmons-deep-red",
+    "t": "**Jonah Clemmons - Deep Red**",
+    "d": "Under a blue recreation area next to an apartment complex leaning in a holder next to a chess board on SW 4th St in southern Salton"
+   },
+   {
+    "id": "cc-los-santos-corkers-jonah-clemmons-navy-blue",
+    "t": "**Jonah Clemmons - Navy Blue**",
+    "d": "On the roof of the Sloppy Joe's Steakhouse next to the entrance door access and a folding chair off of SW 10th Ave in Southside"
+   },
+   {
+    "id": "cc-los-santos-corkers-jonah-clemmons-silver",
+    "t": "**Jonah Clemmons - Silver**",
+    "d": "On top of a table against the wall of a bedroom of a riverfront house on the north island of Watson Bay"
+   },
+   {
+    "id": "cc-los-santos-corkers-miguel-ayala-standard",
+    "t": "**Miguel Ayala - Standard**",
+    "d": "On top of the stone railing on the patio outside the Moreau Pass State Park Ranger Station near the river in eastern Moreau"
+   },
+   {
+    "id": "cc-los-santos-corkers-samuel-buono-deep-red",
+    "t": "**Samuel Buono - Deep Red**",
+    "d": "On top of the northern bench on the west side in the train station in northern Tequesta"
+   },
+   {
+    "id": "cc-los-santos-corkers-samuel-buono-navy-blue",
+    "t": "**Samuel Buono - Navy Blue**",
+    "d": "On top of a bench on the patio of a wooden house next to a gnome on Seabell Ave in Watson Bay"
+   },
+   {
+    "id": "cc-los-santos-corkers-samuel-buono-silver",
+    "t": "**Samuel Buono - Silver**",
+    "d": "On top of an electrical box at the very top of a radio tower outside the Mariana County Sheriff's Office on US-82 in Grassrivers"
+   },
+   {
+    "id": "cc-los-santos-corkers-si-woo-choo-standard",
+    "t": "**Si-Woo Choo - Standard**",
+    "d": "On the ledge going around the closed Sandy Snacks kiosk on Washington Beach"
+   },
+   {
+    "id": "cc-los-santos-corkers-terrence-jackson-deep-red",
+    "t": "**Terrence Jackson - Deep Red**",
+    "d": "On the ground on the side of a pool between two beach chairs behind a pink house east of Belville"
+   },
+   {
+    "id": "cc-los-santos-corkers-terrence-jackson-navy-blue",
+    "t": "**Terrence Jackson - Navy Blue**",
+    "d": "On the ground between a red gym bag and a bench at the train station between Grassrivers and North Mariana County"
+   },
+   {
+    "id": "cc-los-santos-corkers-terrence-jackson-silver",
+    "t": "**Terrence Jackson - Silver**",
+    "d": "On top of the corner of a stack of wood in a shipping container in the front yard of a ranch on Tallaloko Lake Rd in East Lummox County"
+   },
+   {
+    "id": "cc-los-santos-corkers-victor-maravilla-standard",
+    "t": "**Victor Maravilla - Standard**",
+    "d": "At the edge of a bench in the dugout of a baseball field on the west side of Ambrosia"
+   },
+   {
+    "id": "cc-los-santos-corkers-xavier-gomez-standard",
+    "t": "**Xavier Gomez - Standard**",
+    "d": "On the side of the fridge in the staff room of the Hamlet Car Wash on Vine St in western Hamlet"
+   }
+  ]
+ }
+}

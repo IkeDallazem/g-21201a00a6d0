@@ -1,0 +1,394 @@
+{
+ "kind": "card",
+ "id": "cartas-right-wing-america-s-hero",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Right Wing: America's Hero",
+ "sum": "36 cartas de hq, com o local de cada uma.",
+ "body": "- HQ, 36 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-right-wing-america-s-hero-flamer-blue",
+   "t": "**Flamer - Blue**",
+   "d": "No gradil sobre a água, ao lado de um energético Dunk e de uma lixeira, no píer do norte de Catalan Key"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-flamer-red",
+   "t": "**Flamer - Red**",
+   "d": "Na segunda prateleira de uma estante na sacada do 2º andar da Williams Guest House, centro de Grayson"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-flamer-white",
+   "t": "**Flamer - White**",
+   "d": "Presa na lateral de um mural de cortiça sob um toldo junto aos banheiros do Paradise RV Park, leste de Watson Bay"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-flamer-right-wing-blue",
+   "t": "**Flamer & Right Wing - Blue**",
+   "d": "Na mesa do escritório dos fundos do Xero Food Mart, nordeste de Ambrosia"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-flamer-right-wing-red",
+   "t": "**Flamer & Right Wing - Red**",
+   "d": "Em cima da entrada do prédio comercial abandonado, ao lado de uma cadeira e de revistas, norte de Capri"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-flamer-right-wing-white",
+   "t": "**Flamer & Right Wing - White**",
+   "d": "Num porta-chaves na garagem de uma casa branca no sul de Waning Sands"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-great-uncle-sam-blue",
+   "t": "**Great Uncle Sam - Blue**",
+   "d": "Numa bancada de madeira dentro de uma garagem separada em frente a uma casa de fazenda, North Leonard"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-great-uncle-sam-red",
+   "t": "**Great Uncle Sam - Red**",
+   "d": "No chão do banheiro de funcionários, ao lado do vaso, nos fundos do posto RON da SW 4th St x Oleander Blvd, Oldby Island"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-great-uncle-sam-white",
+   "t": "**Great Uncle Sam - White**",
+   "d": "No gradil à esquerda da entrada do tiki bar Anakala Sam's, litoral de Ambrosia"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-great-uncle-sam-president-blunt-blue",
+   "t": "**Great Uncle Sam & President Blunt - Blue**",
+   "d": "No telhado do armazém Domestic Timbers, embaixo de uma cadeira de plástico, sudeste de Balsero em frente ao Pay 'N' Spray"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-great-uncle-sam-president-blunt-red",
+   "t": "**Great Uncle Sam & President Blunt - Red**",
+   "d": "No chão do banheiro masculino atrás da Emerald Springs Country Store, Emerald Springs Dr, sul de Emerald Springs"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-great-uncle-sam-president-blunt-white",
+   "t": "**Great Uncle Sam & President Blunt - White**",
+   "d": "Em cima de uma máquina de lavar ao lado de um cesto de roupa num trailer do norte de Port Gellhorn"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-immigrintasma-blue",
+   "t": "**Immigrintasma - Blue**",
+   "d": "No alto da caixa-d'água com bandeira americana do norte de Ambrosia, ao lado de uma cadeira dobrável"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-immigrintasma-red",
+   "t": "**Immigrintasma - Red**",
+   "d": "Em cima do vaso do banheiro masculino do Abismo Key State Park, oeste de Abismo Key"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-immigrintasma-white",
+   "t": "**Immigrintasma - White**",
+   "d": "Pendurada na geladeira de uma casa branca e de tijolo na NW 10th Ave, La Perle"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-president-blunt-blue",
+   "t": "**President Blunt - Blue**",
+   "d": "Num sofá numa pequena réplica de campo de batalha logo ao norte de Port Gellhorn"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-president-blunt-red",
+   "t": "**President Blunt - Red**",
+   "d": "No canto da passarela de um outdoor sobre a I-404, sudeste de Port Gellhorn"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-president-blunt-white",
+   "t": "**President Blunt - White**",
+   "d": "Encostada numa janela, no parapeito da lateral do restaurante Cor Blimey!, norte de Capri"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-president-quinn-blue",
+   "t": "**President Quinn - Blue**",
+   "d": "No fim de uma passarela entre os outdoors sobre a US-628, East Lummox"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-president-quinn-red",
+   "t": "**President Quinn - Red**",
+   "d": "Em cima da chaminé de uma casa abandonada na Vine St, oeste de Hamlet"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-president-quinn-white",
+   "t": "**President Quinn - White**",
+   "d": "Diante de um computador numa mesa dentro do galpão de um caçador, sudoeste do Mount Kalaga National Park"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-right-wing-blue",
+   "t": "**Right Wing - Blue**",
+   "d": "No canto do alto da torre velha do sul de Gellhorn, a oeste da Leonida State Prison"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-right-wing-red",
+   "t": "**Right Wing - Red**",
+   "d": "Na prateleira de baixo de um rack no estoque do posto Xero da US-82, Grassrivers"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-right-wing-white",
+   "t": "**Right Wing - White**",
+   "d": "Na lateral de um quadro de avisos sobre o pátio do Redshaw's Gas & General Store, Forest Mill Rd, Mount Kalaga National Park"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-right-wing-vs-left-wing-blue",
+   "t": "**Right Wing vs Left Wing - Blue**",
+   "d": "Em cima de um barril no pátio dos fundos do bar abandonado Beachie's, Watson Bay"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-right-wing-vs-left-wing-red",
+   "t": "**Right Wing vs Left Wing - Red**",
+   "d": "No banco de um carrinho de bate-bate enferrujado, ao lado de um gnomo, num parque de diversões abandonado do sul de Port Gellhorn"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-right-wing-vs-left-wing-white",
+   "t": "**Right Wing vs Left Wing - White**",
+   "d": "No chão ao lado de um vaso no prediozinho da obra do norte de Millport"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-right-wing-s-truck-blue",
+   "t": "**Right Wing's Truck - Blue**",
+   "d": "Na prateleira de baixo de uma estante, sobre uma revista, num banco de reservas sob a faixa HALT ao lado do Ambrosia Raceway"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-right-wing-s-truck-red",
+   "t": "**Right Wing's Truck - Red**",
+   "d": "Em cima de um poste de madeira no canto do nível mais alto do mirante do Thrillbilly Mud Club sobre a pista"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-right-wing-s-truck-white",
+   "t": "**Right Wing's Truck - White**",
+   "d": "Num sofá azul em frente ao pátio lateral de uma casa vermelha na Farmers Walk, norte de Bluegrass"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-the-educated-woman-blue",
+   "t": "**The Educated Woman - Blue**",
+   "d": "Numa mesa ao lado de um notebook no escritório do posto Globe Oil, sul de Crosstown"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-the-educated-woman-red",
+   "t": "**The Educated Woman - Red**",
+   "d": "Numa borda no canto de um telhado, em frente a uma cadeira de praia, leste de Stockyard"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-the-educated-woman-white",
+   "t": "**The Educated Woman - White**",
+   "d": "Nos degraus da frente de um trailer vermelho e branco na Scuttlebutt Dr, norte de Key Lento"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-they-blue",
+   "t": "**They - Blue**",
+   "d": "Na lateral da geladeira da copa nos fundos do posto RON da NW 3rd St x NW 3rd Ave, leste de Little Cuba"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-they-red",
+   "t": "**They - Red**",
+   "d": "No canto da passarela do outdoor sobre a Tisha-Wocka Flea Market, oeste de Balsero"
+  },
+  {
+   "id": "cc-right-wing-america-s-hero-they-white",
+   "t": "**They - White**",
+   "d": "Na lateral da geladeira do apartamento 6 do Aralia Court, oeste de Peacock Bay"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Right Wing: America's Hero"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Right Wing: America's Hero",
+  "sum": "36 comic cards, with every location.",
+  "body": "- Comic, 36 cards. Locations from IGN's list; tick each one as you grab it.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Right Wing: America's Hero"
+  ],
+  "check": [
+   {
+    "id": "cc-right-wing-america-s-hero-flamer-blue",
+    "t": "**Flamer - Blue**",
+    "d": "On top of the railing over the water next to a Dunk energy drink and a trashcan on the dock in northern Catalan Key"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-flamer-red",
+    "t": "**Flamer - Red**",
+    "d": "On the second shelf of a bookshelf on the second floor balcony of Williams Guest House in downtown Grayson"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-flamer-white",
+    "t": "**Flamer - White**",
+    "d": "Pinned on the side of a cork board underneath an awning off of the bathrooms in the Paradise RV Park in eastern Watson Bay"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-flamer-right-wing-blue",
+    "t": "**Flamer & Right Wing - Blue**",
+    "d": "On top of the table in the back office of the Xero Food Mart in northeastern Ambrosia"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-flamer-right-wing-red",
+    "t": "**Flamer & Right Wing - Red**",
+    "d": "On top of the front entrance to the abandoned office building next to a chair and a pile of magazines in northern Capri"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-flamer-right-wing-white",
+    "t": "**Flamer & Right Wing - White**",
+    "d": "On top of a key holder in the garage of a white house in southern Waning Sands"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-great-uncle-sam-blue",
+    "t": "**Great Uncle Sam - Blue**",
+    "d": "Inside a detached garage across from a farmhouse on top of a wooden workbench in North Leonard County"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-great-uncle-sam-red",
+    "t": "**Great Uncle Sam - Red**",
+    "d": "On the ground of the employee bathroom next to the toilet in the back of the RON gas station on the corner of SW 4th St and Oleander Blvd on Oldby Island"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-great-uncle-sam-white",
+    "t": "**Great Uncle Sam - White**",
+    "d": "On top of the railing to the left of the entrance to Anakala Sam's tiki bar on the coast of Ambrosia"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-great-uncle-sam-president-blunt-blue",
+    "t": "**Great Uncle Sam & President Blunt - Blue**",
+    "d": "On the roof of the Domestic Timbers warehouse underneath a plastic chair in southeastern Balsero across from the Pay 'N' Spray"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-great-uncle-sam-president-blunt-red",
+    "t": "**Great Uncle Sam & President Blunt - Red**",
+    "d": "On the ground inside the male bathroom behind the Emerald Springs Country Store on Emerald Springs Dr in southern Emerald Springs"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-great-uncle-sam-president-blunt-white",
+    "t": "**Great Uncle Sam & President Blunt - White**",
+    "d": "On top of a washing machine next to a clothes basket in a mobile home in northern Port Gellhorn"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-immigrintasma-blue",
+    "t": "**Immigrintasma - Blue**",
+    "d": "On top of the American flag water tower in northern Ambrosia next to a folding chair"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-immigrintasma-red",
+    "t": "**Immigrintasma - Red**",
+    "d": "Inside the male bathroom in the Abismo Key State park on top of the toilet in western Abismo Key"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-immigrintasma-white",
+    "t": "**Immigrintasma - White**",
+    "d": "Hanging from the fridge inside a white and brick house on NW 10th Ave in La Perle"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-president-blunt-blue",
+    "t": "**President Blunt - Blue**",
+    "d": "On top of a couch in a small battlefield recreation just to the north of Port Gellhorn"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-president-blunt-red",
+    "t": "**President Blunt - Red**",
+    "d": "On the corner of a billboard catwalk over I-404 southeast of Port Gellhorn"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-president-blunt-white",
+    "t": "**President Blunt - White**",
+    "d": "Leaning against a window on a windowsill on the side of the Cor Blimey! restaurant in northern Capri"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-president-quinn-blue",
+    "t": "**President Quinn - Blue**",
+    "d": "At the end of a catwalk between the billboards over US-628 in East Lummox County"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-president-quinn-red",
+    "t": "**President Quinn - Red**",
+    "d": "On top of the chimney on the roof of an abandoned house on Vine St in western Hamlet"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-president-quinn-white",
+    "t": "**President Quinn - White**",
+    "d": "In front of a computer on a desk inside of a hunter's warehouse in the southwestern area of Mount Kalaga National Park"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-right-wing-blue",
+    "t": "**Right Wing - Blue**",
+    "d": "In the corner of the top of the old tower in southern Gellhorn, west of the Leonida State Prison"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-right-wing-red",
+    "t": "**Right Wing - Red**",
+    "d": "On the bottom shelf of a wall rack in the stock room of the Xero gas station on US-82 in Grassrivers"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-right-wing-white",
+    "t": "**Right Wing - White**",
+    "d": "On the side of a notice board above the front patio of Redshaw's Gas & General Store next to Forest Mill Rd in Mount Kalaga National Park"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-right-wing-vs-left-wing-blue",
+    "t": "**Right Wing vs Left Wing - Blue**",
+    "d": "On top of a barrel on the back patio of the abandoned Beachie's bar in Watson Bay"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-right-wing-vs-left-wing-red",
+    "t": "**Right Wing vs Left Wing - Red**",
+    "d": "On the seat of a rusted bumper car next to a gnome inside an abandoned theme park in southern Port Gellhorn"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-right-wing-vs-left-wing-white",
+    "t": "**Right Wing vs Left Wing - White**",
+    "d": "On the ground next to a toilet in the small building on the construction site in northern Millport"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-right-wing-s-truck-blue",
+    "t": "**Right Wing's Truck - Blue**",
+    "d": "On the bottom rack of a shelving unit on top of a magazine in a small dugout under the HALT banner next to the Ambrosia Raceway"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-right-wing-s-truck-red",
+    "t": "**Right Wing's Truck - Red**",
+    "d": "On top of a wooden pole in the corner of the top level of the Thrillbilly Mud Club lookout over the track"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-right-wing-s-truck-white",
+    "t": "**Right Wing's Truck - White**",
+    "d": "On top of a blue couch in front of the side patio of a red house on Farmers Walk in northern Bluegrass"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-the-educated-woman-blue",
+    "t": "**The Educated Woman - Blue**",
+    "d": "On top of a desk next to a laptop in the staff office of the Globe Oil gas station in southern Crosstown"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-the-educated-woman-red",
+    "t": "**The Educated Woman - Red**",
+    "d": "On top of a ledge on the corner of a roof in front of a lawn chair in eastern Stockyard"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-the-educated-woman-white",
+    "t": "**The Educated Woman - White**",
+    "d": "On the front steps up to a red and white mobile home on Scuttlebutt Dr in northern Key Lento"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-they-blue",
+    "t": "**They - Blue**",
+    "d": "On the side of a fridge in the kitchenette in the back of the RON gas station on the corner of NW 3rd St and NW 3rd Ave in eastern Little Cuba"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-they-red",
+    "t": "**They - Red**",
+    "d": "On the corner of the catwalk of the billboard over the Tisha-Wocka Flea Market in western Balsero"
+   },
+   {
+    "id": "cc-right-wing-america-s-hero-they-white",
+    "t": "**They - White**",
+    "d": "On the side of a fridge in the kitchen of apartment 6 in the Aralia Court apartments in western Peacock Bay"
+   }
+  ]
+ }
+}

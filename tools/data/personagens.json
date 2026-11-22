@@ -1,0 +1,506 @@
+[
+ {
+  "kind": "card",
+  "id": "personagens-troca",
+  "sec": "personagens",
+  "sub": "troca",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "Trocar de personagem: quando e como",
+  "sum": "Livre a partir de Coffee Break (Cap. 2). É a viagem rápida grátis do jogo.",
+  "body": "- **Comando (PS5):** segure {→} e aperte {R1}. O jogo desacelera e mostra os retratos dos dois no canto inferior direito, com o Perfil Criminal de cada um.\n- **Cap. 1:** quase só o Jason. A Lucia fica jogável em alguns trechos perto do fim do capítulo.\n- **Cap. 2:** a troca fica livre (“Partner Freeroam”) a partir de **“Coffee Break”** (PowerPyx e Eurogamer), por volta de 30% da história. A IGN lista a troca como recompensa de **Breakfast Run**, a missão anterior. Na prática, libera nesse trecho e o jogo avisa.\n- **Depois disso,** normalmente qualquer missão pode ser feita com qualquer um; alguns trechos da história travam em um personagem. Missões marcadas com **J** ou **L** no mapa só começam com aquele personagem.\n- **Viagem rápida:** o personagem que você não está usando fica perto do esconderijo atual, vivendo a rotina dele. **Trocar de personagem é a viagem rápida grátis do jogo.**\n- **Heat:** trocar ajuda se um dos dois está com heat numa área e o outro não ([[policia-heat]]).",
+  "src": [
+   "Eurogamer",
+   "GameSpot",
+   "IGN",
+   "PowerPyx",
+   "VGC"
+  ],
+  "kw": [
+   "trocar personagem",
+   "switch",
+   "alternar",
+   "jogar com a lucia",
+   "coffee break"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Switching characters: when and how",
+   "sum": "Free from Coffee Break (Ch. 2). It's the game's free fast travel.",
+   "body": "- **Control (PS5):** hold {→} and press {R1}. Time slows and both portraits appear at the bottom right, with each one's Criminal Profile.\n- **Ch. 1:** almost only Jason. Lucia is playable in a few stretches near the end of the chapter.\n- **Ch. 2:** switching is free (“Partner Freeroam”) from **“Coffee Break”** (PowerPyx and Eurogamer), around 30% into the story. IGN lists it as a reward of **Breakfast Run**, the mission before. Either way, it unlocks in that stretch and the game tells you.\n- **After that,** any mission can usually be done with either; some story stretches lock you to one character. Missions marked **J** or **L** on the map only start with that character.\n- **Fast travel:** the character you're not using hangs around the current safehouse living their routine. **Switching characters is the game's free fast travel.**\n- **Heat:** switching helps when one of them has Heat in an area and the other doesn't ([[policia-heat]]).",
+   "kw": [
+    "switch character",
+    "switch",
+    "play as lucia",
+    "coffee break"
+   ],
+   "div": "Switch button: before launch, VGC cited {→} and GameSpot {L1}. Eurogamer, with the game in hand, confirms holding {→} and pressing {R1}."
+  },
+  "div": "Botão da troca: antes do lançamento, a VGC citava {→} e a GameSpot {L1}. A Eurogamer, já com o jogo, confirma segurar {→} e apertar {R1}."
+ },
+ {
+  "kind": "card",
+  "id": "personagens-dupla",
+  "sec": "personagens",
+  "sub": "troca",
+  "tipo": "dica",
+  "conf": "oficial",
+  "ch": [
+   "c2",
+   "c3",
+   "c4"
+  ],
+  "title": "Dupla no mundo aberto: chamar e usar o parceiro",
+  "sum": "Pelo menu do parceiro ele controla a multidão, leva sacola extra e recebe armas.",
+  "body": "- **Menu do parceiro:** segure {→}. Por ele você chama o parceiro, separa a dupla, manda distrair a polícia, ser o motorista de fuga ou levar a mercadoria ao receptador (sem você ele pode não conseguir o valor cheio).\n- **Chame o parceiro** (segure {→} + {△}) para assaltar gangue, banco ou loja: enquanto um pega o dinheiro, o outro controla a multidão.\n- **Sacola cheia?** Passe outra para o parceiro. Dá até para entregar uma arma específica.\n- **O parceiro imita você:** se você estrangula alguém em silêncio, ele tenta o mesmo; se saca a arma, ele também.\n- **Na fuga** (quem dirige, quem atira, separar a dupla, isca): [[policia-dupla]].\n- Fazer crimes juntos também sobe o relacionamento: [[personagens-relacao]].",
+  "src": [
+   "Rockstar (Rob Nelson)",
+   "PowerPyx",
+   "IGN",
+   "Eurogamer"
+  ],
+  "kw": [
+   "dupla",
+   "coop",
+   "parceiro",
+   "chamar parceiro",
+   "sacola"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Duo in the open world: calling and using your partner",
+   "sum": "From the partner menu they control the crowd, carry an extra bag and take weapons.",
+   "body": "- **Partner menu:** hold {→}. From it you call your partner, split the duo, or have them distract the cops, be the getaway driver or take the goods to the fence (without you they may not get full value).\n- **Call your partner** (hold {→} + {△}) to rob a gang, bank or store: while one grabs the money, the other controls the crowd.\n- **Bag full?** Hand another to your partner. You can even give them a specific gun.\n- **Your partner mirrors you:** if you choke someone quietly, they try the same; if you draw your gun, so do they.\n- **In a chase** (who drives, who shoots, splitting up, decoy): [[policia-dupla]].\n- Pulling off crimes together also raises the relationship: [[personagens-relacao]].",
+   "kw": [
+    "duo",
+    "coop",
+    "partner",
+    "call partner",
+    "bag"
+   ],
+   "div": "The {→} + {△} command is described as “call your partner” (PowerPyx) and as “split the duo” when there is partner Heat (IGN and Eurogamer). Follow the on-screen prompt."
+  },
+  "div": "O comando {→} + {△} aparece como “chamar o parceiro” (PowerPyx) e como “separar a dupla” quando há heat de dupla (IGN e Eurogamer). Siga a legenda na tela."
+ },
+ {
+  "kind": "card",
+  "id": "personagens-diferencas",
+  "sec": "personagens",
+  "sub": "troca",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Diferenças entre Jason e Lucia",
+  "sum": "Perfis, contatos e algumas habilidades.",
+  "body": "- **Perfis criminais separados** ([[policia-perfil]]) e atributos próprios ([[personagens-atributos]]).\n- **Só o Jason vende carcaças de caça.** O contato é um ex-colega de Exército, Bret Vogel, em Lummox County. Leve um 4×4 ou moto de trilha.\n- **A Lucia** recebe o Slim Jim na missão “Moses” e faz os roubos de carro de “Car Services” no Cap. 3.\n- **Pistolas de assinatura:** Girardi ES9 (Jason) e Klose K17 (Lucia).\n- **Focus diferente** {{previa}}: o do Jason destaca membros e pontos fracos; o da Lucia favorece um tiro preciso.\n- Estilos de luta (Lucia com kickboxing, Jason com força bruta) vêm de material pré-lançamento e não foram verificados. {{rumor}}\n- A Lucia recebe cantadas na rua e tem a competência questionada por outros criminosos: escolha deliberada de roteiro.",
+  "src": [
+   "Wccftech",
+   "PowerPyx",
+   "Extended Look",
+   "Rockstar"
+  ],
+  "kw": [
+   "diferenca",
+   "jason",
+   "lucia",
+   "habilidade",
+   "caca"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Differences between Jason and Lucia",
+   "sum": "Profiles, contacts and a few abilities.",
+   "body": "- **Separate criminal profiles** ([[policia-perfil]]) and their own stats ([[personagens-atributos]]).\n- **Only Jason sells hunting carcasses.** The contact is an Army buddy, Bret Vogel, in Lummox County. Bring a 4×4 or dirt bike.\n- **Lucia** gets the Slim Jim in “Moses” and does the “Car Services” thefts in Ch. 3.\n- **Signature pistols:** Girardi ES9 (Jason) and Klose K17 (Lucia).\n- **Different Focus** {{previa}}: Jason's highlights limbs and weak points; Lucia's favors a precise shot.\n- Fighting styles (Lucia kickboxing, Jason brute force) come from pre-launch material and weren't verified. {{rumor}}\n- Lucia gets catcalled on the street and has her competence questioned by other criminals: a deliberate writing choice.",
+   "kw": [
+    "difference",
+    "jason",
+    "lucia",
+    "ability",
+    "hunting"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "policia-perfil",
+  "sec": "personagens",
+  "sub": "perfil",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Perfil Criminal",
+  "sum": "5 níveis, de Profissional a Estilhaçado (permanente). Muda a polícia e o Focus.",
+  "body": "- **O que é:** mede que tipo de criminoso você é. São 5 níveis: Profissional → Agressivo → Violento → Psicopata → **Estilhaçado**, o estado “quebrado”.\n- **Separado por personagem:** Jason e Lucia têm perfis próprios.\n- **Onde ver:** segure {→}, ou mapa → {L1} → aba “Jason e Lucia”.\n\n#### Os 5 níveis\n- **Profissional:** ganha Focus permanente com incapacitações não letais, tiros não vitais, furtividade, sem brigar e com boas ações (jogar lixo no lixo, alimentar a cobra do Jason, ajudar estranhos). Atropelar pedestre ou causar acidente fatal derruba rápido; para voltar, desescale e não seja detectado.\n- **Agressivo:** revida, mas não começa. Ganha Focus do mesmo jeito que o Profissional. Matar policial ou ferir civil empurra para Violento.\n- **Violento:** mata até policiais. Atirar para fugir em vez de esperar a perseguição esfriar leva para cá. Só ganha Focus com tiro na cabeça.\n- **Psicopata:** mata inocentes e animais indefesos. A polícia atira à primeira vista e não dá para se render. Só ganha Focus com tiro na cabeça. Ficar muito tempo aqui leva ao Estilhaçado.\n- **Estilhaçado:** permanente; **não volta** naquele save (só voltando um save antigo). O jogo dá **3 avisos** em câmera lenta, com o emoji do perfil rachando, antes de travar; depois o emoji fica cinza. Sem ganho de Focus, nem passivo (Gamersky), e sem rendição: a polícia atira à primeira vista. O jeito mais rápido de cair nele é explodir carros e grupos de civis; matar policial avança devagar. O relacionamento ainda é possível, mas difícil se os perfis forem muito diferentes.\n\n#### O que pesa e o que não pesa\n- **Não conta contra você:** cumprir o que a missão exige e se defender. A Shacknews somou 457 mortes e continuou Profissional. Briga com civil iniciada pela interação (você ou ele provocou) também não conta como violência contra inocente.\n- Jogar sem matar ninguém é impossível (IGN); o que conta é como você mata.\n- **Explosivos** puxam o perfil para o lado violento, mesmo quando só incapacitam.\n- **Nas missões:** poupar alguém puxa para Profissional; executar ou usar explosivo puxa para Violento.\n- **Para ficar Profissional:** ameace sem ferir, use supressão, atire em membros, destrua as fitas e desligue o alarme.\n\n#### O que o perfil muda\n- **Polícia:** quanto mais violento, mais cedo ela responde com força letal.\n- **Focus:** a furtividade favorece o ganho em Profissional e Agressivo; headshots favorecem Violento e Psicopata. Mais sobre o Focus em [[personagens-atributos]].\n- **O final** depende do Perfil Criminal dos dois e do nível de relacionamento (IGN; veja [[personagens-relacao]]).",
+  "div": "Nomes: variam entre as fontes; em inglês aparecem Hardened ou Aggressive, e Psycho ou Psychopath. Aqui usamos os nomes da GTABase em português; confira no menu do seu jogo. Efeito na história: a IGN e a Rockstar (à Edge) dizem que o perfil pesa na história; a PowerPyx diz que só afeta a polícia.",
+  "src": [
+   "Eurogamer",
+   "Gamersky (CN)",
+   "IGN",
+   "PC Gamer",
+   "PowerPyx",
+   "Rockstar (Edge)",
+   "Shacknews"
+  ],
+  "kw": [
+   "perfil criminal",
+   "criminal profile",
+   "professional",
+   "psycho",
+   "irredeemable",
+   "honra",
+   "moral",
+   "karma"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Criminal Profile",
+   "sum": "5 levels, from Professional to Irredeemable (permanent). Changes the police and your Focus.",
+   "body": "- **What it is:** it measures what kind of criminal you are. There are 5 levels: Professional → Hardened → Violent → Psycho → **Irredeemable**, the “broken” state.\n- **Per character:** Jason and Lucia have their own profiles.\n- **Where to see it:** hold {→}, or map → {L1} → “Jason & Lucia” tab.\n\n#### The 5 levels\n- **Professional:** gains permanent Focus from non-lethal incapacitations, non-vital shots, stealth, avoiding fights and good deeds (throwing away trash, feeding Jason's snake, helping strangers). Running over a pedestrian or causing a fatal crash drops you fast; to recover, de-escalate and stay undetected.\n- **Hardened:** fights back but never starts it. Gains Focus the same way as Professional. Killing a cop or hurting a civilian pushes you to Violent.\n- **Violent:** kills even cops. Shooting your way out instead of waiting for the heat to cool lands you here. Only gains Focus from headshots.\n- **Psycho:** kills innocents and defenseless animals. Police shoot on sight and you can't surrender. Only gains Focus from headshots. Staying here too long leads to Irredeemable.\n- **Irredeemable:** permanent; it **doesn't come back** on that save (only an older save undoes it). The game gives **3 slow-motion warnings**, with the profile emoji cracking, before it locks; afterwards the emoji turns gray. No Focus gain, not even passive (Gamersky), and no surrender: police shoot on sight. Fastest way in is blowing up cars and groups of civilians; killing cops moves it slowly. A relationship is still possible but hard if the profiles differ a lot.\n\n#### What counts and what doesn't\n- **Doesn't count against you:** doing what a mission requires and defending yourself. Shacknews racked up 457 kills and stayed Professional. A fistfight with a civilian started through the interaction system (by you or them) doesn't count as violence against an innocent either.\n- A no-kill run is impossible (IGN); what counts is how you kill.\n- **Explosives** push your profile toward violent, even when they only incapacitate.\n- **In missions:** sparing someone pulls toward Professional; executing or using explosives pulls toward Violent.\n- **To stay Professional:** threaten without hurting, use suppression, shoot limbs, destroy the tapes and turn off alarms.\n\n#### What the profile changes\n- **Police:** the more violent you are, the sooner they respond with lethal force.\n- **Focus:** stealth favors gains at Professional and Hardened; headshots favor Violent and Psycho. More on Focus in [[personagens-atributos]].\n- **The ending** depends on both characters' Criminal Profiles and your Relationship Level (IGN; see [[personagens-relacao]]).",
+   "div": "Names: they vary between sources; in English you'll see Hardened or Aggressive, and Psycho or Psychopath. The Portuguese side uses GTABase's names; check your game's menu. Story effect: IGN and Rockstar (to Edge) say the profile matters to the story; PowerPyx says it only affects the police.",
+   "kw": [
+    "criminal profile",
+    "professional",
+    "psycho",
+    "irredeemable",
+    "honor",
+    "morality",
+    "karma"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "personagens-casa",
+  "sec": "personagens",
+  "sub": "relacao",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "c1"
+  ],
+  "title": "Consertos da casa do Jason (Cap. 1)",
+  "sum": "5 consertos grátis antes de buscar a Lucia: sobem o relacionamento e mudam a cena de Coming Home.",
+  "body": "Procure o **ícone de pincel** pela casa, ou qualquer obra pela metade (painéis encostados, tábuas). Cada conserto é um comando rápido e uma cena curta; dá para fazer a qualquer hora e não custa nada. A IGN lembra que a casa precisa estar consertada para um trecho da história mais à frente.",
+  "check": [
+   {
+    "id": "parede",
+    "t": "Consertar a parede: painéis perto da cama do Jason"
+   },
+   {
+    "id": "pintar",
+    "t": "Pintar a parede (libera depois do conserto): Tropical Green, Stormy Blue ou Pastel Peach, só muda o visual"
+   },
+   {
+    "id": "escada",
+    "t": "Consertar a escada externa: tábuas embaixo da escada da entrada"
+   },
+   {
+    "id": "telhado",
+    "t": "Consertar a goteira: suba pela escada perto da porta da frente"
+   },
+   {
+    "id": "corrimao",
+    "t": "Consertar o corrimão da varanda onde fica a academia"
+   }
+  ],
+  "src": [
+   "Eurogamer",
+   "IGN"
+  ],
+  "kw": [
+   "casa",
+   "conserto",
+   "reforma",
+   "home improvements",
+   "pincel",
+   "pintar",
+   "relacionamento",
+   "coming home"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Jason's house repairs (Chapter 1)",
+   "sum": "5 free repairs before picking up Lucia: they raise your relationship and change the Coming Home cutscene.",
+   "body": "Look for the **paintbrush icon** around the house, or any half-done job (leaning panels, planks). Each repair is a quick prompt and a short scene; do them any time, for free. IGN notes the house has to be fixed for a later story beat anyway.",
+   "check": [
+    {
+     "id": "parede",
+     "t": "Fix wall: panels near Jason's bed"
+    },
+    {
+     "id": "pintar",
+     "t": "Paint wall (after fixing it): Tropical Green, Stormy Blue or Pastel Peach, cosmetic only"
+    },
+    {
+     "id": "escada",
+     "t": "Fix steps: planks at the bottom of the front stairs"
+    },
+    {
+     "id": "telhado",
+     "t": "Fix leaky roof: climb the ladder by the front door"
+    },
+    {
+     "id": "corrimao",
+     "t": "Fix railing on the balcony with the home gym"
+    }
+   ],
+   "kw": [
+    "house",
+    "repairs",
+    "home improvements",
+    "paintbrush",
+    "paint",
+    "relationship",
+    "coming home"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "personagens-relacao",
+  "sec": "personagens",
+  "sub": "relacao",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Relacionamento: o que sobe e o que desce",
+  "sum": "4 níveis que mudam cenas e o final. Responda mensagens, saiam juntos e não largue o parceiro.",
+  "body": "- **Onde ver:** mapa → {L1} → aba “Jason e Lucia”, ou segurando {→}. O nível aparece como “Crazy In Love (3/4)”.\n- **O que muda:** a atitude de um com o outro muda a cada nível (Inven). O nível muda as cenas e o final (junto com o [[policia-perfil|Perfil Criminal]]); os dois continuam juntos na história de qualquer jeito.\n- **O romance é opcional:** o status pode ser casal ou só parceiros de crime, e a parceria criminosa continua mesmo se esfriar. Sem cuidado, somem opções como dar as mãos e beijar, mas dá para recuperar com esforço. A Rockstar diz que o relacionamento é seu para cultivar ou perder.\n\n#### Os 4 níveis\n1. **Running On Empty:** coração roxo quebrado.\n2. **Partners in Crime:** a IGN também chama de Not So Hot.\n3. **Crazy In Love:** coração rosa.\n4. **Hot Together:** coração em chamas. Só sai se **os dois personagens** contribuírem.\n\n#### Sobe\n- **Mensagens:** responder a tempo (inclusive o “boa noite”), mandar mensagem, mandar Check In pela WhatUp. Trocar de personagem também conta.\n- **Chamar o outro** para se encontrar ({→}) e convidar para sair. Encontros: academia, bar, meditação, minigolfe, balada.\n- **Carinho:** aceitar o coração rosa sempre que aparecer (abraço e beijo: {L2} e {□}) e andar de mãos dadas (segure {R2} perto).\n- **Juntos:** conversar no carro (segure {↑}), dançar juntos na boate, comprar comida ou bebida e entregar, treinar juntos e fazer crimes juntos. Assaltar uma loja de bebidas também conta.\n- **Aceitar “ir para casa juntos”** (ícone de casa com coração).\n\n#### Desce\n- Ignorar mensagens e ligações, ou não responder quando o outro fala em casa.\n- Passar muito tempo separados.\n- Largar o outro dirigindo ou abandonar o parceiro numa fuga.\n- Flertar com outras pessoas, como a Mandy, ou deixar o Jason dançar com outra na boate.\n\n#### Cap. 1, antes de Coming Home\n- Consertar e pintar a casa do Jason aproxima o casal e destrava diálogos: são 5 consertos, veja [[personagens-casa]].\n- Corte de cabelo, roupa nova, o colar e as roupas do Andy também contam.\n- Busque a Lucia logo quando ela ligar. No Rusty Anchor, dê atenção a ela ({L2}), dance, defenda-a e leve a cerveja que ela pedir.\n\n#### Intimidade (IGN, sem detalhes)\n- Depois de 15 a 20 min juntos fora de casa aparece a opção de ir para casa (ícone de casa com coração; {L2}, ou {↑} no carro), com rota automática.\n- Em casa, a opção **Sleep** aparece com dois corações. Em Crazy In Love a cena corta; em Hot Together ela é explícita.\n- Há recarga de algumas horas reais. Não há romance com outros personagens.",
+  "src": [
+   "Eurogamer",
+   "Famitsu",
+   "IGN",
+   "Inven (KR)",
+   "Nettoge (JP)",
+   "Rockstar (The Guardian)"
+  ],
+  "kw": [
+   "relacionamento",
+   "romance",
+   "namoro",
+   "encontro",
+   "mensagens",
+   "final"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Relationship: what raises it and what lowers it",
+   "sum": "4 levels that change cutscenes and the ending. Answer messages, go out together and don't ditch your partner.",
+   "body": "- **Where to see it:** map → {L1} → “Jason & Lucia” tab, or by holding {→}. The level reads like “Crazy In Love (3/4)”.\n- **What changes:** their attitude toward each other changes at each level (Inven). The level changes cutscenes and the ending (together with the [[policia-perfil|Criminal Profile]]); the two stay together in the story either way.\n- **Romance is optional:** status can be a couple or just partners in crime, and the criminal partnership continues even if it cools. Without care, options like holding hands and kissing disappear, but you can win them back with effort. Rockstar says the relationship is yours to nurture or lose.\n\n#### The 4 levels\n1. **Running On Empty:** broken purple heart.\n2. **Partners in Crime:** IGN also calls it Not So Hot.\n3. **Crazy In Love:** pink heart.\n4. **Hot Together:** flaming heart. Only happens if **both characters** contribute.\n\n#### Raises it\n- **Messages:** answering in time (including “good night”), texting, sending a Check In on WhatUp. Switching characters also helps.\n- **Calling the other** to meet up ({→}) and inviting them out. Dates: gym, bar, meditation, mini golf, clubbing.\n- **Affection:** taking the pink heart whenever it appears (hugs and kisses: {L2} then {□}) and holding hands (hold {R2} nearby).\n- **Together:** talking while driving (hold {↑}), dancing together at a club, buying food or drinks and handing them over, exercising together and pulling off crimes together. Robbing a liquor store together counts too.\n- **Accepting “go home together”** (house-with-heart icon).\n\n#### Lowers it\n- Ignoring texts and calls, or not answering when they speak at home.\n- Long stretches apart.\n- Driving off without them or abandoning your partner in a chase.\n- Flirting with others, like Mandy, or letting Jason dance with someone else at a club.\n\n#### Chapter 1, before Coming Home\n- Fixing and painting Jason's house brings the couple closer and unlocks dialogue: there are 5 repairs, see [[personagens-casa]].\n- A haircut, new clothes, the necklace and Andy's clothes also count.\n- Pick Lucia up quickly when she calls. At the Rusty Anchor, check in on her ({L2}), dance, stick up for her and bring the beer she asks for.\n\n#### Intimacy (IGN, kept brief)\n- After 15–20 min together away from home, a go-home option appears (house-with-heart icon; {L2}, or {↑} in a car) with an automatic route.\n- At home, **Sleep** shows up with two hearts. At Crazy In Love the scene cuts away; at Hot Together it is explicit.\n- There's a cooldown of a few real hours. No romance with other characters.",
+   "kw": [
+    "relationship",
+    "romance",
+    "dating",
+    "date",
+    "messages",
+    "ending"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "personagens-treino",
+  "sec": "personagens",
+  "sub": "corpo",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Rotina de treino",
+  "sum": "Mesma hora todo dia, 3 exercícios, de preferência em dupla.",
+  "body": "Há 9 academias (mensalidade barata) e academias ao ar livre de graça. Na varanda do Jason tem supino, levantamento terra, agachamento, kettlebell e cesta de basquete. **Escolha um personagem principal** para treinar: manter os dois em forma todo dia dá trabalho demais. O que cada atributo faz e o que cai sem treino: [[personagens-atributos]].",
+  "check": [
+   {
+    "id": "horario",
+    "t": "Dormir à noite e treinar de manhã, no horário que o celular sugere (repetir a mesma janela rende mais)"
+   },
+   {
+    "id": "tres",
+    "t": "Fazer 3 exercícios por sessão para completar o treino do dia (3 dias seguidos sobem força e resistência)"
+   },
+   {
+    "id": "cafe",
+    "t": "Tomar café ou água antes: sem stamina dá para falhar a série"
+   },
+   {
+    "id": "dupla",
+    "t": "Treinar com o casal junto: os dois sobem ao mesmo tempo"
+   },
+   {
+    "id": "anel",
+    "t": "Parar quando fechar o anel do app de fitness (há limite por dia)"
+   },
+   {
+    "id": "comer",
+    "t": "Comer algo da geladeira e tomar banho"
+   }
+  ],
+  "src": [
+   "GameSpot",
+   "Famitsu",
+   "Rockstar (Rob Nelson)",
+   "Wccftech",
+   "Nettoge (JP)"
+  ],
+  "kw": [
+   "treino",
+   "academia",
+   "gym",
+   "malhar",
+   "musculacao",
+   "rotina"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Training routine",
+   "sum": "Same time every day, 3 exercises, ideally as a duo.",
+   "body": "There are 9 gyms (cheap membership) and free outdoor gyms. Jason's porch has a bench press, deadlift, squat rack, kettlebell and basketball hoop. **Pick one main character** to train: keeping both in shape every day is too much work. What each stat does and what drops without training: [[personagens-atributos]].",
+   "check": [
+    {
+     "id": "horario",
+     "t": "Sleep at night and train in the morning, at the time the phone suggests (repeating the same window pays off more)"
+    },
+    {
+     "id": "tres",
+     "t": "Do 3 exercises per session to complete the daily workout (3 days in a row raises strength and endurance)"
+    },
+    {
+     "id": "cafe",
+     "t": "Have coffee or water first: without stamina you can fail a set"
+    },
+    {
+     "id": "dupla",
+     "t": "Train as a couple: both rise at once"
+    },
+    {
+     "id": "anel",
+     "t": "Stop when you close the fitness app ring (there's a daily cap)"
+    },
+    {
+     "id": "comer",
+     "t": "Eat something from the fridge and shower"
+    }
+   ],
+   "kw": [
+    "training",
+    "gym",
+    "workout",
+    "lifting",
+    "routine"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "personagens-atributos",
+  "sec": "personagens",
+  "sub": "corpo",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Atributos: Saúde, Stamina, Força e Focus",
+  "sum": "Força e Cardio têm 4 níveis e caem sem treino; todo ganho de Focus é permanente.",
+  "body": "- **Onde ver:** {Touchpad} → Jason & Lucia. O app **Fitness** (ícone roxo com barras) mostra calorias, sono, níveis e a **janela de treino**. É separado para cada personagem.\n- **Força** e **Cardio** têm 4 níveis e **caem se você não mantiver**: encha o círculo até o traço branco na janela de treino, coma e durma antes. Perder a janela tira progresso. A rotina está em [[personagens-treino]].\n- O Jason começa com Força 3 (a parte da barra de vida depois do traço branco é o bônus).\n- **Focus** não tem janela e todo ganho é permanente: pesca, sinuca, golfe, basquete, estande de tiro, meditação, carinho em animais e incapacitações não letais. O ganho também depende do seu [[policia-perfil|Perfil Criminal]].\n- **Peso:** comer demais engorda, parar de treinar perde músculo e dormir pouco atrasa a recuperação.\n- **Stamina máxima:** comer o **morango mutante gigante** na 2ª missão do Kyle aumenta de vez (Eurogamer).\n\n#### Bônus temporários\n- **Comida:** saúde.\n- **Barra de proteína:** stamina (parte das fontes cita saúde também).\n- **Café e água:** stamina e Focus. **Bebida energética:** stamina.\n- **Banho, ou lavar o rosto na pia:** Focus, e lava o sangue que deixa você suspeito.\n- **Cigarro:** sobe o Focus e tira saúde.\n\n#### Cura\n- **Zombix:** US$ 15 em lojas de conveniência, máximo 5. Só cura até o traço branco da barra.\n- **Adrenaline:** não se compra, máximo 3. Deixa as 3 barras douradas.\n- **Kits de primeiros socorros:** em armários brancos de etiqueta verde (banheiros de posto, escritórios, galpões), em hospitais e na traseira de ambulâncias.\n- Analgésicos também curam em combate. A regeneração natural para quando você leva tiro.",
+  "table": {
+   "cols": [
+    "Atributo",
+    "Como sobe",
+    "Mantém sozinho?"
+   ],
+   "rows": [
+    [
+     "Saúde e Força",
+     "Musculação: supino, agachamento, levantamento terra, barra",
+     "Não: precisa de rotina"
+    ],
+    [
+     "Stamina (cardio)",
+     "Correr, pedalar, nadar, caiaque, esteira e bicicleta",
+     "Não: precisa de rotina"
+    ],
+    [
+     "Focus",
+     "Estande de tiro, golfe, sinuca, pesca, basquete e meditação",
+     "Ganho permanente"
+    ]
+   ],
+   "sort": false
+  },
+  "div": "A GameSpot diz que só o ganho de Focus é permanente; outra leitura, anterior ao lançamento, diz que nenhuma barra se mantém sem rotina e que o Focus permanente vem da meditação.",
+  "src": [
+   "Eurogamer",
+   "Famitsu",
+   "GameSpot",
+   "IGN",
+   "PowerPyx",
+   "Wccftech"
+  ],
+  "kw": [
+   "atributos",
+   "stats",
+   "saude",
+   "stamina",
+   "forca",
+   "focus",
+   "academia",
+   "comida",
+   "dormir"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Stats: Health, Stamina, Strength and Focus",
+   "sum": "Strength and Cardio have 4 levels and drop without training; every Focus gain is permanent.",
+   "body": "- **Where to see them:** {Touchpad} → Jason & Lucia. The **Fitness** app (purple icon with bars) shows calories, sleep, levels and the **workout window**. It's separate for each character.\n- **Strength** and **Cardio** have 4 levels and **drop if you don't maintain them**: fill the circle to the white line during the workout window, and eat and sleep first. Missing the window costs progress. The routine is in [[personagens-treino]].\n- Jason starts at Strength 3 (the part of the health bar past the white line is the bonus).\n- **Focus** has no window and every gain is permanent: fishing, pool, golf, basketball, shooting ranges, meditation, petting animals and non-lethal takedowns. Gains also depend on your [[policia-perfil|Criminal Profile]].\n- **Weight:** overeating makes you gain weight, stopping training loses muscle and sleeping little slows recovery.\n- **Max stamina:** eating the **giant mutated strawberry** in Kyle's 2nd mission raises it permanently (Eurogamer).\n\n#### Temporary buffs\n- **Food:** health.\n- **Protein bar:** stamina (some sources also say health).\n- **Coffee and water:** stamina and Focus. **Energy drink:** stamina.\n- **Showering, or washing your face at a sink:** Focus, and it washes off blood that makes you look suspicious.\n- **Cigarettes:** raise Focus and lower health.\n\n#### Healing\n- **Zombix:** $15 at convenience stores, max 5. Only heals up to the white line.\n- **Adrenaline:** can't be bought, max 3. Turns all 3 bars gold.\n- **First aid kits:** in white cabinets with a green label (gas station bathrooms, offices, warehouses), in hospitals and in the back of ambulances.\n- Painkillers also heal in combat. Natural regen stops when you get shot.",
+   "table": {
+    "cols": [
+     "Stat",
+     "How it rises",
+     "Keeps on its own?"
+    ],
+    "rows": [
+     [
+      "Health and Strength",
+      "Weightlifting: bench press, squats, deadlifts, pull-ups",
+      "No: needs a routine"
+     ],
+     [
+      "Stamina (cardio)",
+      "Running, cycling, swimming, kayaking, treadmill and bike",
+      "No: needs a routine"
+     ],
+     [
+      "Focus",
+      "Shooting range, golf, pool, fishing, basketball and meditation",
+      "Permanent gain"
+     ]
+    ],
+    "sort": false
+   },
+   "div": "GameSpot says only Focus gains are permanent; another pre-launch reading says no bar holds without a routine and that permanent Focus comes from meditation.",
+   "kw": [
+    "stats",
+    "attributes",
+    "health",
+    "stamina",
+    "strength",
+    "focus",
+    "gym",
+    "food",
+    "sleep"
+   ]
+  }
+ }
+]

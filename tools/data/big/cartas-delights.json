@@ -1,0 +1,214 @@
+{
+ "kind": "card",
+ "id": "cartas-delights",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Delights",
+ "sum": "18 cartas de dançarinas, com o local de cada uma.",
+ "body": "- Dançarinas, 18 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-delights-amber-standard",
+   "t": "**Amber - Standard**",
+   "d": "Numa borda junto à porta de entrada da torre de mineração Agricore, embaixo de uma cadeira, South Leonard"
+  },
+  {
+   "id": "cc-delights-chip-standard",
+   "t": "**Chip - Standard**",
+   "d": "Na tampa do vaso do banheiro de uma casa à beira-rio perto da Kingston Rd, ilha norte de Watson Bay"
+  },
+  {
+   "id": "cc-delights-cleo-standard",
+   "t": "**Cleo - Standard**",
+   "d": "Em cima de uma bateria grande na parede do fundo de um almoxarifado num prédio pequeno no extremo sul do Kalaga Reservoir"
+  },
+  {
+   "id": "cc-delights-crystal-standard",
+   "t": "**Crystal - Standard**",
+   "d": "Num balcão de pedra embaixo de uma cadeira num beco perto da East Royale St, Downtown"
+  },
+  {
+   "id": "cc-delights-cyrus-standard",
+   "t": "**Cyrus - Standard**",
+   "d": "Na lateral da geladeira da cozinha do penúltimo apartamento à direita, último andar do Park Apartments, leste do VCIA"
+  },
+  {
+   "id": "cc-delights-daisy-standard",
+   "t": "**Daisy - Standard**",
+   "d": "Na lateral de um mural de cortiça na copa nos fundos do posto Xero do norte de La Perle"
+  },
+  {
+   "id": "cc-delights-harley-standard",
+   "t": "**Harley - Standard**",
+   "d": "Em cima de um assento encostado na parede dentro do Delights Cabaret, Port Gellhorn"
+  },
+  {
+   "id": "cc-delights-jason-standard",
+   "t": "**Jason - Standard**",
+   "d": "||No banheiro do Delights Cabaret, no balcão, depois de uma missão escondida||"
+  },
+  {
+   "id": "cc-delights-kandi-standard",
+   "t": "**Kandi - Standard**",
+   "d": "Em cima do vaso do banheiro do 1º apartamento do 2º andar sobre a Farmacia Tu Salud, Northbrook Dr x NW 4th Ave, Little Cuba"
+  },
+  {
+   "id": "cc-delights-lance-standard",
+   "t": "**Lance - Standard**",
+   "d": "Na mesa do posto de salva-vidas da costa sul de Vice Beach"
+  },
+  {
+   "id": "cc-delights-lucky-standard",
+   "t": "**Lucky - Standard**",
+   "d": "Numa cômoda ao lado da cama do trailer na esquina da Caldonia Blvd com a NW 9th Ave, La Perle"
+  },
+  {
+   "id": "cc-delights-mario-standard",
+   "t": "**Mario - Standard**",
+   "d": "Na beira do telhado do prédio Vice-Dale County Water and Sewage, divisa do VCIA com Southside"
+  },
+  {
+   "id": "cc-delights-nevaeh-standard",
+   "t": "**Nevaeh - Standard**",
+   "d": "Numa bancada dentro de um celeiro partido ao meio por um deslizamento, nos morros acima de Bonanza"
+  },
+  {
+   "id": "cc-delights-nicole-standard",
+   "t": "**Nicole - Standard**",
+   "d": "Numa mesinha ao lado da cama do penúltimo apartamento da direita, bloco do meio da Formosa Ave, centro de Hamlet"
+  },
+  {
+   "id": "cc-delights-perla-standard",
+   "t": "**Perla - Standard**",
+   "d": "Numa caixa elétrica encostada no prédio de controle sobre o pátio de trens, norte de Balsero"
+  },
+  {
+   "id": "cc-delights-thelma-standard",
+   "t": "**Thelma - Standard**",
+   "d": "Numa mesa na sala de controle no alto da torre ao lado do armazém Badger, centro de Key Lento"
+  },
+  {
+   "id": "cc-delights-tracy-standard",
+   "t": "**Tracy - Standard**",
+   "d": "No chão do depósito do 2º andar do prédio Vice-Dale Water Dept. à beira do rio, leste de Salton"
+  },
+  {
+   "id": "cc-delights-vicki-standard",
+   "t": "**Vicki - Standard**",
+   "d": "No telhado mais alto dos apartamentos da SW 10th Ave x SW 11th St, Southside, embaixo de uma cadeira"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Delights"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Delights",
+  "sum": "18 dancers cards, with every location.",
+  "body": "- Dancers, 18 cards. Locations from IGN's list; tick each one as you grab it.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Delights"
+  ],
+  "check": [
+   {
+    "id": "cc-delights-amber-standard",
+    "t": "**Amber - Standard**",
+    "d": "On the side of the Agricore mining tower on a ledge next to the entry door under a chair in South Leonard County"
+   },
+   {
+    "id": "cc-delights-chip-standard",
+    "t": "**Chip - Standard**",
+    "d": "On top of the toilet seat in the bathroom of a riverside house off of Kingston Rd on the northern island of Watson Bay"
+   },
+   {
+    "id": "cc-delights-cleo-standard",
+    "t": "**Cleo - Standard**",
+    "d": "On top of a large battery on the back wall of a supply closet in a small building at the south end of the Kalaga Reservoir"
+   },
+   {
+    "id": "cc-delights-crystal-standard",
+    "t": "**Crystal - Standard**",
+    "d": "On top of a stone balcony under a chair in an alleyway off of East Royale St in Downtown"
+   },
+   {
+    "id": "cc-delights-cyrus-standard",
+    "t": "**Cyrus - Standard**",
+    "d": "On the side of the fridge in the kitchen of the second to last apartment on the right side of the top floor of the Park Apartments building in eastern VCIA"
+   },
+   {
+    "id": "cc-delights-daisy-standard",
+    "t": "**Daisy - Standard**",
+    "d": "On the side of a cork board on the wall of the kitchenette in the back of the Xero gas station in northern La Perle"
+   },
+   {
+    "id": "cc-delights-harley-standard",
+    "t": "**Harley - Standard**",
+    "d": "On top of a seat against the wall in the Delights Cabaret club in Port Gellhorn"
+   },
+   {
+    "id": "cc-delights-jason-standard",
+    "t": "**Jason - Standard**",
+    "d": "||In the Delights Cabaret bathroom, on the counter, after a hidden mission||"
+   },
+   {
+    "id": "cc-delights-kandi-standard",
+    "t": "**Kandi - Standard**",
+    "d": "On top of the toilet in the bathroom of the first apartment on the second floor above Farmacia Tu Salud on the corner of Northbrook Dr and NW 4th Ave in Little Cuba"
+   },
+   {
+    "id": "cc-delights-lance-standard",
+    "t": "**Lance - Standard**",
+    "d": "On top of the desk in the lifeguard stand on the south coast of Vice Beach"
+   },
+   {
+    "id": "cc-delights-lucky-standard",
+    "t": "**Lucky - Standard**",
+    "d": "On top of a dresser next to a bed in the bedroom of the mobile home on the corner of Caldonia Blvd and NW 9th Ave in La Perle"
+   },
+   {
+    "id": "cc-delights-mario-standard",
+    "t": "**Mario - Standard**",
+    "d": "On the edge of the roof of the Vice-Dale County Water and Sewage building on the edge of VCIA and Southside"
+   },
+   {
+    "id": "cc-delights-nevaeh-standard",
+    "t": "**Nevaeh - Standard**",
+    "d": "On a workbench in a barn that has been torn in half by a landslide in the hills above Bonanza"
+   },
+   {
+    "id": "cc-delights-nicole-standard",
+    "t": "**Nicole - Standard**",
+    "d": "On top of an end table next to the bed in the apartment second to the farthest right in the middle block of apartments on Formosa Ave in central Hamlet"
+   },
+   {
+    "id": "cc-delights-perla-standard",
+    "t": "**Perla - Standard**",
+    "d": "On top of an electrical box against the control building above the trainyard in northern Balsero"
+   },
+   {
+    "id": "cc-delights-thelma-standard",
+    "t": "**Thelma - Standard**",
+    "d": "On top of a desk in the control room at the top of the tower next to the Badger warehouse in central Key Lento"
+   },
+   {
+    "id": "cc-delights-tracy-standard",
+    "t": "**Tracy - Standard**",
+    "d": "On the ground of the storage room on the second floor of the Vice-Dale Water Dept. building on the river in eastern Salton"
+   },
+   {
+    "id": "cc-delights-vicki-standard",
+    "t": "**Vicki - Standard**",
+    "d": "On top of the highest roof of the apartments on SW 10th Ave and SW11th St in Southside under a chair"
+   }
+  ]
+ }
+}

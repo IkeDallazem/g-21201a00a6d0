@@ -1,0 +1,1036 @@
+{
+ "kind": "card",
+ "id": "colecao-cestas",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "As 100 cestas de basquete",
+ "sum": "Cada tabela tem uma bola por perto. Para os 100% bastam 90.",
+ "body": "- Ache a bola perto da tabela e enterre ou acerte a cesta.\n- Por condado: Vice-Dale 49, Mariana 18, Kelly 14, Leonard 14, Lummox 5.\n- Ajuda nos desafios Basketball Rookie, Basketball Tour e Basketball Pro ([[colecao-desafios]]).\n- **Focus:** cada cesta dá +2% de Focus, até 5 cestas a cada 30 min reais.\n- **Prêmios:** 10 cestas = boné dos Narcos (Eris) · 50 = 3 tatuagens · 100 = uniforme alternativo (Eris).",
+ "check": [
+  {
+   "id": "h000",
+   "t": "**1** (Vice-Dale) — Pátio da Slator Towing (desmanche), na viga junto ao Phoenix; bola no portão leste",
+   "d": "![1](img/ign-h000-2.jpg)"
+  },
+  {
+   "id": "h001",
+   "t": "**2** (Mariana) — Estacionamento NO da pista Jackal's; bola do outro lado da pista, perto das cadeiras",
+   "d": "![2](img/ign-h001-1.jpg)\n![2 (2)](img/ign-h001-2.jpg)\n![2 (3)](img/ign-h001-3.jpg)\n![2 (4)](img/ign-h001-4.jpg)"
+  },
+  {
+   "id": "h002",
+   "t": "**3** (Lummox) — Casa verde na Chestnut Dr, perto da I-297; bola embaixo",
+   "d": "![3](img/ign-h002-1.jpg)\n![3 (2)](img/ign-h002-2.jpg)\n![3 (3)](img/ign-h002-3.jpg)"
+  },
+  {
+   "id": "h003",
+   "t": "**4** (Vice-Dale) — Pátio de prédio em U, junto à mesa de piquenique; bola perto da escada",
+   "d": "![4](img/ign-h003-1.jpg)\n![4 (2)](img/ign-h003-2.jpg)"
+  },
+  {
+   "id": "h004",
+   "t": "**5** (Kelly) — Duplex verde na Magnolia Rd; bola na grama entre as calçadas",
+   "d": "![5](img/ign-h004-1.jpg)\n![5 (2)](img/ign-h004-2.jpg)\n![5 (3)](img/ign-h004-3.jpg)\n![5 (4)](img/ign-h004-4.jpg)"
+  },
+  {
+   "id": "h005",
+   "t": "**6** (Mariana) — Casa amarela na Clovis Way, Capri; bola na grade sob a calha",
+   "d": "![6](img/ign-h005-1.jpg)\n![6 (2)](img/ign-h005-2.jpg)\n![6 (3)](img/ign-h005-3.jpg)\n![6 (4)](img/ign-h005-4.jpg)"
+  },
+  {
+   "id": "h006",
+   "t": "**7** (Mariana) — Fundos da The Red Lotus, sul de Key Lento; bola entre contêiner verde e empilhadeira",
+   "d": "![7](img/ign-h006-1.jpg)\n![7 (2)](img/ign-h006-2.jpg)\n![7 (3)](img/ign-h006-3.jpg)\n![7 (4)](img/ign-h006-4.jpg)"
+  },
+  {
+   "id": "h007",
+   "t": "**8** (Kelly) — Casa de apoiador do Henshaw, Reservoir St, leste de Ambrosia; bola no quintal junto ao portão",
+   "d": "![8](img/ign-h007-1.jpg)\n![8 (2)](img/ign-h007-2.jpg)\n![8 (3)](img/ign-h007-3.jpg)"
+  },
+  {
+   "id": "h008",
+   "t": "**9** (Vice-Dale) — Mansão no oeste de Catalan Island; bola na cerca viva à direita",
+   "d": "![9](img/ign-h008-1.jpg)\n![9 (2)](img/ign-h008-2.jpg)\n![9 (3)](img/ign-h008-3.jpg)\n![9 (4)](img/ign-h008-4.jpg)"
+  },
+  {
+   "id": "h009",
+   "t": "**10** (Mariana) — Mansão na península NO de Capri; bola na lateral da casa",
+   "d": "![10](img/ign-h009-1.jpg)\n![10 (2)](img/ign-h009-2.jpg)\n![10 (3)](img/ign-h009-3.jpg)\n![10 (4)](img/ign-h009-4.jpg)"
+  },
+  {
+   "id": "h010",
+   "t": "**11** (Vice-Dale) — Casinha azul na NW 24th Pl, sudoeste de Balsero; bola sob a garagem coberta",
+   "d": "![11](img/ign-h010-1.jpg)\n![11 (2)](img/ign-h010-2.jpg)\n![11 (3)](img/ign-h010-3.jpg)\n![11 (4)](img/ign-h010-4.jpg)"
+  },
+  {
+   "id": "h011",
+   "t": "**12** (Mariana) — Quadra perto da praia, leste de Key Lento",
+   "d": "![12](img/ign-h011-1.jpg)\n![12 (2)](img/ign-h011-2.jpg)\n![12 (3)](img/ign-h011-3.jpg)\n![12 (4)](img/ign-h011-4.jpg)"
+  },
+  {
+   "id": "h012",
+   "t": "**13** (Leonard) — Fim da Fairview Dr, Waning Sands; bola na grama atrás",
+   "d": "![13](img/ign-h012-1.jpg)\n![13 (2)](img/ign-h012-2.jpg)\n![13 (3)](img/ign-h012-3.jpg)"
+  },
+  {
+   "id": "h013",
+   "t": "**14** (Mariana) — Casa de praia na Coconut Cove Ct, oeste de Capri",
+   "d": "![14](img/ign-h013-1.jpg)\n![14 (2)](img/ign-h013-2.jpg)\n![14 (3)](img/ign-h013-3.jpg)\n![14 (4)](img/ign-h013-4.jpg)"
+  },
+  {
+   "id": "h014",
+   "t": "**15** (Vice-Dale) — Parque na Shorebeach Rd, leste de Washington Beach; bola sob a árvore",
+   "d": "![15](img/ign-h014-1.jpg)\n![15 (2)](img/ign-h014-2.jpg)\n![15 (3)](img/ign-h014-3.jpg)\n![15 (4)](img/ign-h014-4.jpg)"
+  },
+  {
+   "id": "h015",
+   "t": "**16** (Vice-Dale) — Mansão na Delamore Dr, em frente ao Leaf Links",
+   "d": "![16](img/ign-h015-1.jpg)\n![16 (2)](img/ign-h015-2.jpg)\n![16 (3)](img/ign-h015-3.jpg)\n![16 (4)](img/ign-h015-4.jpg)"
+  },
+  {
+   "id": "h016",
+   "t": "**17** (Vice-Dale) — Bombeiros nº 35, Port Vice City; bola na grama sob a placa DO NOT PARK",
+   "d": "![17](img/ign-h016-1.jpg)\n![17 (2)](img/ign-h016-2.jpg)\n![17 (3)](img/ign-h016-3.jpg)"
+  },
+  {
+   "id": "h017",
+   "t": "**18** (Vice-Dale) — Sob a ponte da I-404 atrás do PeeWees, quadra leste (sul)",
+   "d": "![18](img/ign-h017-1.jpg)\n![18 (2)](img/ign-h017-2.jpg)"
+  },
+  {
+   "id": "h018",
+   "t": "**19** (Vice-Dale) — Mansão no NE de Vespucci Island; bola junto ao lago",
+   "d": "![19](img/ign-h018-1.jpg)\n![19 (2)](img/ign-h018-2.jpg)\n![19 (3)](img/ign-h018-3.jpg)\n![19 (4)](img/ign-h018-4.jpg)"
+  },
+  {
+   "id": "h019",
+   "t": "**20** (Vice-Dale) — Casinha azul na SW 17th St com SW 7th Ave, perto do VCIA; bola na varanda",
+   "d": "![20](img/ign-h019-1.jpg)\n![20 (2)](img/ign-h019-2.jpg)\n![20 (3)](img/ign-h019-3.jpg)\n![20 (4)](img/ign-h019-4.jpg)"
+  },
+  {
+   "id": "h020",
+   "t": "**21** (Vice-Dale) — Sob a ponte da I-404 atrás do PeeWees, quadra leste (norte)",
+   "d": "![21](img/ign-h020-1.jpg)\n![21 (2)](img/ign-h020-2.jpg)\n![21 (3)](img/ign-h020-3.jpg)"
+  },
+  {
+   "id": "h021",
+   "t": "**22** (Leonard) — Shopping ao ar livre do sul de Waning Sands, frente da Baller World",
+   "d": "![22](img/ign-h021-1.jpg)\n![22 (2)](img/ign-h021-2.jpg)\n![22 (3)](img/ign-h021-3.jpg)"
+  },
+  {
+   "id": "h022",
+   "t": "**23** (Kelly) — Casa no rio, NE de Ambrosia (Reservoir St); bola dentro da garagem",
+   "d": "![23](img/ign-h022-1.jpg)\n![23 (2)](img/ign-h022-2.jpg)\n![23 (3)](img/ign-h022-3.jpg)"
+  },
+  {
+   "id": "h023",
+   "t": "**24** (Vice-Dale) — Vice Rowing Club, Gloriana Key; bola sob a árvore",
+   "d": "![24](img/ign-h023-1.jpg)\n![24 (2)](img/ign-h023-2.jpg)\n![24 (3)](img/ign-h023-3.jpg)"
+  },
+  {
+   "id": "h024",
+   "t": "**25** (Lummox) — Overkeel Boatyard & Marina, East Lummox; bola sob a mesa de piquenique",
+   "d": "![25](img/ign-h024-1.jpg)\n![25 (2)](img/ign-h024-2.jpg)\n![25 (3)](img/ign-h024-3.jpg)"
+  },
+  {
+   "id": "h025",
+   "t": "**26** (Vice-Dale) — Mansão no centro de Vespucci Island (Neptune Cir)",
+   "d": "![26](img/ign-h025-1.jpg)\n![26 (2)](img/ign-h025-2.jpg)\n![26 (3)](img/ign-h025-3.jpg)"
+  },
+  {
+   "id": "h026",
+   "t": "**27** (Vice-Dale) — Mansão no NO de Peacock Estates (Tubbs Pl)",
+   "d": "![27](img/ign-h026-1.jpg)\n![27 (2)](img/ign-h026-2.jpg)\n![27 (3)](img/ign-h026-3.jpg)\n![27 (4)](img/ign-h026-4.jpg)"
+  },
+  {
+   "id": "h027",
+   "t": "**28** (Vice-Dale) — Mansão mais ao sul de Peacock Estates (Palladia Ln)",
+   "d": "![28](img/ign-h027-1.jpg)\n![28 (2)](img/ign-h027-2.jpg)\n![28 (3)](img/ign-h027-3.jpg)\n![28 (4)](img/ign-h027-4.jpg)"
+  },
+  {
+   "id": "h028",
+   "t": "**29** (Vice-Dale) — Casa verde no rio, Little Cuba; bola sob o guindaste",
+   "d": "![29](img/ign-h028-1.jpg)\n![29 (2)](img/ign-h028-2.jpg)\n![29 (3)](img/ign-h028-3.jpg)\n![29 (4)](img/ign-h028-4.jpg)"
+  },
+  {
+   "id": "h029",
+   "t": "**30** (Vice-Dale) — Prédio junto à ponte da SR-25, Little Cuba",
+   "d": "![30](img/ign-h029-1.jpg)\n![30 (2)](img/ign-h029-2.jpg)\n![30 (3)](img/ign-h029-3.jpg)\n![30 (4)](img/ign-h029-4.jpg)"
+  },
+  {
+   "id": "h030",
+   "t": "**31** (Leonard) — Casa branca no meio da Fairview Dr, Waning Sands",
+   "d": "![31](img/ign-h030-1.jpg)\n![31 (2)](img/ign-h030-2.jpg)\n![31 (3)](img/ign-h030-3.jpg)\n![31 (4)](img/ign-h030-4.jpg)"
+  },
+  {
+   "id": "h031",
+   "t": "**32** (Kelly) — Centro de lazer no norte de Ambrosia, quadra (NE)",
+   "d": "![32](img/ign-h031-1.jpg)\n![32 (2)](img/ign-h031-2.jpg)\n![32 (3)](img/ign-h031-3.jpg)\n![32 (4)](img/ign-h031-4.jpg)"
+  },
+  {
+   "id": "h032",
+   "t": "**33** (Vice-Dale) — Kamar Devon Community Center abandonado, Southside",
+   "d": "![33](img/ign-h032-1.jpg)\n![33 (2)](img/ign-h032-2.jpg)\n![33 (3)](img/ign-h032-3.jpg)"
+  },
+  {
+   "id": "h033",
+   "t": "**34** (Mariana) — Casa azul com barco, norte de Watson Bay",
+   "d": "![34](img/ign-h033-1.jpg)\n![34 (2)](img/ign-h033-2.jpg)\n![34 (3)](img/ign-h033-3.jpg)\n![34 (4)](img/ign-h033-4.jpg)"
+  },
+  {
+   "id": "h034",
+   "t": "**35** (Vice-Dale) — Pátio entre a Eris e a Sahara Arena, Downtown",
+   "d": "![35](img/ign-h034-1.jpg)\n![35 (2)](img/ign-h034-2.jpg)\n![35 (3)](img/ign-h034-3.jpg)\n![35 (4)](img/ign-h034-4.jpg)"
+  },
+  {
+   "id": "h035",
+   "t": "**36** (Mariana) — Casa verde na Peach Palm Dr, Key Lento",
+   "d": "![36](img/ign-h035-1.jpg)\n![36 (2)](img/ign-h035-2.jpg)\n![36 (3)](img/ign-h035-3.jpg)\n![36 (4)](img/ign-h035-4.jpg)"
+  },
+  {
+   "id": "h036",
+   "t": "**37** (Vice-Dale) — Casa amarela na Westbrook Dr, Salton (perto do VCIA); bola no quintal",
+   "d": "![37](img/ign-h036-1.jpg)\n![37 (2)](img/ign-h036-2.jpg)"
+  },
+  {
+   "id": "h037",
+   "t": "**38** (Mariana) — Casa bege na Seabell Ave, Watson Bay",
+   "d": "![38](img/ign-h037-1.jpg)\n![38 (2)](img/ign-h037-2.jpg)\n![38 (3)](img/ign-h037-3.jpg)\n![38 (4)](img/ign-h037-4.jpg)"
+  },
+  {
+   "id": "h038",
+   "t": "**39** (Leonard) — Parque com lago no norte de Belville (oeste, norte)",
+   "d": "![39](img/ign-h038-1.jpg)\n![39 (2)](img/ign-h038-2.jpg)\n![39 (3)](img/ign-h038-3.jpg)\n![39 (4)](img/ign-h038-4.jpg)"
+  },
+  {
+   "id": "h039",
+   "t": "**40** (Lummox) — Stone Hill Sawmill, Mount Kalaga",
+   "d": "![40](img/ign-h039-1.jpg)\n![40 (2)](img/ign-h039-2.jpg)\n![40 (3)](img/ign-h039-3.jpg)\n![40 (4)](img/ign-h039-4.jpg)"
+  },
+  {
+   "id": "h040",
+   "t": "**41** (Mariana) — Casa cinza na Dolphin Dr, norte de Key Lento; bola sob o reboque",
+   "d": "![41](img/ign-h040-1.jpg)\n![41 (2)](img/ign-h040-2.jpg)\n![41 (3)](img/ign-h040-3.jpg)"
+  },
+  {
+   "id": "h041",
+   "t": "**42** (Mariana) — Sunset Dr, costa oeste de Key Lento",
+   "d": "![42](img/ign-h041-1.jpg)\n![42 (2)](img/ign-h041-2.jpg)\n![42 (3)](img/ign-h041-3.jpg)"
+  },
+  {
+   "id": "h042",
+   "t": "**43** (Vice-Dale) — Telhado baixo de prédio no leste de Washington Beach (leste)",
+   "d": "![43](img/ign-h042-1.jpg)\n![43 (2)](img/ign-h042-2.jpg)\n![43 (3)](img/ign-h042-3.jpg)"
+  },
+  {
+   "id": "h043",
+   "t": "**44** (Mariana) — Casinha azul na Cangrejo St, Southwind",
+   "d": "![44](img/ign-h043-1.jpg)\n![44 (2)](img/ign-h043-2.jpg)\n![44 (3)](img/ign-h043-3.jpg)\n![44 (4)](img/ign-h043-4.jpg)"
+  },
+  {
+   "id": "h044",
+   "t": "**45** (Mariana) — Casinha amarela na Langosta St, Southwind",
+   "d": "![45](img/ign-h044-1.jpg)\n![45 (2)](img/ign-h044-2.jpg)\n![45 (3)](img/ign-h044-3.jpg)\n![45 (4)](img/ign-h044-4.jpg)"
+  },
+  {
+   "id": "h045",
+   "t": "**46** (Kelly) — Pátio da Leonida State Prison",
+   "d": "![46](img/ign-h045-1.jpg)\n![46 (2)](img/ign-h045-2.jpg)\n![46 (3)](img/ign-h045-3.jpg)\n![46 (4)](img/ign-h045-4.jpg)"
+  },
+  {
+   "id": "h046",
+   "t": "**47** (Leonard) — Casa branca com arcos na Mamey Cir (leste)",
+   "d": "![47](img/ign-h046-1.jpg)\n![47 (2)](img/ign-h046-2.jpg)\n![47 (3)](img/ign-h046-3.jpg)"
+  },
+  {
+   "id": "h047",
+   "t": "**48** (Mariana) — Casa marrom com peixe na porta, Dolphin Dr; bola na garagem",
+   "d": "![48](img/ign-h047-1.jpg)\n![48 (2)](img/ign-h047-2.jpg)\n![48 (3)](img/ign-h047-3.jpg)"
+  },
+  {
+   "id": "h048",
+   "t": "**49** (Mariana) — Condomínio na Ocean Sound Rd com Dolphin Dr",
+   "d": "![49](img/ign-h048-1.jpg)\n![49 (2)](img/ign-h048-2.jpg)\n![49 (3)](img/ign-h048-3.jpg)"
+  },
+  {
+   "id": "h049",
+   "t": "**50** (Leonard) — Parque com lago no norte de Belville (leste, sul)",
+   "d": "![50](img/ign-h049-1.jpg)\n![50 (2)](img/ign-h049-2.jpg)\n![50 (3)](img/ign-h049-3.jpg)"
+  },
+  {
+   "id": "h050",
+   "t": "**51** (Kelly) — Casa azul e amarela na Orchard Ave, sul de Port Gellhorn",
+   "d": "![51](img/ign-h050-1.jpg)\n![51 (2)](img/ign-h050-2.jpg)\n![51 (3)](img/ign-h050-3.jpg)"
+  },
+  {
+   "id": "h051",
+   "t": "**52** (Leonard) — Quadra rosa de mansão no leste de Waning Sands",
+   "d": "![52](img/ign-h051-1.jpg)\n![52 (2)](img/ign-h051-2.jpg)"
+  },
+  {
+   "id": "h052",
+   "t": "**53** (Vice-Dale) — Mansão bege no sul de Starfish Island",
+   "d": "![53](img/ign-h052-1.jpg)\n![53 (2)](img/ign-h052-2.jpg)\n![53 (3)](img/ign-h052-3.jpg)\n![53 (4)](img/ign-h052-4.jpg)"
+  },
+  {
+   "id": "h053",
+   "t": "**54** (Kelly) — Trailer na Tanglewood Ln, Port Gellhorn",
+   "d": "![54](img/ign-h053-1.jpg)\n![54 (2)](img/ign-h053-2.jpg)\n![54 (3)](img/ign-h053-3.jpg)\n![54 (4)](img/ign-h053-4.jpg)"
+  },
+  {
+   "id": "h054",
+   "t": "**55** (Vice-Dale) — Bombeiros nº 8, Peacock Bay",
+   "d": "![55](img/ign-h054-1.jpg)\n![55 (2)](img/ign-h054-2.jpg)\n![55 (3)](img/ign-h054-3.jpg)"
+  },
+  {
+   "id": "h055",
+   "t": "**56** (Vice-Dale) — Sob a ponte da I-97 (quadra norte, NO)",
+   "d": "![56](img/ign-h055-1.jpg)\n![56 (2)](img/ign-h055-2.jpg)\n![56 (3)](img/ign-h055-3.jpg)\n![56 (4)](img/ign-h055-4.jpg)"
+  },
+  {
+   "id": "h056",
+   "t": "**57** (Leonard) — Casa branca no norte da Mamey Cir",
+   "d": "![57](img/ign-h056-1.jpg)\n![57 (2)](img/ign-h056-2.jpg)\n![57 (3)](img/ign-h056-3.jpg)"
+  },
+  {
+   "id": "h057",
+   "t": "**58** (Vice-Dale) — Sob a ponte da I-97 (quadra norte, SE)",
+   "d": "![58](img/ign-h057-1.jpg)\n![58 (2)](img/ign-h057-2.jpg)\n![58 (3)](img/ign-h057-3.jpg)"
+  },
+  {
+   "id": "h058",
+   "t": "**59** (Vice-Dale) — Prédio de manutenção do Vice City Oceanarium, Catalan Key",
+   "d": "![59](img/ign-h058-1.jpg)\n![59 (2)](img/ign-h058-2.jpg)\n![59 (3)](img/ign-h058-3.jpg)\n![59 (4)](img/ign-h058-4.jpg)"
+  },
+  {
+   "id": "h059",
+   "t": "**60** (Vice-Dale) — Telhado baixo de prédio no leste de Washington Beach (oeste)",
+   "d": "![60](img/ign-h059-1.jpg)\n![60 (2)](img/ign-h059-2.jpg)"
+  },
+  {
+   "id": "h060",
+   "t": "**61** (Mariana) — Barraco no Pelican River, leste de Watson Bay",
+   "d": "![61](img/ign-h060-1.jpg)\n![61 (2)](img/ign-h060-2.jpg)\n![61 (3)](img/ign-h060-3.jpg)"
+  },
+  {
+   "id": "h061",
+   "t": "**62** (Leonard) — Casa azul e branca na Harmony Dr, Belville",
+   "d": "![62](img/ign-h061-1.jpg)\n![62 (2)](img/ign-h061-2.jpg)\n![62 (3)](img/ign-h061-3.jpg)\n![62 (4)](img/ign-h061-4.jpg)"
+  },
+  {
+   "id": "h062",
+   "t": "**63** (Vice-Dale) — Pátio da ala B da prisão de Hamlet",
+   "d": "![63](img/ign-h062-1.jpg)\n![63 (2)](img/ign-h062-2.jpg)\n![63 (3)](img/ign-h062-3.jpg)"
+  },
+  {
+   "id": "h063",
+   "t": "**64** (Vice-Dale) — Pátio da ala A da prisão de Hamlet",
+   "d": "![64](img/ign-h063-1.jpg)\n![64 (2)](img/ign-h063-2.jpg)\n![64 (3)](img/ign-h063-3.jpg)"
+  },
+  {
+   "id": "h064",
+   "t": "**65** (Vice-Dale) — Sob a ponte da I-404 atrás do PeeWees, quadra oeste (sul)",
+   "d": "![65](img/ign-h064-1.jpg)\n![65 (2)](img/ign-h064-2.jpg)\n![65 (3)](img/ign-h064-3.jpg)"
+  },
+  {
+   "id": "h065",
+   "t": "**66** (Lummox) — Casa cheia de cães e lixo, leste do Lake Tallaloko",
+   "d": "![66](img/ign-h065-1.jpg)\n![66 (2)](img/ign-h065-2.jpg)\n![66 (3)](img/ign-h065-3.jpg)"
+  },
+  {
+   "id": "h066",
+   "t": "**67** (Leonard) — Casa azul-clara na Grace Ave, norte de Belville",
+   "d": "![67](img/ign-h066-1.jpg)\n![67 (2)](img/ign-h066-2.jpg)"
+  },
+  {
+   "id": "h067",
+   "t": "**68** (Vice-Dale) — Quadra no meio de Port Vice City (NE)",
+   "d": "![68](img/ign-h067-1.jpg)\n![68 (2)](img/ign-h067-2.jpg)\n![68 (3)](img/ign-h067-3.jpg)\n![68 (4)](img/ign-h067-4.jpg)"
+  },
+  {
+   "id": "h068",
+   "t": "**69** (Kelly) — Maple Ln, oeste de Ambrosia",
+   "d": "![69](img/ign-h068-1.jpg)\n![69 (2)](img/ign-h068-2.jpg)"
+  },
+  {
+   "id": "h069",
+   "t": "**70** (Vice-Dale) — Telhado do Bare With Me, Balsero",
+   "d": "![70](img/ign-h069-1.jpg)\n![70 (2)](img/ign-h069-2.jpg)\n![70 (3)](img/ign-h069-3.jpg)\n![70 (4)](img/ign-h069-4.jpg)"
+  },
+  {
+   "id": "h070",
+   "t": "**71** (Leonard) — Parque com lago no norte de Belville (oeste, sul)",
+   "d": "![71](img/ign-h070-1.jpg)\n![71 (2)](img/ign-h070-2.jpg)\n![71 (3)](img/ign-h070-3.jpg)\n![71 (4)](img/ign-h070-4.jpg)"
+  },
+  {
+   "id": "h071",
+   "t": "**72** (Vice-Dale) — Quadra no meio de Port Vice City (SO)",
+   "d": "![72](img/ign-h071-1.jpg)\n![72 (2)](img/ign-h071-2.jpg)\n![72 (3)](img/ign-h071-3.jpg)\n![72 (4)](img/ign-h071-4.jpg)"
+  },
+  {
+   "id": "h072",
+   "t": "**73** (Vice-Dale) — Sob a ponte da I-97 (quadra sul, SE)",
+   "d": "![73](img/ign-h072-1.jpg)\n![73 (2)](img/ign-h072-2.jpg)\n![73 (3)](img/ign-h072-3.jpg)\n![73 (4)](img/ign-h072-4.jpg)"
+  },
+  {
+   "id": "h073",
+   "t": "**74** (Vice-Dale) — Sob a ponte da I-97 (quadra sul, NO)",
+   "d": "![74](img/ign-h073-1.jpg)\n![74 (2)](img/ign-h073-2.jpg)\n![74 (3)](img/ign-h073-3.jpg)"
+  },
+  {
+   "id": "h074",
+   "t": "**75** (Vice-Dale) — Mansão na ilha sul de Peacock Estates",
+   "d": "![75](img/ign-h074-1.jpg)\n![75 (2)](img/ign-h074-2.jpg)\n![75 (3)](img/ign-h074-3.jpg)\n![75 (4)](img/ign-h074-4.jpg)"
+  },
+  {
+   "id": "h075",
+   "t": "**76** (Kelly) — Centro de lazer no norte de Ambrosia, quadra (SO)",
+   "d": "![76](img/ign-h075-1.jpg)\n![76 (2)](img/ign-h075-2.jpg)\n![76 (3)](img/ign-h075-3.jpg)\n![76 (4)](img/ign-h075-4.jpg)"
+  },
+  {
+   "id": "h076",
+   "t": "**77** (Leonard) — Parque com lago no norte de Belville (leste, norte)",
+   "d": "![77](img/ign-h076-1.jpg)\n![77 (2)](img/ign-h076-2.jpg)\n![77 (3)](img/ign-h076-3.jpg)\n![77 (4)](img/ign-h076-4.jpg)"
+  },
+  {
+   "id": "h077",
+   "t": "**78** (Kelly) — Avery Allen & Co. Aviation Services, norte de Kelly County",
+   "d": "![78](img/ign-h077-1.jpg)\n![78 (2)](img/ign-h077-2.jpg)\n![78 (3)](img/ign-h077-3.jpg)\n![78 (4)](img/ign-h077-4.jpg)"
+  },
+  {
+   "id": "h078",
+   "t": "**79** (Leonard) — Mansão amarela no Leith River, Waning Sands",
+   "d": "![79](img/ign-h078-1.jpg)\n![79 (2)](img/ign-h078-2.jpg)\n![79 (3)](img/ign-h078-3.jpg)\n![79 (4)](img/ign-h078-4.jpg)"
+  },
+  {
+   "id": "h079",
+   "t": "**80** (Vice-Dale) — Mansão no norte de Starfish Island (garagem)",
+   "d": "![80](img/ign-h079-1.jpg)\n![80 (2)](img/ign-h079-2.jpg)\n![80 (3)](img/ign-h079-3.jpg)\n![80 (4)](img/ign-h079-4.jpg)"
+  },
+  {
+   "id": "h080",
+   "t": "**81** (Vice-Dale) — Sob a ponte da I-404 atrás do PeeWees, quadra oeste (norte)",
+   "d": "![81](img/ign-h080-1.jpg)\n![81 (2)](img/ign-h080-2.jpg)\n![81 (3)](img/ign-h080-3.jpg)"
+  },
+  {
+   "id": "h081",
+   "t": "**82** (Vice-Dale) — Samba Pl com NW 8th Pl, centro de Vice City",
+   "d": "![82](img/ign-h081-1.jpg)\n![82 (2)](img/ign-h081-2.jpg)\n![82 (3)](img/ign-h081-3.jpg)"
+  },
+  {
+   "id": "h082",
+   "t": "**83** (Vice-Dale) — Mansão no SE da Delamore Dr (leste)",
+   "d": "![83](img/ign-h082-1.jpg)\n![83 (2)](img/ign-h082-2.jpg)\n![83 (3)](img/ign-h082-3.jpg)"
+  },
+  {
+   "id": "h083",
+   "t": "**84** (Vice-Dale) — Mansão no SE da Delamore Dr (oeste)",
+   "d": "![84](img/ign-h083-1.jpg)\n![84 (2)](img/ign-h083-2.jpg)\n![84 (3)](img/ign-h083-3.jpg)\n![84 (4)](img/ign-h083-4.jpg)"
+  },
+  {
+   "id": "h084",
+   "t": "**85** (Vice-Dale) — Hummingbird Park",
+   "d": "![85](img/ign-h084-1.jpg)\n![85 (2)](img/ign-h084-2.jpg)\n![85 (3)](img/ign-h084-3.jpg)"
+  },
+  {
+   "id": "h085",
+   "t": "**86** (Vice-Dale) — Mansão no norte de Starfish Island (quadra escondida pela cerca viva)",
+   "d": "![86](img/ign-h085-1.jpg)\n![86 (2)](img/ign-h085-2.jpg)\n![86 (3)](img/ign-h085-3.jpg)"
+  },
+  {
+   "id": "h086",
+   "t": "**87** (Vice-Dale) — Pátio SE da prisão de Hamlet (oeste)",
+   "d": "![87](img/ign-h086-1.jpg)\n![87 (2)](img/ign-h086-2.jpg)\n![87 (3)](img/ign-h086-3.jpg)"
+  },
+  {
+   "id": "h087",
+   "t": "**88** (Vice-Dale) — Terraço do estacionamento no oeste de Vice Beach (centro)",
+   "d": "![88](img/ign-h087-1.jpg)\n![88 (2)](img/ign-h087-2.jpg)\n![88 (3)](img/ign-h087-3.jpg)"
+  },
+  {
+   "id": "h088",
+   "t": "**89** (Vice-Dale) — Terraço do estacionamento no oeste de Vice Beach (leste)",
+   "d": "![89](img/ign-h088-1.jpg)"
+  },
+  {
+   "id": "h089",
+   "t": "**90** (Vice-Dale) — Terraço do estacionamento no oeste de Vice Beach (oeste)",
+   "d": "![90](img/ign-h089-1.jpg)\n![90 (2)](img/ign-h089-2.jpg)"
+  },
+  {
+   "id": "h090",
+   "t": "**91** (Kelly) — Gellhorn Ave com Washburn Ave, quadra norte (NO)",
+   "d": "![91](img/ign-h090-1.jpg)\n![91 (2)](img/ign-h090-2.jpg)\n![91 (3)](img/ign-h090-3.jpg)\n![91 (4)](img/ign-h090-4.jpg)"
+  },
+  {
+   "id": "h091",
+   "t": "**92** (Kelly) — Gellhorn Ave com Washburn Ave, quadra norte (SE)",
+   "d": "![92](img/ign-h091-1.jpg)\n![92 (2)](img/ign-h091-2.jpg)\n![92 (3)](img/ign-h091-3.jpg)"
+  },
+  {
+   "id": "h092",
+   "t": "**93** (Kelly) — Gellhorn Ave com Washburn Ave, quadra sul (NO)",
+   "d": "![93](img/ign-h092-1.jpg)\n![93 (2)](img/ign-h092-2.jpg)\n![93 (3)](img/ign-h092-3.jpg)"
+  },
+  {
+   "id": "h093",
+   "t": "**94** (Kelly) — Gellhorn Ave com Washburn Ave, quadra sul (SE)",
+   "d": "![94](img/ign-h093-1.jpg)"
+  },
+  {
+   "id": "h094",
+   "t": "**95** (Vice-Dale) — Atrás da Bantam Boxing Gym, sul de Hamlet",
+   "d": "![95](img/ign-h094-1.jpg)\n![95 (2)](img/ign-h094-2.jpg)\n![95 (3)](img/ign-h094-3.jpg)\n![95 (4)](img/ign-h094-4.jpg)"
+  },
+  {
+   "id": "h095",
+   "t": "**96** (Mariana) — Atrás do Crastenburg Key Lento Resort",
+   "d": "![96](img/ign-h095-1.jpg)\n![96 (2)](img/ign-h095-2.jpg)\n![96 (3)](img/ign-h095-3.jpg)\n![96 (4)](img/ign-h095-4.jpg)"
+  },
+  {
+   "id": "h096",
+   "t": "**97** (Mariana) — Casa do Jason, acima do depósito",
+   "d": "![97](img/ign-h096-1.jpg)\n![97 (2)](img/ign-h096-2.jpg)\n![97 (3)](img/ign-h096-3.jpg)"
+  },
+  {
+   "id": "h097",
+   "t": "**98** (Lummox) — Galpão vermelho na estrada, norte de Mount Kalaga",
+   "d": "![98](img/ign-h097-1.jpg)\n![98 (2)](img/ign-h097-2.jpg)\n![98 (3)](img/ign-h097-3.jpg)\n![98 (4)](img/ign-h097-4.jpg)"
+  },
+  {
+   "id": "h098",
+   "t": "**99** (Vice-Dale) — Pátio SE da prisão de Hamlet (leste)",
+   "d": "![99](img/ign-h098-1.jpg)\n![99 (2)](img/ign-h098-2.jpg)\n![99 (3)](img/ign-h098-3.jpg)"
+  },
+  {
+   "id": "h099",
+   "t": "**100** (Leonard) — Mansão no norte de Belville, junto ao carrinho de golfe",
+   "d": "![100](img/ign-h099-1.jpg)\n![100 (2)](img/ign-h099-2.jpg)\n![100 (3)](img/ign-h099-3.jpg)"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "basquete",
+  "cesta",
+  "tabela",
+  "hoop"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "The 100 basketball hoops",
+  "sum": "Each hoop has a ball nearby. You need 90 for 100%.",
+  "body": "- Find the ball near the hoop and dunk or score.\n- By county: Vice-Dale 49, Mariana 18, Kelly 14, Leonard 14, Lummox 5.\n- Helps with Basketball Rookie, Basketball Tour and Basketball Pro ([[colecao-desafios]]).\n- **Focus:** each hoop gives +2% Focus, up to 5 hoops every 30 real minutes.\n- **Rewards:** 10 hoops = Narcos cap (Eris) · 50 = 3 tattoos · 100 = alternate kit (Eris).",
+  "kw": [
+   "basketball",
+   "hoop"
+  ],
+  "check": [
+   {
+    "id": "h000",
+    "t": "**1** (Vice-Dale) — Slator Towing lot (chop shop), on the beam by the Phoenix; ball by the east gate",
+    "d": "![1](img/ign-h000-2.jpg)"
+   },
+   {
+    "id": "h001",
+    "t": "**2** (Mariana) — Jackal's Track NW lot; ball across the track by the chairs",
+    "d": "![2](img/ign-h001-1.jpg)\n![2 (2)](img/ign-h001-2.jpg)\n![2 (3)](img/ign-h001-3.jpg)\n![2 (4)](img/ign-h001-4.jpg)"
+   },
+   {
+    "id": "h002",
+    "t": "**3** (Lummox) — Green house on Chestnut Dr near I-297; ball underneath",
+    "d": "![3](img/ign-h002-1.jpg)\n![3 (2)](img/ign-h002-2.jpg)\n![3 (3)](img/ign-h002-3.jpg)"
+   },
+   {
+    "id": "h003",
+    "t": "**4** (Vice-Dale) — U-shaped apartment courtyard by the picnic table; ball near the stairs",
+    "d": "![4](img/ign-h003-1.jpg)\n![4 (2)](img/ign-h003-2.jpg)"
+   },
+   {
+    "id": "h004",
+    "t": "**5** (Kelly) — Green duplex on Magnolia Rd; ball on the grass between the walkways",
+    "d": "![5](img/ign-h004-1.jpg)\n![5 (2)](img/ign-h004-2.jpg)\n![5 (3)](img/ign-h004-3.jpg)\n![5 (4)](img/ign-h004-4.jpg)"
+   },
+   {
+    "id": "h005",
+    "t": "**6** (Mariana) — Yellow house on Clovis Way, Capri; ball on the grate under the gutter",
+    "d": "![6](img/ign-h005-1.jpg)\n![6 (2)](img/ign-h005-2.jpg)\n![6 (3)](img/ign-h005-3.jpg)\n![6 (4)](img/ign-h005-4.jpg)"
+   },
+   {
+    "id": "h006",
+    "t": "**7** (Mariana) — Behind The Red Lotus, south Key Lento; ball between the green container and forklift",
+    "d": "![7](img/ign-h006-1.jpg)\n![7 (2)](img/ign-h006-2.jpg)\n![7 (3)](img/ign-h006-3.jpg)\n![7 (4)](img/ign-h006-4.jpg)"
+   },
+   {
+    "id": "h007",
+    "t": "**8** (Kelly) — Henshaw supporter's house, Reservoir St, east Ambrosia; ball in the backyard by the gate",
+    "d": "![8](img/ign-h007-1.jpg)\n![8 (2)](img/ign-h007-2.jpg)\n![8 (3)](img/ign-h007-3.jpg)"
+   },
+   {
+    "id": "h008",
+    "t": "**9** (Vice-Dale) — Villa on west Catalan Island; ball in the hedge to the right",
+    "d": "![9](img/ign-h008-1.jpg)\n![9 (2)](img/ign-h008-2.jpg)\n![9 (3)](img/ign-h008-3.jpg)\n![9 (4)](img/ign-h008-4.jpg)"
+   },
+   {
+    "id": "h009",
+    "t": "**10** (Mariana) — Villa on Capri's NW peninsula; ball by the side wall",
+    "d": "![10](img/ign-h009-1.jpg)\n![10 (2)](img/ign-h009-2.jpg)\n![10 (3)](img/ign-h009-3.jpg)\n![10 (4)](img/ign-h009-4.jpg)"
+   },
+   {
+    "id": "h010",
+    "t": "**11** (Vice-Dale) — Small blue house on NW 24th Pl, SW Balsero; ball under the carport",
+    "d": "![11](img/ign-h010-1.jpg)\n![11 (2)](img/ign-h010-2.jpg)\n![11 (3)](img/ign-h010-3.jpg)\n![11 (4)](img/ign-h010-4.jpg)"
+   },
+   {
+    "id": "h011",
+    "t": "**12** (Mariana) — Court by the beach, east Key Lento",
+    "d": "![12](img/ign-h011-1.jpg)\n![12 (2)](img/ign-h011-2.jpg)\n![12 (3)](img/ign-h011-3.jpg)\n![12 (4)](img/ign-h011-4.jpg)"
+   },
+   {
+    "id": "h012",
+    "t": "**13** (Leonard) — End of Fairview Dr cul-de-sac, Waning Sands; ball on the grass behind",
+    "d": "![13](img/ign-h012-1.jpg)\n![13 (2)](img/ign-h012-2.jpg)\n![13 (3)](img/ign-h012-3.jpg)"
+   },
+   {
+    "id": "h013",
+    "t": "**14** (Mariana) — Beach house on Coconut Cove Ct, west Capri",
+    "d": "![14](img/ign-h013-1.jpg)\n![14 (2)](img/ign-h013-2.jpg)\n![14 (3)](img/ign-h013-3.jpg)\n![14 (4)](img/ign-h013-4.jpg)"
+   },
+   {
+    "id": "h014",
+    "t": "**15** (Vice-Dale) — Park off Shorebeach Rd, east Washington Beach; ball under the tree",
+    "d": "![15](img/ign-h014-1.jpg)\n![15 (2)](img/ign-h014-2.jpg)\n![15 (3)](img/ign-h014-3.jpg)\n![15 (4)](img/ign-h014-4.jpg)"
+   },
+   {
+    "id": "h015",
+    "t": "**16** (Vice-Dale) — Mansion on Delamore Dr across from Leaf Links",
+    "d": "![16](img/ign-h015-1.jpg)\n![16 (2)](img/ign-h015-2.jpg)\n![16 (3)](img/ign-h015-3.jpg)\n![16 (4)](img/ign-h015-4.jpg)"
+   },
+   {
+    "id": "h016",
+    "t": "**17** (Vice-Dale) — Fire Station No. 35, Port Vice City; ball on the grass under the DO NOT PARK sign",
+    "d": "![17](img/ign-h016-1.jpg)\n![17 (2)](img/ign-h016-2.jpg)\n![17 (3)](img/ign-h016-3.jpg)"
+   },
+   {
+    "id": "h017",
+    "t": "**18** (Vice-Dale) — Under the I-404 bridge behind PeeWees, east court (south end)",
+    "d": "![18](img/ign-h017-1.jpg)\n![18 (2)](img/ign-h017-2.jpg)"
+   },
+   {
+    "id": "h018",
+    "t": "**19** (Vice-Dale) — Villa on NE Vespucci Island; ball by the pond wall",
+    "d": "![19](img/ign-h018-1.jpg)\n![19 (2)](img/ign-h018-2.jpg)\n![19 (3)](img/ign-h018-3.jpg)\n![19 (4)](img/ign-h018-4.jpg)"
+   },
+   {
+    "id": "h019",
+    "t": "**20** (Vice-Dale) — Small blue house at SW 17th St & SW 7th Ave near VCIA; ball on the porch",
+    "d": "![20](img/ign-h019-1.jpg)\n![20 (2)](img/ign-h019-2.jpg)\n![20 (3)](img/ign-h019-3.jpg)\n![20 (4)](img/ign-h019-4.jpg)"
+   },
+   {
+    "id": "h020",
+    "t": "**21** (Vice-Dale) — Under the I-404 bridge behind PeeWees, east court (north end)",
+    "d": "![21](img/ign-h020-1.jpg)\n![21 (2)](img/ign-h020-2.jpg)\n![21 (3)](img/ign-h020-3.jpg)"
+   },
+   {
+    "id": "h021",
+    "t": "**22** (Leonard) — Outdoor mall in south Waning Sands, outside Baller World",
+    "d": "![22](img/ign-h021-1.jpg)\n![22 (2)](img/ign-h021-2.jpg)\n![22 (3)](img/ign-h021-3.jpg)"
+   },
+   {
+    "id": "h022",
+    "t": "**23** (Kelly) — River house in NE Ambrosia (Reservoir St); ball inside the garage",
+    "d": "![23](img/ign-h022-1.jpg)\n![23 (2)](img/ign-h022-2.jpg)\n![23 (3)](img/ign-h022-3.jpg)"
+   },
+   {
+    "id": "h023",
+    "t": "**24** (Vice-Dale) — Vice Rowing Club, Gloriana Key; ball under the tree",
+    "d": "![24](img/ign-h023-1.jpg)\n![24 (2)](img/ign-h023-2.jpg)\n![24 (3)](img/ign-h023-3.jpg)"
+   },
+   {
+    "id": "h024",
+    "t": "**25** (Lummox) — Overkeel Boatyard & Marina, East Lummox; ball under the picnic table",
+    "d": "![25](img/ign-h024-1.jpg)\n![25 (2)](img/ign-h024-2.jpg)\n![25 (3)](img/ign-h024-3.jpg)"
+   },
+   {
+    "id": "h025",
+    "t": "**26** (Vice-Dale) — Villa in central Vespucci Island (Neptune Cir)",
+    "d": "![26](img/ign-h025-1.jpg)\n![26 (2)](img/ign-h025-2.jpg)\n![26 (3)](img/ign-h025-3.jpg)"
+   },
+   {
+    "id": "h026",
+    "t": "**27** (Vice-Dale) — Mansion in NW Peacock Estates (Tubbs Pl)",
+    "d": "![27](img/ign-h026-1.jpg)\n![27 (2)](img/ign-h026-2.jpg)\n![27 (3)](img/ign-h026-3.jpg)\n![27 (4)](img/ign-h026-4.jpg)"
+   },
+   {
+    "id": "h027",
+    "t": "**28** (Vice-Dale) — Southernmost Peacock Estates mansion (Palladia Ln)",
+    "d": "![28](img/ign-h027-1.jpg)\n![28 (2)](img/ign-h027-2.jpg)\n![28 (3)](img/ign-h027-3.jpg)\n![28 (4)](img/ign-h027-4.jpg)"
+   },
+   {
+    "id": "h028",
+    "t": "**29** (Vice-Dale) — Green riverside house, Little Cuba; ball under the crane",
+    "d": "![29](img/ign-h028-1.jpg)\n![29 (2)](img/ign-h028-2.jpg)\n![29 (3)](img/ign-h028-3.jpg)\n![29 (4)](img/ign-h028-4.jpg)"
+   },
+   {
+    "id": "h029",
+    "t": "**30** (Vice-Dale) — Apartment by the SR-25 bridge, Little Cuba",
+    "d": "![30](img/ign-h029-1.jpg)\n![30 (2)](img/ign-h029-2.jpg)\n![30 (3)](img/ign-h029-3.jpg)\n![30 (4)](img/ign-h029-4.jpg)"
+   },
+   {
+    "id": "h030",
+    "t": "**31** (Leonard) — White house mid Fairview Dr, Waning Sands",
+    "d": "![31](img/ign-h030-1.jpg)\n![31 (2)](img/ign-h030-2.jpg)\n![31 (3)](img/ign-h030-3.jpg)\n![31 (4)](img/ign-h030-4.jpg)"
+   },
+   {
+    "id": "h031",
+    "t": "**32** (Kelly) — Rec center in north Ambrosia, court (NE end)",
+    "d": "![32](img/ign-h031-1.jpg)\n![32 (2)](img/ign-h031-2.jpg)\n![32 (3)](img/ign-h031-3.jpg)\n![32 (4)](img/ign-h031-4.jpg)"
+   },
+   {
+    "id": "h032",
+    "t": "**33** (Vice-Dale) — Abandoned Kamar Devon Community Center, Southside",
+    "d": "![33](img/ign-h032-1.jpg)\n![33 (2)](img/ign-h032-2.jpg)\n![33 (3)](img/ign-h032-3.jpg)"
+   },
+   {
+    "id": "h033",
+    "t": "**34** (Mariana) — Blue house with a boat, north Watson Bay",
+    "d": "![34](img/ign-h033-1.jpg)\n![34 (2)](img/ign-h033-2.jpg)\n![34 (3)](img/ign-h033-3.jpg)\n![34 (4)](img/ign-h033-4.jpg)"
+   },
+   {
+    "id": "h034",
+    "t": "**35** (Vice-Dale) — Courtyard between Eris and Sahara Arena, Downtown",
+    "d": "![35](img/ign-h034-1.jpg)\n![35 (2)](img/ign-h034-2.jpg)\n![35 (3)](img/ign-h034-3.jpg)\n![35 (4)](img/ign-h034-4.jpg)"
+   },
+   {
+    "id": "h035",
+    "t": "**36** (Mariana) — Green house on Peach Palm Dr, Key Lento",
+    "d": "![36](img/ign-h035-1.jpg)\n![36 (2)](img/ign-h035-2.jpg)\n![36 (3)](img/ign-h035-3.jpg)\n![36 (4)](img/ign-h035-4.jpg)"
+   },
+   {
+    "id": "h036",
+    "t": "**37** (Vice-Dale) — Yellow house on Westbrook Dr, Salton (near VCIA); ball in the backyard",
+    "d": "![37](img/ign-h036-1.jpg)\n![37 (2)](img/ign-h036-2.jpg)"
+   },
+   {
+    "id": "h037",
+    "t": "**38** (Mariana) — Beige house on Seabell Ave, Watson Bay",
+    "d": "![38](img/ign-h037-1.jpg)\n![38 (2)](img/ign-h037-2.jpg)\n![38 (3)](img/ign-h037-3.jpg)\n![38 (4)](img/ign-h037-4.jpg)"
+   },
+   {
+    "id": "h038",
+    "t": "**39** (Leonard) — Lake park in north Belville (west courts, north pole)",
+    "d": "![39](img/ign-h038-1.jpg)\n![39 (2)](img/ign-h038-2.jpg)\n![39 (3)](img/ign-h038-3.jpg)\n![39 (4)](img/ign-h038-4.jpg)"
+   },
+   {
+    "id": "h039",
+    "t": "**40** (Lummox) — Stone Hill Sawmill, Mount Kalaga",
+    "d": "![40](img/ign-h039-1.jpg)\n![40 (2)](img/ign-h039-2.jpg)\n![40 (3)](img/ign-h039-3.jpg)\n![40 (4)](img/ign-h039-4.jpg)"
+   },
+   {
+    "id": "h040",
+    "t": "**41** (Mariana) — Gray house on Dolphin Dr, north Key Lento; ball under the trailer",
+    "d": "![41](img/ign-h040-1.jpg)\n![41 (2)](img/ign-h040-2.jpg)\n![41 (3)](img/ign-h040-3.jpg)"
+   },
+   {
+    "id": "h041",
+    "t": "**42** (Mariana) — Sunset Dr, west coast of Key Lento",
+    "d": "![42](img/ign-h041-1.jpg)\n![42 (2)](img/ign-h041-2.jpg)\n![42 (3)](img/ign-h041-3.jpg)"
+   },
+   {
+    "id": "h042",
+    "t": "**43** (Vice-Dale) — Low roof of a building in east Washington Beach (east hoop)",
+    "d": "![43](img/ign-h042-1.jpg)\n![43 (2)](img/ign-h042-2.jpg)\n![43 (3)](img/ign-h042-3.jpg)"
+   },
+   {
+    "id": "h043",
+    "t": "**44** (Mariana) — Small blue house on Cangrejo St, Southwind",
+    "d": "![44](img/ign-h043-1.jpg)\n![44 (2)](img/ign-h043-2.jpg)\n![44 (3)](img/ign-h043-3.jpg)\n![44 (4)](img/ign-h043-4.jpg)"
+   },
+   {
+    "id": "h044",
+    "t": "**45** (Mariana) — Small yellow house on Langosta St, Southwind",
+    "d": "![45](img/ign-h044-1.jpg)\n![45 (2)](img/ign-h044-2.jpg)\n![45 (3)](img/ign-h044-3.jpg)\n![45 (4)](img/ign-h044-4.jpg)"
+   },
+   {
+    "id": "h045",
+    "t": "**46** (Kelly) — Leonida State Prison yard",
+    "d": "![46](img/ign-h045-1.jpg)\n![46 (2)](img/ign-h045-2.jpg)\n![46 (3)](img/ign-h045-3.jpg)\n![46 (4)](img/ign-h045-4.jpg)"
+   },
+   {
+    "id": "h046",
+    "t": "**47** (Leonard) — White arched house on Mamey Cir (east)",
+    "d": "![47](img/ign-h046-1.jpg)\n![47 (2)](img/ign-h046-2.jpg)\n![47 (3)](img/ign-h046-3.jpg)"
+   },
+   {
+    "id": "h047",
+    "t": "**48** (Mariana) — Brown house with a fish over the door, Dolphin Dr; ball in the garage",
+    "d": "![48](img/ign-h047-1.jpg)\n![48 (2)](img/ign-h047-2.jpg)\n![48 (3)](img/ign-h047-3.jpg)"
+   },
+   {
+    "id": "h048",
+    "t": "**49** (Mariana) — Condo at Ocean Sound Rd & Dolphin Dr",
+    "d": "![49](img/ign-h048-1.jpg)\n![49 (2)](img/ign-h048-2.jpg)\n![49 (3)](img/ign-h048-3.jpg)"
+   },
+   {
+    "id": "h049",
+    "t": "**50** (Leonard) — Lake park in north Belville (east courts, south pole)",
+    "d": "![50](img/ign-h049-1.jpg)\n![50 (2)](img/ign-h049-2.jpg)\n![50 (3)](img/ign-h049-3.jpg)"
+   },
+   {
+    "id": "h050",
+    "t": "**51** (Kelly) — Blue and yellow house on Orchard Ave, south Port Gellhorn",
+    "d": "![51](img/ign-h050-1.jpg)\n![51 (2)](img/ign-h050-2.jpg)\n![51 (3)](img/ign-h050-3.jpg)"
+   },
+   {
+    "id": "h051",
+    "t": "**52** (Leonard) — Pink court at a villa in east Waning Sands",
+    "d": "![52](img/ign-h051-1.jpg)\n![52 (2)](img/ign-h051-2.jpg)"
+   },
+   {
+    "id": "h052",
+    "t": "**53** (Vice-Dale) — Beige villa on south Starfish Island",
+    "d": "![53](img/ign-h052-1.jpg)\n![53 (2)](img/ign-h052-2.jpg)\n![53 (3)](img/ign-h052-3.jpg)\n![53 (4)](img/ign-h052-4.jpg)"
+   },
+   {
+    "id": "h053",
+    "t": "**54** (Kelly) — Mobile home on Tanglewood Ln, Port Gellhorn",
+    "d": "![54](img/ign-h053-1.jpg)\n![54 (2)](img/ign-h053-2.jpg)\n![54 (3)](img/ign-h053-3.jpg)\n![54 (4)](img/ign-h053-4.jpg)"
+   },
+   {
+    "id": "h054",
+    "t": "**55** (Vice-Dale) — Fire Station No. 8, Peacock Bay",
+    "d": "![55](img/ign-h054-1.jpg)\n![55 (2)](img/ign-h054-2.jpg)\n![55 (3)](img/ign-h054-3.jpg)"
+   },
+   {
+    "id": "h055",
+    "t": "**56** (Vice-Dale) — Under the I-97 bridge (north court, NW)",
+    "d": "![56](img/ign-h055-1.jpg)\n![56 (2)](img/ign-h055-2.jpg)\n![56 (3)](img/ign-h055-3.jpg)\n![56 (4)](img/ign-h055-4.jpg)"
+   },
+   {
+    "id": "h056",
+    "t": "**57** (Leonard) — White house on north Mamey Cir",
+    "d": "![57](img/ign-h056-1.jpg)\n![57 (2)](img/ign-h056-2.jpg)\n![57 (3)](img/ign-h056-3.jpg)"
+   },
+   {
+    "id": "h057",
+    "t": "**58** (Vice-Dale) — Under the I-97 bridge (north court, SE)",
+    "d": "![58](img/ign-h057-1.jpg)\n![58 (2)](img/ign-h057-2.jpg)\n![58 (3)](img/ign-h057-3.jpg)"
+   },
+   {
+    "id": "h058",
+    "t": "**59** (Vice-Dale) — Vice City Oceanarium maintenance building, Catalan Key",
+    "d": "![59](img/ign-h058-1.jpg)\n![59 (2)](img/ign-h058-2.jpg)\n![59 (3)](img/ign-h058-3.jpg)\n![59 (4)](img/ign-h058-4.jpg)"
+   },
+   {
+    "id": "h059",
+    "t": "**60** (Vice-Dale) — Low roof of a building in east Washington Beach (west hoop)",
+    "d": "![60](img/ign-h059-1.jpg)\n![60 (2)](img/ign-h059-2.jpg)"
+   },
+   {
+    "id": "h060",
+    "t": "**61** (Mariana) — Shack on Pelican River, east Watson Bay",
+    "d": "![61](img/ign-h060-1.jpg)\n![61 (2)](img/ign-h060-2.jpg)\n![61 (3)](img/ign-h060-3.jpg)"
+   },
+   {
+    "id": "h061",
+    "t": "**62** (Leonard) — Blue and white house on Harmony Dr, Belville",
+    "d": "![62](img/ign-h061-1.jpg)\n![62 (2)](img/ign-h061-2.jpg)\n![62 (3)](img/ign-h061-3.jpg)\n![62 (4)](img/ign-h061-4.jpg)"
+   },
+   {
+    "id": "h062",
+    "t": "**63** (Vice-Dale) — Hamlet prison B-wing yard",
+    "d": "![63](img/ign-h062-1.jpg)\n![63 (2)](img/ign-h062-2.jpg)\n![63 (3)](img/ign-h062-3.jpg)"
+   },
+   {
+    "id": "h063",
+    "t": "**64** (Vice-Dale) — Hamlet prison A-wing yard",
+    "d": "![64](img/ign-h063-1.jpg)\n![64 (2)](img/ign-h063-2.jpg)\n![64 (3)](img/ign-h063-3.jpg)"
+   },
+   {
+    "id": "h064",
+    "t": "**65** (Vice-Dale) — Under the I-404 bridge behind PeeWees, west court (south end)",
+    "d": "![65](img/ign-h064-1.jpg)\n![65 (2)](img/ign-h064-2.jpg)\n![65 (3)](img/ign-h064-3.jpg)"
+   },
+   {
+    "id": "h065",
+    "t": "**66** (Lummox) — House full of dogs and trash, east Lake Tallaloko",
+    "d": "![66](img/ign-h065-1.jpg)\n![66 (2)](img/ign-h065-2.jpg)\n![66 (3)](img/ign-h065-3.jpg)"
+   },
+   {
+    "id": "h066",
+    "t": "**67** (Leonard) — Light blue house on Grace Ave, north Belville",
+    "d": "![67](img/ign-h066-1.jpg)\n![67 (2)](img/ign-h066-2.jpg)"
+   },
+   {
+    "id": "h067",
+    "t": "**68** (Vice-Dale) — Court in central Port Vice City (NE)",
+    "d": "![68](img/ign-h067-1.jpg)\n![68 (2)](img/ign-h067-2.jpg)\n![68 (3)](img/ign-h067-3.jpg)\n![68 (4)](img/ign-h067-4.jpg)"
+   },
+   {
+    "id": "h068",
+    "t": "**69** (Kelly) — Maple Ln, west Ambrosia",
+    "d": "![69](img/ign-h068-1.jpg)\n![69 (2)](img/ign-h068-2.jpg)"
+   },
+   {
+    "id": "h069",
+    "t": "**70** (Vice-Dale) — Roof of Bare With Me, Balsero",
+    "d": "![70](img/ign-h069-1.jpg)\n![70 (2)](img/ign-h069-2.jpg)\n![70 (3)](img/ign-h069-3.jpg)\n![70 (4)](img/ign-h069-4.jpg)"
+   },
+   {
+    "id": "h070",
+    "t": "**71** (Leonard) — Lake park in north Belville (west courts, south pole)",
+    "d": "![71](img/ign-h070-1.jpg)\n![71 (2)](img/ign-h070-2.jpg)\n![71 (3)](img/ign-h070-3.jpg)\n![71 (4)](img/ign-h070-4.jpg)"
+   },
+   {
+    "id": "h071",
+    "t": "**72** (Vice-Dale) — Court in central Port Vice City (SW)",
+    "d": "![72](img/ign-h071-1.jpg)\n![72 (2)](img/ign-h071-2.jpg)\n![72 (3)](img/ign-h071-3.jpg)\n![72 (4)](img/ign-h071-4.jpg)"
+   },
+   {
+    "id": "h072",
+    "t": "**73** (Vice-Dale) — Under the I-97 bridge (south court, SE)",
+    "d": "![73](img/ign-h072-1.jpg)\n![73 (2)](img/ign-h072-2.jpg)\n![73 (3)](img/ign-h072-3.jpg)\n![73 (4)](img/ign-h072-4.jpg)"
+   },
+   {
+    "id": "h073",
+    "t": "**74** (Vice-Dale) — Under the I-97 bridge (south court, NW)",
+    "d": "![74](img/ign-h073-1.jpg)\n![74 (2)](img/ign-h073-2.jpg)\n![74 (3)](img/ign-h073-3.jpg)"
+   },
+   {
+    "id": "h074",
+    "t": "**75** (Vice-Dale) — Mansion on the south Peacock Estates island",
+    "d": "![75](img/ign-h074-1.jpg)\n![75 (2)](img/ign-h074-2.jpg)\n![75 (3)](img/ign-h074-3.jpg)\n![75 (4)](img/ign-h074-4.jpg)"
+   },
+   {
+    "id": "h075",
+    "t": "**76** (Kelly) — Rec center in north Ambrosia, court (SW end)",
+    "d": "![76](img/ign-h075-1.jpg)\n![76 (2)](img/ign-h075-2.jpg)\n![76 (3)](img/ign-h075-3.jpg)\n![76 (4)](img/ign-h075-4.jpg)"
+   },
+   {
+    "id": "h076",
+    "t": "**77** (Leonard) — Lake park in north Belville (east courts, north pole)",
+    "d": "![77](img/ign-h076-1.jpg)\n![77 (2)](img/ign-h076-2.jpg)\n![77 (3)](img/ign-h076-3.jpg)\n![77 (4)](img/ign-h076-4.jpg)"
+   },
+   {
+    "id": "h077",
+    "t": "**78** (Kelly) — Avery Allen & Co. Aviation Services, North Kelly County",
+    "d": "![78](img/ign-h077-1.jpg)\n![78 (2)](img/ign-h077-2.jpg)\n![78 (3)](img/ign-h077-3.jpg)\n![78 (4)](img/ign-h077-4.jpg)"
+   },
+   {
+    "id": "h078",
+    "t": "**79** (Leonard) — Yellow villa on Leith River, Waning Sands",
+    "d": "![79](img/ign-h078-1.jpg)\n![79 (2)](img/ign-h078-2.jpg)\n![79 (3)](img/ign-h078-3.jpg)\n![79 (4)](img/ign-h078-4.jpg)"
+   },
+   {
+    "id": "h079",
+    "t": "**80** (Vice-Dale) — Mansion on north Starfish Island (by the garage)",
+    "d": "![80](img/ign-h079-1.jpg)\n![80 (2)](img/ign-h079-2.jpg)\n![80 (3)](img/ign-h079-3.jpg)\n![80 (4)](img/ign-h079-4.jpg)"
+   },
+   {
+    "id": "h080",
+    "t": "**81** (Vice-Dale) — Under the I-404 bridge behind PeeWees, west court (north end)",
+    "d": "![81](img/ign-h080-1.jpg)\n![81 (2)](img/ign-h080-2.jpg)\n![81 (3)](img/ign-h080-3.jpg)"
+   },
+   {
+    "id": "h081",
+    "t": "**82** (Vice-Dale) — Samba Pl & NW 8th Pl, central Vice City",
+    "d": "![82](img/ign-h081-1.jpg)\n![82 (2)](img/ign-h081-2.jpg)\n![82 (3)](img/ign-h081-3.jpg)"
+   },
+   {
+    "id": "h082",
+    "t": "**83** (Vice-Dale) — Mansion on SE Delamore Dr (east hoop)",
+    "d": "![83](img/ign-h082-1.jpg)\n![83 (2)](img/ign-h082-2.jpg)\n![83 (3)](img/ign-h082-3.jpg)"
+   },
+   {
+    "id": "h083",
+    "t": "**84** (Vice-Dale) — Mansion on SE Delamore Dr (west hoop)",
+    "d": "![84](img/ign-h083-1.jpg)\n![84 (2)](img/ign-h083-2.jpg)\n![84 (3)](img/ign-h083-3.jpg)\n![84 (4)](img/ign-h083-4.jpg)"
+   },
+   {
+    "id": "h084",
+    "t": "**85** (Vice-Dale) — Hummingbird Park",
+    "d": "![85](img/ign-h084-1.jpg)\n![85 (2)](img/ign-h084-2.jpg)\n![85 (3)](img/ign-h084-3.jpg)"
+   },
+   {
+    "id": "h085",
+    "t": "**86** (Vice-Dale) — Mansion on north Starfish Island (court hidden by hedges)",
+    "d": "![86](img/ign-h085-1.jpg)\n![86 (2)](img/ign-h085-2.jpg)\n![86 (3)](img/ign-h085-3.jpg)"
+   },
+   {
+    "id": "h086",
+    "t": "**87** (Vice-Dale) — Hamlet prison SE yard (west pole)",
+    "d": "![87](img/ign-h086-1.jpg)\n![87 (2)](img/ign-h086-2.jpg)\n![87 (3)](img/ign-h086-3.jpg)"
+   },
+   {
+    "id": "h087",
+    "t": "**88** (Vice-Dale) — Parking garage roof, west Vice Beach (center)",
+    "d": "![88](img/ign-h087-1.jpg)\n![88 (2)](img/ign-h087-2.jpg)\n![88 (3)](img/ign-h087-3.jpg)"
+   },
+   {
+    "id": "h088",
+    "t": "**89** (Vice-Dale) — Parking garage roof, west Vice Beach (east)",
+    "d": "![89](img/ign-h088-1.jpg)"
+   },
+   {
+    "id": "h089",
+    "t": "**90** (Vice-Dale) — Parking garage roof, west Vice Beach (west)",
+    "d": "![90](img/ign-h089-1.jpg)\n![90 (2)](img/ign-h089-2.jpg)"
+   },
+   {
+    "id": "h090",
+    "t": "**91** (Kelly) — Gellhorn Ave & Washburn Ave, north court (NW)",
+    "d": "![91](img/ign-h090-1.jpg)\n![91 (2)](img/ign-h090-2.jpg)\n![91 (3)](img/ign-h090-3.jpg)\n![91 (4)](img/ign-h090-4.jpg)"
+   },
+   {
+    "id": "h091",
+    "t": "**92** (Kelly) — Gellhorn Ave & Washburn Ave, north court (SE)",
+    "d": "![92](img/ign-h091-1.jpg)\n![92 (2)](img/ign-h091-2.jpg)\n![92 (3)](img/ign-h091-3.jpg)"
+   },
+   {
+    "id": "h092",
+    "t": "**93** (Kelly) — Gellhorn Ave & Washburn Ave, south court (NW)",
+    "d": "![93](img/ign-h092-1.jpg)\n![93 (2)](img/ign-h092-2.jpg)\n![93 (3)](img/ign-h092-3.jpg)"
+   },
+   {
+    "id": "h093",
+    "t": "**94** (Kelly) — Gellhorn Ave & Washburn Ave, south court (SE)",
+    "d": "![94](img/ign-h093-1.jpg)"
+   },
+   {
+    "id": "h094",
+    "t": "**95** (Vice-Dale) — Behind Bantam Boxing Gym, south Hamlet",
+    "d": "![95](img/ign-h094-1.jpg)\n![95 (2)](img/ign-h094-2.jpg)\n![95 (3)](img/ign-h094-3.jpg)\n![95 (4)](img/ign-h094-4.jpg)"
+   },
+   {
+    "id": "h095",
+    "t": "**96** (Mariana) — Behind the Crastenburg Key Lento Resort",
+    "d": "![96](img/ign-h095-1.jpg)\n![96 (2)](img/ign-h095-2.jpg)\n![96 (3)](img/ign-h095-3.jpg)\n![96 (4)](img/ign-h095-4.jpg)"
+   },
+   {
+    "id": "h096",
+    "t": "**97** (Mariana) — Jason's house, above the shed",
+    "d": "![97](img/ign-h096-1.jpg)\n![97 (2)](img/ign-h096-2.jpg)\n![97 (3)](img/ign-h096-3.jpg)"
+   },
+   {
+    "id": "h097",
+    "t": "**98** (Lummox) — Red roadside shed, north Mount Kalaga",
+    "d": "![98](img/ign-h097-1.jpg)\n![98 (2)](img/ign-h097-2.jpg)\n![98 (3)](img/ign-h097-3.jpg)\n![98 (4)](img/ign-h097-4.jpg)"
+   },
+   {
+    "id": "h098",
+    "t": "**99** (Vice-Dale) — Hamlet prison SE yard (east pole)",
+    "d": "![99](img/ign-h098-1.jpg)\n![99 (2)](img/ign-h098-2.jpg)\n![99 (3)](img/ign-h098-3.jpg)"
+   },
+   {
+    "id": "h099",
+    "t": "**100** (Leonard) — Mansion in north Belville, by the golf cart",
+    "d": "![100](img/ign-h099-1.jpg)\n![100 (2)](img/ign-h099-2.jpg)\n![100 (3)](img/ign-h099-3.jpg)"
+   }
+  ]
+ }
+}

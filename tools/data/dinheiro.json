@@ -1,0 +1,1805 @@
+[
+ {
+  "kind": "card",
+  "id": "dinheiro-fases",
+  "sec": "dinheiro",
+  "sub": "plano",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2",
+   "c3",
+   "c4"
+  ],
+  "title": "Plano de dinheiro: o que fazer em cada capítulo",
+  "sum": "Caps. 1 e 2: destravar a história. Cap. 3: joias e bancos. Cap. 4: cofres.",
+  "body": "Não perca tempo repetindo roubos pequenos nos Caps. 1 e 2: o salto vem no Cap. 3. A tabela diz o que fazer em cada fase e onde está o passo a passo.\n\n#### Ordem do Cap. 3\n1. Yasmani's Jewelry Jobs: US$ 20.000 de recompensa, mais as joalherias.\n2. Credit Check: dá o Dye Pack Jammer, que abre os 7 Payday Loans e os bancos pequenos (veja [[dinheiro-notas]]).\n3. Clonin' Keys: Key Cloner e lista do Randy (esportivos intactos pagam muito mais).\n4. Illegal Operations: esconderijos de gangue com narcóticos para os traficantes.\n5. Os 2 Payday Loans que o Yasmani pede: pré-requisito dos cofres.\n\n#### Cap. 4 em diante\n- Faça a opcional “That's Where The Money Is…” assim que aparecer: ela libera os cofres dos 8 bancos grandes.\n- Compre as dicas de carro-forte do Yasmani (US$ 10.000). Elas se pagam na primeira entrada no cofre.\n- Uma rodada pelos 8 cofres rende de **US$ 0,8 a 1,2 milhão** (faixas da IGN em [[dinheiro-alvos]]), fora caixas e cofres comuns. A conta antiga de 8 × US$ 205 mil (US$ 1,64 milhão por rodada) não vale: só 2 dos 8 cofres chegam a US$ 205.000.",
+  "table": {
+   "cols": [
+    "Fase",
+    "Quando",
+    "Fonte principal",
+    "Meta",
+    "Passo a passo"
+   ],
+   "rows": [
+    [
+     "1",
+     "Cap. 1",
+     "Lojas pequenas (stick-ups), mergulhos do Kenton (dezenas de milhares no total) e os 2 esconderijos de gangue do Cap. 1. Carro roubado ainda não tem comprador",
+     "Avançar na história e pôr os US$ 5.000 na poupança",
+     "[[dinheiro-objetivos]], [[dinheiro-rotina-roubo]], [[colecao-kenton]]"
+    ],
+    [
+     "1",
+     "Cap. 2",
+     "Illegal Operations de Port Gellhorn (as melhores rendem de US$ 15 mil a 46 mil cada) e carros baratos sem rastreador para o Moses. A Press Start achou a revenda de carros a opção menos arriscada e mais rápida",
+     "Atravessar a fase de dinheiro curto: US$ 900, 5.000 e 15.000",
+     "[[dinheiro-illegal-ops]], [[veiculos-venda]], [[dinheiro-objetivos]]"
+    ],
+    [
+     "2",
+     "Cap. 3",
+     "Joalherias (Yasmani; de US$ 10 mil a 25 mil por roubo, segundo o Gamersky), Payday Loans e bancos pequenos (Dye Pack Jammer), lista do Randy e Illegal Operations",
+     "Os primeiros US$ 100 mil",
+     "[[dinheiro-notas]], [[dinheiro-alvos]], [[veiculos-randy]], [[dinheiro-receptadores]]"
+    ],
+    [
+     "3",
+     "Cap. 4+",
+     "Cofres dos 8 bancos grandes (de US$ 65 mil a 205 mil cada) com as dicas de carro-forte do Yasmani",
+     "O primeiro milhão",
+     "[[dinheiro-cofres]]"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "PowerPyx",
+   "GameSpot",
+   "Press Start",
+   "Gamersky"
+  ],
+  "kw": [
+   "ficar rico",
+   "melhor jeito de ganhar dinheiro",
+   "farm",
+   "money",
+   "grana",
+   "milhao",
+   "melhor forma de ganhar dinheiro"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Money plan: what to do in each chapter",
+   "sum": "Ch. 1 and 2: keep the story moving. Ch. 3: jewelry and banks. Ch. 4: vaults.",
+   "body": "Don't grind small robberies in Ch. 1 and 2: the jump comes in Ch. 3. The table says what to do in each phase and where the step-by-step is.\n\n#### Ch. 3 order\n1. Yasmani's Jewelry Jobs: $20,000 reward, plus the jewelry stores.\n2. Credit Check: gives the Dye Pack Jammer, opening the 7 Payday Loans and the small banks (see [[dinheiro-notas]]).\n3. Clonin' Keys: Key Cloner and Randy's Wish List (pristine sports cars pay far more).\n4. Illegal Operations: gang hideouts with narcotics for the dealers.\n5. The 2 Payday Loans Yasmani asks for: prerequisite for the vaults.\n\n#### Ch. 4 onward\n- Do the optional “That's Where The Money Is…” as soon as it appears: it unlocks the vaults of the 8 big banks.\n- Buy Yasmani's armored-truck tips ($10,000). They pay for themselves on the first vault.\n- One round of the 8 vaults pays **$0.8 to 1.2 million** (IGN ranges in [[dinheiro-alvos]]), not counting registers and regular safes. The old math of 8 × $205k ($1.64 million per round) doesn't hold: only 2 of the 8 vaults reach $205,000.",
+   "table": {
+    "cols": [
+     "Phase",
+     "When",
+     "Main source",
+     "Goal",
+     "Step-by-step"
+    ],
+    "rows": [
+     [
+      "1",
+      "Ch. 1",
+      "Small stores (stick-ups), Kenton's dives (tens of thousands in total) and the 2 Ch. 1 gang hideouts. Stolen cars have no buyer yet",
+      "Keep the story moving and put the $5,000 in savings",
+      "[[dinheiro-objetivos]], [[dinheiro-rotina-roubo]], [[colecao-kenton]]"
+     ],
+     [
+      "1",
+      "Ch. 2",
+      "Port Gellhorn Illegal Operations (the best pay $15k–46k each) and cheap untracked cars for Moses. Press Start found car flipping the lowest-risk, fastest option",
+      "Get through the crunch: $900, $5,000 and $15,000",
+      "[[dinheiro-illegal-ops]], [[veiculos-venda]], [[dinheiro-objetivos]]"
+     ],
+     [
+      "2",
+      "Ch. 3",
+      "Jewelry stores (Yasmani; $10k–25k per robbery, per Gamersky), Payday Loans and small banks (Dye Pack Jammer), Randy's Wish List and Illegal Operations",
+      "The first $100k",
+      "[[dinheiro-notas]], [[dinheiro-alvos]], [[veiculos-randy]], [[dinheiro-receptadores]]"
+     ],
+     [
+      "3",
+      "Ch. 4+",
+      "Vaults of the 8 big banks ($65k–205k each) with Yasmani's armored-truck tips",
+      "The first million",
+      "[[dinheiro-cofres]]"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "get rich",
+    "best way to make money",
+    "farm",
+    "money",
+    "million"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "dinheiro-bolsos",
+  "sec": "dinheiro",
+  "sub": "plano",
+  "tipo": "dado",
+  "conf": "oficial",
+  "ch": [
+   "geral"
+  ],
+  "title": "Onde o dinheiro fica: conta, bolso, sacola e poupança",
+  "sum": "Só a conta BuckMe é segura. Dinheiro vivo e saque se perdem ao morrer ou ser preso.",
+  "body": "- **Deposite sempre que passar por um caixa.** O app BuckMe tem um **ATM Finder**.\n- O BuckMe tem **limite de depósito**, que sobe com a história. Em Coffee Break a conta Silver sobe o limite para **US$ 100 mil**, rende **US$ 2.000 de juros** e dá 20% de desconto no RydeMe.\n- Dinheiro do bolso é **de cada personagem**; a conta é do casal.\n- Morrer ou ser preso tira o dinheiro do bolso e cobra uma pequena taxa de manutenção do BuckMe. Lista completa do que se perde: [[policia-preso]].\n- As metas da poupança e quando a história cobra cada uma: [[dinheiro-objetivos]].\n- Um guia citou um limite de US$ 20.000 em dinheiro vivo, tirado da análise do HUD feita por um usuário. Não confirmado. {{rumor}}",
+  "table": {
+   "cols": [
+    "Onde",
+    "Como funciona",
+    "Risco"
+   ],
+   "rows": [
+    [
+     "Conta BuckMe (roxo)",
+     "Compartilhada entre Jason e Lucia. Depósito só em caixa eletrônico ou agência, não pelo celular",
+     "Seguro"
+    ],
+    [
+     "Dinheiro vivo (verde)",
+     "Com o bolso em US$ 0, as compras saem direto da conta. Dá para deixar no esconderijo de casa",
+     "**Perdido ao morrer ou ser preso**"
+    ],
+    [
+     "Dinheiro roubado na sacola de saque (duffel bag)",
+     "Joias, notas marcadas e drogas só viram dinheiro no receptador",
+     "Perdido ao morrer; vai junto se a polícia apreender o carro"
+    ],
+    [
+     "Poupança “Save for the Future”",
+     "Não permite saque. Metas de US$ 5.000 (Cap. 1), US$ 100 mil (Cap. 2) e depois US$ 500 mil; bater a meta dá bônus e desconto e aumenta o limite",
+     "Trava a história se você colocar tudo lá"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "Eurogamer",
+   "IGN",
+   "Inven (KR)",
+   "Playday",
+   "Press Start",
+   "Rockstar (Rob Nelson)",
+   "nettoge (JP)"
+  ],
+  "kw": [
+   "dinheiro vivo",
+   "banco",
+   "buckme",
+   "poupanca",
+   "caixa eletronico",
+   "atm",
+   "depositar",
+   "saldo"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Where your money sits: account, pocket, bag and savings",
+   "sum": "Only the BuckMe account is safe. Pocket cash and loot are lost if you die or get busted.",
+   "body": "- **Deposit whenever you pass an ATM.** The BuckMe app has an **ATM Finder**.\n- BuckMe has a **deposit limit** that rises with the story. In Coffee Break the Silver account raises the limit to **$100k**, pays **$2,000 in interest** and gives 20% off RydeMe.\n- Pocket cash is **per character**; the account belongs to the couple.\n- Dying or getting busted costs your pocket cash plus a small BuckMe maintenance fee. Full list of what you lose: [[policia-preso]].\n- The savings goals and when the story asks for each: [[dinheiro-objetivos]].\n- One guide cited a $20,000 pocket-cash cap, taken from a user's HUD analysis. Unconfirmed. {{rumor}}",
+   "table": {
+    "cols": [
+     "Where",
+     "How it works",
+     "Risk"
+    ],
+    "rows": [
+     [
+      "BuckMe account (purple)",
+      "Shared between Jason and Lucia. Deposits only at ATMs or branches, not by phone",
+      "Safe"
+     ],
+     [
+      "Pocket cash (green)",
+      "With $0 in your pocket, purchases come straight from the account. You can leave it in your home stash",
+      "**Lost if you die or get arrested**"
+     ],
+     [
+      "Loot in the duffel bag",
+      "Jewelry, marked bills and drugs only become cash at a fence",
+      "Lost if you die; goes with the car if police impound it"
+     ],
+     [
+      "“Save for the Future” savings",
+      "No withdrawals. Goals of $5,000 (Ch. 1), $100k (Ch. 2) and then $500k; hitting a goal gives a bonus, discounts and a higher limit",
+      "Locks the story if you put everything there"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "pocket cash",
+    "bank",
+    "buckme",
+    "savings",
+    "atm",
+    "deposit",
+    "balance"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "dinheiro-objetivos",
+  "sec": "dinheiro",
+  "sub": "inicio",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "Quanto a história cobra (Caps. 1 e 2)",
+  "sum": "US$ 5.000 na poupança no Cap. 1; US$ 900, 5.000 e 15.000 na conta no Cap. 2.",
+  "body": "- **A história para até você juntar cada quantia.** Rob Nelson, da Rockstar North, confirmou que em alguns pontos o fluxo de missões desacelera ou para até você atingir metas de dinheiro.\n- **Olhe a coluna “Onde guardar”.** A Press Start ficou travada por ter colocado todo o saldo na poupança BuckMe, que não permite saque: as metas do Cap. 2 pedem dinheiro na conta corrente.\n- No Cap. 1, “Deposit Cash Into BuckMe” e “Save for the Future” são etapas obrigatórias: não zere a conta antes delas.\n- **Travou?** No Cap. 1, lojas pequenas ([[dinheiro-rotina-roubo]]). No Cap. 2, some a elas os carros para o Moses e os esconderijos de Port Gellhorn: um só dos grandes já cobre os US$ 15.000 ([[dinheiro-illegal-ops]]). Não perca tempo com atividade que não paga.\n- Cada meta de poupança batida dá **bônus de juros** no BuckMe (IGN). Depois dos US$ 100.000 vem a de US$ 500 mil.\n- A ordem das metas é a da Eurogamer, que joga a história em sequência. Limites de depósito e caixas eletrônicos: [[dinheiro-bolsos]]. Antes de fechar o Cap. 1, veja [[dinheiro-reset]].",
+  "table": {
+   "cols": [
+    "Quando aparece",
+    "Objetivo",
+    "Quanto",
+    "Onde guardar"
+   ],
+   "rows": [
+    [
+     "Cap. 1, depois de Buck Me",
+     "Save for the Future",
+     "US$ 5.000",
+     "Poupança da família (faça até Don Gone)"
+    ],
+    [
+     "Cap. 2, Overnight Charges",
+     "Pagar a Linda (motel)",
+     "US$ 900",
+     "Dinheiro para a gerente"
+    ],
+    [
+     "Cap. 2, Girls' Trip",
+     "Earn Cash",
+     "US$ 5.000",
+     "Conta corrente (não a poupança)"
+    ],
+    [
+     "Cap. 2, Coffee Break",
+     "Prepare for Vice City",
+     "US$ 15.000",
+     "Conta corrente"
+    ],
+    [
+     "Cap. 2, Coffee Break",
+     "Save For The Future",
+     "US$ 100.000",
+     "Poupança da família (objetivo longo)"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "Eurogamer",
+   "IGN",
+   "Rockstar (IGN)",
+   "Press Start",
+   "PowerPyx"
+  ],
+  "kw": [
+   "meta",
+   "objetivo",
+   "save for the future",
+   "earn cash",
+   "prepare for vice city",
+   "poupanca",
+   "linda",
+   "900",
+   "100 mil",
+   "travado",
+   "travou",
+   "missao nao aparece",
+   "meta de dinheiro",
+   "gated"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "What the story charges (Chapters 1 and 2)",
+   "sum": "$5,000 in savings in Ch. 1; $900, $5,000 and $15,000 in checking in Ch. 2.",
+   "body": "- **The story stops until you raise each amount.** Rob Nelson of Rockstar North confirmed that at some points the mission flow slows or stops until you hit money targets.\n- **Check the “Where” column.** Press Start got stuck after putting their whole balance into BuckMe savings, which can't be withdrawn: the Ch. 2 goals want money in checking.\n- In Ch. 1, “Deposit Cash Into BuckMe” and “Save for the Future” are required steps: don't empty your account before them.\n- **Stuck?** In Ch. 1, small stores ([[dinheiro-rotina-roubo]]). In Ch. 2, add cars for Moses and the Port Gellhorn hideouts: a single big one covers the $15,000 ([[dinheiro-illegal-ops]]). Don't waste time on activities that don't pay.\n- Each savings goal you hit pays an **interest bonus** in BuckMe (IGN). After the $100,000 comes the $500k one.\n- The goal order is Eurogamer's, from a straight playthrough. Deposit limits and ATMs: [[dinheiro-bolsos]]. Before closing Ch. 1, see [[dinheiro-reset]].",
+   "table": {
+    "cols": [
+     "When it appears",
+     "Objective",
+     "Amount",
+     "Where"
+    ],
+    "rows": [
+     [
+      "Ch. 1, after Buck Me",
+      "Save for the Future",
+      "$5,000",
+      "Family savings account (finish by Don Gone)"
+     ],
+     [
+      "Ch. 2, Overnight Charges",
+      "Pay Linda (motel)",
+      "$900",
+      "Cash to the manager"
+     ],
+     [
+      "Ch. 2, Girls' Trip",
+      "Earn Cash",
+      "$5,000",
+      "Checking account (not savings)"
+     ],
+     [
+      "Ch. 2, Coffee Break",
+      "Prepare for Vice City",
+      "$15,000",
+      "Checking account"
+     ],
+     [
+      "Ch. 2, Coffee Break",
+      "Save For The Future",
+      "$100,000",
+      "Family savings account (long-term)"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "goal",
+    "objective",
+    "save for the future",
+    "earn cash",
+    "prepare for vice city",
+    "savings",
+    "linda",
+    "stuck",
+    "mission not showing",
+    "money goal",
+    "gated"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "dinheiro-reset",
+  "sec": "dinheiro",
+  "sub": "inicio",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "Antes de Tourist Trap: proteja o dinheiro",
+  "sum": "No fim do Cap. 1 o casal fica sem dinheiro. Save manual, tudo depositado e nenhuma compra grande.",
+  "body": "**O que se sabe (sem spoiler):** perto de 30% da campanha, na passagem do Cap. 1 para o 2, o casal fica sem dinheiro e precisa juntar alguns milhares para a história seguir. O jogo não dá aviso.\n\n**O que ninguém confirmou:** se o saldo é zerado, confiscado ou só fica inacessível; se volta depois; e o que acontece com armas, carros, garagens e poupança. O Gamersky (China) afirma que todo o dinheiro se perde no fim do Cap. 1.\n\nQuanto juntar depois: [[dinheiro-objetivos]].",
+  "check": [
+   {
+    "id": "save",
+    "t": "Save manual antes de iniciar “Tourist Trap”, num espaço de save só dele (veja [[perdiveis-saves]]). Se perceber que perdeu o saldo, recarregue e gaste antes"
+   },
+   {
+    "id": "deposito",
+    "t": "Depositar todo o dinheiro vivo num caixa eletrônico (ou deixar no esconderijo de casa)"
+   },
+   {
+    "id": "conta",
+    "t": "Deixar na conta só o necessário para as missões que exigem dinheiro"
+   },
+   {
+    "id": "poupanca",
+    "t": "Poupança da família: além dos US$ 5.000 que a missão pede, pôr o excedente só agora, logo antes de “Tourist Trap” e com o save manual feito. Nunca o saldo todo. Segundo o nettoge, ela não permite saque, mas “nunca some”"
+   },
+   {
+    "id": "gastar",
+    "t": "Gastar o resto em colete, munição e nas compras opcionais do Cap. 1. O colar Tomás da Lucia (US$ 475; um walkthrough polonês citava ~US$ 425) pode servir de garantia num pagamento logo depois {{rumor}}"
+   },
+   {
+    "id": "nada-grande",
+    "t": "Não comprar garagens, carros caros nem melhorias de oficina antes do Cap. 2 (veja [[compras-prioridade]])"
+   },
+   {
+    "id": "depois",
+    "t": "Logo depois da virada: juntar alguns milhares com lojas de ícone verde, pedestres e, quando abrir, carros ao Moses"
+   }
+  ],
+  "div": "Os primeiros guias diziam para não pôr nada na poupança, que já travou jogadores. A pesquisa mais recente (nettoge) indica que a poupança é protegida, então o plano a usa como proteção só para o excedente e só na véspera de “Tourist Trap”, com o save manual como garantia. A dica do colar como garantia vem de um walkthrough polonês e não foi confirmada; o preço do colar aparece como US$ 475 (lista de perdíveis) e ~US$ 425 (walkthrough).",
+  "src": [
+   "GameSpot",
+   "PowerPyx",
+   "nettoge (JP)",
+   "Gamersky (CN)",
+   "Press Start",
+   "Inven (KR)",
+   "Gamersky"
+  ],
+  "kw": [
+   "reset",
+   "zerar",
+   "zerado",
+   "zeradas",
+   "contas zeradas",
+   "perder dinheiro",
+   "30%",
+   "virada",
+   "tourist trap",
+   "proteger"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Before Tourist Trap: protect your money",
+   "sum": "At the end of Ch. 1 the couple ends up broke. Manual save, everything deposited and no big purchases.",
+   "body": "**What's known (spoiler-free):** about 30% into the campaign, moving from Ch. 1 to 2, the couple loses their money and needs a few thousand for the story to continue. The game gives no warning.\n\n**What nobody has confirmed:** whether the balance is wiped, seized or just inaccessible; whether it comes back; and what happens to weapons, cars, garages and savings. Gamersky (China) says all money is lost at the end of Ch. 1.\n\nHow much to raise afterwards: [[dinheiro-objetivos]].",
+   "check": [
+    {
+     "id": "save",
+     "t": "Manual save before starting “Tourist Trap”, in its own slot (see [[perdiveis-saves]]). If you find your balance gone, reload and spend it first"
+    },
+    {
+     "id": "deposito",
+     "t": "Deposit all pocket cash at an ATM (or leave it in your home stash)"
+    },
+    {
+     "id": "conta",
+     "t": "Keep in the account only what the money-gated missions need"
+    },
+    {
+     "id": "poupanca",
+     "t": "Family Savings: beyond the $5,000 the mission asks for, move the surplus only now, right before “Tourist Trap” and with the manual save done. Never the whole balance. Per nettoge it can't be withdrawn but “never disappears”"
+    },
+    {
+     "id": "gastar",
+     "t": "Spend the rest on armor, ammo and the Ch. 1 optional purchases. Lucia's Tomás necklace ($475; a Polish walkthrough cited ~$425) can serve as collateral for a payment soon after {{rumor}}"
+    },
+    {
+     "id": "nada-grande",
+     "t": "Don't buy garages, expensive cars or upgrades before Ch. 2 (see [[compras-prioridade]])"
+    },
+    {
+     "id": "depois",
+     "t": "Right after the turn: build a few thousand with green-icon stores, pedestrians and, once it opens, cars for Moses"
+    }
+   ],
+   "div": "Early guides said to put nothing in savings, which has locked players out. The latest research (nettoge) indicates savings are protected, so the plan uses them for protection only for the surplus and only right before “Tourist Trap”, with the manual save as a fallback. The necklace-as-collateral tip comes from a Polish walkthrough and isn't confirmed; the necklace price shows up as $475 (missables list) and ~$425 (walkthrough).",
+   "kw": [
+    "reset",
+    "money wiped",
+    "lose money",
+    "30%",
+    "turn",
+    "tourist trap",
+    "protect",
+    "broke"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "dinheiro-illegal-ops",
+  "$big": true,
+  "sec": "dinheiro",
+  "sub": "inicio",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2"
+  ],
+  "title": "Esconderijos de gangue (Illegal Operations): Caps. 1 e 2",
+  "sum": "12 esconderijos, de US$ 1,4 mil a 46 mil cada, com Key Valuables e códigos de cofre. A melhor renda do Cap. 2.",
+  "src": [
+   "IGN",
+   "Eurogamer"
+  ],
+  "kw": [
+   "illegal operations",
+   "operacao ilegal",
+   "esconderijo",
+   "gangue",
+   "key valuables",
+   "codigo do cofre",
+   "kingfishers",
+   "kolt",
+   "m7",
+   "robbery opportunity",
+   "aviao caido"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Gang hideouts (Illegal Operations): Chapters 1 and 2",
+   "sum": "12 hideouts, $1.4k to $46k each, with Key Valuables and safe codes. The best income in Ch. 2.",
+   "kw": [
+    "illegal operations",
+    "gang hideout",
+    "key valuables",
+    "safe code",
+    "kingfishers",
+    "kolt",
+    "m7",
+    "robbery opportunity",
+    "crashed plane"
+   ]
+  },
+  "$info": {
+   "sizeKB": 45,
+   "checkItems": 12,
+   "checkTitles": [
+    "fishing: **Fishing Shacks** — Wetman Bay, ilha a noroeste de Key Lento (precisa de barco ou jet ski",
+    "exotic: **Exotic Animals Front** — Fundos da Three Sheets Liquor, Key Lento (a leste do trailer do",
+    "backroom: **Backroom Weed Front** — Pearl House Hair Salon, sul de Port Gellhorn",
+    "industrial: **Industrial Weed Grow** — Noroeste de Grassrivers, nordeste de Tola Bay (Mariana County)",
+    "manatee: **Manatee Motel** — Nordeste de Cottonmouth Lake, sul de Hamlet",
+    "sunrise: **Sunrise RV Park** — Norte de Cottonmouth Lake, noroeste de Key Lento (pela estrada que s",
+    "brooks: **Brooks Boatworks** — Norte da Pay 'n' Spray de Port Gellhorn",
+    "june: **June Warehouse** — Oeste do Delights Cabaret, Port Gellhorn",
+    "kingpin: **Kingpin Bowling** — Sul da Ammu-Nation Pawn & Gun, Port Gellhorn",
+    "cascara: **La Cascara Motel** — Oeste de Port Gellhorn, nordeste de Wild Hog Point",
+    "stash: **Stash House** — Noroeste da oficina Wasteland Off-Road, Port Gellhorn",
+    "nova: **Nova Auto Junkyard** — Nordeste de Hamlet, a leste do Layin' Ink"
+   ],
+   "bodyStart": "- **No Cap. 2, comece pelas que mais rendem:** La Cascara Motel, Kingpin Bowling e Nova Auto Junkyard. Uma só já cobre a meta de US$ 15.000 de [[dinheiro-objetivos]].\n- Este card cobre 12 das 39 operações do jogo. As do Cap. 3 em diante ainda não têm passo a passo aqui.\n- **Illegal Operations** são esconderijos de gangue (ícone amarelo) com dinheiro, drogas para vender, **Key Valuables** e às vezes um carro standout. A maioria pode ser feita em qualquer capítulo; a IGN agrupa pelo lugar em que você está na história.\n- **Key Valuables** brilham **dourado** no Focus ({L3}+{R3}) e ficam marcados ",
+   "tableCols": [
+    "Operação",
+    "Cap.",
+    "Onde",
+    "Gangue",
+    "Segurança",
+    "Rende (IGN)",
+    "Key Valuables",
+    "Código"
+   ],
+   "tableRows": 12
+  }
+ },
+ {
+  "kind": "card",
+  "id": "dinheiro-rotina-roubo",
+  "sec": "dinheiro",
+  "sub": "roubar",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Checklist de roubo: antes, durante e depois",
+  "sum": "Os passos que protegem o saque e evitam a perseguição.",
+  "body": "- **No mapa:** passe o cursor numa Robbery Opportunity para ver valor e segurança; dá até para ver a planta do prédio. Locais marcados em verde rendem mais em dupla.\n- **No Focus:** funcionário destacado em **verde** sabe algo. Mire nele e mantenha a mira até ele falar.\n- **Stick-up:** mire no funcionário e {□} para exigir o caixa.\n- Repetir o mesmo assalto antes de a loja reabastecer rende menos.\n- Um assalto bem preparado termina sem perseguição. Se ela vier: [[policia-fuga-rotina]]. Onde vender: [[dinheiro-receptadores]].",
+  "check": [
+   {
+    "id": "recon",
+    "t": "**Antes.** Reconhecimento: alarme, câmeras e guardas. Veja no mapa o valor estimado e o nível de segurança. Desista se houver guardas demais"
+   },
+   {
+    "id": "deposito",
+    "t": "Depositar o dinheiro vivo antes de sair"
+   },
+   {
+    "id": "colete",
+    "t": "Colete e munição"
+   },
+   {
+    "id": "troca",
+    "t": "Carro de troca num ponto discreto, com roupas limpas no porta-malas"
+   },
+   {
+    "id": "moto",
+    "t": "Moto pronta para a fuga, se a rota passar pela cidade"
+   },
+   {
+    "id": "mascara",
+    "t": "**Durante.** Máscara antes de entrar (chapéu e bandana também servem)"
+   },
+   {
+    "id": "alarme",
+    "t": "Cortar o alarme. A partir do Cap. 3, a Snap Gun abre a porta dos fundos em silêncio; arrombar dispara o alarme"
+   },
+   {
+    "id": "caixa",
+    "t": "Dominar o caixa ameaçando, sem ferir ({L2} + {□})"
+   },
+   {
+    "id": "cofre",
+    "t": "Abrir o cofre pela combinação se houver tempo: explodir danifica o conteúdo"
+   },
+   {
+    "id": "cameras",
+    "t": "Destruir as câmeras ou apagar a gravação"
+   },
+   {
+    "id": "sair",
+    "t": "Sair rápido, de preferência assim que o alarme tocar"
+   },
+   {
+    "id": "fuga",
+    "t": "**Depois.** Fugir até o carro de troca: guardar sacolas e armas longas, trocar de roupa e de carro e tirar máscara, chapéu e óculos"
+   },
+   {
+    "id": "banco",
+    "t": "Vender ao receptador e depositar no caixa eletrônico antes de qualquer outra coisa"
+   }
+  ],
+  "src": [
+   "Eurogamer",
+   "Famitsu (Rob Nelson)",
+   "GameSpot",
+   "Gamersky",
+   "IGN",
+   "Vice",
+   "Shacknews",
+   "Bloomberg",
+   "Push Square (Ruliweb)",
+   "Rockstar"
+  ],
+  "kw": [
+   "assalto",
+   "roubo",
+   "loja",
+   "stick up",
+   "como roubar",
+   "cofre",
+   "combinacao",
+   "heist",
+   "planejar",
+   "preparacao",
+   "banco",
+   "joalheria"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Robbery checklist: before, during and after",
+   "sum": "The steps that protect the loot and avoid the chase.",
+   "body": "- **On the map:** hover over a Robbery Opportunity to see its take value and security; you can even preview the building's layout. Spots marked green pay better as a duo.\n- **In Focus:** staff highlighted **green** know something. Aim at them and hold it until they talk.\n- **Stick-up:** aim at the clerk and press {□} to demand the register.\n- Hitting the same place again before it restocks pays less.\n- A well-prepared robbery ends with no chase. If one comes: [[policia-fuga-rotina]]. Where to sell: [[dinheiro-receptadores]].",
+   "check": [
+    {
+     "id": "recon",
+     "t": "**Before.** Recon: alarm, cameras and guards. Check the estimated value and security level on the map. Walk away if there are too many guards"
+    },
+    {
+     "id": "deposito",
+     "t": "Deposit your pocket cash before heading out"
+    },
+    {
+     "id": "colete",
+     "t": "Armor and ammo"
+    },
+    {
+     "id": "troca",
+     "t": "Swap car at a quiet spot, with clean clothes in the trunk"
+    },
+    {
+     "id": "moto",
+     "t": "Bike ready for the getaway, if the route goes through the city"
+    },
+    {
+     "id": "mascara",
+     "t": "**During.** Mask on before going in (a hat and bandana work too)"
+    },
+    {
+     "id": "alarme",
+     "t": "Cut the alarm. From Ch. 3, the Snap Gun opens the back door silently; breaking in trips the alarm"
+    },
+    {
+     "id": "caixa",
+     "t": "Control the clerk by threatening, without hurting ({L2} + {□})"
+    },
+    {
+     "id": "cofre",
+     "t": "Open the safe by combination if there's time: blowing it damages the contents"
+    },
+    {
+     "id": "cameras",
+     "t": "Destroy the cameras or wipe the footage"
+    },
+    {
+     "id": "sair",
+     "t": "Get out fast, ideally as soon as the alarm goes off"
+    },
+    {
+     "id": "fuga",
+     "t": "**After.** Escape to the swap car: stow bags and longarms, change outfit and car and take off mask, hat and glasses"
+    },
+    {
+     "id": "banco",
+     "t": "Sell to the fence and deposit at an ATM before anything else"
+    }
+   ],
+   "kw": [
+    "robbery",
+    "heist",
+    "store",
+    "stick up",
+    "how to rob",
+    "safe",
+    "combination",
+    "plan",
+    "prep",
+    "bank",
+    "jewelry store"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "dinheiro-notas",
+  "sec": "dinheiro",
+  "sub": "roubar",
+  "tipo": "alerta",
+  "conf": "jogo",
+  "ch": [
+   "c3",
+   "c4"
+  ],
+  "title": "Notas marcadas e dye pack",
+  "sum": "Sem o Dye Pack Jammer, o dinheiro explode em tinta.",
+  "body": "- Notas de bancos e Payday Loans **explodem em tinta quando você se afasta** e perdem todo o valor, a menos que você tenha o Dye Pack Jammer (missão “Credit Check”, Cap. 3).\n- Segundo a Inven (Coreia), as notas de casas de penhores também podem estourar tinta roxa. Cuidado com esse saque.\n- Notas marcadas não podem ser gastas: venda ao Yasmani, que é quem mais paga (veja [[dinheiro-receptadores]]).",
+  "src": [
+   "GameSpot",
+   "PowerPyx",
+   "Inven (KR)"
+  ],
+  "kw": [
+   "dye pack",
+   "tinta",
+   "notas marcadas",
+   "marked bills",
+   "jammer"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Marked bills and dye packs",
+   "sum": "Without the Dye Pack Jammer, the money explodes in ink.",
+   "body": "- Bills from banks and Payday Loans **burst in dye when you move away** and lose all value, unless you have the Dye Pack Jammer (“Credit Check”, Ch. 3).\n- Per Inven (Korea), pawn-shop bills can also burst purple dye. Careful with that loot.\n- Marked bills can't be spent: sell to Yasmani, who pays the most (see [[dinheiro-receptadores]]).",
+   "kw": [
+    "dye pack",
+    "ink",
+    "marked bills",
+    "jammer"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "dinheiro-cofres",
+  "sec": "dinheiro",
+  "sub": "roubar",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c4"
+  ],
+  "title": "Cofres de banco: a rotina do Cap. 4",
+  "sum": "De US$ 65 mil a 205 mil por cofre, em poucos minutos.",
+  "body": "- Os cofres **não podem ser arrombados nem explodidos**. Você segue um carro-forte até o banco, e o cofre fica aberto por pouco tempo enquanto o guarda entra com a maleta.\n- O cofre gera **4 estrelas na hora**.\n- Libera com a opcional “That's Where The Money Is…” (Cap. 4). Quanto rende cada cofre: [[dinheiro-alvos]]. Sem o Dye Pack Jammer as notas estouram em tinta: [[dinheiro-notas]].",
+  "check": [
+   {
+    "id": "dica",
+    "t": "Comprar a dica do Yasmani (US$ 10.000): os carros-fortes ficam com ícone roxo"
+   },
+   {
+    "id": "parceiro",
+    "t": "Levar o parceiro: um só não carrega todo o dinheiro; passe uma sacola para ele"
+   },
+   {
+    "id": "moto",
+    "t": "Deixar uma moto rápida pronta para a fuga"
+   },
+   {
+    "id": "seguir",
+    "t": "Seguir o carro-forte e entrar enquanto o cofre está aberto"
+   },
+   {
+    "id": "fuga",
+    "t": "Fugir de moto cortando o trânsito, depois trocar de veículo e de roupa; separar o casal se apertar"
+   },
+   {
+    "id": "vender",
+    "t": "Vender as notas marcadas ao Yasmani e depositar"
+   },
+   {
+    "id": "recheio",
+    "t": "Entre um banco grande e outro: 1 ou 2 esconderijos de gangue ou 1 carro do Randy; e, para completar, bancos pequenos e Payday Loans"
+   }
+  ],
+  "src": [
+   "PowerPyx",
+   "GameSpot",
+   "Gamersky"
+  ],
+  "kw": [
+   "cofre",
+   "vault",
+   "banco grande",
+   "carro forte",
+   "armored truck",
+   "205 mil",
+   "endgame"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Bank vaults: the Ch. 4 routine",
+   "sum": "$65k to $205k per vault in a few minutes.",
+   "body": "- Vaults **can't be cracked or blown**. You follow an armored truck to the bank, and the vault stays open briefly while the guard goes in with the case.\n- The vault gives **4 stars instantly**.\n- Unlocked by the optional “That's Where The Money Is…” (Ch. 4). What each vault pays: [[dinheiro-alvos]]. Without the Dye Pack Jammer the bills burst in dye: [[dinheiro-notas]].",
+   "check": [
+    {
+     "id": "dica",
+     "t": "Buy Yasmani's tip ($10,000): armored trucks get a purple icon"
+    },
+    {
+     "id": "parceiro",
+     "t": "Bring your partner: one person can't carry all the money; hand them a bag"
+    },
+    {
+     "id": "moto",
+     "t": "Have a fast bike ready for the getaway"
+    },
+    {
+     "id": "seguir",
+     "t": "Follow the armored truck and go in while the vault is open"
+    },
+    {
+     "id": "fuga",
+     "t": "Escape on the bike through traffic, then swap vehicle and outfit; split the couple if it gets tight"
+    },
+    {
+     "id": "vender",
+     "t": "Sell the marked bills to Yasmani and deposit"
+    },
+    {
+     "id": "recheio",
+     "t": "Between big banks: 1 or 2 gang hideouts or 1 Randy car; small banks and Payday Loans as filler"
+    }
+   ],
+   "kw": [
+    "vault",
+    "big bank",
+    "armored truck",
+    "205k",
+    "endgame"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "dinheiro-alvos",
+  "sec": "dinheiro",
+  "sub": "roubar",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Lista de bancos e Payday Loans: saque de cada um",
+  "sum": "22 bancos (8 com caixa-forte) e 7 Payday Loans. Cofres de US$ 65 mil a 205 mil.",
+  "body": "- São **22 bancos**, todos com uma gaveta de caixa e um cofre pequeno. **8 deles são Big Banks** e têm também a **caixa-forte** (vault), que na tabela aparece como tipo “Cofre”.\n- **Payday loan:** lojas de empréstimo com segurança armada.\n- Valores em US$ (faixa de saque da IGN). A lista de gaveta e cofre pequeno é parcial: 10 das 22 agências.\n- Sem o Dye Pack Jammer as notas estouram em tinta: [[dinheiro-notas]]. Roteiro de cofre: [[dinheiro-cofres]]. Checklist do roubo: [[dinheiro-rotina-roubo]]. Fuga: [[policia-fuga-rotina]].\n- Joalherias, pawn shops e os outros tipos de alvo: [[dinheiro-fontes]].",
+  "table": {
+   "cols": [
+    "Alvo",
+    "Tipo",
+    "Região",
+    "Saque (US$)"
+   ],
+   "rows": [
+    [
+     "Washington Beach Fleeca",
+     "Banco",
+     "Vice Beach",
+     "10–30 mil"
+    ],
+    [
+     "Ocean Beach Lombank",
+     "Banco",
+     "Vice Beach",
+     "15–45 mil"
+    ],
+    [
+     "Ocean Beach Fleeca",
+     "Banco",
+     "Vice Beach",
+     "5–15 mil"
+    ],
+    [
+     "Ocean Beach Shorefront",
+     "Banco",
+     "Vice Beach",
+     "5–15 mil"
+    ],
+    [
+     "Bayside Lombank",
+     "Banco",
+     "Vice City",
+     "15–45 mil"
+    ],
+    [
+     "Rockridge Shorefront",
+     "Banco",
+     "Vice City",
+     "5–20 mil"
+    ],
+    [
+     "Downtown Shorefront",
+     "Banco",
+     "Vice City",
+     "5–15 mil"
+    ],
+    [
+     "Peacock Bay Fleeca",
+     "Banco",
+     "Vice City",
+     "5–20 mil"
+    ],
+    [
+     "Peacock Bay Lombank",
+     "Banco",
+     "Vice City",
+     "5–20 mil"
+    ],
+    [
+     "Key Lento Fleeca",
+     "Banco",
+     "Key Lento",
+     "5–20 mil"
+    ],
+    [
+     "La Perle Quick Buck",
+     "Payday",
+     "Vice City",
+     "5–15 mil"
+    ],
+    [
+     "Rockridge Payday Loans",
+     "Payday",
+     "Vice City",
+     "5–15 mil"
+    ],
+    [
+     "Little Cuba Payday Loans",
+     "Payday",
+     "Vice City",
+     "15–25 mil"
+    ],
+    [
+     "Southside Payday Loans",
+     "Payday",
+     "Vice City",
+     "5–15 mil"
+    ],
+    [
+     "Payline Loans 247",
+     "Payday",
+     "South Vice-Dale",
+     "5–15 mil"
+    ],
+    [
+     "Hamlet Quick Buck",
+     "Payday",
+     "Hamlet",
+     "5–15 mil"
+    ],
+    [
+     "Cash Flow",
+     "Payday",
+     "Port Gellhorn",
+     "2–10 mil"
+    ],
+    [
+     "Ocean Beach Shorefront",
+     "Cofre",
+     "Vice Beach",
+     "95–140 mil"
+    ],
+    [
+     "Ocean Beach Lombank 1",
+     "Cofre",
+     "Vice Beach",
+     "75–135 mil"
+    ],
+    [
+     "Ocean Beach Fleeca",
+     "Cofre",
+     "Vice Beach",
+     "75–135 mil"
+    ],
+    [
+     "Ocean Beach Lombank 2",
+     "Cofre",
+     "Vice Beach",
+     "135–205 mil"
+    ],
+    [
+     "Downtown Fleeca",
+     "Cofre",
+     "Vice City",
+     "100–150 mil"
+    ],
+    [
+     "Downtown Lombank",
+     "Cofre",
+     "Vice City",
+     "135–205 mil"
+    ],
+    [
+     "Tequesta Fleeca",
+     "Cofre",
+     "Vice City",
+     "65–110 mil"
+    ],
+    [
+     "VCIA Fleeca",
+     "Cofre",
+     "VCIA",
+     "100–150 mil"
+    ]
+   ],
+   "sort": true
+  },
+  "src": [
+   "IGN"
+  ],
+  "kw": [
+   "banco",
+   "cofre",
+   "vault",
+   "payday",
+   "assalto a banco",
+   "smash and grab",
+   "quanto rende"
+  ],
+  "added": "2026-11-19",
+  "en": {
+   "title": "Bank and Payday Loan list: what each pays",
+   "sum": "22 banks (8 with a vault) and 7 Payday Loans. Vaults from $65k to $205k.",
+   "body": "- There are **22 banks**, all with one cash drawer and one small safe. **8 of them are Big Banks** and also have the **vault**, shown in the table as type “Vault”.\n- **Payday loan:** loan stores with armed security.\n- Values in USD (IGN take ranges). The drawer-and-safe list is partial: 10 of the 22 branches.\n- Without the Dye Pack Jammer the bills burst in dye: [[dinheiro-notas]]. Vault routine: [[dinheiro-cofres]]. Robbery checklist: [[dinheiro-rotina-roubo]]. Getaway: [[policia-fuga-rotina]].\n- Jewelry stores, pawn shops and the other target types: [[dinheiro-fontes]].",
+   "table": {
+    "cols": [
+     "Target",
+     "Type",
+     "Region",
+     "Take ($)"
+    ],
+    "rows": [
+     [
+      "Washington Beach Fleeca",
+      "Bank",
+      "Vice Beach",
+      "10k–30k"
+     ],
+     [
+      "Ocean Beach Lombank",
+      "Bank",
+      "Vice Beach",
+      "15k–45k"
+     ],
+     [
+      "Ocean Beach Fleeca",
+      "Bank",
+      "Vice Beach",
+      "5k–15k"
+     ],
+     [
+      "Ocean Beach Shorefront",
+      "Bank",
+      "Vice Beach",
+      "5k–15k"
+     ],
+     [
+      "Bayside Lombank",
+      "Bank",
+      "Vice City",
+      "15k–45k"
+     ],
+     [
+      "Rockridge Shorefront",
+      "Bank",
+      "Vice City",
+      "5k–20k"
+     ],
+     [
+      "Downtown Shorefront",
+      "Bank",
+      "Vice City",
+      "5k–15k"
+     ],
+     [
+      "Peacock Bay Fleeca",
+      "Bank",
+      "Vice City",
+      "5k–20k"
+     ],
+     [
+      "Peacock Bay Lombank",
+      "Bank",
+      "Vice City",
+      "5k–20k"
+     ],
+     [
+      "Key Lento Fleeca",
+      "Bank",
+      "Key Lento",
+      "5k–20k"
+     ],
+     [
+      "La Perle Quick Buck",
+      "Payday",
+      "Vice City",
+      "5k–15k"
+     ],
+     [
+      "Rockridge Payday Loans",
+      "Payday",
+      "Vice City",
+      "5k–15k"
+     ],
+     [
+      "Little Cuba Payday Loans",
+      "Payday",
+      "Vice City",
+      "15k–25k"
+     ],
+     [
+      "Southside Payday Loans",
+      "Payday",
+      "Vice City",
+      "5k–15k"
+     ],
+     [
+      "Payline Loans 247",
+      "Payday",
+      "South Vice-Dale",
+      "5k–15k"
+     ],
+     [
+      "Hamlet Quick Buck",
+      "Payday",
+      "Hamlet",
+      "5k–15k"
+     ],
+     [
+      "Cash Flow",
+      "Payday",
+      "Port Gellhorn",
+      "2k–10k"
+     ],
+     [
+      "Ocean Beach Shorefront",
+      "Vault",
+      "Vice Beach",
+      "95k–140k"
+     ],
+     [
+      "Ocean Beach Lombank 1",
+      "Vault",
+      "Vice Beach",
+      "75k–135k"
+     ],
+     [
+      "Ocean Beach Fleeca",
+      "Vault",
+      "Vice Beach",
+      "75k–135k"
+     ],
+     [
+      "Ocean Beach Lombank 2",
+      "Vault",
+      "Vice Beach",
+      "135k–205k"
+     ],
+     [
+      "Downtown Fleeca",
+      "Vault",
+      "Vice City",
+      "100k–150k"
+     ],
+     [
+      "Downtown Lombank",
+      "Vault",
+      "Vice City",
+      "135k–205k"
+     ],
+     [
+      "Tequesta Fleeca",
+      "Vault",
+      "Vice City",
+      "65k–110k"
+     ],
+     [
+      "VCIA Fleeca",
+      "Vault",
+      "VCIA",
+      "100k–150k"
+     ]
+    ],
+    "sort": true
+   },
+   "kw": [
+    "bank",
+    "vault",
+    "payday",
+    "bank job",
+    "smash and grab",
+    "take"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "dinheiro-receptadores",
+  "sec": "dinheiro",
+  "sub": "roubar",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Receptadores (fences): onde vender cada coisa",
+  "sum": "Cada um compra um tipo de mercadoria e paga diferente. Com endereços dos Caps. 1 e 2.",
+  "body": "- **Volte ao receptador depois de cada roubo grande:** morrer com o saque é caro.\n- São **7 receptadores**, liberados pela história. Cada um se especializa: narcóticos, joias, notas marcadas ou veículos.\n- No começo você entrega pessoalmente. Depois eles buscam a mercadoria, cobrando uma taxa. As garagens têm depósito para mercadoria à espera de venda ([[compras-garagens]]).\n- Alguns receptadores somem de vez, mas não contam para troféu nem 100%.\n\n#### Quem compra o quê\n- **Narcóticos:** os traficantes (Tyrone, Dunk, Donnie) pagam quase na hora.\n- **Joias e notas marcadas:** **Yasmani** (Little Cuba, Vice City, Cap. 3) é o mais importante. Paga bem por joias e é quem mais paga por notas marcadas ([[dinheiro-notas]]).\n- **Cartas e tesouros:** qualquer **pawn shop** (ícone verde de balança). A mais perto no Cap. 1 fica no sul de Hamlet. Também compram meteoritos e dobrões do fundo do mar.\n- **Carros:** Moses, Pay 'n' Spray e Randy; veja [[veiculos-venda]]. No mapa, passe o cursor na oficina do Moses para ver quanto ele paga pelo carro que você está dirigindo e quanto custa registrá-lo.\n\n#### Onde vender nos Caps. 1 e 2 (IGN)\n- **Cap. 1 – Brian:** lockup no extremo sudoeste de Key Lento. Código **7700** no teclado da porta; venda na caixa amarela ({△}).\n- **Cap. 1 – Donnie** (depois de Coming Home): **paga mais que o Brian**. Trailer no meio de Key Lento, ao norte da Nifty Threads Island Wear; deixe a sacola na caixa verde no fundo do trailer e ele paga pelo correio. Passe o cursor no ícone dos dois no mapa para comparar o preço antes.\n- **Cap. 2 – Dunk:** trailer no meio de Port Gellhorn, perto da Freedom Tattoo. Deixe a mercadoria no porta-malas do carro dele; ele paga pelo BuckMe. Brian e Donnie somem no Cap. 2.",
+  "src": [
+   "GameSpot",
+   "IGN",
+   "PowerPyx"
+  ],
+  "kw": [
+   "fence",
+   "receptador",
+   "vender saque",
+   "joias",
+   "notas",
+   "drogas",
+   "narcoticos",
+   "yasmani",
+   "traficante"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Fences: where to sell each thing",
+   "sum": "Each one buys a type of goods and pays differently. With Ch. 1 and 2 addresses.",
+   "body": "- **Go back to a fence after every big robbery:** dying with the loot is expensive.\n- There are **7 fences**, unlocked through the story. Each specializes: narcotics, jewelry, marked bills or vehicles.\n- At first you deliver in person. Later they pick the goods up, for a fee. Garages have storage for goods waiting to be sold ([[compras-garagens]]).\n- Some fences disappear for good, but they don't count toward trophies or 100%.\n\n#### Who buys what\n- **Narcotics:** the dealers (Tyrone, Dunk, Donnie) pay almost immediately.\n- **Jewelry and marked bills:** **Yasmani** (Little Cuba, Vice City, Ch. 3) is the key one. Pays well for jewelry and the most for marked bills ([[dinheiro-notas]]).\n- **Cards and treasure:** any **pawn shop** (green scale icon). The closest in Chapter 1 is in south Hamlet. They also buy meteorites and doubloons from the seabed.\n- **Cars:** Moses, Pay 'n' Spray and Randy; see [[veiculos-venda]]. On the map, hover over Moses' shop to see what he'll pay for the car you're in and what registering it costs.\n\n#### Where to sell in Ch. 1 and 2 (IGN)\n- **Ch. 1 – Brian:** lockup at the southwest tip of Key Lento. Code **7700** on the door keypad; sell at the yellow crate ({△}).\n- **Ch. 1 – Donnie** (after Coming Home): **pays more than Brian**. Trailer in the middle of Key Lento, north of Nifty Threads Island Wear; leave the bag in the green crate at the back and he pays by mail. Hover over both icons on the map to compare prices first.\n- **Ch. 2 – Dunk:** trailer in the middle of Port Gellhorn, near Freedom Tattoo. Leave goods in his car's trunk; he pays through BuckMe. Brian and Donnie are gone in Chapter 2.",
+   "kw": [
+    "fence",
+    "sell loot",
+    "jewelry",
+    "bills",
+    "drugs",
+    "narcotics",
+    "yasmani",
+    "dealer"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "compras-prioridade",
+  "sec": "dinheiro",
+  "sub": "gastar",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c2",
+   "c3",
+   "c4"
+  ],
+  "title": "O que comprar em cada capítulo",
+  "sum": "Cap. 1: colete, silenciador e munição. Cap. 2: 1 carro registrado e Scooter Bros. O resto espera.",
+  "body": "- **Cap. 1:** compre só o que protege você e deposite todo o resto. O porquê do colete e do silenciador: [[armas-silenciador]].\n- **Início do Cap. 2:** o dinheiro some ([[dinheiro-reset]]). Não compre nada até bater as metas de [[dinheiro-objetivos]].\n- **Do Cap. 4 em diante**, com os cofres rendendo, cosméticos e garagens de Vice City à vontade.\n- As linhas “Evitar” valem principalmente para os Caps. 1 e 2.",
+  "table": {
+   "cols": [
+    "Quando",
+    "Item",
+    "Preço",
+    "Nota"
+   ],
+   "rows": [
+    [
+     "Cap. 1",
+     "Colete (Ammu-Nation de Key Lento)",
+     "Não confirmado, barato",
+     "Primeira compra"
+    ],
+    [
+     "Cap. 1",
+     "Silenciador",
+     "“Barato” (GameSpot)",
+     "—"
+    ],
+    [
+     "Cap. 1",
+     "Munição; uma arma básica só se não achar de graça",
+     "Baixo",
+     "Não compre arma que dá para pegar de graça: [[armas-gratis]]"
+    ],
+    [
+     "Cap. 1",
+     "2 ou 3 trocas de roupa baratas",
+     "Baixo",
+     "Para despistar a polícia"
+    ],
+    [
+     "Cap. 1",
+     "Colar Tomás da Lucia (opcional)",
+     "US$ 475 (um walkthrough citava ~US$ 425)",
+     "Só até Clear Skies: [[perdiveis-lista]]"
+    ],
+    [
+     "Início do Cap. 2",
+     "Nada",
+     "—",
+     "Junte o necessário com lojas e pedestres e deposite a cada golpe"
+    ],
+    [
+     "Fim do Cap. 2",
+     "Registro de **um** carro de fuga barato e discreto (veja no Waink)",
+     "Não confirmado",
+     "Com o Moses liberado. Venda os outros e use a garagem grátis: [[veiculos-registro]]"
+    ],
+    [
+     "Fim do Cap. 2",
+     "Scooter Bros Premium",
+     "Veja [[compras-scooter]]",
+     "Quando tiver de US$ 15 mil a 20 mil no banco"
+    ],
+    [
+     "Se faltar vaga",
+     "Garagem mais barata",
+     "Veja [[compras-garagens]]",
+     "Libera no Cap. 2, depois de Daily Driver"
+    ],
+    [
+     "Cap. 3",
+     "Melhorias de oficina no carro que você vai manter",
+     "Caros, não confirmados",
+     "Liberam nos Caps. 2 e 3, mas podem esperar até aqui"
+    ],
+    [
+     "Cap. 3",
+     "Uma arma melhor (fuzis e armas avançadas)",
+     "Variável",
+     "Liberam conforme a história. É também a hora das entregas do Randy: [[veiculos-randy]]"
+    ],
+    [
+     "Cap. 4",
+     "Dicas de carro-forte do Yasmani",
+     "US$ 10.000",
+     "Abrem os cofres de banco: [[dinheiro-cofres]]"
+    ],
+    [
+     "Pode esperar",
+     "Roupas caras, salão e tatuagens",
+     "Variável",
+     "Existem desde o início; deixe para o Cap. 4"
+    ],
+    [
+     "Pode esperar",
+     "Garagens de Vice City",
+     "Veja [[compras-garagens]]",
+     "Liberam no Cap. 3; deixe para o Cap. 4"
+    ],
+    [
+     "Evitar",
+     "Poupança BuckMe além do que a missão pede",
+     "—",
+     "Não permite saque. Única exceção: o excedente logo antes de Tourist Trap, no plano de [[dinheiro-reset]]"
+    ],
+    [
+     "Evitar",
+     "Carro de luxo registrado",
+     "Alto",
+     "Ocupa vaga, o registro é caro e ele costuma ter rastreador. Carro bom é para **vender**"
+    ],
+    [
+     "Evitar",
+     "Andar com muito dinheiro vivo",
+     "—",
+     "Some se você morrer ou for preso: [[dinheiro-bolsos]]"
+    ],
+    [
+     "Evitar",
+     "Bater o carro à toa",
+     "~US$ 250 por conserto",
+     "No Cap. 1 esse conserto pesa, e carro batido vale menos. Dirija com cuidado"
+    ],
+    [
+     "Evitar",
+     "Garagem cara antes da hora e cosmético de luxo antes de Tourist Trap (a virada de ~30%)",
+     "Alto",
+     "O dinheiro some na virada: [[dinheiro-reset]]"
+    ],
+    [
+     "Evitar",
+     "Sites que vendem “dinheiro de GTA 6”",
+     "—",
+     "Golpe"
+    ]
+   ],
+   "sort": false
+  },
+  "src": [
+   "GameSpot",
+   "Press Start",
+   "PowerPyx",
+   "games.gg (CN)",
+   "Inven (KR)"
+  ],
+  "kw": [
+   "comprar",
+   "prioridade",
+   "gastar",
+   "o que comprar primeiro",
+   "vale a pena",
+   "ordem",
+   "primeira compra",
+   "erros",
+   "nao comprar",
+   "desperdicio",
+   "evitar"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "What to buy in each chapter",
+   "sum": "Ch. 1: armor, suppressor and ammo. Ch. 2: 1 registered car and Scooter Bros. The rest can wait.",
+   "body": "- **Ch. 1:** buy only what protects you and deposit everything else. Why armor and a suppressor: [[armas-silenciador]].\n- **Start of Ch. 2:** the money is gone ([[dinheiro-reset]]). Buy nothing until you hit the goals in [[dinheiro-objetivos]].\n- **From Ch. 4 on**, with the vaults paying, cosmetics and Vice City garages as you like.\n- The “Avoid” rows apply mostly to Ch. 1 and 2.",
+   "table": {
+    "cols": [
+     "When",
+     "Item",
+     "Price",
+     "Note"
+    ],
+    "rows": [
+     [
+      "Ch. 1",
+      "Body armor (Key Lento Ammu-Nation)",
+      "Unconfirmed, cheap",
+      "First purchase"
+     ],
+     [
+      "Ch. 1",
+      "Suppressor",
+      "“Cheap” (GameSpot)",
+      "—"
+     ],
+     [
+      "Ch. 1",
+      "Ammo; a basic gun only if you can't find one free",
+      "Low",
+      "Don't buy a gun you can get for free: [[armas-gratis]]"
+     ],
+     [
+      "Ch. 1",
+      "2 or 3 cheap outfit changes",
+      "Low",
+      "To shake the police"
+     ],
+     [
+      "Ch. 1",
+      "Lucia's Tomás necklace (optional)",
+      "$475 (one walkthrough cited ~$425)",
+      "Only until Clear Skies: [[perdiveis-lista]]"
+     ],
+     [
+      "Start of Ch. 2",
+      "Nothing",
+      "—",
+      "Build what you need with stores and pedestrians and deposit after every job"
+     ],
+     [
+      "End of Ch. 2",
+      "Registering **one** cheap, low-key getaway car (check in WAiNK)",
+      "Unconfirmed",
+      "Once Moses is unlocked. Sell the others and use the free garage: [[veiculos-registro]]"
+     ],
+     [
+      "End of Ch. 2",
+      "Scooter Bros Premium",
+      "See [[compras-scooter]]",
+      "Once you have $15–20k in the bank"
+     ],
+     [
+      "If you run out of slots",
+      "Cheapest garage",
+      "See [[compras-garagens]]",
+      "Unlocks in Ch. 2, after Daily Driver"
+     ],
+     [
+      "Ch. 3",
+      "Mod shop upgrades on your long-term car",
+      "Expensive, unconfirmed",
+      "Unlock in Ch. 2 and 3, but can wait until here"
+     ],
+     [
+      "Ch. 3",
+      "A better gun (rifles and advanced weapons)",
+      "Varies",
+      "Unlock as the story goes. Also the time for Randy's deliveries: [[veiculos-randy]]"
+     ],
+     [
+      "Ch. 4",
+      "Yasmani's armored-truck tips",
+      "$10,000",
+      "They open the bank vaults: [[dinheiro-cofres]]"
+     ],
+     [
+      "Can wait",
+      "Expensive clothes, salon and tattoos",
+      "Varies",
+      "Available from the start; leave them for Ch. 4"
+     ],
+     [
+      "Can wait",
+      "Vice City garages",
+      "See [[compras-garagens]]",
+      "Unlock in Ch. 3; leave them for Ch. 4"
+     ],
+     [
+      "Avoid",
+      "BuckMe savings beyond what the mission asks",
+      "—",
+      "No withdrawals. Only exception: the surplus right before Tourist Trap, in the [[dinheiro-reset]] plan"
+     ],
+     [
+      "Avoid",
+      "Registered luxury car",
+      "High",
+      "Takes a slot, registration is expensive and it usually has a tracker. Good cars are for **selling**"
+     ],
+     [
+      "Avoid",
+      "Carrying lots of pocket cash",
+      "—",
+      "Gone if you die or get busted: [[dinheiro-bolsos]]"
+     ],
+     [
+      "Avoid",
+      "Wrecking your car for nothing",
+      "~$250 per repair",
+      "In Ch. 1 that repair hurts, and damaged cars sell for less. Drive carefully"
+     ],
+     [
+      "Avoid",
+      "An expensive garage too early and luxury cosmetics before Tourist Trap (the ~30% turn)",
+      "High",
+      "The money is gone at the turn: [[dinheiro-reset]]"
+     ],
+     [
+      "Avoid",
+      "Sites selling “GTA 6 money”",
+      "—",
+      "A scam"
+     ]
+    ],
+    "sort": false
+   },
+   "kw": [
+    "buy",
+    "priority",
+    "spend",
+    "what to buy first",
+    "worth it",
+    "order",
+    "first purchase",
+    "mistakes",
+    "don't buy",
+    "waste",
+    "avoid"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "dinheiro-fontes",
+  "sec": "dinheiro",
+  "sub": "ref",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Todas as formas de ganhar dinheiro",
+  "sum": "Quantos alvos existem, quando liberam e quanto pagam.",
+  "body": "Valores sem fonte pós-lançamento ficaram de fora. O mapa mostra a estimativa de cada roubo. Lista banco a banco: [[dinheiro-alvos]]. Em que ordem atacar: [[dinheiro-fases]].",
+  "table": {
+   "cols": [
+    "Fonte",
+    "Quantidade",
+    "Libera",
+    "Quanto paga"
+   ],
+   "rows": [
+    [
+     "Stick-ups (lojas, fast food, bebidas)",
+     "91 (PowerPyx); a meta de 100% da IGN pede 100",
+     "Desde o início",
+     "Alguns milhares {{previa}}; o mapa mostra a estimativa"
+    ],
+    [
+     "Casas de penhor (pawn shops) e joalherias (Smash 'n' Grab)",
+     "34 (IGN); a PowerPyx conta 35",
+     "Casas de penhor no Cap. 2; joalherias no Cap. 3",
+     "Joalheria cara: US$ 9–25 mil; barata: US$ 1–25 mil; pawn shop: US$ 1–12 mil (IGN), quase tudo em mercadoria para vender. O Gamersky fala em US$ 10 mil a 25 mil por joalheria"
+    ],
+    [
+     "Payday Loans",
+     "7",
+     "Credit Check (Cap. 3)",
+     "US$ 2 mil a 25 mil por loja (IGN)"
+    ],
+    [
+     "Bancos (gaveta e cofre pequeno)",
+     "22: 14 pequenos e 8 grandes",
+     "Credit Check (Cap. 3)",
+     "US$ 5 mil a 45 mil por agência (IGN)"
+    ],
+    [
+     "Cofres dos bancos grandes (caixa-forte)",
+     "8",
+     "That's Where The Money Is… (Cap. 4)",
+     "De US$ 65 mil a 205.000 por cofre (IGN); roteiro em [[dinheiro-cofres]]"
+    ],
+    [
+     "Illegal Operations",
+     "39, de 9 gangues",
+     "Explorando o mapa",
+     "Variável, mais Key Valuables. As 12 dos Caps. 1 e 2: de US$ 1,4 mil a 46 mil ([[dinheiro-illegal-ops]])"
+    ],
+    [
+     "Venda de carros",
+     "—",
+     "Moses (Cap. 2); Pay 'n' Spray e Randy (Cap. 3)",
+     "De ~US$ 1 mil a US$ 35 mil+ ([[veiculos-venda]])"
+    ],
+    [
+     "Mergulhos do Kenton",
+     "7 naufrágios",
+     "Island Dreams (Cap. 1)",
+     "Dezenas de milhares no total ([[colecao-kenton]])"
+    ],
+    [
+     "Caça (só o Jason)",
+     "—",
+     "Contato Bret Vogel",
+     "Renda secundária"
+    ],
+    [
+     "Flamingos de cocaína",
+     "125",
+     "—",
+     "Narcóticos dentro"
+    ],
+    [
+     "Caixas eletrônicos rebocáveis",
+     "167",
+     "Com picape com guincho",
+     "Não confirmado"
+    ],
+    [
+     "Pesca",
+     "—",
+     "—",
+     "Não rende: é pegar e soltar"
+    ]
+   ],
+   "sort": true
+  },
+  "src": [
+   "PowerPyx",
+   "GameSpot",
+   "Gamersky",
+   "Wccftech"
+  ],
+  "kw": [
+   "quanto paga",
+   "valores",
+   "renda",
+   "alvos",
+   "quantos bancos"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Every way to make money",
+   "sum": "How many targets there are, when they unlock and what they pay.",
+   "body": "Values without a post-launch source were left out. The map shows each robbery's estimate. Bank-by-bank list: [[dinheiro-alvos]]. What order to go in: [[dinheiro-fases]].",
+   "table": {
+    "cols": [
+     "Source",
+     "Count",
+     "Unlocks",
+     "Pays"
+    ],
+    "rows": [
+     [
+      "Stick-ups (stores, fast food, liquor)",
+      "91 (PowerPyx); IGN's 100% goal asks for 100",
+      "From the start",
+      "A few thousand {{previa}}; the map shows the estimate"
+     ],
+     [
+      "Pawn shops and jewelry stores (Smash 'n' Grab)",
+      "34 (IGN); PowerPyx counts 35",
+      "Pawn shops in Ch. 2; jewelry stores in Ch. 3",
+      "High-end jeweler: $9–25k; low-end: $1–25k; pawn shop: $1–12k (IGN), mostly in goods you fence. Gamersky says $10k–25k per jewelry store"
+     ],
+     [
+      "Payday Loans",
+      "7",
+      "Credit Check (Ch. 3)",
+      "$2k–25k per store (IGN)"
+     ],
+     [
+      "Banks (drawer and small safe)",
+      "22: 14 small and 8 big",
+      "Credit Check (Ch. 3)",
+      "$5k–45k per branch (IGN)"
+     ],
+     [
+      "Big bank vaults",
+      "8",
+      "That's Where The Money Is… (Ch. 4)",
+      "$65k to $205,000 per vault (IGN); routine in [[dinheiro-cofres]]"
+     ],
+     [
+      "Illegal Operations",
+      "39, from 9 gangs",
+      "Exploring the map",
+      "Varies, plus Key Valuables. The 12 from Ch. 1 and 2: $1.4k to $46k ([[dinheiro-illegal-ops]])"
+     ],
+     [
+      "Car sales",
+      "—",
+      "Moses (Ch. 2); Pay 'n' Spray and Randy (Ch. 3)",
+      "From ~$1k to $35k+ ([[veiculos-venda]])"
+     ],
+     [
+      "Kenton's dives",
+      "7 wrecks",
+      "Island Dreams (Ch. 1)",
+      "Tens of thousands in total ([[colecao-kenton]])"
+     ],
+     [
+      "Hunting (Jason only)",
+      "—",
+      "Contact Bret Vogel",
+      "Side income"
+     ],
+     [
+      "Cocaine flamingos",
+      "125",
+      "—",
+      "Narcotics inside"
+     ],
+     [
+      "Towable ATMs",
+      "167",
+      "With a tow pickup",
+      "Unconfirmed"
+     ],
+     [
+      "Fishing",
+      "—",
+      "—",
+      "Doesn't pay: catch and release"
+     ]
+    ],
+    "sort": true
+   },
+   "kw": [
+    "how much",
+    "values",
+    "income",
+    "targets",
+    "how many banks"
+   ]
+  }
+ }
+]

@@ -1,0 +1,2808 @@
+[
+ {
+  "kind": "meta",
+  "title": "Guia interativo de GTA VI",
+  "version": "3.0",
+  "baseline": "2026-11-19",
+  "updated": "2026-11-19",
+  "note": "Guia de fã sem spoilers da história, montado a partir das pesquisas do projeto GTA VI. Sem vínculo com a Rockstar Games.",
+  "en": {
+   "title": "Interactive GTA VI Guide",
+   "note": "Fan guide, spoiler-free outside the mission walkthroughs, built from the GTA VI project's research. Not affiliated with Rockstar Games."
+  },
+  "alias": {
+   "configuracoes": "inicio",
+   "compras": "dinheiro",
+   "missoes": "roteiro",
+   "config-desempenho": "inicio-status",
+   "inicio-fases": "dinheiro-fases",
+   "dinheiro-trava": "dinheiro-objetivos",
+   "roteiro-virada": "dinheiro-reset",
+   "policia-assalto": "dinheiro-rotina-roubo",
+   "compras-ordem": "compras-prioridade",
+   "compras-evitar": "compras-prioridade",
+   "policia-por-nivel": "policia-fuga-rotina",
+   "policia-erros": "policia-fuga-rotina",
+   "policia-gatilhos": "policia-evitar",
+   "policia-forcas": "policia-escala",
+   "compras-ammunation": "armas-personalizar",
+   "missoes-perdiveis": "perdiveis-lista",
+   "perdiveis-100": "colecao-100",
+   "dinheiro-metas": "colecao-100",
+   "armas-numeros": "colecao-100",
+   "mundo-mergulho": "colecao-kenton",
+   "inicio-leonida": "mundo-leonida",
+   "veteranos-dicas": "veteranos-habitos",
+   "config-nao-existe": "dinheiro-nao-existe",
+   "fontes-pesquisas": "fontes-principais"
+  },
+  "checkAlias": {
+   "policia-assalto:recon": "dinheiro-rotina-roubo:recon",
+   "policia-assalto:deposito": "dinheiro-rotina-roubo:deposito",
+   "policia-assalto:troca": "dinheiro-rotina-roubo:troca",
+   "policia-assalto:colete": "dinheiro-rotina-roubo:colete",
+   "policia-assalto:moto": "dinheiro-rotina-roubo:moto",
+   "policia-assalto:mascara": "dinheiro-rotina-roubo:mascara",
+   "policia-assalto:cameras": "dinheiro-rotina-roubo:cameras",
+   "policia-assalto:sair": "dinheiro-rotina-roubo:sair",
+   "policia-assalto:trocar": "dinheiro-rotina-roubo:fuga",
+   "policia-assalto:vender": "dinheiro-rotina-roubo:banco",
+   "perdiveis-lista:save": "perdiveis-saves:tourist"
+  }
+ },
+ {
+  "kind": "section",
+  "id": "inicio",
+  "grp": "Agora",
+  "icon": "star",
+  "title": "Comece aqui",
+  "intro": "O essencial antes e durante as primeiras horas, sem spoilers. O painel “Onde você está” diz o que fazer no seu capítulo; aqui ficam as regras, os ajustes e o que esperar.",
+  "subs": [
+   {
+    "id": "fazer",
+    "t": "Faça primeiro"
+   },
+   {
+    "id": "saber",
+    "t": "Bom saber"
+   },
+   {
+    "id": "jogo",
+    "t": "Sobre o jogo"
+   }
+  ],
+  "en": {
+   "grp": "Now",
+   "title": "Start here",
+   "intro": "The essentials before and during your first hours, spoiler-free. The “Where you are” panel tells you what to do in your chapter; here you get the rules, the settings and what to expect.",
+   "subs": [
+    {
+     "id": "fazer",
+     "t": "Do first"
+    },
+    {
+     "id": "saber",
+     "t": "Good to know"
+    },
+    {
+     "id": "jogo",
+     "t": "About the game"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "roteiro",
+  "grp": "Agora",
+  "icon": "route",
+  "title": "Capítulo a capítulo",
+  "intro": "Cada capítulo em dois cards: o resumo (o que libera e o que fazer antes de avançar) e a lista completa de missões para marcar, com o passo a passo. As listas de missões têm spoilers.",
+  "subs": [
+   {
+    "id": "c1",
+    "t": "Prólogo e Cap. 1"
+   },
+   {
+    "id": "c2",
+    "t": "Cap. 2"
+   },
+   {
+    "id": "c3",
+    "t": "Cap. 3"
+   },
+   {
+    "id": "c45",
+    "t": "Caps. 4 e 5"
+   },
+   {
+    "id": "pos",
+    "t": "Pós-história"
+   },
+   {
+    "id": "sf",
+    "t": "Strangers & Freaks"
+   },
+   {
+    "id": "consulta",
+    "t": "Consulta"
+   }
+  ],
+  "en": {
+   "grp": "Now",
+   "title": "Chapter by chapter",
+   "intro": "Each chapter in two cards: the summary (what unlocks and what to do before moving on) and the full mission checklist with walkthroughs. Mission lists contain spoilers.",
+   "subs": [
+    {
+     "id": "c1",
+     "t": "Prologue and Ch. 1"
+    },
+    {
+     "id": "c2",
+     "t": "Ch. 2"
+    },
+    {
+     "id": "c3",
+     "t": "Ch. 3"
+    },
+    {
+     "id": "c45",
+     "t": "Chs. 4 and 5"
+    },
+    {
+     "id": "pos",
+     "t": "Post-story"
+    },
+    {
+     "id": "sf",
+     "t": "Strangers & Freaks"
+    },
+    {
+     "id": "consulta",
+     "t": "Reference"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "dinheiro",
+  "grp": "Como fazer",
+  "icon": "cash",
+  "title": "Dinheiro e compras",
+  "intro": "Na ordem em que você precisa: o plano geral, como proteger o dinheiro na virada do Cap. 1, como roubar e vender, e no que gastar.",
+  "subs": [
+   {
+    "id": "plano",
+    "t": "Plano geral"
+   },
+   {
+    "id": "inicio",
+    "t": "Caps. 1 e 2: proteger"
+   },
+   {
+    "id": "roubar",
+    "t": "Roubar e vender"
+   },
+   {
+    "id": "gastar",
+    "t": "Gastar"
+   },
+   {
+    "id": "ref",
+    "t": "Referência"
+   }
+  ],
+  "en": {
+   "grp": "How to",
+   "title": "Money and purchases",
+   "intro": "In the order you need it: the overall plan, protecting your money at the Ch. 1 turning point, how to rob and sell, and what to spend on.",
+   "subs": [
+    {
+     "id": "plano",
+     "t": "Overall plan"
+    },
+    {
+     "id": "inicio",
+     "t": "Chs. 1 and 2: protect"
+    },
+    {
+     "id": "roubar",
+     "t": "Rob and sell"
+    },
+    {
+     "id": "gastar",
+     "t": "Spend"
+    },
+    {
+     "id": "ref",
+     "t": "Reference"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "policia",
+  "grp": "Como fazer",
+  "icon": "siren",
+  "title": "Polícia e fuga",
+  "intro": "Primeiro o que fazer com as estrelas na tela, depois como ler o que a polícia sabe e como não ser visto. O planejador de fuga no topo do guia resume a rotina.",
+  "subs": [
+   {
+    "id": "fugir",
+    "t": "Fugir agora"
+   },
+   {
+    "id": "ler",
+    "t": "Ler a tela"
+   },
+   {
+    "id": "antes",
+    "t": "Antes do crime"
+   },
+   {
+    "id": "errado",
+    "t": "Se der errado"
+   },
+   {
+    "id": "ref",
+    "t": "Referência"
+   }
+  ],
+  "en": {
+   "grp": "How to",
+   "title": "Police and escape",
+   "intro": "First what to do with stars on screen, then how to read what the police know and how to stay unseen. The escape planner at the top of the guide sums up the routine.",
+   "subs": [
+    {
+     "id": "fugir",
+     "t": "Escape now"
+    },
+    {
+     "id": "ler",
+     "t": "Read the screen"
+    },
+    {
+     "id": "antes",
+     "t": "Before the crime"
+    },
+    {
+     "id": "errado",
+     "t": "If it goes wrong"
+    },
+    {
+     "id": "ref",
+     "t": "Reference"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "veiculos",
+  "grp": "Como fazer",
+  "icon": "car",
+  "title": "Veículos e garagens",
+  "intro": "No fluxo de uso: escanear e roubar, vender, ficar com um carro (registro, garagem, Scooter Bros), escolher o veículo certo e manter.",
+  "subs": [
+   {
+    "id": "roubar",
+    "t": "Roubar"
+   },
+   {
+    "id": "vender",
+    "t": "Vender"
+   },
+   {
+    "id": "ficar",
+    "t": "Ficar com um carro"
+   },
+   {
+    "id": "escolher",
+    "t": "Escolher"
+   },
+   {
+    "id": "manter",
+    "t": "Manter"
+   }
+  ],
+  "en": {
+   "grp": "How to",
+   "title": "Vehicles and garages",
+   "intro": "In order of use: scan and steal, sell, keep a car (registration, garage, Scooter Bros), pick the right vehicle and maintain it.",
+   "subs": [
+    {
+     "id": "roubar",
+     "t": "Steal"
+    },
+    {
+     "id": "vender",
+     "t": "Sell"
+    },
+    {
+     "id": "ficar",
+     "t": "Keep a car"
+    },
+    {
+     "id": "escolher",
+     "t": "Choose"
+    },
+    {
+     "id": "manter",
+     "t": "Maintain"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "armas",
+  "grp": "Como fazer",
+  "icon": "target",
+  "title": "Armas",
+  "intro": "O que comprar no começo, o que você carrega e o que fica guardado, a Ammu-Nation e o combate. A tabela das armas únicas está em 100% e coleções.",
+  "subs": [
+   {
+    "id": "comeco",
+    "t": "No começo"
+   },
+   {
+    "id": "guardar",
+    "t": "Carregar e guardar"
+   },
+   {
+    "id": "loja",
+    "t": "Ammu-Nation"
+   },
+   {
+    "id": "combate",
+    "t": "Combate"
+   },
+   {
+    "id": "conseguir",
+    "t": "Conseguir mais"
+   }
+  ],
+  "en": {
+   "grp": "How to",
+   "title": "Weapons",
+   "intro": "What to buy early, what you carry and what stays stored, Ammu-Nation and combat. The unique weapons table lives in 100% and collections.",
+   "subs": [
+    {
+     "id": "comeco",
+     "t": "Early on"
+    },
+    {
+     "id": "guardar",
+     "t": "Carry and store"
+    },
+    {
+     "id": "loja",
+     "t": "Ammu-Nation"
+    },
+    {
+     "id": "combate",
+     "t": "Combat"
+    },
+    {
+     "id": "conseguir",
+     "t": "Get more"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "personagens",
+  "grp": "Como fazer",
+  "icon": "users",
+  "title": "Jason e Lucia",
+  "intro": "Troca de personagem e dupla, Perfil Criminal, relacionamento e atributos.",
+  "subs": [
+   {
+    "id": "troca",
+    "t": "Troca e dupla"
+   },
+   {
+    "id": "perfil",
+    "t": "Perfil Criminal"
+   },
+   {
+    "id": "relacao",
+    "t": "Relacionamento"
+   },
+   {
+    "id": "corpo",
+    "t": "Corpo e treino"
+   }
+  ],
+  "en": {
+   "grp": "How to",
+   "title": "Jason and Lucia",
+   "intro": "Character switching and the duo, Criminal Profile, relationship and stats.",
+   "subs": [
+    {
+     "id": "troca",
+     "t": "Switching and duo"
+    },
+    {
+     "id": "perfil",
+     "t": "Criminal Profile"
+    },
+    {
+     "id": "relacao",
+     "t": "Relationship"
+    },
+    {
+     "id": "corpo",
+     "t": "Body and training"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "perdiveis",
+  "grp": "Completar",
+  "icon": "shield",
+  "title": "Perdíveis e saves",
+  "intro": "O que some para sempre se você avançar a história, e o plano de saves que protege disso. Troféus e 100% ficam na seção seguinte.",
+  "subs": [
+   {
+    "id": "nao",
+    "t": "Não perca"
+   },
+   {
+    "id": "vale",
+    "t": "Vale fazer no Cap. 1"
+   }
+  ],
+  "en": {
+   "grp": "Complete",
+   "title": "Missables and saves",
+   "intro": "What is gone for good if you advance the story, and the save plan that protects you. Trophies and 100% are in the next section.",
+   "subs": [
+    {
+     "id": "nao",
+     "t": "Do not miss"
+    },
+    {
+     "id": "vale",
+     "t": "Worth doing in Ch. 1"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "colecao",
+  "grp": "Completar",
+  "icon": "trophy",
+  "title": "100%, troféus e coleções",
+  "intro": "Comece pelo índice do que conta para os 100%. Cada coleção é um card com checklist; abra só a que você está fazendo.",
+  "subs": [
+   {
+    "id": "geral",
+    "t": "Visão geral"
+   },
+   {
+    "id": "trofeus",
+    "t": "Troféus"
+   },
+   {
+    "id": "stunts",
+    "t": "Stunts e voo"
+   },
+   {
+    "id": "mapa",
+    "t": "Pelo mapa"
+   },
+   {
+    "id": "jogos",
+    "t": "Jogos"
+   },
+   {
+    "id": "cartas",
+    "t": "Cartas"
+   },
+   {
+    "id": "itens",
+    "t": "Armas e carros"
+   }
+  ],
+  "en": {
+   "grp": "Complete",
+   "title": "100%, trophies and collections",
+   "intro": "Start with the index of what counts toward 100%. Each collection is a card with a checklist; open only the one you are working on.",
+   "subs": [
+    {
+     "id": "geral",
+     "t": "Overview"
+    },
+    {
+     "id": "trofeus",
+     "t": "Trophies"
+    },
+    {
+     "id": "stunts",
+     "t": "Stunts and flying"
+    },
+    {
+     "id": "mapa",
+     "t": "Around the map"
+    },
+    {
+     "id": "jogos",
+     "t": "Games"
+    },
+    {
+     "id": "cartas",
+     "t": "Cards"
+    },
+    {
+     "id": "itens",
+     "t": "Weapons and cars"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "controles",
+  "grp": "Consulta",
+  "icon": "pad",
+  "title": "Controles e HUD",
+  "intro": "Botões, o que cada cor e ícone da tela quer dizer, e o celular. O botão PS/Xbox troca os ícones do guia inteiro.",
+  "subs": [
+   {
+    "id": "botoes",
+    "t": "Botões"
+   },
+   {
+    "id": "tela",
+    "t": "Ler a tela"
+   },
+   {
+    "id": "extras",
+    "t": "Extras"
+   }
+  ],
+  "en": {
+   "grp": "Reference",
+   "title": "Controls and HUD",
+   "intro": "Buttons, what each color and icon on screen means, and the phone. The PS/Xbox button swaps icons across the guide.",
+   "subs": [
+    {
+     "id": "botoes",
+     "t": "Buttons"
+    },
+    {
+     "id": "tela",
+     "t": "Read the screen"
+    },
+    {
+     "id": "extras",
+     "t": "Extras"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "mundo",
+  "grp": "Consulta",
+  "icon": "palm",
+  "title": "Mundo e atividades",
+  "intro": "O mapa de Leonida, como se deslocar e o que há para fazer fora das missões.",
+  "subs": [
+   {
+    "id": "mapa",
+    "t": "Andar pelo mapa"
+   },
+   {
+    "id": "fazer",
+    "t": "O que fazer"
+   }
+  ],
+  "en": {
+   "grp": "Reference",
+   "title": "World and activities",
+   "intro": "The map of Leonida, getting around and what there is to do outside missions.",
+   "subs": [
+    {
+     "id": "mapa",
+     "t": "Getting around"
+    },
+    {
+     "id": "fazer",
+     "t": "Things to do"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "veteranos",
+  "grp": "Consulta",
+  "icon": "rewind",
+  "title": "Vindo do GTA V",
+  "intro": "O que mudou, o que não existe mais e as referências para quem joga a série há tempos.",
+  "subs": [
+   {
+    "id": "mudou",
+    "t": "O que mudou"
+   },
+   {
+    "id": "falta",
+    "t": "O que não existe"
+   },
+   {
+    "id": "extras",
+    "t": "Curiosidades"
+   }
+  ],
+  "en": {
+   "grp": "Reference",
+   "title": "Coming from GTA V",
+   "intro": "What changed, what no longer exists and the references for long-time players.",
+   "subs": [
+    {
+     "id": "mudou",
+     "t": "What changed"
+    },
+    {
+     "id": "falta",
+     "t": "What does not exist"
+    },
+    {
+     "id": "extras",
+     "t": "Trivia"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "section",
+  "id": "glossario",
+  "grp": "Consulta",
+  "icon": "book",
+  "title": "Glossário",
+  "intro": "Termos, apps e contatos que aparecem no guia. Toque num termo sublinhado em qualquer card para ver a definição.",
+  "en": {
+   "grp": "Reference",
+   "title": "Glossary",
+   "intro": "Terms, apps and contacts used in the guide. Tap an underlined term on any card to see its definition."
+  }
+ },
+ {
+  "kind": "section",
+  "id": "fontes",
+  "grp": "Consulta",
+  "icon": "shield",
+  "title": "Fontes e confiabilidade",
+  "intro": "Como ler os selos de confiança, onde as fontes discordam, o que ainda é rumor e de onde vem cada informação.",
+  "subs": [
+   {
+    "id": "ler",
+    "t": "Como confiar"
+   },
+   {
+    "id": "links",
+    "t": "De onde vem"
+   }
+  ],
+  "en": {
+   "grp": "Reference",
+   "title": "Sources and reliability",
+   "intro": "How to read the confidence badges, where sources disagree, what is still rumor and where each piece of information comes from.",
+   "subs": [
+    {
+     "id": "ler",
+     "t": "How to trust"
+    },
+    {
+     "id": "links",
+     "t": "Where it comes from"
+    }
+   ]
+  }
+ },
+ {
+  "kind": "stage",
+  "id": "pre",
+  "label": "Antes de jogar",
+  "short": "Antes",
+  "agora": [
+   {
+    "id": "menu",
+    "t": "Ajustar mira, notificações de HUD e câmeras cinematográficas ([[config-recomendada]])"
+   },
+   {
+    "id": "tv",
+    "t": "Modo Jogo ligado na TV e HDR calibrado no console"
+   },
+   {
+    "id": "regras",
+    "t": "Ler as [[inicio-regras|10 regras de ouro]]"
+   }
+  ],
+  "libera": [
+   "O jogo libera à 0h de 19/11 no horário de Brasília"
+  ],
+  "evite": [
+   "Sites que vendem dinheiro de GTA 6",
+   "Guias de pré-lançamento com bolsa de valores, negócios ou valores inventados"
+  ],
+  "proximo": "Prólogo: tutorial guiado, sem save manual.",
+  "en": {
+   "label": "Before playing",
+   "short": "Before",
+   "agora": [
+    {
+     "id": "menu",
+     "t": "Adjust aim assist, HUD notifications and cinematic cameras ([[config-recomendada]])"
+    },
+    {
+     "id": "tv",
+     "t": "Game Mode on the TV and HDR calibrated on the console"
+    },
+    {
+     "id": "regras",
+     "t": "Read the [[inicio-regras|10 golden rules]]"
+    }
+   ],
+   "libera": [
+    "The game unlocks at midnight local time on 11/19 (0h Brasília time)"
+   ],
+   "evite": [
+    "Sites selling GTA 6 money",
+    "Pre-launch guides with a stock market, businesses or made-up values"
+   ],
+   "proximo": "Prologue: a guided tutorial with no manual saves."
+  }
+ },
+ {
+  "kind": "stage",
+  "id": "p",
+  "label": "Prólogo",
+  "short": "Prólogo",
+  "agora": [
+   {
+    "id": "direto",
+    "t": "Jogar direto: a fuga da polícia é roteirizada"
+   },
+   {
+    "id": "social",
+    "t": "Aprender o foco social ({L2}) e a ameaça ({L2} + {□})"
+   }
+  ],
+  "libera": [
+   "Depois de Gone Fishing: mundo aberto e save manual"
+  ],
+  "evite": [
+   "Perder tempo tentando escapar da polícia no Prólogo"
+  ],
+  "proximo": "Capítulo 1: faça o save “Início Cap. 1” logo depois de Gone Fishing.",
+  "en": {
+   "label": "Prologue",
+   "short": "Prologue",
+   "agora": [
+    {
+     "id": "direto",
+     "t": "Play straight through: the police chase is scripted"
+    },
+    {
+     "id": "social",
+     "t": "Learn social focus ({L2}) and threatening ({L2} + {□})"
+    }
+   ],
+   "libera": [
+    "After Gone Fishing: open world and manual saves"
+   ],
+   "evite": [
+    "Wasting time trying to escape the police in the Prologue"
+   ],
+   "proximo": "Chapter 1: make a “Start Ch. 1” save right after Gone Fishing."
+  }
+ },
+ {
+  "kind": "stage",
+  "id": "c1",
+  "label": "Capítulo 1",
+  "short": "Cap. 1",
+  "agora": [
+   {
+    "id": "save1",
+    "t": "Save manual “Início Cap. 1” no slot 1"
+   },
+   {
+    "id": "gearup",
+    "t": "Gear Up: escolher a escopeta e gastar o resto em colete e munição"
+   },
+   {
+    "id": "silenc",
+    "t": "Comprar um silenciador e guardar uma muda de roupa no porta-malas"
+   },
+   {
+    "id": "shirley",
+    "t": "Fazer “Get Shirley's Rum” e “Steal the Scooter” (perdíveis)"
+   },
+   {
+    "id": "medita",
+    "t": "Depois de “Down to Earth”: meditar com a Lucia de manhã"
+   },
+   {
+    "id": "kenton",
+    "t": "Island Dreams: começar os mergulhos do Kenton"
+   },
+   {
+    "id": "scan",
+    "t": "Escanear carros com o Waink e estudar animais com os binóculos"
+   },
+   {
+    "id": "focus",
+    "t": "Pesca, sinuca e academia entre missões"
+   },
+   {
+    "id": "enduro",
+    "t": "Ultimate: usar a Dinka Enduro e o caiaque enquanto existem"
+   },
+   {
+    "id": "deposito",
+    "t": "Depositar todo o dinheiro vivo"
+   },
+   {
+    "id": "save2",
+    "t": "Save manual “Antes de Tourist Trap”"
+   }
+  ],
+  "libera": [
+   "Ammu-Nation (Gear Up)",
+   "Conta BuckMe e app RydeMe (Buck Me)",
+   "Linha do Kenton (Island Dreams)",
+   "Waink, automático"
+  ],
+  "evite": [
+   "Pôr na poupança mais do que a missão exige",
+   "Contar com carro roubado: no Cap. 1 ele não fica com você e não pode ser vendido",
+   "Bater o carro (um conserto de ~US$ 250 pesa)",
+   "Gastar em cosméticos ou garagens"
+  ],
+  "proximo": "A virada de ~30%: veja [[dinheiro-reset|o plano para proteger o dinheiro]].",
+  "en": {
+   "label": "Chapter 1",
+   "short": "Ch. 1",
+   "agora": [
+    {
+     "id": "save1",
+     "t": "Manual save “Start Ch. 1” in slot 1"
+    },
+    {
+     "id": "gearup",
+     "t": "Gear Up: pick the shotgun and spend the rest on armor and ammo"
+    },
+    {
+     "id": "silenc",
+     "t": "Buy a suppressor and keep a spare outfit in the trunk"
+    },
+    {
+     "id": "shirley",
+     "t": "Do “Get Shirley's Rum” and “Steal the Scooter” (missable)"
+    },
+    {
+     "id": "medita",
+     "t": "After “Down to Earth”: meditate with Lucia in the morning"
+    },
+    {
+     "id": "kenton",
+     "t": "Island Dreams: start Kenton's dives"
+    },
+    {
+     "id": "scan",
+     "t": "Scan cars with WAiNK and study animals with the binoculars"
+    },
+    {
+     "id": "focus",
+     "t": "Fishing, pool and the gym between missions"
+    },
+    {
+     "id": "enduro",
+     "t": "Ultimate: use the Dinka Enduro and the kayak while you have them"
+    },
+    {
+     "id": "deposito",
+     "t": "Deposit all your pocket cash"
+    },
+    {
+     "id": "save2",
+     "t": "Manual save “Before Tourist Trap”"
+    }
+   ],
+   "libera": [
+    "Ammu-Nation (Gear Up)",
+    "BuckMe account and RydeMe app (Buck Me)",
+    "Kenton's questline (Island Dreams)",
+    "WAiNK, automatic"
+   ],
+   "evite": [
+    "Putting more into savings than the mission asks",
+    "Counting on a stolen car: in Ch. 1 you can't keep or sell it",
+    "Wrecking your car (a ~$250 repair hurts)",
+    "Spending on cosmetics or garages"
+   ],
+   "proximo": "The ~30% turn: see [[dinheiro-reset|the plan to protect your money]]."
+  }
+ },
+ {
+  "kind": "stage",
+  "id": "c2",
+  "label": "Capítulo 2",
+  "short": "Cap. 2",
+  "agora": [
+   {
+    "id": "milhares",
+    "t": "Juntar alguns milhares: lojas de ícone verde, pedestres e, quando abrir, carros ao Moses"
+   },
+   {
+    "id": "arma",
+    "t": "Opcional “Pick Up A Gun”"
+   },
+   {
+    "id": "registro",
+    "t": "Registrar um carro barato e discreto (moto esportiva ou SUV)"
+   },
+   {
+    "id": "garagem",
+    "t": "Usar a garagem grátis de Port Gellhorn (Daily Driver)"
+   },
+   {
+    "id": "troca",
+    "t": "Coffee Break: liberar a troca livre entre Jason e Lucia"
+   },
+   {
+    "id": "scooter",
+    "t": "Scooter Bros Premium com uns US$ 15 a 20 mil no banco"
+   },
+   {
+    "id": "boliche",
+    "t": "Opcional “Hit Kingpin Bowling”: escopeta única"
+   },
+   {
+    "id": "save",
+    "t": "Save manual “Fim Cap. 2”"
+   }
+  ],
+  "libera": [
+   "Slim Jim, venda ao Moses e app Scooter Bros (missão Moses)",
+   "Garagens à venda (Daily Driver)",
+   "Troca livre e casas de penhor (pawn shops) (Coffee Break)",
+   "Ultimate: Klose K17, revólveres Morgan, Dominator Buggy e Paradise Garage"
+  ],
+  "evite": [
+   "Ficar repetindo roubos pequenos só para juntar dinheiro: o Cap. 3 paga muito mais",
+   "Levar ao Moses carro com rastreador",
+   "Garagens caras"
+  ],
+  "proximo": "Capítulo 3: Yasmani, Dye Pack Jammer, Key Cloner e Randy.",
+  "en": {
+   "label": "Chapter 2",
+   "short": "Ch. 2",
+   "agora": [
+    {
+     "id": "milhares",
+     "t": "Build up a few thousand: green-icon stores, pedestrians and, once it opens, cars for Moses"
+    },
+    {
+     "id": "arma",
+     "t": "Optional “Pick Up A Gun”"
+    },
+    {
+     "id": "registro",
+     "t": "Register a cheap, low-key vehicle (sport bike or SUV)"
+    },
+    {
+     "id": "garagem",
+     "t": "Use the free Port Gellhorn garage (Daily Driver)"
+    },
+    {
+     "id": "troca",
+     "t": "Coffee Break: unlock free switching between Jason and Lucia"
+    },
+    {
+     "id": "scooter",
+     "t": "Scooter Bros Premium once you have $15–20k in the bank"
+    },
+    {
+     "id": "boliche",
+     "t": "Optional “Hit Kingpin Bowling”: unique shotgun"
+    },
+    {
+     "id": "save",
+     "t": "Manual save “End Ch. 2”"
+    }
+   ],
+   "libera": [
+    "Slim Jim, selling to Moses and the Scooter Bros app (Moses mission)",
+    "Garages for sale (Daily Driver)",
+    "Free switching and pawn shops (Coffee Break)",
+    "Ultimate: Klose K17, Morgan revolvers, Dominator Buggy and Paradise Garage"
+   ],
+   "evite": [
+    "Grinding: Ch. 3 pays far more",
+    "Taking a tracked car to Moses",
+    "Expensive garages"
+   ],
+   "proximo": "Chapter 3: Yasmani, Dye Pack Jammer, Key Cloner and Randy."
+  }
+ },
+ {
+  "kind": "stage",
+  "id": "c3",
+  "label": "Capítulo 3",
+  "short": "Cap. 3",
+  "agora": [
+   {
+    "id": "joias",
+    "t": "Yasmani's Jewelry Jobs: US$ 20.000, joalherias e Snap Gun"
+   },
+   {
+    "id": "credit",
+    "t": "Credit Check: pegar o Dye Pack Jammer"
+   },
+   {
+    "id": "payday",
+    "t": "Payday Loans e bancos pequenos com o Jammer"
+   },
+   {
+    "id": "randy",
+    "t": "Clonin' Keys, Makin' GS: Key Cloner e lista do Randy"
+   },
+   {
+    "id": "gangues",
+    "t": "Illegal Operations: entregar drogas para os traficantes"
+   },
+   {
+    "id": "yasmani2",
+    "t": "Fazer os 2 Payday Loans que o Yasmani pede"
+   },
+   {
+    "id": "yago",
+    "t": "Race Against Yago (ampulheta) assim que aparecer"
+   },
+   {
+    "id": "upgrade",
+    "t": "Gastar com melhorias de oficina só no carro que você vai manter"
+   }
+  ],
+  "libera": [
+   "Joalherias e Snap Gun",
+   "Dye Pack Jammer",
+   "Key Cloner e lista do Randy",
+   "Pay 'n' Spray compra carros com rastreador padrão"
+  ],
+  "evite": [
+   "Roubar banco ou Payday Loan sem o Dye Pack Jammer",
+   "Entregar carro batido ao Randy"
+  ],
+  "proximo": "Capítulo 4: That's Where The Money Is… e os cofres.",
+  "en": {
+   "label": "Chapter 3",
+   "short": "Ch. 3",
+   "agora": [
+    {
+     "id": "joias",
+     "t": "Yasmani's Jewelry Jobs: $20,000, jewelry stores and the Snap Gun"
+    },
+    {
+     "id": "credit",
+     "t": "Credit Check: get the Dye Pack Jammer"
+    },
+    {
+     "id": "payday",
+     "t": "Payday Loans and small banks with the Jammer"
+    },
+    {
+     "id": "randy",
+     "t": "Clonin' Keys, Makin' GS: Key Cloner and Randy's Wish List"
+    },
+    {
+     "id": "gangues",
+     "t": "Illegal Operations: narcotics for the dealers"
+    },
+    {
+     "id": "yasmani2",
+     "t": "Do the 2 Payday Loans Yasmani asks for"
+    },
+    {
+     "id": "yago",
+     "t": "Race Against Yago (hourglass) as soon as it shows up"
+    },
+    {
+     "id": "upgrade",
+     "t": "Upgrades only on your long-term car"
+    }
+   ],
+   "libera": [
+    "Jewelry stores and Snap Gun",
+    "Dye Pack Jammer",
+    "Key Cloner and Randy's Wish List",
+    "Pay 'n' Spray buys cars with standard trackers"
+   ],
+   "evite": [
+    "Robbing a bank or Payday Loan without the Dye Pack Jammer",
+    "Delivering a damaged car to Randy"
+   ],
+   "proximo": "Chapter 4: That's Where The Money Is… and the vaults."
+  }
+ },
+ {
+  "kind": "stage",
+  "id": "c4",
+  "label": "Capítulo 4+",
+  "short": "Cap. 4+",
+  "agora": [
+   {
+    "id": "cafe",
+    "t": "Fazer “That's Where The Money Is…” assim que aparecer"
+   },
+   {
+    "id": "dicas",
+    "t": "Comprar as dicas de carro-forte do Yasmani (US$ 10.000)"
+   },
+   {
+    "id": "cofre",
+    "t": "Cofres com o parceiro e uma moto rápida para a fuga"
+   },
+   {
+    "id": "vender",
+    "t": "Vender as notas ao Yasmani e depositar"
+   },
+   {
+    "id": "lucia",
+    "t": "Missão com ampulheta da Lucia (Cap. 4) quando aparecer"
+   }
+  ],
+  "libera": [
+   "Cofres dos 8 bancos grandes",
+   "Carros-fortes marcados em roxo",
+   "Ultimate: lancha Shitzu Squalo (Cap. 4) e Grotti Cheetah (Cap. 5)"
+  ],
+  "evite": [
+   "Entrar no cofre sem moto rápida pronta",
+   "Fugir com 4 estrelas num carro identificado"
+  ],
+  "proximo": "Depois da história: códigos de trapaça (cheats), 100% e platina.",
+  "en": {
+   "label": "Chapter 4+",
+   "short": "Ch. 4+",
+   "agora": [
+    {
+     "id": "cafe",
+     "t": "Do “That's Where The Money Is…” as soon as it appears"
+    },
+    {
+     "id": "dicas",
+     "t": "Buy Yasmani's armored-truck tips ($10,000)"
+    },
+    {
+     "id": "cofre",
+     "t": "Vaults with your partner and a fast bike for the getaway"
+    },
+    {
+     "id": "vender",
+     "t": "Sell the bills to Yasmani and deposit"
+    },
+    {
+     "id": "lucia",
+     "t": "Lucia's hourglass mission (Ch. 4) when it shows up"
+    }
+   ],
+   "libera": [
+    "Vaults of the 8 big banks",
+    "Armored trucks marked in purple",
+    "Ultimate: Shitzu Squalo speedboat (Ch. 4) and Grotti Cheetah (Ch. 5)"
+   ],
+   "evite": [
+    "Entering a vault without a fast bike ready",
+    "Fleeing at 4 stars in an identified car"
+   ],
+   "proximo": "Post-story: cheats, 100% and the platinum."
+  }
+ },
+ {
+  "kind": "stage",
+  "id": "pos",
+  "label": "Pós-história",
+  "short": "Pós",
+  "agora": [
+   {
+    "id": "limpo",
+    "t": "Fazer um save separado, sem códigos, antes de testar cheats (códigos de trapaça)"
+   },
+   {
+    "id": "cem",
+    "t": "Completar os 100% no mundo aberto, fora das missões"
+   },
+   {
+    "id": "strangers",
+    "t": "Terminar as Strangers & Freaks que faltam"
+   }
+  ],
+  "libera": [
+   "Códigos de trapaça (cheats), incluindo um de US$ 250 mil"
+  ],
+  "evite": [
+   "Usar código de trapaça no save principal"
+  ],
+  "proximo": "",
+  "en": {
+   "label": "Post-story",
+   "short": "Post",
+   "agora": [
+    {
+     "id": "limpo",
+     "t": "Clean save before trying cheats"
+    },
+    {
+     "id": "cem",
+     "t": "Do the 100% in free roam"
+    },
+    {
+     "id": "strangers",
+     "t": "Finish the remaining Strangers & Freaks"
+    }
+   ],
+   "libera": [
+    "Cheats, including $250k"
+   ],
+   "evite": [
+    "Using cheats on your main save"
+   ],
+   "proximo": ""
+  }
+ },
+ {
+  "kind": "fuga",
+  "estados": [
+   {
+    "id": "vazadas",
+    "label": "Vazadas (só o contorno)",
+    "hint": "crime denunciado, sem descrição",
+    "passo": "Vá embora agora, a pé e com calma, sem arma na mão, antes de a viatura chegar."
+   },
+   {
+    "id": "vendo",
+    "label": "Brancas preenchidas",
+    "hint": "estão me vendo",
+    "passo": "Prioridade única: quebrar a linha de visão. Enquanto as estrelas estiverem sólidas, nada mais importa."
+   },
+   {
+    "id": "piscando",
+    "label": "Brancas piscando",
+    "hint": "me perderam de vista",
+    "passo": "Continue se afastando escondido. Navegue pelo Focus ({L3} + {R3}) e pela luz vermelha e azul na borda da tela, não pelo minimapa."
+   },
+   {
+    "id": "quente",
+    "label": "Vermelhas",
+    "hint": "área quente",
+    "passo": "A perseguição acabou, mas a área continua em alerta com a sua descrição. Limpe os ícones abaixo e fique longe."
+   }
+  ],
+  "niveis": [
+   {
+    "min": 1,
+    "max": 2,
+    "passo": "Tire a máscara, guarde a arma, pegue um carro velho e sem graça e dirija dentro da lei até sair da zona."
+   },
+   {
+    "min": 3,
+    "max": 3,
+    "passo": "Abandone o carro: siga a pé por becos ou de moto esportiva. Depois troque roupa e carro."
+   },
+   {
+    "min": 4,
+    "max": 5,
+    "passo": "Busque cobertura contra o helicóptero (túnel, garagem coberta, pátio ferroviário, edifício-garagem). Use fogo de supressão e troque de veículo longe das vias principais."
+   },
+   {
+    "min": 6,
+    "max": 6,
+    "passo": "Priorize sobreviver e sair da região: a busca cobre muito mais área. Conte com perder o dinheiro vivo se cair."
+   }
+  ],
+  "heat": [
+   {
+    "id": "cctv",
+    "label": "Câmera",
+    "passo": "Câmera: da próxima vez destrua as câmeras antes. Voltar para apagar a fita só com a área fria, porque a cena do crime é onde a polícia fica mais tempo."
+   },
+   {
+    "id": "dupla",
+    "label": "Dupla",
+    "passo": "Dupla: separe Jason e Lucia e reencontrem-se depois (−1 estrela, segundo a GTABase)."
+   },
+   {
+    "id": "roupa",
+    "label": "Roupa",
+    "passo": "Roupa: troque o visual completo, no porta-malas ou numa loja. Chapéu ou óculos não bastam."
+   },
+   {
+    "id": "rosto",
+    "label": "Rosto",
+    "passo": "Rosto: tire a máscara longe de testemunhas ou corte o cabelo num salão."
+   },
+   {
+    "id": "arma",
+    "label": "Arma",
+    "passo": "Arma: guarde ou descarte a arma que viram."
+   },
+   {
+    "id": "veiculo",
+    "label": "Veículo",
+    "passo": "Veículo: troque de carro sem ser visto, repinte na Pay 'n' Spray ou queime o carro. Não volte para ele."
+   }
+  ],
+  "contexto": [
+   {
+    "id": "carro",
+    "label": "Estou de carro",
+    "passo": ""
+   },
+   {
+    "id": "cidade",
+    "label": "Na cidade",
+    "passo": ""
+   },
+   {
+    "id": "rastreador",
+    "label": "Carro com rastreador",
+    "passo": "Rastreador: não pare nem ande devagar. Abandone longe de você ou leve direto à garagem ou à Pay 'n' Spray (rastreador amarelo, a partir do Cap. 3)."
+   },
+   {
+    "id": "heli",
+    "label": "Helicóptero na cola",
+    "passo": "Helicóptero: quebre a visão em túneis, garagens cobertas e pátios ferroviários. Contra 4 ou 5 estrelas, a PowerPyx indica o túnel de trem ao norte de Ambrosia."
+   },
+   {
+    "id": "k9",
+    "label": "Cães atrás de mim",
+    "passo": "Cães K9 seguem o cheiro mesmo com os ícones limpos: atravesse água para quebrar o rastro e fique contra o vento."
+   },
+   {
+    "id": "emdupla",
+    "label": "Estou em dupla",
+    "passo": "Em dupla: um dirige e o outro atira nos pneus. Separar confunde a polícia, mas se um dos dois for pego é prisão (“Busted”) para os dois."
+   },
+   {
+    "id": "saque",
+    "label": "Com saque ou dinheiro vivo",
+    "passo": "Você perde todo o dinheiro vivo e o saque se morrer ou for preso. Escapou? Receptador e caixa eletrônico antes de qualquer outra coisa."
+   }
+  ],
+  "carroCidade": "De carro na cidade com 3 estrelas ou mais, carro comum não basta: saia da rua e siga a pé pelos becos, ou use moto esportiva.",
+  "final": [
+   "Saia do círculo de busca e não volte à cena do crime.",
+   "Depois que esfriar: receptador e caixa eletrônico."
+  ],
+  "padrao": {
+   "estado": "vendo",
+   "nivel": 2,
+   "heat": [
+    "roupa",
+    "veiculo"
+   ],
+   "contexto": [
+    "carro",
+    "cidade"
+   ]
+  },
+  "en": {
+   "estados": [
+    {
+     "id": "vazadas",
+     "label": "Hollow",
+     "hint": "crime reported, no description",
+     "passo": "Leave now, on foot and calmly, gun away, before the patrol car arrives."
+    },
+    {
+     "id": "vendo",
+     "label": "Solid white",
+     "hint": "they can see me",
+     "passo": "One priority: break line of sight. While the stars are solid, nothing else matters."
+    },
+    {
+     "id": "piscando",
+     "label": "Flashing",
+     "hint": "they lost sight of me",
+     "passo": "Keep moving away out of sight. Navigate with Focus ({L3} + {R3}) and the red-and-blue glow at the screen edge, not the minimap."
+    },
+    {
+     "id": "quente",
+     "label": "Red",
+     "hint": "hot area",
+     "passo": "The chase is over, but the area is still on alert with your description. Clear the icons below and stay away."
+    }
+   ],
+   "niveis": [
+    {
+     "min": 1,
+     "max": 2,
+     "passo": "Take off the mask, put the gun away, grab an old boring car and drive legally out of the zone."
+    },
+    {
+     "min": 3,
+     "max": 3,
+     "passo": "Ditch the car: go on foot through alleys or on a sport bike. Then change outfit and car."
+    },
+    {
+     "min": 4,
+     "max": 5,
+     "passo": "Find cover from the helicopter (tunnel, covered garage, rail yard, parking structure). Use suppressing fire and swap vehicles away from main roads."
+    },
+    {
+     "min": 6,
+     "max": 6,
+     "passo": "Prioritize surviving and leaving the region: the search covers far more ground. Expect to lose your pocket cash if you go down."
+    }
+   ],
+   "heat": [
+    {
+     "id": "cctv",
+     "label": "Camera",
+     "passo": "Camera: next time destroy the cameras first. Only go back to wipe the tape once the area is cold, since the crime scene is where police stay longest."
+    },
+    {
+     "id": "dupla",
+     "label": "Duo",
+     "passo": "Duo: split Jason and Lucia up and regroup later (−1 star, per GTABase)."
+    },
+    {
+     "id": "roupa",
+     "label": "Outfit",
+     "passo": "Outfit: change the whole look, from the trunk or a store. A hat or glasses isn't enough."
+    },
+    {
+     "id": "rosto",
+     "label": "Face",
+     "passo": "Face: take the mask off away from witnesses, or get a haircut at a salon."
+    },
+    {
+     "id": "arma",
+     "label": "Weapon",
+     "passo": "Weapon: holster or ditch the gun they saw."
+    },
+    {
+     "id": "veiculo",
+     "label": "Vehicle",
+     "passo": "Vehicle: swap cars unseen, respray at a Pay 'n' Spray or burn it. Don't go back to it."
+    }
+   ],
+   "contexto": [
+    {
+     "id": "carro",
+     "label": "I'm in a car",
+     "passo": ""
+    },
+    {
+     "id": "cidade",
+     "label": "In the city",
+     "passo": ""
+    },
+    {
+     "id": "rastreador",
+     "label": "Car has a tracker",
+     "passo": "Tracker: don't stop or drive slowly. Ditch it far from you or take it straight to a garage or Pay 'n' Spray (yellow tracker, from Ch. 3)."
+    },
+    {
+     "id": "heli",
+     "label": "Helicopter on me",
+     "passo": "Helicopter: break sight in tunnels, covered garages and rail yards. Against 4 or 5 stars, PowerPyx points to the train tunnel north of Ambrosia."
+    },
+    {
+     "id": "k9",
+     "label": "Dogs after me",
+     "passo": "K9 dogs follow your scent even with the icons cleared: cross water to break the trail and stay downwind."
+    },
+    {
+     "id": "emdupla",
+     "label": "I'm with my partner",
+     "passo": "As a duo: one drives and the other shoots tires. Splitting confuses the police, but if either of you is caught, it's “Busted” for you."
+    },
+    {
+     "id": "saque",
+     "label": "Carrying loot or cash",
+     "passo": "You lose all pocket cash and loot if you die or get arrested. Got away? Fence and ATM before anything else."
+    }
+   ],
+   "carroCidade": "In a car in the city at 3+ stars, an ordinary car isn't enough: get off the street and go on foot through alleys, or use a sport bike.",
+   "final": [
+    "Leave the search circle and don't return to the crime scene.",
+    "Once it cools down: fence and ATM."
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "buckme",
+  "t": "BuckMe",
+  "d": "Banco do jogo. A conta corrente é compartilhada entre Jason e Lucia e é aberta na missão “Buck Me” (Cap. 1). Depósito só em caixa eletrônico ou agência.",
+  "match": [
+   "BuckMe",
+   "Buck Me"
+  ],
+  "aka": [
+   "banco",
+   "conta",
+   "saldo"
+  ],
+  "en": {
+   "t": "BuckMe",
+   "d": "The game's bank. The checking account is shared between Jason and Lucia and opened in “Buck Me” (Ch. 1). Deposits only at ATMs or branches.",
+   "match": [
+    "BuckMe",
+    "Buck Me"
+   ],
+   "aka": [
+    "bank",
+    "account",
+    "balance"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "save-future",
+  "t": "Save for the Future",
+  "d": "Poupança de longo prazo do BuckMe ligada a um objetivo. Não permite saque; metas de US$ 100 mil e depois US$ 500 mil. Colocar tudo nela já travou jogadores.",
+  "match": [
+   "Save for the Future"
+  ],
+  "aka": [
+   "poupança",
+   "poupanca",
+   "investimento"
+  ],
+  "en": {
+   "t": "Save for the Future",
+   "d": "BuckMe's long-term savings tied to a goal. No withdrawals; goals of $100k then $500k. Putting everything there has locked players out.",
+   "match": [
+    "Save for the Future",
+    "Family Savings"
+   ],
+   "aka": [
+    "savings"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "waink",
+  "t": "Waink",
+  "d": "App de scanner de carros: segure ↑ para abrir e R1 para escanear. Mostra valor, custo de registro, segurança, ferramenta necessária e rastreador.",
+  "match": [
+   "Waink",
+   "WAiNK",
+   "WAiNKar"
+  ],
+  "aka": [
+   "scanner",
+   "escanear"
+  ],
+  "en": {
+   "t": "WAiNK",
+   "d": "Car scanner app: hold ↑ to open and R1 to scan. Shows value, registration cost, security, tool needed and tracker.",
+   "match": [
+    "Waink",
+    "WAiNK",
+    "WAiNKar"
+   ],
+   "aka": [
+    "scanner",
+    "scan"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "rydeme",
+  "t": "RydeMe",
+  "d": "App de carona. Pular a corrida custa US$ 100 além da tarifa. É o mais perto de viagem rápida que existe.",
+  "match": [
+   "RydeMe"
+  ],
+  "aka": [
+   "viagem rápida",
+   "fast travel",
+   "uber",
+   "taxi"
+  ],
+  "en": {
+   "t": "RydeMe",
+   "d": "Ride app. Skipping a trip costs $100 on top of the fare. The closest thing to fast travel.",
+   "match": [
+    "RydeMe"
+   ],
+   "aka": [
+    "fast travel",
+    "uber",
+    "taxi"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "scooter",
+  "t": "Scooter Bros",
+  "d": "App que entrega seu carro registrado onde você estiver e recupera carro destruído ou apreendido. Premium: US$ 12.500, 3 entregas grátis por dia; incluso no GTA+.",
+  "match": [
+   "Scooter Bros"
+  ],
+  "aka": [
+   "entrega de carro"
+  ],
+  "en": {
+   "t": "Scooter Bros",
+   "d": "App that delivers your registered car wherever you are and recovers destroyed or impounded cars. Premium: $12,500, 3 free deliveries a day; included with GTA+.",
+   "match": [
+    "Scooter Bros"
+   ],
+   "aka": [
+    "car delivery"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "receptador",
+  "t": "Receptador (fence)",
+  "d": "Quem compra o saque: joias, notas marcadas, narcóticos ou veículos. São 7, cada um especializado, com preços diferentes.",
+  "match": [
+   "receptador",
+   "receptadores",
+   "fence",
+   "fences"
+  ],
+  "aka": [
+   "vender saque"
+  ],
+  "en": {
+   "t": "Fence",
+   "d": "Buys your loot: jewelry, marked bills, narcotics or vehicles. There are 7, each specialized, with different prices.",
+   "match": [
+    "fence",
+    "fences"
+   ],
+   "aka": [
+    "sell loot"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "heat",
+  "t": "Heat",
+  "d": "O que a polícia sabe sobre você: roupa, rosto, veículo, arma, dupla e câmera. Aparece em ícones sob as estrelas, e cada um se limpa separado.",
+  "match": [
+   "heat"
+  ],
+  "aka": [
+   "calor",
+   "descrição"
+  ],
+  "en": {
+   "t": "Heat",
+   "d": "What the police know about you: outfit, face, vehicle, weapon, duo and camera. Shown as icons under the stars, each cleared separately.",
+   "match": [
+    "heat"
+   ],
+   "aka": [
+    "description"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "area-quente",
+  "t": "Área quente",
+  "d": "Região que continua em alerta depois da perseguição. Lá dentro a sua descrição ainda vale; saia e não volte até esfriar.",
+  "match": [
+   "área quente"
+  ],
+  "aka": [
+   "heat area",
+   "zona quente"
+  ],
+  "en": {
+   "t": "Hot area",
+   "d": "An area still on alert after the chase. Inside it your description still applies; leave and don't return until it cools.",
+   "match": [
+    "hot area",
+    "heat area"
+   ],
+   "aka": [
+    "hot zone"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "vazada",
+  "t": "Estrela vazada",
+  "d": "Só o contorno da estrela: o crime foi denunciado, mas a polícia não tem a sua descrição. É a meta de um roubo bem feito.",
+  "match": [
+   "estrelas vazadas",
+   "estrela vazada"
+  ],
+  "aka": [
+   "estrela oca"
+  ],
+  "en": {
+   "t": "Hollow star",
+   "d": "Just the star's outline: the crime was reported, but police don't have your description. The goal of a clean robbery.",
+   "match": [
+    "hollow stars",
+    "hollow star"
+   ],
+   "aka": [
+    "outline star"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "focus",
+  "t": "Focus",
+  "d": "A barra roxa. Em exploração mostra policiais e encontros por perto; mirando, vira Combat Focus e desacelera o tempo. Ativa com L3 + R3.",
+  "match": [
+   "Combat Focus",
+   "Focus"
+  ],
+  "aka": [
+   "câmera lenta",
+   "dead eye"
+  ],
+  "en": {
+   "t": "Focus",
+   "d": "The purple bar. While exploring it shows nearby police and encounters; while aiming it becomes Combat Focus and slows time. L3 + R3.",
+   "match": [
+    "Combat Focus",
+    "Focus"
+   ],
+   "aka": [
+    "slow motion",
+    "dead eye"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "perfil",
+  "t": "Perfil Criminal",
+  "d": "Mede se você é um criminoso profissional ou violento: Profissional, Agressivo, Violento, Psicopata e Estilhaçado. Muda a agressividade da polícia; Estilhaçado é permanente.",
+  "match": [
+   "Perfil Criminal"
+  ],
+  "aka": [
+   "criminal profile",
+   "moral",
+   "honra",
+   "professional",
+   "psycho"
+  ],
+  "en": {
+   "t": "Criminal Profile",
+   "d": "Measures whether you're a professional or violent criminal: Professional, Hardened, Violent, Psycho and Irredeemable. Changes police aggression; Irredeemable is permanent.",
+   "match": [
+    "Criminal Profile"
+   ],
+   "aka": [
+    "morality",
+    "honor",
+    "professional",
+    "psycho"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "irredeemable",
+  "t": "Estilhaçado",
+  "d": "O estado “quebrado” do Perfil Criminal. Não volta naquele save, a polícia atira à primeira vista e não aceita rendição.",
+  "match": [
+   "Estilhaçado",
+   "Irredeemable"
+  ],
+  "aka": [
+   "quebrado",
+   "estilhaçado"
+  ],
+  "en": {
+   "t": "Irredeemable",
+   "d": "The “broken” Criminal Profile state. It doesn't come back on that save; police shoot on sight and don't accept surrender.",
+   "match": [
+    "Irredeemable"
+   ],
+   "aka": [
+    "broken"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "slimjim",
+  "t": "Slim Jim",
+  "d": "Ferramenta que abre carros sem disparar o alarme, num minijogo. Vem na missão “Moses” (Cap. 2) e vale para os dois personagens.",
+  "match": [
+   "Slim Jim"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Slim Jim",
+   "d": "Tool that opens cars without triggering the alarm, via a minigame. Comes in “Moses” (Ch. 2) and works for both characters.",
+   "match": [
+    "Slim Jim"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "keycloner",
+  "t": "Key Cloner",
+  "d": "Clonador de chaves para carros de luxo e sem chave. Vem em “Clonin' Keys, Makin' GS” (Cap. 3).",
+  "match": [
+   "Key Cloner",
+   "clonador de chaves"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Key Cloner",
+   "d": "Key cloner for luxury and keyless cars. Comes in “Clonin' Keys, Makin' GS” (Ch. 3).",
+   "match": [
+    "Key Cloner"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "snapgun",
+  "t": "Snap Gun",
+  "d": "Abre fechaduras de porta em silêncio. Vem com as missões do Yasmani (Cap. 3).",
+  "match": [
+   "Snap Gun"
+  ],
+  "aka": [
+   "gazua"
+  ],
+  "en": {
+   "t": "Snap Gun",
+   "d": "Opens door locks silently. Comes with Yasmani's missions (Ch. 3).",
+   "match": [
+    "Snap Gun"
+   ],
+   "aka": [
+    "lockpick"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "dyepack",
+  "t": "Dye Pack Jammer",
+  "d": "Impede que as notas marcadas de bancos e Payday Loans explodam em tinta. Missão “Credit Check” (Cap. 3).",
+  "match": [
+   "Dye Pack Jammer",
+   "dye pack"
+  ],
+  "aka": [
+   "tinta"
+  ],
+  "en": {
+   "t": "Dye Pack Jammer",
+   "d": "Stops marked bills from banks and Payday Loans from bursting in dye. “Credit Check” (Ch. 3).",
+   "match": [
+    "Dye Pack Jammer",
+    "dye pack"
+   ],
+   "aka": [
+    "ink"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "notas",
+  "t": "Notas marcadas",
+  "d": "Dinheiro de banco e de Payday Loan que não pode ser gasto: tem de ser vendido a um receptador. O Yasmani é quem mais paga.",
+  "match": [
+   "notas marcadas"
+  ],
+  "aka": [
+   "marked bills"
+  ],
+  "en": {
+   "t": "Marked bills",
+   "d": "Bank and Payday Loan cash that can't be spent: it has to be sold to a fence. Yasmani pays the most.",
+   "match": [
+    "marked bills"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "illegal",
+  "t": "Illegal Operations",
+  "d": "Esconderijos de gangue com narcóticos e Key Valuables. São 39, de 9 gangues, descobertos explorando o mapa.",
+  "match": [
+   "Illegal Operations"
+  ],
+  "aka": [
+   "gang operations",
+   "esconderijo de gangue"
+  ],
+  "en": {
+   "t": "Illegal Operations",
+   "d": "Gang hideouts with narcotics and Key Valuables. 39 of them, from 9 gangs, found by exploring the map.",
+   "match": [
+    "Illegal Operations"
+   ],
+   "aka": [
+    "gang operations",
+    "gang hideout"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "keyvaluables",
+  "t": "Key Valuables",
+  "d": "Itens raros dos esconderijos de gangue: armas únicas, relógios de luxo e veículos.",
+  "match": [
+   "Key Valuables"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Key Valuables",
+   "d": "Rare items in gang hideouts: unique weapons, luxury watches and vehicles.",
+   "match": [
+    "Key Valuables"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "stickup",
+  "t": "Stick-up",
+  "d": "Assalto a loja de conveniência, fast food ou bebidas. São 91 no mapa.",
+  "match": [
+   "stick-ups",
+   "stick-up"
+  ],
+  "aka": [
+   "assalto a loja"
+  ],
+  "en": {
+   "t": "Stick-up",
+   "d": "Robbing a convenience store, fast-food place or liquor store. 91 on the map.",
+   "match": [
+    "stick-ups",
+    "stick-up"
+   ],
+   "aka": [
+    "store robbery"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "smash",
+  "t": "Smash 'n' Grab",
+  "d": "Roubo em casas de penhores e joalherias. São 35 no mapa.",
+  "match": [
+   "Smash 'n' Grab"
+  ],
+  "aka": [
+   "pawn shop",
+   "joalheria",
+   "casa de penhores"
+  ],
+  "en": {
+   "t": "Smash 'n' Grab",
+   "d": "Robbing pawn shops and jewelry stores. 35 on the map.",
+   "match": [
+    "Smash 'n' Grab"
+   ],
+   "aka": [
+    "pawn shop",
+    "jewelry store"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "payday",
+  "t": "Payday Loans",
+  "d": "Lojas de empréstimo (agiotas). São 7 e exigem o Dye Pack Jammer.",
+  "match": [
+   "Payday Loans",
+   "Payday Loan"
+  ],
+  "aka": [
+   "agiota",
+   "empréstimo"
+  ],
+  "en": {
+   "t": "Payday Loans",
+   "d": "Loan shops. There are 7 and they require the Dye Pack Jammer.",
+   "match": [
+    "Payday Loans",
+    "Payday Loan"
+   ],
+   "aka": [
+    "loan shark"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "paynspray",
+  "t": "Pay 'n' Spray",
+  "d": "Oficina que repinta, conserta, registra e compra carros, e apaga o alerta do carro na polícia. São 19.",
+  "match": [
+   "Pay 'n' Spray"
+  ],
+  "aka": [
+   "pintura",
+   "repintar"
+  ],
+  "en": {
+   "t": "Pay 'n' Spray",
+   "d": "Shop that resprays, repairs, registers and buys cars, and clears the car's police alert. There are 19.",
+   "match": [
+    "Pay 'n' Spray"
+   ],
+   "aka": [
+    "respray",
+    "paint"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "ammunation",
+  "t": "Ammu-Nation",
+  "d": "Loja de armas. São 24; as “Expanded” têm o estoque completo. O armário de qualquer uma guarda o seu arsenal.",
+  "match": [
+   "Ammu-Nation",
+   "Ammu-Nations"
+  ],
+  "aka": [
+   "loja de armas"
+  ],
+  "en": {
+   "t": "Ammu-Nation",
+   "d": "Gun store. There are 24; the “Expanded” ones carry the full stock. Any one's locker holds your arsenal.",
+   "match": [
+    "Ammu-Nation",
+    "Ammu-Nations"
+   ],
+   "aka": [
+    "gun store"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "strangers",
+  "t": "Strangers & Freaks",
+  "d": "Missões de personagens excêntricos, como o Kirk (Skunk Ape). As que contam para troféu continuam depois da história.",
+  "match": [
+   "Strangers & Freaks"
+  ],
+  "aka": [
+   "estranhos"
+  ],
+  "en": {
+   "t": "Strangers & Freaks",
+   "d": "Missions from eccentric characters, like Kirk (Skunk Ape). The ones that count for the trophy stay after the story. Full list in Missions.",
+   "match": [
+    "Strangers & Freaks"
+   ],
+   "aka": [
+    "side quests"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "ampulheta",
+  "t": "Missão com ampulheta",
+  "d": "Missão de tempo limitado: expira se você demorar. Faça assim que aparecer.",
+  "match": [
+   "ampulheta"
+  ],
+  "aka": [
+   "tempo limitado"
+  ],
+  "en": {
+   "t": "Hourglass mission",
+   "d": "Time-limited mission: it expires if you wait. Do it as soon as it appears.",
+   "match": [
+    "hourglass"
+   ],
+   "aka": [
+    "limited time"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "duffel",
+  "t": "Sacola de saque (duffel)",
+  "d": "Onde vai o produto do roubo. Só vira dinheiro no receptador e se perde se você morrer.",
+  "match": [
+   "duffel"
+  ],
+  "aka": [
+   "sacola",
+   "bolsa de saque"
+  ],
+  "en": {
+   "t": "Duffel bag",
+   "d": "Where the loot goes. It only becomes cash at a fence and is lost if you die.",
+   "match": [
+    "duffel"
+   ],
+   "aka": [
+    "bag",
+    "loot bag"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "k9",
+  "t": "K9",
+  "d": "Cães policiais. Seguem o cheiro mesmo depois de você limpar os ícones de heat; o vento conta.",
+  "match": [
+   "K9"
+  ],
+  "aka": [
+   "cachorro",
+   "cães"
+  ],
+  "en": {
+   "t": "K9",
+   "d": "Police dogs. They follow your scent even after you clear the heat icons; wind matters.",
+   "match": [
+    "K9"
+   ],
+   "aka": [
+    "dog",
+    "dogs"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "noose",
+  "t": "NOOSE",
+  "d": "Tropa tática da polícia que aparece por volta de 5 estrelas.",
+  "match": [
+   "NOOSE"
+  ],
+  "aka": [
+   "swat"
+  ],
+  "en": {
+   "t": "NOOSE",
+   "d": "The police tactical unit that shows up around 5 stars.",
+   "match": [
+    "NOOSE"
+   ],
+   "aka": [
+    "swat"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "vcpd",
+  "t": "VCPD",
+  "d": "Polícia de Vice City.",
+  "match": [
+   "VCPD"
+  ],
+  "aka": [
+   "polícia"
+  ],
+  "en": {
+   "t": "VCPD",
+   "d": "Vice City police.",
+   "match": [
+    "VCPD"
+   ],
+   "aka": [
+    "police"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "moses",
+  "t": "Moses",
+  "d": "Contato de carros em Port Gellhorn (Cap. 2): dá o Slim Jim e a garagem grátis, registra carros e compra os que não têm rastreador.",
+  "match": [
+   "Moses"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Moses",
+   "d": "Car contact in Port Gellhorn (Ch. 2): gives the Slim Jim and the free garage, registers cars and buys untracked ones.",
+   "match": [
+    "Moses"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "randy",
+  "t": "Randy",
+  "d": "Compra os esportivos da lista de desejos, no oeste de Vice City (Cap. 3). Paga mais por carro intacto.",
+  "match": [
+   "Randy"
+  ],
+  "aka": [
+   "lista do randy"
+  ],
+  "en": {
+   "t": "Randy",
+   "d": "Buys Wish List sports cars, in west Vice City (Ch. 3). Pays more for intact cars.",
+   "match": [
+    "Randy"
+   ],
+   "aka": [
+    "wish list"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "yasmani",
+  "t": "Yasmani",
+  "d": "Receptador de joias e notas marcadas em Little Cuba (Cap. 3). Vende as dicas de carro-forte por US$ 10.000.",
+  "match": [
+   "Yasmani",
+   "Yasmany"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Yasmani",
+   "d": "Fence for jewelry and marked bills in Little Cuba (Ch. 3). Sells armored-truck tips for $10,000.",
+   "match": [
+    "Yasmani",
+    "Yasmany"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "kenton",
+  "t": "Kenton",
+  "d": "Contato dos mergulhos de tesouro em Key Lento (Cap. 1). Some depois do Cap. 1 e volta entre os Caps. 2 e 3.",
+  "match": [
+   "Kenton"
+  ],
+  "aka": [
+   "mergulho",
+   "naufrágio"
+  ],
+  "en": {
+   "t": "Kenton",
+   "d": "Treasure-dive contact in Key Lento (Ch. 1). Gone after Ch. 1, back between Ch. 2 and 3.",
+   "match": [
+    "Kenton"
+   ],
+   "aka": [
+    "dive",
+    "shipwreck"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "wyman",
+  "t": "Wyman",
+  "d": "Contato da Ultimate Edition: Dominator Buggy, Paradise Garage e a coleção de carros clássicos.",
+  "match": [
+   "Wyman"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Wyman",
+   "d": "Ultimate Edition contact: Dominator Buggy, Paradise Garage and the classic car collection.",
+   "match": [
+    "Wyman"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "landy",
+  "t": "Landy",
+  "d": "Receptador que remove rastreadores de carros, liberado mais adiante na história.",
+  "match": [
+   "Landy"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Landy",
+   "d": "Fence who removes car trackers, unlocked later in the story.",
+   "match": [
+    "Landy"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "andrew",
+  "t": "Andrew",
+  "d": "Vendedor da Ammu-Nation de Key Lento, na missão Gear Up.",
+  "match": [
+   "Andrew"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Andrew",
+   "d": "Clerk at the Key Lento Ammu-Nation, in Gear Up.",
+   "match": [
+    "Andrew"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "bretvogel",
+  "t": "Bret Vogel",
+  "d": "Contato de caça do Jason, em Lummox County. Só o Jason vende carcaças.",
+  "match": [
+   "Bret Vogel"
+  ],
+  "aka": [
+   "caça"
+  ],
+  "en": {
+   "t": "Bret Vogel",
+   "d": "Jason's hunting contact, in Lummox County. Only Jason sells carcasses.",
+   "match": [
+    "Bret Vogel"
+   ],
+   "aka": [
+    "hunting"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "zombix",
+  "t": "Zombix",
+  "d": "Item de cura usado em combate.",
+  "match": [
+   "Zombix"
+  ],
+  "aka": [
+   "cura",
+   "remédio"
+  ],
+  "en": {
+   "t": "Zombix",
+   "d": "Healing item used in combat.",
+   "match": [
+    "Zombix"
+   ],
+   "aka": [
+    "heal",
+    "medicine"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "gtaplus",
+  "t": "GTA+",
+  "d": "Assinatura da Rockstar (US$ 8 por mês) que inclui o Scooter Bros Premium.",
+  "match": [
+   "GTA+"
+  ],
+  "aka": [
+   "assinatura"
+  ],
+  "en": {
+   "t": "GTA+",
+   "d": "Rockstar's subscription ($8/month) that includes Scooter Bros Premium.",
+   "match": [
+    "GTA+"
+   ],
+   "aka": [
+    "subscription"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "vvcpack",
+  "t": "Vintage Vice City Pack",
+  "d": "Bônus de compra antecipada: Vapid Stanier ’55 e a Shore Court Garage em Ocean Beach.",
+  "match": [
+   "Vintage Vice City Pack"
+  ],
+  "aka": [
+   "pré-venda",
+   "pre venda"
+  ],
+  "en": {
+   "t": "Vintage Vice City Pack",
+   "d": "Early-purchase bonus: Vapid Stanier ’55 and the Shore Court Garage in Ocean Beach.",
+   "match": [
+    "Vintage Vice City Pack"
+   ],
+   "aka": [
+    "pre-order"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "ultimate",
+  "t": "Ultimate Edition",
+  "d": "Edição de US$ 99,99 ou R$ 549,90. Os bônus aparecem capítulo a capítulo; alguns só existem no Cap. 1.",
+  "match": [
+   "Ultimate"
+  ],
+  "aka": [
+   "edição"
+  ],
+  "en": {
+   "t": "Ultimate Edition",
+   "d": "$99.99 or R$ 549.90 edition. Bonuses appear chapter by chapter; some only exist in Ch. 1.",
+   "match": [
+    "Ultimate"
+   ],
+   "aka": [
+    "edition"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "kingfishers",
+  "t": "Kingfishers",
+  "d": "Gangue das Keys que aparece nas primeiras missões do Jason.",
+  "match": [
+   "Kingfishers"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Kingfishers",
+   "d": "Keys gang that appears in Jason's first missions.",
+   "match": [
+    "Kingfishers"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "keylento",
+  "t": "Key Lento",
+  "d": "Ilha das Leonida Keys onde fica a casa do Jason e onde se passa o Cap. 1.",
+  "match": [
+   "Key Lento"
+  ],
+  "aka": [
+   "keys"
+  ],
+  "en": {
+   "t": "Key Lento",
+   "d": "Leonida Keys island with Jason's house, where Ch. 1 takes place.",
+   "match": [
+    "Key Lento"
+   ],
+   "aka": [
+    "keys"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "carroforte",
+  "t": "Carro-forte",
+  "d": "Você segue um até o banco para entrar no cofre enquanto ele está aberto (Cap. 4). As dicas do Yasmani marcam os carros-fortes em roxo.",
+  "match": [
+   "carro-forte",
+   "carros-fortes"
+  ],
+  "aka": [
+   "armored truck"
+  ],
+  "en": {
+   "t": "Armored truck",
+   "d": "You follow one to the bank to get into the vault while it's open (Ch. 4). Yasmani's tips mark armored trucks in purple.",
+   "match": [
+    "armored truck",
+    "armored trucks"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "gonefishing",
+  "t": "Gone Fishing",
+  "d": "Primeira missão do Jason (Cap. 1). Depois dela o mundo abre e o save manual libera.",
+  "match": [
+   "Gone Fishing"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Gone Fishing",
+   "d": "Jason's first mission (Ch. 1). After it the world opens up and manual saves unlock.",
+   "match": [
+    "Gone Fishing"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "gearup",
+  "t": "Gear Up",
+  "d": "Missão do Cap. 1 com a primeira compra na Ammu-Nation. Escolha a escopeta.",
+  "match": [
+   "Gear Up"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Gear Up",
+   "d": "Ch. 1 mission with your first Ammu-Nation purchase. Pick the shotgun.",
+   "match": [
+    "Gear Up"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "downtoearth",
+  "t": "Down to Earth",
+  "d": "Missão do Cap. 1. Depois dela, de manhã, vem a meditação perdível com a Lucia.",
+  "match": [
+   "Down to Earth"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Down to Earth",
+   "d": "Ch. 1 mission. The missable morning meditation with Lucia comes after it.",
+   "match": [
+    "Down to Earth"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "islanddreams",
+  "t": "Island Dreams",
+  "d": "Missão do Cap. 1 que abre os mergulhos do Kenton.",
+  "match": [
+   "Island Dreams"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Island Dreams",
+   "d": "Ch. 1 mission that opens Kenton's dives.",
+   "match": [
+    "Island Dreams"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "touristtrap",
+  "t": "Tourist Trap",
+  "d": "Missão do fim do Cap. 1 a partir da qual não dá para voltar. Faça um save manual antes, com o dinheiro depositado.",
+  "match": [
+   "Tourist Trap"
+  ],
+  "aka": [
+   "ponto sem volta"
+  ],
+  "en": {
+   "t": "Tourist Trap",
+   "d": "End-of-Ch. 1 mission past which you can't go back. Manual save first, with money deposited.",
+   "match": [
+    "Tourist Trap"
+   ],
+   "aka": [
+    "point of no return"
+   ]
+  }
+ },
+ {
+  "kind": "term",
+  "id": "dailydriver",
+  "t": "Daily Driver",
+  "d": "Missão do Cap. 2 que dá a garagem grátis de Port Gellhorn e libera a compra de garagens.",
+  "match": [
+   "Daily Driver"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Daily Driver",
+   "d": "Ch. 2 mission that gives the free Port Gellhorn garage and unlocks buying garages.",
+   "match": [
+    "Daily Driver"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "coffeebreak",
+  "t": "Coffee Break",
+  "d": "Missão do Cap. 2 que libera a troca livre entre Jason e Lucia e as casas de penhores.",
+  "match": [
+   "Coffee Break"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Coffee Break",
+   "d": "Ch. 2 mission that unlocks free switching between Jason and Lucia and pawn shops.",
+   "match": [
+    "Coffee Break"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "creditcheck",
+  "t": "Credit Check",
+  "d": "Missão do Cap. 3 que dá o Dye Pack Jammer.",
+  "match": [
+   "Credit Check"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Credit Check",
+   "d": "Ch. 3 mission that gives the Dye Pack Jammer.",
+   "match": [
+    "Credit Check"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "cloninkeys",
+  "t": "Clonin' Keys, Makin' GS",
+  "d": "Missão do Cap. 3 que dá o Key Cloner e abre a lista do Randy.",
+  "match": [
+   "Clonin' Keys, Makin' GS",
+   "Clonin' Keys"
+  ],
+  "aka": [],
+  "en": {
+   "t": "Clonin' Keys, Makin' GS",
+   "d": "Ch. 3 mission that gives the Key Cloner and opens Randy's list.",
+   "match": [
+    "Clonin' Keys, Makin' GS",
+    "Clonin' Keys"
+   ],
+   "aka": []
+  }
+ },
+ {
+  "kind": "term",
+  "id": "moneyis",
+  "t": "That's Where The Money Is…",
+  "d": "Opcional do Cap. 4 que libera os cofres dos bancos grandes, até US$ 205.000 cada.",
+  "match": [
+   "That's Where The Money Is"
+  ],
+  "aka": [
+   "cofre"
+  ],
+  "en": {
+   "t": "That's Where The Money Is…",
+   "d": "Ch. 4 optional that unlocks the big-bank vaults, up to $205,000 each.",
+   "match": [
+    "That's Where The Money Is"
+   ],
+   "aka": [
+    "vault"
+   ]
+  }
+ },
+ {
+  "kind": "change",
+  "date": "2026-11-18",
+  "title": "Guia interativo criado",
+  "text": "Primeira versão, montada a partir das 14 pesquisas do projeto (fontes ocidentais, japonesas, chinesas e coreanas). Tem busca, onde estou, checklists salvos, fuga assistida e perguntas ao Claude.",
+  "en": {
+   "title": "Interactive guide created",
+   "text": "First version, built from the project's 14 research documents (Western, Japanese, Chinese and Korean sources). Includes search, where-am-I, saved checklists, the escape planner and questions to Claude."
+  }
+ },
+ {
+  "kind": "change",
+  "date": "2026-11-18",
+  "title": "Walkthrough de todas as missões",
+  "text": "Nova seção Missões: as 148 entradas da PowerPyx (Prólogo ao Cap. 5) em checklists por capítulo, com link para o passo a passo de cada uma, as 4 perdíveis e as 14 linhas de Strangers & Freaks. Nomes que entregam a história ficam borrados.",
+  "en": {
+   "title": "Full walkthrough of every mission",
+   "text": "New Missions section: every PowerPyx and GTABase entry (Prologue to Ch. 5) in per-chapter checklists, with a link to each mission's walkthrough, the 4 missables and the 14 Strangers & Freaks strands."
+  }
+ },
+ {
+  "kind": "change",
+  "date": "2026-11-18",
+  "title": "Guia bilíngue e walkthrough completo",
+  "text": "O guia inteiro agora troca entre português e inglês (seletor no menu e em cada passo a passo). Cada missão do Prólogo ao Cap. 3 e cada Strangers & Freaks ganhou o passo a passo completo em “Como fazer”, com links das imagens dos walkthroughs originais. Entraram Tyrone e Heavy Lifting, que estavam faltando, e os nomes de missão não ficam mais borrados.",
+  "en": {
+   "title": "Bilingual guide and full walkthrough",
+   "text": "The whole guide now switches between Portuguese and English (switch in the menu and in each walkthrough). Every mission from the Prologue to Ch. 3 and every Strangers & Freaks part got a full walkthrough under “Walkthrough”, with links to the original walkthroughs' images. Tyrone and Heavy Lifting, which were missing, were added, and mission names are no longer blurred."
+  }
+ },
+ {
+  "kind": "change",
+  "date": "2026-11-19",
+  "title": "Guias da IGN e da Eurogamer",
+  "text": "Novas fichas: Illegal Operations dos Caps. 1 e 2 (com Key Valuables e códigos de cofre), metas de dinheiro da história, consertos da casa, arma do chão x comprada x única e atalhos. Atualizados: estrelas da polícia (5 estados), heat, Perfil Criminal, o que se perde ao morrer, relacionamento, troca de personagem, registro de carro, pátio, receptadores, perdíveis do Cap. 1, os 61 cheats e a Ultimate. Nas missões: Ring the Bell!, escolhas de Arnold e Dobbs, resposta da palavra-cruzada e recompensas do Cap. 2. A IGN e a Eurogamer ainda não publicaram os Caps. 3 a 5.",
+  "en": {
+   "title": "IGN and Eurogamer guides",
+   "text": "New cards: Chapter 1 and 2 Illegal Operations (with Key Valuables and safe codes), story money goals, house repairs, picked-up vs bought vs unique weapons, and shortcuts. Updated: police stars (5 states), Heat, Criminal Profile, what you lose when Wasted, relationship, character switching, car registration, impound, fences, Chapter 1 missables, all 61 cheats and the Ultimate Edition. In missions: Ring the Bell!, the Arnold and Dobbs choices, the crossword answer and Chapter 2 rewards. IGN and Eurogamer haven't published Chapters 3–5 yet."
+  }
+ },
+ {
+  "kind": "change",
+  "date": "2026-11-19",
+  "title": "Coleções, stunts e 100% (IGN e Eurogamer)",
+  "text": "Nova seção Coleções e 100%: pesos do 100%, os 80 desafios, 130 stunt jumps com desafios, 40 Knife Flights, 25 Base Jumps, 42 corridas de drone, 100 cestas, 108 locais do WAiNK, 18 coleções de cartas, Kenton, Wyman's Cars e coleções de exploração. Novas fichas: armas únicas com local, personalização na Ammu-Nation, bancos e cofres com valores, quantos veículos existem e modo foto. Todas as missões dos Caps. 1 e 2 ganharam complementos da IGN e da Eurogamer.",
+  "en": {
+   "title": "Collections, stunts and 100% (IGN and Eurogamer)",
+   "text": "New Collections and 100% section: 100% weights, the 80 challenges, 130 stunt jumps with challenges, 40 Knife Flights, 25 Base Jumps, 42 drone races, 100 hoops, 108 WAiNK locations, 18 card sets, Kenton, Wyman's Cars and exploration collections. New cards: unique weapons with locations, Ammu-Nation customization, banks and vaults with takes, vehicle counts and photo mode. Every Chapter 1 and 2 mission got IGN and Eurogamer extras."
+  }
+ },
+ {
+  "kind": "change",
+  "date": "2026-11-19",
+  "title": "Atualização da IGN: tudo o que entrou à tarde",
+  "text": "Cada uma das 18 coleções de cartas ganhou sua lista com os 480 locais. WAiNK com o lugar de cada um dos 108 pontos. Kenton com 7 pontos e o lugar de cada tesouro. Book Swaps, flamingos (125), relógios e murais 1010. Cestas com Focus e prêmios. 100% com o que libera cada parte, corridas por pista e os 42 ouros. Novas fichas: os 4 jogos e seus desafios, pesca com as 35 espécies, mergulho, guardar armas, objetivos no mapa das missões dos Caps. 1 e 2 e dicas soltas do começo. Perfil Criminal e relacionamento mais detalhados.",
+  "en": {
+   "title": "IGN update: everything added in the afternoon",
+   "text": "All 18 card sets now have their own list with the 480 locations. WAiNK with the spot of all 108 points. Kenton with 7 sites and each treasure's spot. Book Swaps, flamingos (125), watches and 1010 murals. Hoops with Focus and rewards. 100% with what unlocks each part, races per track and the 42 golds. New cards: the 4 games and their challenges, fishing with all 35 species, diving, weapon storage, Ch. 1 and 2 map objectives and loose early tips. Criminal Profile and relationship in more detail."
+  }
+ },
+ {
+  "kind": "change",
+  "date": "2026-11-19",
+  "title": "Guia reorganizado",
+  "text": "As 17 seções viraram 14, em quatro grupos (Agora, Como fazer, Completar, Consulta), com subgrupos dentro de cada uma. Resumo e lista de missões de cada capítulo ficam lado a lado. Compras entrou em Dinheiro, Configurações em Comece aqui, troféus e 100% numa seção só. 21 cards repetidos foram fundidos e as contradições entre cards, corrigidas. Os cards abrem fechados; toque para abrir. Seu progresso e seus favoritos foram mantidos.",
+  "en": {
+   "title": "Guide reorganized",
+   "text": "The 17 sections became 14, in four groups (Now, How to, Complete, Reference), with subgroups inside each. Each chapter's summary and mission list now sit side by side. Purchases moved into Money, Settings into Start here, trophies and 100% into one section. 21 duplicate cards were merged and contradictions between cards fixed. Cards start collapsed; tap to open. Your progress and bookmarks were kept."
+  }
+ }
+]

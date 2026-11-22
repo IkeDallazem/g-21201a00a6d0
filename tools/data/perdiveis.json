@@ -1,0 +1,441 @@
+[
+ {
+  "kind": "card",
+  "id": "perdiveis-lista",
+  "sec": "perdiveis",
+  "sub": "nao",
+  "tipo": "perdivel",
+  "conf": "jogo",
+  "ch": [
+   "c1",
+   "c3",
+   "c4"
+  ],
+  "title": "Perdíveis: o que some de vez",
+  "sum": "6 missões, a meditação e os itens do Cap. 1. Quase tudo no Cap. 1; marque conforme fizer.",
+  "body": "A lista abaixo vem nesta ordem: missões, depois itens na ordem da história. O que não some está em [[perdiveis-tranquilo]].\n\n#### Missões (6)\n- **Cap. 1 (4):** “Get Shirley's Rum” e “Steal the Scooter”, da Shirley, só existem no Cap. 1 (PowerPyx). A IGN acrescenta “Find the Lost Drugs” e “Ring the Bell!”.\n- **Cap. 3 (1):** “Race Against Yago” aparece com ampulheta. É a parte 3 do Yago, linha que conta para o troféu Strangers & Freaks: perder pode travar a linha. {{inferencia}} Veja [[missoes-strangers]].\n- **Cap. 4 (1):** “This is a Free Call From…”, da Lucia, também com ampulheta.\n- Segundo a PowerPyx, missões perdíveis não contam para troféus nem para o 100%. A do Yago é a única que pode pesar num troféu.\n- O passo a passo de cada uma está nas listas dos capítulos: [[missoes-cap1]], [[missoes-cap3]] e [[missoes-cap4]].\n\n#### Itens do Cap. 1\n- A IGN lista **11 perdíveis no Cap. 1**: 6 roupas e acessórios, 1 arma, os charutos e 3 missões opcionais (Get Shirley's Rum, Find the Lost Drugs e Ring the Bell!).\n- Óculos e chapéus achados no chão somem se você morrer ou sair do jogo sem guardá-los no guarda-roupa (até 11 de cada).\n\n#### Meditação\nPode não ser obrigatória para o troféu: a PowerPyx ainda estava confirmando. Fazer é o caminho seguro.\n\n#### Save\nO save manual antes de “Tourist Trap” se marca em [[perdiveis-saves]].",
+  "check": [
+   {
+    "id": "shirley",
+    "t": "“Get Shirley's Rum” (Cap. 1): concluir as tarefas da vizinha dá acesso ao carro da Shirley"
+   },
+   {
+    "id": "scooter",
+    "t": "“Steal the Scooter” (Cap. 1)"
+   },
+   {
+    "id": "lostdrugs",
+    "t": "“Find the Lost Drugs”: só no Cap. 1, depois de Buck Me (4 pacotes)"
+   },
+   {
+    "id": "ringbell",
+    "t": "“Ring the Bell!”: só no começo de Swamped; dar carona ao Cal libera camiseta e boné do Rusty Anchor"
+   },
+   {
+    "id": "ampulheta",
+    "t": "Missões com ampulheta assim que aparecem: no Cap. 3, “Race Against Yago”; no Cap. 4, “This is a Free Call From…” (só Lucia)"
+   },
+   {
+    "id": "charutos",
+    "t": "Charutos Macizo: em Pipework, pegue a caixa que a Mandy joga no chão (fumar dá Focus e tira saúde)"
+   },
+   {
+    "id": "colar",
+    "t": "Colar Tomás para a Lucia: US$ 475 na The Siren's Chest, sudoeste de Key Lento, depois de Feng Shui"
+   },
+   {
+    "id": "medita",
+    "t": "Meditação com a Lucia: depois de “Down to Earth”, de manhã, fale com ela na cozinha, siga até a varanda e escolha “Accept” (troféu Positive Mental Attitude)"
+   },
+   {
+    "id": "oculos-lucia",
+    "t": "Óculos da Lucia: em Day Release, no nível do meio do iate, fale com o casal junto à grade da escada"
+   },
+   {
+    "id": "aviador",
+    "t": "Óculos aviador do Donnie: em Don Gone, prateleira do banheiro do trailer (resgate no guarda-roupa)"
+   },
+   {
+    "id": "revolver",
+    "t": "Revólver H&L .38 do Donnie: em Don Gone, depois da briga, no porta-malas do carro do Donnie"
+   },
+   {
+    "id": "andy",
+    "t": "Jaqueta do Andy: em Home Sweet Home, ligue para a Lucia buscar e chegue ao carro sem ser visto"
+   },
+   {
+    "id": "ultimate",
+    "t": "Ultimate: usar a Dinka Enduro, o caiaque e o Ganado retrô enquanto existem (só no Cap. 1)"
+   },
+   {
+    "id": "perfil",
+    "t": "Não deixar o Perfil Criminal de nenhum dos dois quebrar. Veja [[policia-perfil]]"
+   }
+  ],
+  "src": [
+   "17173 (CN)",
+   "GTABase",
+   "IGN",
+   "PlayStationInfo",
+   "PowerPyx"
+  ],
+  "kw": [
+   "perdivel",
+   "missable",
+   "perder",
+   "meditacao",
+   "shirley",
+   "ampulheta",
+   "positive mental attitude",
+   "perdiveis",
+   "yago",
+   "missoes perdidas"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Missables: what's gone for good",
+   "sum": "6 missions, the meditation and the Ch. 1 items. Nearly all in Ch. 1; tick as you go.",
+   "body": "The list below runs in this order: missions, then items in story order. What does not go away is in [[perdiveis-tranquilo]].\n\n#### Missions (6)\n- **Ch. 1 (4):** “Get Shirley's Rum” and “Steal the Scooter”, from Shirley, only exist in Ch. 1 (PowerPyx). IGN adds “Find the Lost Drugs” and “Ring the Bell!”.\n- **Ch. 3 (1):** “Race Against Yago” appears with an hourglass. It's Yago part 3, a strand that counts for the Strangers & Freaks trophy: missing it may lock the strand. {{inferencia}} See [[missoes-strangers]].\n- **Ch. 4 (1):** “This is a Free Call From…”, Lucia's, also with an hourglass.\n- Per PowerPyx, missable missions don't count toward trophies or 100%. Yago's is the only one that may weigh on a trophy.\n- The walkthrough for each is in the chapter lists: [[missoes-cap1]], [[missoes-cap3]] and [[missoes-cap4]].\n\n#### Ch. 1 items\n- IGN lists **11 Chapter 1 missables**: 6 clothing items and accessories, 1 weapon, the cigars and 3 optional missions (Get Shirley's Rum, Find the Lost Drugs and Ring the Bell!).\n- Glasses and hats picked up off the ground are lost if you die or quit before saving them to your wardrobe (up to 11 of each).\n\n#### Meditation\nIt may not be required for the trophy: PowerPyx was still confirming. Doing it is the safe path.\n\n#### Save\nThe manual save before “Tourist Trap” is ticked in [[perdiveis-saves]].",
+   "check": [
+    {
+     "id": "shirley",
+     "t": "“Get Shirley's Rum” (Ch. 1): finishing the neighbor's tasks gives access to Shirley's car"
+    },
+    {
+     "id": "scooter",
+     "t": "“Steal the Scooter” (Ch. 1)"
+    },
+    {
+     "id": "lostdrugs",
+     "t": "“Find the Lost Drugs”: Chapter 1 only, after Buck Me (4 packages)"
+    },
+    {
+     "id": "ringbell",
+     "t": "“Ring the Bell!”: only at the start of Swamped; giving Cal a ride unlocks the Rusty Anchor T-Shirt and Cap"
+    },
+    {
+     "id": "ampulheta",
+     "t": "Hourglass missions as soon as they appear: Ch. 3, “Race Against Yago”; Ch. 4, “This is a Free Call From…” (Lucia only)"
+    },
+    {
+     "id": "charutos",
+     "t": "Macizo Cigars: in Pipework, grab the box Mandy throws on the ground (smoking gives Focus, costs health)"
+    },
+    {
+     "id": "colar",
+     "t": "Tomas Necklace for Lucia: $475 at The Siren's Chest, southwest Key Lento, after Feng Shui"
+    },
+    {
+     "id": "medita",
+     "t": "Meditation with Lucia: after “Down to Earth”, in the morning, talk to her in the kitchen, follow her to the porch and choose “Accept” (trophy Positive Mental Attitude)"
+    },
+    {
+     "id": "oculos-lucia",
+     "t": "Lucia's sunglasses: in Day Release, on the yacht's middle level, talk to the couple by the stair railing"
+    },
+    {
+     "id": "aviador",
+     "t": "Donnie's aviator sunglasses: in Don Gone, the trailer's bathroom shelf (claim them at your wardrobe)"
+    },
+    {
+     "id": "revolver",
+     "t": "Donnie's H&L .38 Revolver: in Don Gone, after the fight, in the trunk of Donnie's car"
+    },
+    {
+     "id": "andy",
+     "t": "Andy's Jacket: in Home Sweet Home, call Lucia for a pickup and reach her car undetected"
+    },
+    {
+     "id": "ultimate",
+     "t": "Ultimate: use the Dinka Enduro, the kayak and the retro Ganado while you have them (Ch. 1 only)"
+    },
+    {
+     "id": "perfil",
+     "t": "Don't let either character's Criminal Profile break. See [[policia-perfil]]"
+    }
+   ],
+   "kw": [
+    "missable",
+    "lose",
+    "meditation",
+    "shirley",
+    "hourglass",
+    "positive mental attitude",
+    "yago",
+    "missed missions"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-saves",
+  "sec": "perdiveis",
+  "sub": "nao",
+  "tipo": "plano",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "Plano de saves",
+  "sum": "15 espaços de save manual e 1 save automático. Não dá para rejogar missões.",
+  "body": "Salve pelo menu ({Options} → Game → Save Game). Não dá para salvar no Prólogo nem durante missões. Use 10 espaços de save para o início e o fim de cada capítulo e faça rodízio nos outros 5.",
+  "check": [
+   {
+    "id": "c1i",
+    "t": "Espaço 1: “Início Cap. 1”, logo depois de Gone Fishing"
+   },
+   {
+    "id": "tourist",
+    "t": "“Antes de Tourist Trap”, com o dinheiro depositado"
+   },
+   {
+    "id": "c2i",
+    "t": "“Início Cap. 2”"
+   },
+   {
+    "id": "c2f",
+    "t": "“Fim Cap. 2”"
+   },
+   {
+    "id": "c3i",
+    "t": "“Início Cap. 3”"
+   },
+   {
+    "id": "c3f",
+    "t": "“Fim Cap. 3”"
+   },
+   {
+    "id": "c4i",
+    "t": "“Início Cap. 4”"
+   },
+   {
+    "id": "c4f",
+    "t": "“Fim Cap. 4”"
+   },
+   {
+    "id": "c5i",
+    "t": "“Início Cap. 5”"
+   },
+   {
+    "id": "limpo",
+    "t": "Save separado, sem códigos, antes de testar cheats"
+   }
+  ],
+  "div": "As fontes divergem sobre o save automático ocupar ou não um dos 15 espaços.",
+  "src": [
+   "PowerPyx",
+   "GameSpot"
+  ],
+  "kw": [
+   "save",
+   "salvar",
+   "slots",
+   "autosave",
+   "replay",
+   "carregar"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Save plan",
+   "sum": "15 manual slots and 1 autosave. No mission replay.",
+   "body": "Save from the menu ({Options} → Game → Save Game). You can't save in the Prologue or during missions. Use 10 slots for the start and end of each chapter and rotate the other 5.",
+   "check": [
+    {
+     "id": "c1i",
+     "t": "Slot 1: “Start Ch. 1”, right after Gone Fishing"
+    },
+    {
+     "id": "tourist",
+     "t": "“Before Tourist Trap”, with money deposited"
+    },
+    {
+     "id": "c2i",
+     "t": "“Start Ch. 2”"
+    },
+    {
+     "id": "c2f",
+     "t": "“End Ch. 2”"
+    },
+    {
+     "id": "c3i",
+     "t": "“Start Ch. 3”"
+    },
+    {
+     "id": "c3f",
+     "t": "“End Ch. 3”"
+    },
+    {
+     "id": "c4i",
+     "t": "“Start Ch. 4”"
+    },
+    {
+     "id": "c4f",
+     "t": "“End Ch. 4”"
+    },
+    {
+     "id": "c5i",
+     "t": "“Start Ch. 5”"
+    },
+    {
+     "id": "limpo",
+     "t": "“Clean save” before trying cheats"
+    }
+   ],
+   "div": "Sources disagree on whether the autosave takes one of the 15 slots.",
+   "kw": [
+    "save",
+    "slots",
+    "autosave",
+    "replay",
+    "load"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-tranquilo",
+  "sec": "perdiveis",
+  "sub": "nao",
+  "tipo": "dado",
+  "conf": "jogo",
+  "ch": [
+   "geral"
+  ],
+  "title": "O que NÃO é perdível",
+  "sum": "100%, Strangers & Freaks que contam, Kenton e revistas: tudo dá para fazer depois.",
+  "body": "- **100%:** tudo pode ser feito no mundo aberto depois da história.\n- **Strangers & Freaks:** as que contam para troféu continuam disponíveis depois da história. Veja [[missoes-strangers]].\n- **Kenton:** some depois do Cap. 1 e volta entre os Caps. 2 e 3.\n- **Revistas** em prédios da história que fecham também aparecem em outros lugares. **Receptadores** que somem não têm missões nem contam para nada.\n- O que some de verdade está em [[perdiveis-lista]].",
+  "src": [
+   "PowerPyx",
+   "PlayStationInfo"
+  ],
+  "kw": [
+   "100%",
+   "perdivel",
+   "strangers",
+   "revistas"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "What is NOT missable",
+   "sum": "100%, the Strangers & Freaks that count, Kenton and magazines: all of it can be done later.",
+   "body": "- **100%:** everything can be done in free roam after the story.\n- **Strangers & Freaks:** the ones that count for the trophy stay available after the story. See [[missoes-strangers]].\n- **Kenton:** gone after Ch. 1, back between Ch. 2 and 3.\n- **Magazines** in story buildings that close also appear elsewhere. **Fences** that disappear have no missions and count for nothing.\n- What really goes away is in [[perdiveis-lista]].",
+   "kw": [
+    "100%",
+    "missable",
+    "strangers",
+    "magazines"
+   ]
+  }
+ },
+ {
+  "kind": "card",
+  "id": "perdiveis-cap1",
+  "sec": "perdiveis",
+  "sub": "vale",
+  "tipo": "dica",
+  "conf": "jogo",
+  "ch": [
+   "c1"
+  ],
+  "title": "Extras do Cap. 1",
+  "sum": "Não somem, mas rendem mais agora: diálogos únicos, roupas baratas e atributos.",
+  "check": [
+   {
+    "id": "compras",
+    "t": "Compras para a volta da Lucia: mercado, flores, colar, “Get The Chop” e roupas. Marque cada uma em [[missoes-cap1]]; o colar é perdível ([[perdiveis-lista]])"
+   },
+   {
+    "id": "casa",
+    "t": "Consertar a casa e o carro do Jason: destrava diálogos únicos. Lista dos consertos em [[personagens-casa]]"
+   },
+   {
+    "id": "sharleen",
+    "t": "Bazar da Ms Sharleen: roupas mais baratas que os brechós"
+   },
+   {
+    "id": "mandy",
+    "t": "Visita à Mandy: fique na conversa até ela se trancar no banheiro (abre diálogos e um convite para voltar)"
+   },
+   {
+    "id": "fotos",
+    "t": "Achar as fotos escondidas sob o piso do quarto do Jason"
+   },
+   {
+    "id": "casa-treino",
+    "t": "Academia, sono e shake de proteína em casa"
+   },
+   {
+    "id": "kenton",
+    "t": "Linha do Kenton (some depois do Cap. 1 e volta entre os Caps. 2 e 3). Veja [[colecao-kenton]]"
+   },
+   {
+    "id": "kirk",
+    "t": "Kirk / Skunk Ape (Strangers & Freaks): começa no Cap. 1, só à noite. Veja [[missoes-strangers]]"
+   }
+  ],
+  "src": [
+   "Gamer Social Club",
+   "PowerPyx",
+   "GameSpot"
+  ],
+  "kw": [
+   "capitulo 1",
+   "extras",
+   "segredos",
+   "mandy",
+   "sharleen",
+   "fotos",
+   "kirk",
+   "skunk ape"
+  ],
+  "added": "2026-11-18",
+  "en": {
+   "title": "Ch. 1 extras",
+   "sum": "They don't go away, but pay off more now: unique dialogue, cheap clothes and stats.",
+   "check": [
+    {
+     "id": "compras",
+     "t": "Shopping for Lucia's return: groceries, flowers, necklace, “Get The Chop” and clothes. Tick each one in [[missoes-cap1]]; the necklace is missable ([[perdiveis-lista]])"
+    },
+    {
+     "id": "casa",
+     "t": "Fix Jason's house and car: unlocks unique dialogue. Repair list in [[personagens-casa]]"
+    },
+    {
+     "id": "sharleen",
+     "t": "Ms Sharleen's yard sale: clothes cheaper than thrift stores"
+    },
+    {
+     "id": "mandy",
+     "t": "Visit Mandy: stay in the conversation until she locks herself in the bathroom (opens dialogue and an invite to come back)"
+    },
+    {
+     "id": "fotos",
+     "t": "Find the photos hidden under the floor of Jason's bedroom"
+    },
+    {
+     "id": "casa-treino",
+     "t": "Gym, sleep and protein shake at home"
+    },
+    {
+     "id": "kenton",
+     "t": "Kenton's questline (gone after Ch. 1, back between Ch. 2 and 3). See [[colecao-kenton]]"
+    },
+    {
+     "id": "kirk",
+     "t": "Kirk / Skunk Ape (Strangers & Freaks): starts in Ch. 1, night only. See [[missoes-strangers]]"
+    }
+   ],
+   "kw": [
+    "chapter 1",
+    "extras",
+    "secrets",
+    "mandy",
+    "sharleen",
+    "photos",
+    "kirk",
+    "skunk ape"
+   ]
+  }
+ }
+]

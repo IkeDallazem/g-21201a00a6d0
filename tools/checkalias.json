@@ -1,0 +1,13 @@
+{
+ "policia-assalto:recon": "dinheiro-rotina-roubo:recon",
+ "policia-assalto:deposito": "dinheiro-rotina-roubo:deposito",
+ "policia-assalto:troca": "dinheiro-rotina-roubo:troca",
+ "policia-assalto:colete": "dinheiro-rotina-roubo:colete",
+ "policia-assalto:moto": "dinheiro-rotina-roubo:moto",
+ "policia-assalto:mascara": "dinheiro-rotina-roubo:mascara",
+ "policia-assalto:cameras": "dinheiro-rotina-roubo:cameras",
+ "policia-assalto:sair": "dinheiro-rotina-roubo:sair",
+ "policia-assalto:trocar": "dinheiro-rotina-roubo:fuga",
+ "policia-assalto:vender": "dinheiro-rotina-roubo:banco",
+ "perdiveis-lista:save": "perdiveis-saves:tourist"
+}

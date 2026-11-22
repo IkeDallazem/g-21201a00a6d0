@@ -1,0 +1,274 @@
+{
+ "kind": "card",
+ "id": "cartas-liberty-city-wrath",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Liberty City Wrath",
+ "sum": "24 cartas de futebol americano, com o local de cada uma.",
+ "body": "- Futebol americano, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 1 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-liberty-city-wrath-alvin-orlowski-standard",
+   "t": "**Alvin Orlowski - Standard**",
+   "d": "Na terceira prateleira de baixo de uma estante na entrada do apartamento 16, 3º andar do condomínio amarelo perto da Mirimar Dr, La Perle"
+  },
+  {
+   "id": "cc-liberty-city-wrath-anthony-poke-ii-deep-red",
+   "t": "**Anthony Poke II - Deep Red**",
+   "d": "Na lateral de um mural de cortiça no corredor de funcionários, pela porta atrás das esteiras, 3º andar da Ajax Gym, Vickery Dr, Oldby Island"
+  },
+  {
+   "id": "cc-liberty-city-wrath-anthony-poke-ii-navy-blue",
+   "t": "**Anthony Poke II - Navy Blue**",
+   "d": "No alto da escada da villa com entrada em U perto da Emory Ave, sudoeste de Peacock Bay"
+  },
+  {
+   "id": "cc-liberty-city-wrath-anthony-poke-ii-silver",
+   "t": "**Anthony Poke II - Silver**",
+   "d": "No balcão do posto de salva-vidas da praia nordeste de Washington Beach"
+  },
+  {
+   "id": "cc-liberty-city-wrath-armando-ibarra-jr-standard",
+   "t": "**Armando Ibarra JR. - Standard**",
+   "d": "Numa mesa ao lado de um notebook no posto de salva-vidas da praia sul de Gloriana Key"
+  },
+  {
+   "id": "cc-liberty-city-wrath-atonga-alaalatoa-standard",
+   "t": "**Atonga Alaalatoa - Standard**",
+   "d": "No assento mais alto da arquibancada norte do Priscilla Kenedy Field, Discovery St, sudoeste de Belville"
+  },
+  {
+   "id": "cc-liberty-city-wrath-bruce-goosen-standard",
+   "t": "**Bruce Goosen - Standard**",
+   "d": "Em cima de uma estante de uniformes no canto do corredor de funcionários atrás da recepção do Corpo de Bombeiros nº 35 (Vice-Dale County Fire Rescue), Gulf St, centro do Port Vice City"
+  },
+  {
+   "id": "cc-liberty-city-wrath-b-ryan-barnett-bronze",
+   "t": "**B'ryan Barnett - Bronze**",
+   "d": "Embaixo de uma cadeira ao lado da porta de acesso ao telhado do prédio Cappa Appliance, NE 4th Ave, norte de Crosstown"
+  },
+  {
+   "id": "cc-liberty-city-wrath-b-ryan-barnett-gold",
+   "t": "**B'ryan Barnett - Gold**",
+   "d": "No canto da passarela do outdoor na NW 9th St x NW 5th St, centro de Rockridge"
+  },
+  {
+   "id": "cc-liberty-city-wrath-b-ryan-barnett-silver",
+   "t": "**B'ryan Barnett - Silver**",
+   "d": "Na borda do lado de fora da janela do food truck Perry's Famous Wide Burgers, ao lado do estacionamento da praia, Loggerhead Rd, norte de Bobcat Key"
+  },
+  {
+   "id": "cc-liberty-city-wrath-christian-yee-deep-red",
+   "t": "**Christian Yee - Deep Red**",
+   "d": "No canto do mural de cortiça no depósito nos fundos do 247 da Emory Ave x US-82, leste de Hamlet"
+  },
+  {
+   "id": "cc-liberty-city-wrath-christian-yee-navy-blue",
+   "t": "**Christian Yee - Navy Blue**",
+   "d": "Embaixo de uma escada entre dois patamares subindo ao 2º andar, nos fundos do prédio vermelho e branco na Spirea Ln, Ocean Beach"
+  },
+  {
+   "id": "cc-liberty-city-wrath-christian-yee-silver",
+   "t": "**Christian Yee - Silver**",
+   "d": "No nível mais alto da arquibancada leste do campo de futebol americano dos Jackals, perto da US-183, sudeste de Capri"
+  },
+  {
+   "id": "cc-liberty-city-wrath-dartanyon-pearson-standard",
+   "t": "**Dartanyon Pearson - Standard**",
+   "d": "Numa prateleira sob a TV dentro da casa branca à beira-mar na Sunset Dr, sudoeste de Key Lento"
+  },
+  {
+   "id": "cc-liberty-city-wrath-james-bowery-deep-red",
+   "t": "**James Bowery - Deep Red**",
+   "d": "Embaixo de um banco de praça no noroeste de uma lagoa perto da El Joven Blvd, nordeste de Southside"
+  },
+  {
+   "id": "cc-liberty-city-wrath-james-bowery-navy-blue",
+   "t": "**James Bowery - Navy Blue**",
+   "d": "Em cima de uma banheira de hidromassagem fechada no pátio dos fundos de uma casa branca e cinza no lado sul da Mamey Cir, Waning Sands"
+  },
+  {
+   "id": "cc-liberty-city-wrath-james-bowery-silver",
+   "t": "**James Bowery - Silver**",
+   "d": "Embaixo de uma cadeira ao lado de uma porta na sacada dos fundos do 1º nível de apartamentos do Greenwood Tower South, Shore Ct, Ocean Beach"
+  },
+  {
+   "id": "cc-liberty-city-wrath-robbie-stine-bronze",
+   "t": "**Robbie Stine - Bronze**",
+   "d": "Numa bancada na garagem de uma mansão branca moderna perto da Ocean Sound Rd, península sul de Catalan Key"
+  },
+  {
+   "id": "cc-liberty-city-wrath-robbie-stine-gold",
+   "t": "**Robbie Stine - Gold**",
+   "d": "Num cofre em cima de uma cômoda no canto do quarto de um trailer marrom e bege sob a ponte da I-97, divisa de Crosstown com La Perle"
+  },
+  {
+   "id": "cc-liberty-city-wrath-robbie-stine-silver",
+   "t": "**Robbie Stine - Silver**",
+   "d": "No canto de uma mesa num escritório no alto de uma escada sobre a serraria Stone Hills Sawmill, perto da estrada de terra da Forest Mill Rd, norte do Mount Kalaga National Park"
+  },
+  {
+   "id": "cc-liberty-city-wrath-tayson-briggs-standard",
+   "t": "**Tayson Briggs - Standard**",
+   "d": "No gradil de pedra do pátio dos fundos do 2º andar da loja de bebidas Partytown U.S.A., SW 17th St x SW 7th Ave, sul de Salton"
+  },
+  {
+   "id": "cc-liberty-city-wrath-thien-trinh-bronze",
+   "t": "**Thien Trinh - Bronze**",
+   "d": "Encostada numa lápide sem nome no cemitério em frente à igreja decadente perto da SR-45, Grayson"
+  },
+  {
+   "id": "cc-liberty-city-wrath-thien-trinh-gold",
+   "t": "**Thien Trinh - Gold**",
+   "d": "Na borda do vidro no topo da torre mais alta sobre a água do restaurante Bitehouse, Longship Dr, oeste de Watson Bay"
+  },
+  {
+   "id": "cc-liberty-city-wrath-thien-trinh-silver",
+   "t": "**Thien Trinh - Silver**",
+   "d": "No gradil da varanda de uma casa de fazenda azul grande perto da US-183, leste de Gellhorn"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Liberty City Wrath"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Liberty City Wrath",
+  "sum": "24 football cards, with every location.",
+  "body": "- Football, 24 cards. Locations from IGN's list; tick each one as you grab it.\n- 1 card(s) sit in a **safe**: open it with the code from robbing that place, or a sticky bomb.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Liberty City Wrath"
+  ],
+  "check": [
+   {
+    "id": "cc-liberty-city-wrath-alvin-orlowski-standard",
+    "t": "**Alvin Orlowski - Standard**",
+    "d": "On the third shelf from the bottom of a bookshelf against the wall at the entrance to apartment 16 on the third floor of the yellow apartment complex off of Mirimar Dr in La Perle"
+   },
+   {
+    "id": "cc-liberty-city-wrath-anthony-poke-ii-deep-red",
+    "t": "**Anthony Poke II - Deep Red**",
+    "d": "On the side of a corkboard inside the staff hallway through the door behind the treadmills on the third floor of the Ajax Gym on Vickery Dr on Oldby Island"
+   },
+   {
+    "id": "cc-liberty-city-wrath-anthony-poke-ii-navy-blue",
+    "t": "**Anthony Poke II - Navy Blue**",
+    "d": "On top of the steps leading up the villa on the U-shaped driveway off of Emory Ave in southwestern Peacock Bay"
+   },
+   {
+    "id": "cc-liberty-city-wrath-anthony-poke-ii-silver",
+    "t": "**Anthony Poke II - Silver**",
+    "d": "On the counter of the lifeguard building on the northeastern beach in Washington Beach"
+   },
+   {
+    "id": "cc-liberty-city-wrath-armando-ibarra-jr-standard",
+    "t": "**Armando Ibarra JR. - Standard**",
+    "d": "On top of a desk next to a laptop in the lifeguard station on the southern beach of the Gloriana key"
+   },
+   {
+    "id": "cc-liberty-city-wrath-atonga-alaalatoa-standard",
+    "t": "**Atonga Alaalatoa - Standard**",
+    "d": "On top of the highest seat on the northern bleachers surrounding Priscilla Kenedy Field on Discovery St in southwestern Belville"
+   },
+   {
+    "id": "cc-liberty-city-wrath-bruce-goosen-standard",
+    "t": "**Bruce Goosen - Standard**",
+    "d": "On top of a uniform shelving unit on the corner in the staff hallway behind reception at the Vice-Dale County Fire Rescue Station No. 35 on Gulf St in central Port Vice City"
+   },
+   {
+    "id": "cc-liberty-city-wrath-b-ryan-barnett-bronze",
+    "t": "**B'ryan Barnett - Bronze**",
+    "d": "Underneath a chair next to the roof access door on top of the Cappa Appliance building on NE 4th Ave in northern Crosstown"
+   },
+   {
+    "id": "cc-liberty-city-wrath-b-ryan-barnett-gold",
+    "t": "**B'ryan Barnett - Gold**",
+    "d": "On the corner of the catwalk surrounding the billboard on the corner of NW 9th St and NW 5th St in central Rockridge"
+   },
+   {
+    "id": "cc-liberty-city-wrath-b-ryan-barnett-silver",
+    "t": "**B'ryan Barnett - Silver**",
+    "d": "On the ledge outside the window of the Perry's Famous Wide Burgers food truck next to the parking lot to the beach on Loggerhead Rd in northern Bobcat Key"
+   },
+   {
+    "id": "cc-liberty-city-wrath-christian-yee-deep-red",
+    "t": "**Christian Yee - Deep Red**",
+    "d": "On the corner of the corkboard in the storage room in the back of the 247 on the corner of Emory Ave and US-82 in eastern Hamlet"
+   },
+   {
+    "id": "cc-liberty-city-wrath-christian-yee-navy-blue",
+    "t": "**Christian Yee - Navy Blue**",
+    "d": "Underneath a staircase between two landings going up to the second floor in the back of the red and white apartment building on Spirea Ln in Ocean Beach"
+   },
+   {
+    "id": "cc-liberty-city-wrath-christian-yee-silver",
+    "t": "**Christian Yee - Silver**",
+    "d": "On the highest level of the bleachers on the eastern side of the Jackal's football field off of US-183 in southeastern Capri"
+   },
+   {
+    "id": "cc-liberty-city-wrath-dartanyon-pearson-standard",
+    "t": "**Dartanyon Pearson - Standard**",
+    "d": "On a shelf underneath the TV inside the white waterfront house on Sunset Dr in southwestern Key Lento"
+   },
+   {
+    "id": "cc-liberty-city-wrath-james-bowery-deep-red",
+    "t": "**James Bowery - Deep Red**",
+    "d": "Underneath a park bench on the northwestern section of a pond off of El Joven Blvd in northeastern Southside"
+   },
+   {
+    "id": "cc-liberty-city-wrath-james-bowery-navy-blue",
+    "t": "**James Bowery - Navy Blue**",
+    "d": "On top of a closed hot tub on the back patio of a white and gray house on the southern side of Mamey Cir in Waning Sands"
+   },
+   {
+    "id": "cc-liberty-city-wrath-james-bowery-silver",
+    "t": "**James Bowery - Silver**",
+    "d": "Underneath a chair next to a door on the back balcony on the first level of apartments of the Greenwood Tower South on Shore Ct in Ocean Beach"
+   },
+   {
+    "id": "cc-liberty-city-wrath-robbie-stine-bronze",
+    "t": "**Robbie Stine - Bronze**",
+    "d": "On top of a workbench in the garage of a white, modern mansion off of Ocean Sound Rd in the southern peninsula of Catalan Key"
+   },
+   {
+    "id": "cc-liberty-city-wrath-robbie-stine-gold",
+    "t": "**Robbie Stine - Gold**",
+    "d": "Inside a safe on top of a dresser in the corner of the bedroom inside a brown and tan camper under the I-97 bridge on the border of Crosstown and La Perle"
+   },
+   {
+    "id": "cc-liberty-city-wrath-robbie-stine-silver",
+    "t": "**Robbie Stine - Silver**",
+    "d": "On the corner of a desk in an office at the top of a ladder above the Stone Hills Sawmill building near the dirt road off of Forest Mill Rd in northern Mount Kalaga National Park"
+   },
+   {
+    "id": "cc-liberty-city-wrath-tayson-briggs-standard",
+    "t": "**Tayson Briggs - Standard**",
+    "d": "On the stone railing around the back, second floor patio of the Partytown U.S.A. liquor store on the corner of SW 17th St and SW 7th Ave in southern Salton"
+   },
+   {
+    "id": "cc-liberty-city-wrath-thien-trinh-bronze",
+    "t": "**Thien Trinh - Bronze**",
+    "d": "Leaning against a nameless gravestone in the graveyard in front of the rundown church off of SR-45 in Grayson"
+   },
+   {
+    "id": "cc-liberty-city-wrath-thien-trinh-gold",
+    "t": "**Thien Trinh - Gold**",
+    "d": "On the ledge of the glass on top of the tallest tower on the water of the Bitehouse restaurant on Longship Dr in western Watson Bay"
+   },
+   {
+    "id": "cc-liberty-city-wrath-thien-trinh-silver",
+    "t": "**Thien Trinh - Silver**",
+    "d": "On top of the railing surrounding the front porch of a large, blue farmhouse near US-183 in eastern Gellhorn"
+   }
+  ]
+ }
+}

@@ -1,0 +1,274 @@
+{
+ "kind": "card",
+ "id": "cartas-vice-city-narcos",
+ "sec": "colecao",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "geral"
+ ],
+ "title": "Cartas: Vice City Narcos",
+ "sum": "24 cartas de basquete, com o local de cada uma.",
+ "body": "- Basquete, 24 cartas. Locais segundo a lista da IGN; marque cada uma ao pegar.\n- 3 carta(s) ficam em **cofre**: abra com o código que sai do assalto àquele lugar ou com sticky bomb.\n- Volte para [[colecao-cartas]].",
+ "check": [
+  {
+   "id": "cc-vice-city-narcos-andre-stevenson-standard",
+   "t": "**Andre Stevenson - Standard**",
+   "d": "Embaixo do expositor de manequins em frente à Baller World, no shopping a céu aberto de Waning Sands"
+  },
+  {
+   "id": "cc-vice-city-narcos-antoine-bello-standard",
+   "t": "**Antoine Bello - Standard**",
+   "d": "Ao lado de uma mochila encostada num banco entre duas quadras de basquete sob a ponte da I-97, sudeste de Salton"
+  },
+  {
+   "id": "cc-vice-city-narcos-beck-r-heffer-orange",
+   "t": "**Beck R. Heffer - Orange**",
+   "d": "No canto de um mural de cortiça atrás de um monitor, no escritório do armazém Powell's Construction & Lumber Supply, I-404, sudeste de Port Gellhorn"
+  },
+  {
+   "id": "cc-vice-city-narcos-beck-r-heffer-silver",
+   "t": "**Beck R. Heffer - Silver**",
+   "d": "Na borda do arco da torre sobre a entrada do Te Invito, Palmetto Ave x Cicada Ave, Hamlet"
+  },
+  {
+   "id": "cc-vice-city-narcos-beck-r-heffer-teal",
+   "t": "**Beck R. Heffer - Teal**",
+   "d": "Na ponta do banco oeste da estação de trem Courthouse, norte de Downtown"
+  },
+  {
+   "id": "cc-vice-city-narcos-branko-roncevic-standard",
+   "t": "**Branko Roncevic - Standard**",
+   "d": "No gradil da varanda da frente de uma casa vermelha na NW 9th Ave, em frente ao ponto de ônibus, sul de La Perle"
+  },
+  {
+   "id": "cc-vice-city-narcos-bryson-powers-standard",
+   "t": "**Bryson Powers - Standard**",
+   "d": "Enfiada numa revista numa borda da cabine de salva-vidas da praia do sul de Washington Beach"
+  },
+  {
+   "id": "cc-vice-city-narcos-carl-kasey-standard",
+   "t": "**Carl Kasey - Standard**",
+   "d": "Entre um banco e uma quadra de basquete no Key Lento Public Park, litoral leste de Key Lento"
+  },
+  {
+   "id": "cc-vice-city-narcos-christoph-schulz-standard",
+   "t": "**Christoph Schulz - Standard**",
+   "d": "Na prateleira do meio de um armário na sala de funcionários atrás do balcão dos provadores da loja Eris, Sahara Arena, nordeste de Downtown"
+  },
+  {
+   "id": "cc-vice-city-narcos-dylan-ezequiel-mack-jr-bronze",
+   "t": "**Dylan Ezequiel Mack Jr. - Bronze**",
+   "d": "Na base da escultura de cesta de basquete gigante no centro da Sahara Arena, nordeste de Downtown"
+  },
+  {
+   "id": "cc-vice-city-narcos-dylan-ezequiel-mack-jr-gold",
+   "t": "**Dylan Ezequiel Mack Jr. - Gold**",
+   "d": "Enfiada num livro ao lado de uma caixa elétrica no telhado mais alto do Amphitrite Apartment, Washington Beach"
+  },
+  {
+   "id": "cc-vice-city-narcos-dylan-ezequiel-mack-jr-silver",
+   "t": "**Dylan Ezequiel Mack Jr. - Silver**",
+   "d": "No rack, em frente à TV, dentro da casa em dedetização na Azalea St, sudeste de Capri"
+  },
+  {
+   "id": "cc-vice-city-narcos-kyle-lewicki-orange",
+   "t": "**Kyle Lewicki - Orange**",
+   "d": "Numa mesa enfiada no canto dos fundos entre a This Grace Boutique e o prédio Antheia, perto da West Mariana Ave, centro de Capri"
+  },
+  {
+   "id": "cc-vice-city-narcos-kyle-lewicki-silver",
+   "t": "**Kyle Lewicki - Silver**",
+   "d": "No assento mais alto da arquibancada mais ao sul, ao lado de quadras de basquete perto da Washburn Ave, Port Gellhorn"
+  },
+  {
+   "id": "cc-vice-city-narcos-kyle-lewicki-teal",
+   "t": "**Kyle Lewicki - Teal**",
+   "d": "Num banco roxo acolchoado ao lado da entrada dos chuveiros da academia Dynamix Fitness, litoral de Bayside"
+  },
+  {
+   "id": "cc-vice-city-narcos-leroy-rook-bronze",
+   "t": "**Leroy Rook - Bronze**",
+   "d": "No cofre do escritório do 2º andar da Royal Bay Marina, à beira do rio, Watson Bay (precisa do código do cofre ou de sticky bomb)"
+  },
+  {
+   "id": "cc-vice-city-narcos-leroy-rook-gold",
+   "t": "**Leroy Rook - Gold**",
+   "d": "Num cofre na prateleira do closet de um quarto de uma casa creme grande na Harmony Dr, sul de Belville"
+  },
+  {
+   "id": "cc-vice-city-narcos-leroy-rook-silver",
+   "t": "**Leroy Rook - Silver**",
+   "d": "Num cofre em cima de um arquivo no canto de uma das salas internas do armazém Apollo Aggregates, perto da Calderone Ave, South Vice-Dale"
+  },
+  {
+   "id": "cc-vice-city-narcos-nicky-mcvee-bronze",
+   "t": "**Nicky McVee - Bronze**",
+   "d": "Embaixo de uma cadeira dobrável no telhado dos fundos do hotel The Ortega Rooms, SW 9th St, Peacock Bay"
+  },
+  {
+   "id": "cc-vice-city-narcos-nicky-mcvee-gold",
+   "t": "**Nicky McVee - Gold**",
+   "d": "Ao lado de uma bolsa de academia vermelha, sob a cesta central da quadra no telhado do Beach Rose Apartments, Harborside Ave, Ocean Beach"
+  },
+  {
+   "id": "cc-vice-city-narcos-nicky-mcvee-silver",
+   "t": "**Nicky McVee - Silver**",
+   "d": "Na lateral da geladeira de uma casa azul na Seabell Ave, logo fora do centro de Watson Bay"
+  },
+  {
+   "id": "cc-vice-city-narcos-otis-adams-orange",
+   "t": "**Otis Adams - Orange**",
+   "d": "No gradil da sacada do 2º andar do condomínio rosa na Bonita Ct, sudeste de Washington Island"
+  },
+  {
+   "id": "cc-vice-city-narcos-otis-adams-silver",
+   "t": "**Otis Adams - Silver**",
+   "d": "Dentro do armário 13 no depósito nos fundos da obra CBA Independent, NE 1st St x SW 1st St, oeste de Downtown"
+  },
+  {
+   "id": "cc-vice-city-narcos-otis-adams-teal",
+   "t": "**Otis Adams - Teal**",
+   "d": "Numa cadeira preta encostada na parede do terminal central do VCIA"
+  }
+ ],
+ "src": [
+  "IGN"
+ ],
+ "kw": [
+  "cartas",
+  "Vice City Narcos"
+ ],
+ "added": "2026-11-19",
+ "en": {
+  "title": "Cards: Vice City Narcos",
+  "sum": "24 basketball cards, with every location.",
+  "body": "- Basketball, 24 cards. Locations from IGN's list; tick each one as you grab it.\n- 3 card(s) sit in a **safe**: open it with the code from robbing that place, or a sticky bomb.\n- Back to [[colecao-cartas]].",
+  "kw": [
+   "cards",
+   "Vice City Narcos"
+  ],
+  "check": [
+   {
+    "id": "cc-vice-city-narcos-andre-stevenson-standard",
+    "t": "**Andre Stevenson - Standard**",
+    "d": "Underneath the mannequin display in front of Baller World in the outdoor mall in the Waning Sands"
+   },
+   {
+    "id": "cc-vice-city-narcos-antoine-bello-standard",
+    "t": "**Antoine Bello - Standard**",
+    "d": "Next to a backpack resting against a bench between two basketball courts under the I-97 bridge in southeastern Salton"
+   },
+   {
+    "id": "cc-vice-city-narcos-beck-r-heffer-orange",
+    "t": "**Beck R. Heffer - Orange**",
+    "d": "On the corner of a corkboard behind a monitor in the office of Powell's Construction & Lumber Supply warehouse on I-404 in southeastern Port Gellhorn"
+   },
+   {
+    "id": "cc-vice-city-narcos-beck-r-heffer-silver",
+    "t": "**Beck R. Heffer - Silver**",
+    "d": "On the ledge of the arch in the tower above the entrance to Te Invito on the corner of Palmetto Ave and Cicada Ave in Hamlet"
+   },
+   {
+    "id": "cc-vice-city-narcos-beck-r-heffer-teal",
+    "t": "**Beck R. Heffer - Teal**",
+    "d": "At the edge of the western bench in the Courthouse train station in northern Downtown"
+   },
+   {
+    "id": "cc-vice-city-narcos-branko-roncevic-standard",
+    "t": "**Branko Roncevic - Standard**",
+    "d": "On top of the railing on the front porch of a red house on NW 9th Ave across from the bus stop in southern La Perle"
+   },
+   {
+    "id": "cc-vice-city-narcos-bryson-powers-standard",
+    "t": "**Bryson Powers - Standard**",
+    "d": "Wedged in a magazine on a ledge in the lifeguard booth on the beach in southern Washington Beach"
+   },
+   {
+    "id": "cc-vice-city-narcos-carl-kasey-standard",
+    "t": "**Carl Kasey - Standard**",
+    "d": "Between a park bench and a basketball court in the Key Lento Public Park on the coast of eastern Key Lento"
+   },
+   {
+    "id": "cc-vice-city-narcos-christoph-schulz-standard",
+    "t": "**Christoph Schulz - Standard**",
+    "d": "On the middle shelf of a storage cabinet in the staff room behind the counter for the fitting rooms inside the Eris store in the Sahara Arena in northeastern Downtown"
+   },
+   {
+    "id": "cc-vice-city-narcos-dylan-ezequiel-mack-jr-bronze",
+    "t": "**Dylan Ezequiel Mack Jr. - Bronze**",
+    "d": "On the base of the large basketball hoop sculpture in the center of the Sahara Arena in northeastern Downtown"
+   },
+   {
+    "id": "cc-vice-city-narcos-dylan-ezequiel-mack-jr-gold",
+    "t": "**Dylan Ezequiel Mack Jr. - Gold**",
+    "d": "Wedged into a book next to an electrical box on the highest roof of the Amphitrite Apartment building in Washington Beach"
+   },
+   {
+    "id": "cc-vice-city-narcos-dylan-ezequiel-mack-jr-silver",
+    "t": "**Dylan Ezequiel Mack Jr. - Silver**",
+    "d": "On the TV stand in front of the TV inside the house being fumigated on Azalea St in southeastern Capri"
+   },
+   {
+    "id": "cc-vice-city-narcos-kyle-lewicki-orange",
+    "t": "**Kyle Lewicki - Orange**",
+    "d": "On top of a table wedged in the back corner of the This Grace Boutique building and the Antheia building off of West Mariana Ave in central Capri"
+   },
+   {
+    "id": "cc-vice-city-narcos-kyle-lewicki-silver",
+    "t": "**Kyle Lewicki - Silver**",
+    "d": "On the top seat of the southern most bleacher next two a set of basketball courts off of Washburn Ave in Port Gellhorn"
+   },
+   {
+    "id": "cc-vice-city-narcos-kyle-lewicki-teal",
+    "t": "**Kyle Lewicki - Teal**",
+    "d": "On top of a purple, cushioned bench next to the shower entrance in the Dynamix Fitness gym on the coast of Bayside"
+   },
+   {
+    "id": "cc-vice-city-narcos-leroy-rook-bronze",
+    "t": "**Leroy Rook - Bronze**",
+    "d": "Inside the safe in the second floor office of the Royal Bay Marina next to the river in Watson Bay. This requires a unique safe combination or sticky bombs to open it"
+   },
+   {
+    "id": "cc-vice-city-narcos-leroy-rook-gold",
+    "t": "**Leroy Rook - Gold**",
+    "d": "Inside a safe on a shelf in the closet of a room inside a large, cream-colored house on Harmony Dr in southern Belville"
+   },
+   {
+    "id": "cc-vice-city-narcos-leroy-rook-silver",
+    "t": "**Leroy Rook - Silver**",
+    "d": "Inside a safe on a filing cabinet in the corner of one of the interior rooms inside the Apollo Aggregates warehouse off of Calderone Ave in South Vice-Dale County"
+   },
+   {
+    "id": "cc-vice-city-narcos-nicky-mcvee-bronze",
+    "t": "**Nicky McVee - Bronze**",
+    "d": "Under a folding chair on the back roof of The Ortega Rooms hotel on SW 9th St in Peacock Bay"
+   },
+   {
+    "id": "cc-vice-city-narcos-nicky-mcvee-gold",
+    "t": "**Nicky McVee - Gold**",
+    "d": "Next to a red gym bag underneath the center basket of the basketball court on the roof of the Beach Rose Apartments building on Harborside Ave in Ocean Beach"
+   },
+   {
+    "id": "cc-vice-city-narcos-nicky-mcvee-silver",
+    "t": "**Nicky McVee - Silver**",
+    "d": "On the side of a fridge in the kitchen of a blue house on Seabell Ave just outside of Watson Bay's downtown"
+   },
+   {
+    "id": "cc-vice-city-narcos-otis-adams-orange",
+    "t": "**Otis Adams - Orange**",
+    "d": "On top of the railing of the second floor balcony of the pink apartment complex on Bonita Ct in southeastern Washington Island"
+   },
+   {
+    "id": "cc-vice-city-narcos-otis-adams-silver",
+    "t": "**Otis Adams - Silver**",
+    "d": "Inside locker 13 in the storage room in the back of the CBA Independent construction site on the corner of NE 1st St and SW 1st St in western Downtown"
+   },
+   {
+    "id": "cc-vice-city-narcos-otis-adams-teal",
+    "t": "**Otis Adams - Teal**",
+    "d": "On top of a black chair against the wall of the central terminal inside VCIA"
+   }
+  ]
+ }
+}

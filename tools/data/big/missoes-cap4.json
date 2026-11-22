@@ -1,0 +1,430 @@
+{
+ "kind": "card",
+ "id": "missoes-cap4",
+ "sec": "missoes",
+ "tipo": "plano",
+ "conf": "jogo",
+ "ch": [
+  "c4"
+ ],
+ "title": "Capítulo 4: todas as missões",
+ "sum": "39 entradas, com o golpe do VCIA no meio. Passo a passo ainda não publicado (conferido em 19/11).",
+ "body": "Resumo do capítulo: [[roteiro-cap4]].\n\n**Strangers & Freaks que abrem aqui:** Pilot Pete (The Last Mile e as entregas do Pete, só Jason) e a festa do Eddie Acosta.",
+ "check": [
+  {
+   "id": "ocean",
+   "t": "**Ocean Beach** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/ocean-beach)",
+   "d": "Jason e Lucia montam base em Ocean Beach.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "another",
+   "t": "**Another Life** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/another-life)",
+   "d": "A Lucia relembra o passado.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "pool",
+   "t": "**Pool Day** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/pool-day)",
+   "d": "Um dia na piscina. O Eddie Acosta se apresenta no bar, e o Pilot Pete liga logo depois.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "cars",
+   "t": "**Company Cars** — Falar com o concierge · [GTABase](https://www.gtabase.com/gta-6/missions/company-cars)",
+   "d": "Jason e Lucia pegam carros novos (fale com o concierge).\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "lawyer",
+   "t": "**Lawyer Up** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/lawyer-up)",
+   "d": "Jason e Lucia conhecem o advogado Abe Gonzalez.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "date",
+   "t": "**It's A Date!** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/its-a-date)",
+   "d": "Noite de encontro.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "party",
+   "t": "**Party Hard** — Trabalhar como segurança · [GTABase](https://www.gtabase.com/gta-6/missions/party-hard)",
+   "d": "Jason e Lucia fazem segurança pessoal de uma celebridade.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "heavy",
+   "t": "**Heavy Lifting** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/heavy-lifting)",
+   "d": "Jason e Lucia têm uma entrega a fazer.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "abefee",
+   "t": "**Pay Abe's Fee** — Principal, exige dinheiro · [GTABase](https://www.gtabase.com/gta-6/missions/pay-abes-fee)",
+   "d": "Os serviços do Abe não são baratos: pague os honorários (exige dinheiro).\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "photo",
+   "t": "**Photo/Shoot** — Gravar uma promo · [GTABase](https://www.gtabase.com/gta-6/missions/photo-shoot)",
+   "d": "Jason, Lucia e Dre'Quan gravam uma promo.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "felipe",
+   "t": "**Bad Driver!** — Opcional: achar o Felipe · [GTABase](https://www.gtabase.com/gta-6/missions/bad-driver)",
+   "d": "Opcional: encontre o Felipe.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "eddie",
+   "t": "**Attend Eddie Acosta's Party** — Strangers & Freaks. Só solo · [passo a passo](https://www.powerpyx.com/gta-6-attend-eddie-acostas-party-walkthrough/)",
+   "d": "**Strangers & Freaks · não conta** · **Início:** Heathcliff Heights (o Eddie manda mensagem dias depois de Pool Day; você o conhece no bar da piscina) · só solo · **Recompensa:** nenhuma, ou **−US$ 50.000**\n\nÉ golpe de cripto: no terraço ele te tranca e quer **US$ 50.000** por um NFT sem valor. **Não pague.** Recuse (ou atire; a porta é blindada), pegue a **moto** e salte pelos **painéis solares** em velocidade máxima até o outro telhado, depois o elevador. Ele fica no saguão esperando a próxima vítima: intimide e ele foge.\n\n![Início](img/eddie-1.jpg)\n![Início (2)](img/eddie-2.jpg)\n![Início (3)](img/eddie-3.jpg)\n![Attend Eddie Acosta's Party (4)](img/eddie-4.jpg)\n![Attend Eddie Acosta's Party (5)](img/eddie-5.jpg)\n![Attend Eddie Acosta's Party (6)](img/eddie-6.jpg)\n![Attend Eddie Acosta's Party (7)](img/eddie-7.jpg)\n![Attend Eddie Acosta's Party (8)](img/eddie-8.jpg)\n![Attend Eddie Acosta's Party (9)](img/eddie-9.jpg)\n![Attend Eddie Acosta's Party (10)](img/eddie-10.jpg)\n![Attend Eddie Acosta's Party (11)](img/eddie-11.jpg)\n![Attend Eddie Acosta's Party (12)](img/eddie-12.jpg)\n![Attend Eddie Acosta's Party (13)](img/eddie-13.jpg)"
+  },
+  {
+   "id": "gainz",
+   "t": "**Making Gainz** — Golpe do VCIA: encontrar o Raul. Só Lucia · [GTABase](https://www.gtabase.com/gta-6/missions/making-gainz)",
+   "d": "O Raul tem um plano e a Lucia conhece alguém novo.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "gear",
+   "t": "**Blood Sweat and Gear** — Golpe do VCIA: academia. Só Lucia · [GTABase](https://www.gtabase.com/gta-6/missions/blood-sweat-and-gear)",
+   "d": "A Lucia vai à academia.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "baggage",
+   "t": "**Too Much Baggage** — Golpe do VCIA: reconhecer o aeroporto. Só Jason · [GTABase](https://www.gtabase.com/gta-6/missions/too-much-baggage)",
+   "d": "O Jason reconhece o aeroporto e mexe com bagagens.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "watch",
+   "t": "**Watch It** — Encontrar o Dre'Quan. Só Jason · [GTABase](https://www.gtabase.com/gta-6/missions/watch-it)",
+   "d": "Jason e Dre'Quan conhecem o dono de um clube.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "amateur",
+   "t": "**Amateur Hour** — Golpe do VCIA: academia. Só Lucia · [GTABase](https://www.gtabase.com/gta-6/missions/amateur-hour)",
+   "d": "A Lucia ajuda o Cisco a confrontar um diretor.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "callnate",
+   "t": "**Call Nate** — Golpe do VCIA. Só Lucia · [GTABase](https://www.gtabase.com/gta-6/missions/call-nate)",
+   "d": "A Lucia liga para o Nate.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "cashinj",
+   "t": "**Cash Injections** — Golpe do VCIA: sair com o Nate. Só Lucia · [GTABase](https://www.gtabase.com/gta-6/missions/cash-injections)",
+   "d": "A Lucia sai com o Nate e ajuda um parceiro.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "dirty",
+   "t": "**Dirty Work** — Golpe do VCIA · [GTABase](https://www.gtabase.com/gta-6/missions/dirty-work)",
+   "d": "Jason e Lucia resolvem a Raina e abrem novas portas.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "nate",
+   "t": "**Nate Will Be in Touch** — Golpe do VCIA: ajudar a equipe do Kordell · [GTABase](https://www.gtabase.com/gta-6/missions/nate-will-be-in-touch)",
+   "d": "Ajude a equipe do Kordell enquanto espera notícias do Nate.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "babysit",
+   "t": "**Adventures in Babysitting** — Segurança para o Andrés. Só Jason · [GTABase](https://www.gtabase.com/gta-6/missions/adventures-in-babysitting)",
+   "d": "O Jason faz segurança de boate para o Andrés.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "rafa",
+   "t": "**Rafa's Kidnapping** — Principal. Só Jason · [GTABase](https://www.gtabase.com/gta-6/missions/rafa)",
+   "d": "Acontece algo envolvendo o Rafa.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "fresh",
+   "t": "**Fresh Evidence** — Encontrar o Dre'Quan. Só Jason · [GTABase](https://www.gtabase.com/gta-6/missions/fresh-evidence)",
+   "d": "Jason e Dre'Quan vão atrás de material de chantagem.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "childs",
+   "t": "**Child's Play** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/childs-play)",
+   "d": "Jason e Lucia ajudam um conhecido.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "freecall",
+   "t": "**This is a Free Call From…** — Só Lucia. ⌛ **Com ampulheta e perdível: faça logo** · [GTABase](https://www.gtabase.com/gta-6/missions/this-is-a-free-call-from)",
+   "d": "Opcional perdível com ampulheta: faça assim que aparecer.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "power",
+   "t": "**Power Play** — Golpe do VCIA: ajudar a equipe do Kordell. Só Lucia · [GTABase](https://www.gtabase.com/gta-6/missions/power-play)",
+   "d": "Ajude a equipe do Kordell e colete informações.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "surveil",
+   "t": "**Close Surveillance** — Golpe do VCIA: espionar fisiculturistas. Só Jason · [GTABase](https://www.gtabase.com/gta-6/missions/close-surveillance)",
+   "d": "O Jason usa um drone espião para vigiar fisiculturistas.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "delivery",
+   "t": "**Delivery Method** — Golpe do VCIA: ajudar a Andrea. Só Jason · [GTABase](https://www.gtabase.com/gta-6/missions/delivery-method)",
+   "d": "O Jason se infiltra para ajudar a Andrea.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "team",
+   "t": "**Team Building** — Golpe do VCIA: encontrar o Kordell. Só Lucia · [GTABase](https://www.gtabase.com/gta-6/missions/team-building)",
+   "d": "A Lucia conhece o Kordell e precisa se provar.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "catered",
+   "t": "**Fully Catered** — Golpe do VCIA: roubar um caminhão de bufê · [GTABase](https://www.gtabase.com/gta-6/missions/fully-catered)",
+   "d": "Jason e Lucia roubam um caminhão de bufê.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "plans",
+   "t": "**Heist Plans in Place** — Golpe do VCIA · [GTABase](https://www.gtabase.com/gta-6/missions/heist-plans-in-place)",
+   "d": "Tudo pronto para o golpe no aeroporto.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "headliners",
+   "t": "**Headliners** — Ajudar na festa de lançamento · [GTABase](https://www.gtabase.com/gta-6/missions/headliners)",
+   "d": "As Dimez tocam no VYB, e Jason e Lucia ajudam na festa de lançamento.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "vcia",
+   "t": "**VCIA Takedown** — O golpe no aeroporto · [GTABase](https://www.gtabase.com/gta-6/missions/vcia-takedown)",
+   "d": "O golpe no aeroporto.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "loose",
+   "t": "**Tie Up Loose Ends** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/tie-up-loose-ends)",
+   "d": "Depois do golpe, pontas soltas para resolver.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "moneyis",
+   "t": "**That's Where The Money Is…** — Opcional: esperar no café. **Libera os cofres dos bancos grandes**. Veja [[dinheiro-cofres]] · [GTABase](https://www.gtabase.com/gta-6/missions/thats-where-the-money-is)",
+   "d": "Opcional: espere no café alguém aparecer. Libera os cofres dos bancos grandes; veja a rotina dos cofres em Dinheiro.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "valentina",
+   "t": "**Call Valentina Back** — Principal · [GTABase](https://www.gtabase.com/gta-6/missions/call-valentina-back)",
+   "d": "A Valentina quer uma resposta sua.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "sunset",
+   "t": "**Sunset** — Passar na recepção · [GTABase](https://www.gtabase.com/gta-6/missions/sunset)",
+   "d": "Jason e Lucia vão atrás de respostas.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  },
+  {
+   "id": "zero",
+   "t": "**Starting From Zero** — Principal. Fecha o capítulo · [GTABase](https://www.gtabase.com/gta-6/missions/chapter-4-finale)",
+   "d": "A última missão do Cap. 4.\n\n> Passo a passo completo ainda não publicado pela PowerPyx nem pela GTABase."
+  }
+ ],
+ "src": [
+  "PowerPyx"
+ ],
+ "kw": [
+  "capitulo 4",
+  "vcia",
+  "aeroporto",
+  "pete",
+  "cofres"
+ ],
+ "added": "2026-11-18",
+ "en": {
+  "check": [
+   {
+    "id": "ocean",
+    "t": "**Ocean Beach** — Main · [GTABase](https://www.gtabase.com/gta-6/missions/ocean-beach)",
+    "d": "Jason and Lucia set up base in Ocean Beach.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "another",
+    "t": "**Another Life** — Main · [GTABase](https://www.gtabase.com/gta-6/missions/another-life)",
+    "d": "Lucia looks back on her past.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "pool",
+    "t": "**Pool Day** — Main · [GTABase](https://www.gtabase.com/gta-6/missions/pool-day)",
+    "d": "A day at the pool. Eddie Acosta introduces himself at the bar, and Pilot Pete calls soon after.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "cars",
+    "t": "**Company Cars** — Speak to the concierge · [GTABase](https://www.gtabase.com/gta-6/missions/company-cars)",
+    "d": "Jason and Lucia pick up new cars (talk to the concierge).\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "lawyer",
+    "t": "**Lawyer Up** — Meet Abe Gonzalez · [GTABase](https://www.gtabase.com/gta-6/missions/lawyer-up)",
+    "d": "Jason and Lucia meet lawyer Abe Gonzalez.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "date",
+    "t": "**It's A Date!** — Main · [GTABase](https://www.gtabase.com/gta-6/missions/its-a-date)",
+    "d": "Date night.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "party",
+    "t": "**Party Hard** — Work personal security · [GTABase](https://www.gtabase.com/gta-6/missions/party-hard)",
+    "d": "Jason and Lucia work personal security for a celebrity.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "heavy",
+    "t": "**Heavy Lifting** — Main · [GTABase](https://www.gtabase.com/gta-6/missions/heavy-lifting)",
+    "d": "Jason and Lucia have a delivery to make.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "abefee",
+    "t": "**Pay Abe's Fee** — Main, needs cash · [GTABase](https://www.gtabase.com/gta-6/missions/pay-abes-fee)",
+    "d": "Abe's services aren't cheap: pay his fee (requires cash).\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "photo",
+    "t": "**Photo/Shoot** — Shoot a promo · [GTABase](https://www.gtabase.com/gta-6/missions/photo-shoot)",
+    "d": "Jason, Lucia and Dre'Quan shoot a promo.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "felipe",
+    "t": "**Bad Driver!** — Optional: find Felipe · [GTABase](https://www.gtabase.com/gta-6/missions/bad-driver)",
+    "d": "Optional: track down Felipe.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "eddie",
+    "t": "**Attend Eddie Acosta's Party** — Strangers & Freaks. Solo only · [full walkthrough](https://www.powerpyx.com/gta-6-attend-eddie-acostas-party-walkthrough/)",
+    "d": "**Strangers & Freaks · doesn't count** · **Start:** Heathcliff Heights (Eddie texts days after Pool Day; you meet him at the pool bar) · solo only · **Reward:** none, or **−$50,000**\n\nIt's a crypto scam: on the rooftop he locks you out and wants **$50,000** for a worthless NFT. **Don't pay.** Refuse (or shoot; the door is bulletproof), take the **bike** and jump off the **solar panels** at full speed to the other roof, then its elevator. He waits in the lobby for his next victim: intimidate him and he runs.\n\n![Start](img/eddie-1.jpg)\n![Start (2)](img/eddie-2.jpg)\n![Start (3)](img/eddie-3.jpg)\n![Attend Eddie Acosta’s Party (4)](img/eddie-4.jpg)\n![Attend Eddie Acosta’s Party (5)](img/eddie-5.jpg)\n![Meet Eddie Acosta at the Elevator (6)](img/eddie-6.jpg)\n![Meet Eddie Acosta at the Elevator (7)](img/eddie-7.jpg)\n![Ending 2: Don’t pay $50,000 (8)](img/eddie-8.jpg)\n![Ending 2: Don’t pay $50,000 (9)](img/eddie-9.jpg)\n![Ending 2: Don’t pay $50,000 (10)](img/eddie-10.jpg)\n![Ending 2: Don’t pay $50,000 (11)](img/eddie-11.jpg)\n![Ending 2: Don’t pay $50,000 (12)](img/eddie-12.jpg)\n![Ending 2: Don’t pay $50,000 (13)](img/eddie-13.jpg)\n\n#### Images\nLinks to the screenshots in the original walkthrough, under the objective where each appears."
+   },
+   {
+    "id": "gainz",
+    "t": "**Making Gainz** — VCIA takedown: meet Raul. Lucia only · [GTABase](https://www.gtabase.com/gta-6/missions/making-gainz)",
+    "d": "Raul has a plan, and Lucia meets someone new.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "gear",
+    "t": "**Blood Sweat and Gear** — VCIA takedown: work out. Lucia only · [GTABase](https://www.gtabase.com/gta-6/missions/blood-sweat-and-gear)",
+    "d": "Lucia hits the gym.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "baggage",
+    "t": "**Too Much Baggage** — VCIA takedown: scope out the airport. Jason only · [GTABase](https://www.gtabase.com/gta-6/missions/too-much-baggage)",
+    "d": "Jason scopes out the airport and handles some baggage.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "watch",
+    "t": "**Watch It** — Meet Dre'Quan. Jason only · [GTABase](https://www.gtabase.com/gta-6/missions/watch-it)",
+    "d": "Jason and Dre'Quan meet a club owner.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "amateur",
+    "t": "**Amateur Hour** — VCIA takedown: workout. Lucia only · [GTABase](https://www.gtabase.com/gta-6/missions/amateur-hour)",
+    "d": "Lucia helps Cisco confront a director.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "callnate",
+    "t": "**Call Nate** — VCIA takedown. Lucia only · [GTABase](https://www.gtabase.com/gta-6/missions/call-nate)",
+    "d": "Lucia calls Nate.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "cashinj",
+    "t": "**Cash Injections** — VCIA takedown: hang out with Nate. Lucia only · [GTABase](https://www.gtabase.com/gta-6/missions/cash-injections)",
+    "d": "Lucia hangs out with Nate and helps an associate.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "dirty",
+    "t": "**Dirty Work** — VCIA takedown: deal with Raina · [GTABase](https://www.gtabase.com/gta-6/missions/dirty-work)",
+    "d": "Jason and Lucia deal with Raina and open new doors.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "nate",
+    "t": "**Nate Will Be in Touch** — VCIA takedown: help Kordell's crew · [GTABase](https://www.gtabase.com/gta-6/missions/nate-will-be-in-touch)",
+    "d": "Help Kordell's crew while you wait to hear from Nate.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "babysit",
+    "t": "**Adventures in Babysitting** — Work security for Andrés. Jason only · [GTABase](https://www.gtabase.com/gta-6/missions/adventures-in-babysitting)",
+    "d": "Jason works nightclub security for Andrés.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "rafa",
+    "t": "**Rafa's Kidnapping** — Main. Jason only · [GTABase](https://www.gtabase.com/gta-6/missions/rafa)",
+    "d": "Something comes up involving Rafa.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "fresh",
+    "t": "**Fresh Evidence** — Meet Dre'Quan. Jason only · [GTABase](https://www.gtabase.com/gta-6/missions/fresh-evidence)",
+    "d": "Jason and Dre'Quan go after blackmail material.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "childs",
+    "t": "**Child's Play** — Rescue Rafa · [GTABase](https://www.gtabase.com/gta-6/missions/childs-play)",
+    "d": "Jason and Lucia help an acquaintance.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "freecall",
+    "t": "**This is a Free Call From…** — Pick up Shayna. Lucia only. ⌛ **Hourglass, missable: do it right away** · [GTABase](https://www.gtabase.com/gta-6/missions/this-is-a-free-call-from)",
+    "d": "Missable optional with an hourglass: do it as soon as it appears.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "power",
+    "t": "**Power Play** — VCIA takedown: help Kordell's crew. Lucia only · [GTABase](https://www.gtabase.com/gta-6/missions/power-play)",
+    "d": "Help Kordell's crew and gather intel.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "surveil",
+    "t": "**Close Surveillance** — VCIA takedown: spy on bodybuilders. Jason only · [GTABase](https://www.gtabase.com/gta-6/missions/close-surveillance)",
+    "d": "Jason uses a spy drone on some bodybuilders.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "delivery",
+    "t": "**Delivery Method** — VCIA takedown: help Andrea. Jason only · [GTABase](https://www.gtabase.com/gta-6/missions/delivery-method)",
+    "d": "Jason goes undercover to help Andrea.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "team",
+    "t": "**Team Building** — VCIA takedown: meet Kordell. Lucia only · [GTABase](https://www.gtabase.com/gta-6/missions/team-building)",
+    "d": "Lucia meets Kordell and has to prove herself.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "catered",
+    "t": "**Fully Catered** — VCIA takedown: steal a catering truck · [GTABase](https://www.gtabase.com/gta-6/missions/fully-catered)",
+    "d": "Jason and Lucia steal a catering truck.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "plans",
+    "t": "**Heist Plans in Place** — VCIA takedown · [GTABase](https://www.gtabase.com/gta-6/missions/heist-plans-in-place)",
+    "d": "Everything is set for the airport heist.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "headliners",
+    "t": "**Headliners** — Help with the launch party · [GTABase](https://www.gtabase.com/gta-6/missions/headliners)",
+    "d": "The Dimez play VYB, and Jason and Lucia help with the launch party.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "vcia",
+    "t": "**VCIA Takedown** — The airport heist · [GTABase](https://www.gtabase.com/gta-6/missions/vcia-takedown)",
+    "d": "The airport heist.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "loose",
+    "t": "**Tie Up Loose Ends** — Main · [GTABase](https://www.gtabase.com/gta-6/missions/tie-up-loose-ends)",
+    "d": "After the heist, loose ends to tie up.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "moneyis",
+    "t": "**That's Where The Money Is…** — Optional: wait at the café. **Unlocks the big-bank vaults**. See [[dinheiro-cofres]] · [GTABase](https://www.gtabase.com/gta-6/missions/thats-where-the-money-is)",
+    "d": "Optional: wait at the café for someone to show up. Unlocks the big-bank vaults; see the vault routine in Dinheiro.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "valentina",
+    "t": "**Call Valentina Back** — Main · [GTABase](https://www.gtabase.com/gta-6/missions/call-valentina-back)",
+    "d": "Valentina wants to hear back from you.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "sunset",
+    "t": "**Sunset** — Stop by the front desk · [GTABase](https://www.gtabase.com/gta-6/missions/sunset)",
+    "d": "Jason and Lucia go looking for answers.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   },
+   {
+    "id": "zero",
+    "t": "**Starting From Zero** — Main. Ends the chapter · [GTABase](https://www.gtabase.com/gta-6/missions/chapter-4-finale)",
+    "d": "The final mission of Chapter 4.\n\n> Full step-by-step not published yet by PowerPyx or GTABase."
+   }
+  ],
+  "title": "Chapter 4: every mission",
+  "sum": "39 entries, with the VCIA takedown in the middle. Walkthrough not published yet (checked Nov 19).",
+  "body": "Chapter summary: [[roteiro-cap4]].\n\n**Strangers & Freaks that open here:** Pilot Pete (The Last Mile and Pete's Deliveries, Jason only) and Eddie Acosta's party.",
+  "kw": [
+   "chapter 4",
+   "vcia",
+   "airport",
+   "pete",
+   "vaults"
+  ]
+ }
+}
